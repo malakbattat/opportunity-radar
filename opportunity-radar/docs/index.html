@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Opportunity Radar</title>
+<meta name="description" content="Scholarships, research programmes, fellowships and internships in STEM, data science and AI, updated every hour.">
+<meta property="og:title" content="Opportunity Radar">
+<meta property="og:description" content="Scholarships, research programmes, fellowships and internships in STEM, data science and AI, updated every hour.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#0B7A75">
+<link rel="alternate" type="application/rss+xml" title="Opportunity Radar" href="feed.xml">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='none' stroke='%230B7A75' stroke-width='3'/%3E%3Ccircle cx='16' cy='16' r='7' fill='none' stroke='%230B7A75' stroke-width='3'/%3E%3Ccircle cx='16' cy='16' r='2.5' fill='%23C8811A'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Schibsted+Grotesk:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<a class="skip" href="#results" data-i18n="skip">Skip to results</a>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="brand">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="14"/><circle cx="16" cy="16" r="7"/><circle class="blip" cx="16" cy="16" r="2.5"/></svg>
+      <div>
+        <h1 data-i18n="site.title">Opportunity Radar</h1>
+        <p class="tagline" data-i18n="site.tagline">Scholarships, research, fellowships and internships in STEM and AI.</p>
+      </div>
+    </div>
+    <div class="masthead-meta">
+      <p class="updated" id="updated">&nbsp;</p>
+      <div class="masthead-links">
+        <button class="lang-btn" type="button" id="langBtn" lang="ar">العربية</button>
+        <button class="linkish" type="button" id="profileBtn" aria-haspopup="dialog" data-i18n="nav.profile">Profile</button>
+        <button class="linkish" type="button" id="calendarBtn" aria-haspopup="dialog" data-i18n="nav.calendar">Calendar</button>
+        <button class="linkish" type="button" id="sourcesBtn" aria-haspopup="dialog" data-i18n="nav.sources">Sources</button>
+        <a class="linkish" href="feed.xml" id="rssLink" data-i18n="nav.rss">RSS feed</a>
+        <button class="linkish" type="button" id="shareBtn" data-i18n="nav.share">Copy link</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<nav class="quick" aria-labelledby="quickLabel">
+  <div class="quick-inner">
+    <span class="visually-hidden" id="quickLabel" data-i18n="quick.label">Quick views</span>
+    <div class="quick-list" id="quick" role="group" aria-labelledby="quickLabel"></div>
+  </div>
+</nav>
+
+<section class="runway-wrap" aria-labelledby="runwayTitle">
+  <details class="runway-details" id="runwayDetails" open>
+    <summary>
+      <h2 id="runwayTitle" data-i18n="runway.title">Deadlines</h2>
+      <span class="runway-note" id="runwayNote"></span>
+    </summary>
+    <div class="runway" id="runway" role="list"></div>
+  </details>
+</section>
+
+<div class="layout">
+  <aside class="rail" id="rail" aria-labelledby="railTitle">
+    <div class="rail-head">
+      <h2 id="railTitle" data-i18n="filters">Filters</h2>
+      <button class="linkish" type="button" id="resetBtn" data-i18n="clear">Clear all</button>
+      <button class="rail-close" type="button" id="railClose" data-i18n-label="close" aria-label="Close">✕</button>
+    </div>
+
+    <div class="rail-body">
+      <label class="search" for="q">
+        <span class="visually-hidden" data-i18n="search">Search</span>
+        <input type="search" id="q" data-i18n-ph="search.ph" placeholder="Search" autocomplete="off">
+      </label>
+
+      <fieldset class="seg-group">
+        <legend data-i18n="show">Show</legend>
+        <div class="seg seg-3" id="viewSeg">
+          <label><input type="radio" name="view" value="all" id="view-all" checked><span data-i18n="view.all">All</span></label>
+          <label><input type="radio" name="view" value="high" id="view-high"><span data-i18n="view.high">High value</span></label>
+          <label><input type="radio" name="view" value="top" id="view-top"><span data-i18n="view.top">Top picks</span></label>
+        </div>
+      </fieldset>
+
+      <details class="sect sect-you" open>
+        <summary><span data-i18n="sect.you">For you</span> <span class="sect-badge" id="b-you"></span></summary>
+        <div class="sect-body">
+          <p class="profile-line"><span id="profileSummary"></span> <button type="button" class="linkish" id="profileEdit" data-i18n="profile.edit">Edit</button></p>
+          <label class="check" for="eligibleOnly"><input type="checkbox" id="eligibleOnly"> <span id="eligibleLabel"></span></label>
+          <label class="check" for="noIelts"><input type="checkbox" id="noIelts"> <span id="noIeltsLabel"></span></label>
+          <label class="check" for="noHighGpa"><input type="checkbox" id="noHighGpa"> <span data-i18n="you.gpa">No very high GPA required</span></label>
+          <label class="check" for="fullyFunded"><input type="checkbox" id="fullyFunded"> <span data-i18n="you.funded">Fully funded</span></label>
+          <label class="check" for="womenOnly"><input type="checkbox" id="womenOnly"> <span data-i18n="you.women">Programmes for women</span></label>
+          <label class="check" for="hideYear"><input type="checkbox" id="hideYear"> <span data-i18n="q.year">Hide year-of-study limited</span></label>
+        </div>
+      </details>
+
+      <details class="sect" open>
+        <summary><span data-i18n="sect.type">Type</span> <span class="sect-badge" id="b-type"></span></summary>
+        <div class="sect-body"><div class="chips" id="f-type"></div></div>
+      </details>
+
+      <details class="sect" open>
+        <summary><span data-i18n="sect.level">Level</span> <span class="sect-badge" id="b-degree"></span></summary>
+        <div class="sect-body"><div class="chips" id="f-degree"></div></div>
+      </details>
+
+      <details class="sect" id="sectDeadline" open>
+        <summary><span data-i18n="sect.deadline">Deadline</span> <span class="sect-badge" id="b-deadline"></span></summary>
+        <div class="sect-body">
+          <div class="radios" id="dlRadios">
+            <label><input type="radio" name="dl" value="any" id="dl-any" checked> <span data-i18n="dl.any">Any time</span></label>
+            <label><input type="radio" name="dl" value="7" id="dl-7"> <span data-i18n="dl.7">Next 7 days</span> <em data-dl="7"></em></label>
+            <label><input type="radio" name="dl" value="30" id="dl-30"> <span data-i18n="dl.30">Next 30 days</span> <em data-dl="30"></em></label>
+            <label><input type="radio" name="dl" value="60" id="dl-60"> <span data-i18n="dl.60">Next 60 days</span> <em data-dl="60"></em></label>
+            <label><input type="radio" name="dl" value="90" id="dl-90"> <span data-i18n="dl.90">Next 90 days</span> <em data-dl="90"></em></label>
+            <label><input type="radio" name="dl" value="rolling" id="dl-rolling"> <span data-i18n="dl.rolling">Rolling</span> <em data-dl="rolling"></em></label>
+            <label><input type="radio" name="dl" value="custom" id="dl-custom"> <span data-i18n="dl.custom">Choose dates</span></label>
+          </div>
+          <div class="daterange" id="dateRange" hidden>
+            <label for="dlFrom"><span data-i18n="from">From</span> <input type="date" id="dlFrom"></label>
+            <label for="dlTo"><span data-i18n="to">To</span> <input type="date" id="dlTo"></label>
+          </div>
+          <label class="check" for="includeUndated"><input type="checkbox" id="includeUndated"> <span data-i18n="dl.undated">Include no deadline</span></label>
+        </div>
+      </details>
+
+      <details class="sect" open>
+        <summary><span data-i18n="sect.intake">Intake</span> <span class="sect-badge" id="b-intake"></span></summary>
+        <div class="sect-body">
+          <div class="chips" id="f-intakeYears"></div>
+          <div class="chips chips-sub" id="f-intakes"></div>
+        </div>
+      </details>
+
+      <details class="sect" open>
+        <summary><span data-i18n="sect.dest">Destination</span> <span class="sect-badge" id="b-dest"></span></summary>
+        <div class="sect-body">
+          <div class="chips" id="f-regions"></div>
+          <label class="mini-search" for="countryQ"><span class="visually-hidden" data-i18n="country.ph">Find a country</span>
+            <input type="search" id="countryQ" data-i18n-ph="country.ph" placeholder="Find a country" autocomplete="off"></label>
+          <div class="checklist" id="f-countries"></div>
+        </div>
+      </details>
+
+      <details class="sect" open>
+        <summary><span data-i18n="sect.fields">Field</span> <span class="sect-badge" id="b-fields"></span></summary>
+        <div class="sect-body"><div class="chips" id="f-fields"></div></div>
+      </details>
+
+      <details class="sect" open>
+        <summary><span data-i18n="sect.funding">Funding</span> <span class="sect-badge" id="b-funding"></span></summary>
+        <div class="sect-body"><div class="chips" id="f-funding"></div></div>
+      </details>
+
+      <details class="sect">
+        <summary><span data-i18n="sect.quality">Eligibility and quality</span> <span class="sect-badge" id="b-quality"></span></summary>
+        <div class="sect-body">
+          <label class="check" for="hideFees"><input type="checkbox" id="hideFees" checked> <span data-i18n="q.fees">Hide fee-charging events</span></label>
+          <label class="check" for="prestigeOnly"><input type="checkbox" id="prestigeOnly"> <span data-i18n="q.prestige">Recognised programmes only</span></label>
+          <label class="range" for="minScore">
+            <span><span data-i18n="q.min">Minimum score</span> <output id="minScoreOut" for="minScore">0</output></span>
+            <input type="range" id="minScore" min="0" max="90" step="5" value="0">
+          </label>
+        </div>
+      </details>
+
+      <details class="sect" id="sectAdded">
+        <summary><span data-i18n="sect.added">Added</span> <span class="sect-badge" id="b-added"></span></summary>
+        <div class="sect-body radios">
+          <label><input type="radio" name="added" value="any" id="added-any" checked> <span data-i18n="dl.any">Any time</span></label>
+          <label><input type="radio" name="added" value="1" id="added-1"> <span data-i18n="added.1">Last 24 hours</span></label>
+          <label><input type="radio" name="added" value="7" id="added-7"> <span data-i18n="added.7">Last 7 days</span></label>
+          <label><input type="radio" name="added" value="30" id="added-30"> <span data-i18n="added.30">Last 30 days</span></label>
+        </div>
+      </details>
+
+      <details class="sect">
+        <summary><span data-i18n="sect.source">Source</span> <span class="sect-badge" id="b-source"></span></summary>
+        <div class="sect-body"><div class="chips" id="f-source"></div></div>
+      </details>
+    </div>
+
+    <div class="rail-foot">
+      <button type="button" class="btn btn-block" id="railDone"></button>
+    </div>
+  </aside>
+  <div class="scrim" id="scrim" hidden></div>
+
+  <main class="results" id="results" tabindex="-1">
+    <div class="tabs" id="tabs" role="group" data-i18n-label="collections" aria-label="Collections">
+      <button type="button" class="tab" id="tab-open" data-tab="open" aria-pressed="true"><span data-i18n="tab.open">Open</span> <b id="n-open"></b></button>
+      <button type="button" class="tab" id="tab-mine" data-tab="mine" aria-pressed="false"><span data-i18n="tab.mine">My list</span> <b id="n-mine"></b></button>
+      <button type="button" class="tab" id="tab-archive" data-tab="archive" aria-pressed="false"><span data-i18n="tab.archive">Archive</span> <b id="n-archive"></b></button>
+    </div>
+    <div class="chips mine-chips" id="f-status" hidden></div>
+    <div class="toolbar">
+      <button class="filters-toggle" type="button" id="railOpen" aria-controls="rail" aria-expanded="false"><span data-i18n="filters">Filters</span> <span class="fc" id="activeCount"></span></button>
+      <p class="count" id="count" aria-live="polite"></p>
+      <div class="tools">
+        <label class="sort" for="sort"><span class="sort-word" data-i18n="sort">Sort</span>
+          <select id="sort">
+            <option value="score" data-i18n="sort.score">Best match</option>
+            <option value="deadline" data-i18n="sort.deadline">Deadline</option>
+            <option value="new" data-i18n="sort.new">Recently added</option>
+            <option value="intake" data-i18n="sort.intake">Intake</option>
+            <option value="az" data-i18n="sort.az">A to Z</option>
+          </select>
+        </label>
+        <label class="sort per-page" for="perPage"><span class="sort-word" data-i18n="perPage">Per page</span>
+          <select id="perPage">
+            <option value="10">10</option>
+            <option value="20">20</option>
+            <option value="50">50</option>
+          </select>
+        </label>
+        <div class="density" role="group" data-i18n-label="layout" aria-label="Layout">
+          <button type="button" id="dens-detailed" aria-pressed="true" data-i18n="dens.detailed">Detailed</button>
+          <button type="button" id="dens-compact" aria-pressed="false" data-i18n="dens.compact">Compact</button>
+        </div>
+        <button type="button" class="linkish" id="exportBtn" data-i18n="export">Export CSV</button>
+      </div>
+    </div>
+    <div class="fresh" id="fresh" role="status" hidden>
+      <span id="freshText"></span>
+      <button type="button" class="btn" id="freshBtn" data-i18n="fresh.show">Show</button>
+    </div>
+    <div class="pills" id="pills" hidden></div>
+
+    <ol class="list" id="list"></ol>
+    <nav class="pager" id="pager" data-i18n-label="pages" aria-label="Pages" hidden></nav>
+
+    <div class="empty" id="empty" hidden>
+      <h3 id="emptyTitle"></h3>
+      <div class="empty-actions" id="emptyActions"></div>
+    </div>
+  </main>
+</div>
+
+<footer class="foot">
+  <p id="credits"></p>
+</footer>
+
+<dialog class="sources-dialog" id="sourcesDialog" aria-labelledby="sourcesTitle">
+  <form method="dialog">
+    <h2 id="sourcesTitle" data-i18n="nav.sources">Sources</h2>
+    <ul id="sourcesList"></ul>
+    <button class="btn" value="close" data-i18n="close">Close</button>
+  </form>
+</dialog>
+
+<dialog class="sources-dialog" id="profileDialog" aria-labelledby="profileTitle">
+  <form method="dialog" id="profileForm">
+    <h2 id="profileTitle" data-i18n="profile.title">Your profile</h2>
+    <div class="form-grid">
+      <label for="pfNationality"><span data-i18n="profile.nationality">Nationality</span>
+        <select id="pfNationality"></select></label>
+      <fieldset class="radios-inline">
+        <legend data-i18n="profile.gender">Gender</legend>
+        <label><input type="radio" name="pfGender" value="female" id="pfFemale"> <span data-i18n="profile.female">Female</span></label>
+        <label><input type="radio" name="pfGender" value="male" id="pfMale"> <span data-i18n="profile.male">Male</span></label>
+        <label><input type="radio" name="pfGender" value="" id="pfNone"> <span data-i18n="profile.none">Prefer not to say</span></label>
+      </fieldset>
+      <label for="pfEnglish"><span data-i18n="profile.english">IELTS score</span>
+        <input type="number" id="pfEnglish" min="4" max="9" step="0.5" data-i18n-ph="profile.noScore" placeholder="No score yet"></label>
+    </div>
+    <div class="dialog-actions">
+      <button class="btn" value="save" id="profileSave" data-i18n="profile.save">Save profile</button>
+      <button class="btn btn-ghost" value="cancel" data-i18n="cancel">Cancel</button>
+    </div>
+  </form>
+</dialog>
+
+<dialog class="sources-dialog" id="calendarDialog" aria-labelledby="calendarTitle">
+  <form method="dialog">
+    <h2 id="calendarTitle" data-i18n="cal.title">Calendar</h2>
+    <div class="cal-feeds" id="calFeeds"></div>
+    <div class="cal-mine">
+      <h3 data-i18n="cal.mine">My list</h3>
+      <button type="button" class="btn btn-ghost" id="calMine" data-i18n="cal.download">Download my list's deadlines</button>
+    </div>
+    <button class="btn" value="close" data-i18n="close">Close</button>
+  </form>
+</dialog>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="assets/app.js"></script>
+</body>
+</html>

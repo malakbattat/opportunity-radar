@@ -1,0 +1,255 @@
+# ─────────────────────────────────────────────────────────────
+# Opportunity Radar configuration
+# Edit this file to tune what counts as "interesting" and "high value".
+# Every change is picked up on the next automatic run (hourly) or when you
+# trigger the workflow manually from the Actions tab.
+# ─────────────────────────────────────────────────────────────
+
+site:
+  title: "Opportunity Radar"
+  tagline: "Scholarships, research, fellowships and internships in STEM and AI."
+  # Used for the RSS feed links. Set to your GitHub Pages URL after first deploy,
+  # e.g. https://<your-username>.github.io/opportunity-radar/
+  base_url: ""
+
+# How often things update. The workflow runs every hour; most runs are quick
+# checks of each site's newest listings, and one run a day reads deeper.
+schedule:
+  full_scan_hour_utc: 4        # the hourly run at this UTC hour does the deep scan
+  quick_check:                 # limits used by the other 23 runs
+    wordpress_pages: 1         # newest 50 posts per WordPress site
+    scholarshipsads_pages: 2
+    for9a_paths: 3             # first N paths from the for9a list below
+    daad_details: 0            # quick checks list DAAD results without opening each one
+    scholarshipsads_details: 0
+
+# Which sources to scrape. Set enabled: false to switch one off.
+sources:
+  opportunitiesforyouth:
+    enabled: true
+    pages: 3            # WordPress API pages of 50 posts each
+  opportunityportal:
+    enabled: true
+    pages: 3
+  scholarshipscorner:
+    enabled: true
+    pages: 3
+  scholarshipsads:
+    enabled: true
+    pages: 6            # listing pages of ~20 scholarships each
+    details: 40         # detail pages read per deep scan (language test, GPA, eligibility)
+  for9a:
+    enabled: true
+    # Category paths on for9a.com (English). Paths that 404 are skipped and logged.
+    paths:
+      - /en/opportunity
+      - /en/opportunity/category/Scholarships/Master
+      - /en/opportunity/category/Scholarships/PhD
+      - /en/opportunity/category/Scholarships/bachelor
+      - /en/opportunity/category/Scholarships
+      - /en/opportunity/category/Internships
+      - /en/opportunity/category/Fellowships
+      - /en/opportunity/category/Competitions
+      - /en/opportunity/category/Training
+  foras:
+    enabled: true
+    paths:
+      - /home
+      - /opportunities
+  researchlist:                 # research programmes open to international students
+    enabled: true
+    repo: smsnobin77/Academic-research-opportunities-for-international-students
+  zapply:                       # live US internships; only these sections are read
+    enabled: true
+    repo: zapplyjobs/Internships-2027
+    sections: [Software Engineering, Data Science, Hardware & Engineering, Product, Design & Research]
+    visa_sponsorship_only: true # most US internships can't hire international students otherwise
+    min_score: 50               # keep only internships that match your fields well
+    keep_unseen_days: 2         # job posts vanish when filled; drop them soon after
+    in_feed: false              # their terms ask that listings aren't re-shared in other feeds
+    archive: false              # filled job posts don't come back; drop them instead of archiving
+    recurring: false
+  csprograms:                   # fellowships, externships and programmes for CS students
+    enabled: true
+    repo: Julian048/CS-Everything-but-Internships
+  ugresearch:                   # research internships for undergraduates, by country
+    enabled: true
+    repo: zapplyjobs/Research-Internships-for-Undergraduates
+  daad:                         # DAAD scholarship database, filtered to your country of origin
+    enabled: true
+    country_of_origin: "Palestin"   # matched against the database's country list
+    status: "^\\s*Graduates?\\b"     # "Graduates" = holds or is finishing a first degree
+    pages: 6
+    details: 80                     # detail pages read per deep scan (deadline, eligibility, language)
+
+# How long to keep things around
+retention:
+  keep_after_deadline_days: 0     # move to the archive the day after the deadline
+  keep_unseen_rolling_days: 75    # items with no deadline are archived if not re-seen for this long
+  max_items: 1500
+  archive_days: 400               # keep archived items this long (long enough to see next year's cycle)
+  archive_max: 2000
+
+# Opportunities at or above this score also appear beside the deadline timeline
+# when their deadline is later than 90 days or not fixed.
+runway_shelf_min: 80
+
+# Items scoring below this are dropped entirely (0–100 scale).
+min_score: 8
+
+# An item is "high value" at or above this score; "top pick" at or above top_pick.
+high_value: 62
+top_pick: 78
+
+# ── Interest fields ──────────────────────────────────────────
+# weight: how much a match in this field adds to the score.
+# Keywords are matched as whole words/phrases, case-insensitive.
+fields:
+  medical_ai:
+    label: "Medical AI"
+    weight: 45
+    keywords: [medical ai, ai in health, ai for health, ai in healthcare, health ai, healthcare ai,
+               clinical ai, digital health, health informatics, medical informatics, biomedical ai,
+               medical imaging, computational medicine, precision medicine, clinical informatics,
+               health data science, biomedical data, ai in medicine, ai for medicine, radiology ai,
+               health technology, healthtech, medtech]
+  ai_ml:
+    label: "AI & ML"
+    weight: 36
+    keywords: [artificial intelligence, ai, machine learning, deep learning, neural networks,
+               computer vision, natural language processing, nlp, robotics, llm, llms,
+               generative ai, reinforcement learning, mbzuai, deepmind, ai fellowship, ai internship]
+  data_science:
+    label: "Data Science"
+    weight: 34
+    keywords: [data science, data scientist, data analytics, big data, data engineering,
+               data analysis, biostatistics, statistics, statistical, analytics, quantitative,
+               data visualization, business analytics]
+  computing:
+    label: "Computer Science"
+    weight: 24
+    keywords: [computer science, software, software engineering, computing, informatics,
+               cybersecurity, cyber security, programming, coding, hackathon,
+               information technology, computer engineering, developer, quantum computing,
+               high-performance computing, hpc, electrical and computer engineering]
+  biomed:
+    label: "Biomedical & Life Sciences"
+    weight: 20
+    keywords: [bioinformatics, computational biology, biomedical, biotechnology, genomics,
+               genetics, neuroscience, molecular biology, life sciences, biology, pharmacology,
+               pharmaceutical, drug discovery, bioengineering, biomedical engineering]
+  health:
+    label: "Medicine & Health"
+    weight: 18
+    keywords: [medicine, medical, health, clinical, public health, epidemiology, nursing,
+               global health, healthcare, who summer school, world health organization, pharmacy, dentistry]
+  engineering:
+    label: "Engineering"
+    weight: 12
+    keywords: [engineering, electrical, mechanical, materials science, nanotechnology,
+               photonics, aerospace, renewable energy, energy systems, mechatronics]
+  science:
+    label: "Science & Math"
+    weight: 12
+    keywords: [physics, chemistry, mathematics, maths, applied mathematics, science, sciences,
+               stem, laboratory, research internship, research fellowship, cern, embl, max planck, oist, weizmann]
+
+# Fields that suggest an item is outside your interests (small penalty when
+# no interest field matched at all).
+off_topic:
+  keywords: [law, llm law, mba, business administration, journalism, diplomacy, diplomats,
+             humanities, music, fashion, theology, arts, art, film, literature, history,
+             tourism, hospitality, political science, international relations, model united nations]
+  penalty: 10
+
+# Recognisable, competitive programmes and organisations (+ bonus).
+prestige:
+  bonus: 10
+  names: [oxford, cambridge, eth zurich, eth, epfl, mit, stanford, harvard, yale, princeton,
+          columbia university, imperial college, ucl, caltech, berkeley, university of toronto,
+          nus, ntu, nanyang, tsinghua, peking university, kaust, mbzuai, max planck, cern, embl,
+          daad, fulbright, chevening, erasmus mundus, gates cambridge, rhodes, schwarzman,
+          knight-hennessy, mext, google, microsoft, nvidia, deepmind, amazon, ibm,
+          wellcome, world health organization, unicef, undp, world bank, marie curie,
+          marie skłodowska-curie, msca, mitacs, swedish institute, eiffel, global korea scholarship,
+          gks, commonwealth, mastercard foundation, oist, weizmann, ellison, hbku, kaist,
+          okinawa, mcCall macbain, karsh, pershing square, ku leuven, university of tokyo,
+          aalto, rockefeller, flatiron, simons foundation, carnegie mellon, cmu, cornell, uiuc, washu,
+          berkeley lab, lawrence berkeley, insait, ista, mpi, nus, mlh, google summer of code, jane street,
+          de shaw, d. e. shaw, ellison institute, a*star, riken, kaist]
+
+# Funding signals and the points they add.
+funding:
+  fully_funded:
+    points: 25
+    keywords: [fully funded, fully-funded, full scholarship, full funding, fully paid,
+               full tuition and living, all expenses covered, full-ride, full ride, 100% funding]
+  paid:
+    points: 16
+    keywords: [paid internship, paid internships, stipend, salary, allowance, per month, monthly, paid,
+               travel covered, travel support, travel funding, housing provided, free housing,
+               paid traineeship, funded, remunerated, honorarium]
+  partial:
+    points: 6
+    keywords: [partial funding, partially funded, tuition waiver, tuition fee waiver, tuition discount,
+               partial scholarship, full tuition fee]
+  fee_based:
+    points: -18
+    keywords: [fee-based, application fee, registration fee, participation fee, self-funded,
+               paid conference, paid conferences, fee required]
+
+# Phrases removed before matching, so that e.g. "health insurance is covered" doesn't make
+# every scholarship look medical, and "social sciences" doesn't count as science.
+ignore_phrases: [health insurance, medical insurance, medical certificate, medical examination,
+                 medical check, medical report, health certificate, health check, research proposal,
+                 statement of purpose, ielts, toefl, artificial intelligence tools, ai tools, chatgpt,
+                 social sciences, social science, political science, political sciences, library science,
+                 sciences po, plant health, animal health, health and safety, mental health first aid]
+
+# Awards open to every field (Gates Cambridge, Rhodes, Chevening…) are usable by STEM
+# applicants too, so they get a bonus when no specific field matched.
+open_field:
+  bonus: 12
+  keywords: [all subjects, all fields, any field, all disciplines, any discipline, all majors,
+             all study fields, all areas of study, any subject]
+
+# Who this radar is tuned for: a Palestinian woman in her final year of a Computer Science
+# degree (PTUK), heading to a master's, with no IELTS score yet. Visitors can set their own
+# profile on the site; this one is the default and drives the ranking.
+profile:
+  nationality: Palestine
+  gender: female
+  english_score: null               # e.g. 6.5 once you have an IELTS score
+  nationality_terms: [palestinian, palestinians, palestine, west bank, gaza, arab students, arab countries,
+                      arab world, arab region, mena, middle east and north africa, developing countries,
+                      ptuk, palestine technical university]
+  nationality_bonus: 8              # programmes aimed at Palestinians, Arab or MENA students
+  women_bonus: 5                    # programmes for women in STEM
+  no_english_test_bonus: 4          # no IELTS/TOEFL needed
+  phd_only_max_score: 55            # PhD-only programmes never rank as high value (62+) for now
+  type_bonus:                       # extra points by opportunity type
+    Research: 14
+    Fellowship: 8
+    Summer school: 4
+    Internship: 3
+  current_student_types: [Research, Internship, Fellowship, Summer school, Exchange]
+  current_undergrad_bonus: 8        # those types when open to undergraduates
+  final_year_bonus: 6               # mentions seniors, recent graduates, pre-doctoral roles…
+  final_year_keywords: [senior, seniors, final-year, final year, final-year students, recent graduates,
+                        recent graduate, graduating students, pre-doctoral, predoctoral, predoc,
+                        post-baccalaureate, postbac, gap year, prospective phd, prospective graduate]
+  bachelor_degree_scholarship_penalty: 15   # scholarships for starting a bachelor's degree
+  year_restricted_penalty: 20               # e.g. "second-year students only"
+  phd_only_penalty: 22                      # programmes only for PhD study or current PhD students
+
+# Programmes known to select mainly students with top grades, even when the listing doesn't say so.
+very_competitive: [rhodes scholarship, gates cambridge, schwarzman, knight-hennessy, ellison scholars,
+                   eth zurich excellence scholarship, excellence scholarship & opportunity programme,
+                   eiffel excellence, mccall macbain, clarendon, reach oxford, karsh, weidenfeld-hoffmann]
+
+# Extra points by degree level (you mentioned master's programmes specifically).
+degree_bonus:
+  masters: 8
+  phd: 2
+  postdoc: 0
+  bachelor: 0
