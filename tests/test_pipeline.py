@@ -371,3 +371,27 @@ def test_detail_page_text_ignores_sidebars():
     assert "medium of instruction" in text and "3.8" not in text
     r = detect_requirements(text, CFG)
     assert r["english_test"] == "not_required" and r["gpa_level"] is None
+
+
+def test_listings_closed_to_the_profile_nationality_rank_low():
+    base = {"source": "opportunitiesforyouth", "url": "https://example.org/noblereach",
+            "title": "NobleReach Scholars Program 2027: One-Year Paid Fellowship in AI and Cybersecurity",
+            "summary": "Recent graduates in technology, engineering and computer science can apply for a paid fellowship."}
+    closed = CLF.classify({**base, "body": "Eligibility: U.S. citizens only. Applicants from developing countries are not eligible."})
+    open_ = CLF.classify({**base, "url": "https://example.org/open", "body": "Open to international applicants from all countries."})
+    assert closed["eligibility"] == "restricted"
+    assert any(w[0] == "not_open" for w in closed["why"]) and not any(w[0] == "nationality" for w in closed["why"])
+    assert closed["score"] < CFG["high_value"] <= open_["score"]
+    for_us = CLF.classify({**base, "url": "https://example.org/pal", "body": "Open to Palestinian nationals only."})
+    assert not any(w[0] == "not_open" for w in for_us["why"])
+
+
+def test_loose_country_categories_are_ignored():
+    base = {"source": "opportunitiesforyouth", "categories": ["Fellowships", "Australia"],
+            "summary": "A fully funded pre-doctoral research programme in economics and data science."}
+    yale = CLF.classify({**base, "url": "https://x.y/yale", "title": "Yale University Tobin Center Pre-Doctoral Fellows Program 2027",
+                         "body": "Fellows work with faculty in New Haven on research projects."})
+    assert "Australia" not in yale["countries"]
+    syd = CLF.classify({**base, "url": "https://x.y/syd", "title": "Research Fellowship in Data Science 2027",
+                        "body": "Hosted at the University of Sydney, Australia, for twelve months."})
+    assert syd["countries"] == ["Australia"]

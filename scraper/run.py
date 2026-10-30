@@ -403,6 +403,8 @@ def main(argv: list[str] | None = None) -> int:
     prev_sources = previous.get("sources", {})
     sources_out = {}
     for key, meta in SOURCE_META.items():
+        if not src_cfg.get(key, {}).get("enabled"):
+            continue
         st = status.get(key) or prev_sources.get(key, {}).get("status") or {"ok": None, "count": 0, "error": "not run"}
         last_ok = run_stamp if st.get("ok") else prev_sources.get(key, {}).get("last_ok")
         sources_out[key] = {**meta, "status": st, "last_ok": last_ok,

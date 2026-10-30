@@ -653,13 +653,19 @@ class Classifier:
 
         req = detect_requirements(f"{strong} {body[:6000]} {clean_text(raw.get('eligibility_text'))}", self.cfg, title)
         elig_text = f"{title} {meta_text} {clean_text(raw.get('summary'))} {clean_text(raw.get('eligibility_text'))} {body[:3000]}"
-        targets_me = bool(raw.get("open_to_origin")) or bool(self.nat_re and self.nat_re.search(elig_text))
+        eligibility, eligibility_note = detect_eligibility(strong, body)
+        if raw.get("eligibility_text"):
+            eligibility, eligibility_note = detect_eligibility(raw["eligibility_text"], "") if detect_eligibility(raw["eligibility_text"], "")[0] else (eligibility, eligibility_note)
+        not_open = eligibility == "restricted" and not raw.get("open_to_origin") \
+            and not (self.nat_re and self.nat_re.search(eligibility_note or ""))
+        targets_me = not not_open and (bool(raw.get("open_to_origin")) or bool(self.nat_re and self.nat_re.search(elig_text)))
         nat_pts = prof.get("nationality_bonus", 0) if targets_me else 0
+        not_open_pen = prof.get("not_open_penalty", 0) if not_open else 0
         women_pts = prof.get("women_bonus", 0) if req["for_women"] and prof.get("gender") == "female" else 0
         no_test_pts = prof.get("no_english_test_bonus", 0) if req["english_test"] == "not_required" and not prof.get("english_score") else 0
 
         score = 6 + relevance + open_bonus + funding_pts + prestige + degree_pts + type_pts + ug_pts + final_pts \
-            + nat_pts + women_pts + no_test_pts - penalty - ba_pen - year_pen - phd_pen
+            + nat_pts + women_pts + no_test_pts - penalty - ba_pen - year_pen - phd_pen - not_open_pen
         # Programmes only for doctoral study or current PhD students stay below "high value" for now.
         phd_level = bool(degrees) and set(degrees) <= {"phd", "postdoc"}
         cap = prof.get("phd_only_max_score")
@@ -693,6 +699,8 @@ class Classifier:
             why.append(["year_limit", -year_pen, year_limit])
         if phd_pen:
             why.append(["phd_only", -phd_pen, None])
+        if not_open_pen:
+            why.append(["not_open", -not_open_pen, eligibility_note])
         if nat_pts:
             why.append(["nationality", nat_pts, prof.get("nationality")])
         if women_pts:
@@ -705,11 +713,12 @@ class Classifier:
 
         short_body = body if len(body) < 700 else ""
         extra = raw.get("countries") or ([raw["country"]] if raw.get("country") else [])
-        countries = detect_countries(title, meta_text, extra, short_body)
-        regions = detect_region(countries, title, meta_text)
-        eligibility, eligibility_note = detect_eligibility(strong, body)
-        if raw.get("eligibility_text"):
-            eligibility, eligibility_note = detect_eligibility(raw["eligibility_text"], "") if detect_eligibility(raw["eligibility_text"], "")[0] else (eligibility, eligibility_note)
+        # Site categories are often tagged loosely, so a country category only counts when the post itself names it.
+        post_text = (clean_text(raw.get("summary")) + " " + body[:2500]).lower()
+        place_meta = " ".join([c for c in categories if all(m.group(1).lower() in post_text for m in _COUNTRY_RE.finditer(c))]
+                              + subjects + [clean_text(raw.get("meta_text"))])
+        countries = detect_countries(title, place_meta, extra, short_body)
+        regions = detect_region(countries, title, place_meta)
         tier = "top" if score >= self.cfg["top_pick"] else "high" if score >= self.cfg["high_value"] else "standard"
 
         return {

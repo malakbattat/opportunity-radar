@@ -52,7 +52,7 @@
       "why.fully_funded": "Fully funded", "why.paid": "Paid or stipend", "why.partial": "Partial funding", "why.fee_based": "Charges a fee",
       "why.prestige": "Recognised: {x}", "why.level": "{x} level", "why.type": "{x}", "why.current_undergrad": "Open to current undergraduates",
       "why.final_year": "Suits final-year students", "why.off_topic": "Outside the focus fields", "why.bachelor_degree": "For starting a bachelor's",
-      "why.year_limit": "Only for {x} students", "why.phd_only": "For current PhD students",
+      "why.year_limit": "Only for {x} students", "why.phd_only": "For current PhD students", "why.not_open": "Not open to you: {x}",
       "t.saved": "Saved", "t.removed": "Removed from your list", "t.hidden": "Hidden", "t.undo": "Undo", "t.cleared": "Filters cleared",
       "t.copied": "Link copied", "t.copyFail": "Copy the link from the address bar", "t.calendar": "Calendar file downloaded",
       "t.exported": "Exported {n}", "t.latest": "Showing the latest listings", "t.marked": "Marked: {x}",
@@ -133,7 +133,7 @@
       "why.fully_funded": "ممولة بالكامل", "why.paid": "مدفوعة أو بمكافأة", "why.partial": "تمويل جزئي", "why.fee_based": "تتطلب رسومًا",
       "why.prestige": "جهة معروفة: {x}", "why.level": "مستوى {x}", "why.type": "{x}", "why.current_undergrad": "متاحة لطلاب البكالوريوس الحاليين",
       "why.final_year": "تناسب طلاب السنة الأخيرة", "why.off_topic": "خارج المجالات المستهدفة", "why.bachelor_degree": "لبدء درجة البكالوريوس",
-      "why.year_limit": "لطلاب {x} فقط", "why.phd_only": "لطلاب الدكتوراه الحاليين",
+      "why.year_limit": "لطلاب {x} فقط", "why.phd_only": "لطلاب الدكتوراه الحاليين", "why.not_open": "غير متاحة لك: {x}",
       "t.saved": "حُفظت", "t.removed": "أُزيلت من قائمتك", "t.hidden": "أُخفيت", "t.undo": "تراجع", "t.cleared": "مُسحت عوامل التصفية",
       "t.copied": "نُسخ الرابط", "t.copyFail": "انسخ الرابط من شريط العنوان", "t.calendar": "نُزّل ملف التقويم",
       "t.exported": "صُدّرت {n}", "t.latest": "تُعرض أحدث الفرص", "t.marked": "تم التحديد: {x}",
@@ -468,7 +468,7 @@
   };
   const byDeadline = (a, b) => dayKey(a) - dayKey(b) || b.score - a.score;
   const SORTS = {
-    score: (a, b) => b.score - a.score || byDeadline(a, b),
+    score: (a, b) => (a._no - b._no) || b.score - a.score || byDeadline(a, b),
     deadline: byDeadline,
     intake: (a, b) => a._intakeOrder - b._intakeOrder || b.score - a.score,
     new: (a, b) => (b._archived ? (b.archived_at || "").localeCompare(a.archived_at || "") : 0)
@@ -732,7 +732,7 @@
       track.append(tk);
     };
     for (let d = 0; d <= 90; d += 15) tick(dayToX(d), d === 0 ? t("runway.today") : fmtShort.format(new Date(today.getTime() + d * DAY)), d === 0 ? " today" : "");
-    const fmtMon = new Intl.DateTimeFormat(locale, { month: "short", year: "2-digit" });
+    const fmtMon = new Intl.DateTimeFormat(locale, { month: "short", year: "numeric" });
     for (const d of [180, 365]) tick(dayToX(d), fmtMon.format(new Date(today.getTime() + d * DAY)));
 
     let plotted = 0;
@@ -847,6 +847,7 @@
     if (code === "type") return t("why.type", { x: L("type", detail) });
     if (code === "year_limit") return t("why.year_limit", { x: yearLabel(detail) });
     if (code === "prestige") return t("why.prestige", { x: detail });
+    if (code === "not_open") return t("why.not_open", { x: detail || "" });
     if (code === "nationality") return t("why.nationality", { x: countryName(detail || "Palestine") });
     return t("why." + code);
   }
@@ -1284,7 +1285,9 @@
   }
 
   function update() {
-    currentList = pool().filter(i => matches(i, state)).sort(SORTS[state.sort] || SORTS.score);
+    currentList = pool().filter(i => matches(i, state));
+    for (const i of currentList) i._no = eligibilityFor(i) === "no" ? 1 : 0;
+    currentList.sort(SORTS[state.sort] || SORTS.score);
     state.page = Math.min(Math.max(1, state.page || 1), pageCount());
     persist();
     renderQuick(); renderFacets(); renderPills(); renderRunway(currentList);

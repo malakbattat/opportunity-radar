@@ -8,9 +8,8 @@
 site:
   title: "Opportunity Radar"
   tagline: "Scholarships, research, fellowships and internships in STEM and AI."
-  # Used for the RSS feed links. Set to your GitHub Pages URL after first deploy,
-  # e.g. https://<your-username>.github.io/opportunity-radar/
-  base_url: ""
+  # The public address of the site, used in the RSS feed and calendar files.
+  base_url: "https://malakbattat.github.io/opportunity-radar/"
 
 # How often things update. The workflow runs every hour; most runs are quick
 # checks of each site's newest listings, and one run a day reads deeper.
@@ -39,7 +38,7 @@ sources:
     pages: 6            # listing pages of ~20 scholarships each
     details: 40         # detail pages read per deep scan (language test, GPA, eligibility)
   for9a:
-    enabled: true
+    enabled: false              # its bot protection blocks automated reads; switched off
     # Category paths on for9a.com (English). Paths that 404 are skipped and logged.
     paths:
       - /en/opportunity
@@ -76,7 +75,7 @@ sources:
     enabled: true
     repo: zapplyjobs/Research-Internships-for-Undergraduates
   daad:                         # DAAD scholarship database, filtered to your country of origin
-    enabled: true
+    enabled: false                # blocks GitHub's servers (HTTP 403); switched off
     country_of_origin: "Palestin"   # matched against the database's country list
     status: "^\\s*Graduates?\\b"     # "Graduates" = holds or is finishing a first degree
     pages: 6
@@ -241,6 +240,7 @@ profile:
   bachelor_degree_scholarship_penalty: 15   # scholarships for starting a bachelor's degree
   year_restricted_penalty: 20               # e.g. "second-year students only"
   phd_only_penalty: 22                      # programmes only for PhD study or current PhD students
+  not_open_penalty: 40                      # limited to other nationalities (e.g. "U.S. citizens only")
 
 # Programmes known to select mainly students with top grades, even when the listing doesn't say so.
 very_competitive: [rhodes scholarship, gates cambridge, schwarzman, knight-hennessy, ellison scholars,
