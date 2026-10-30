@@ -1,0 +1,102 @@
+name: Update opportunities and publish site
+
+on:
+  schedule:
+    - cron: "23 * * * *"      # every hour at :23 (UTC); one of these runs is the daily deep scan
+  workflow_dispatch:           # "Run workflow" button in the Actions tab (always a deep scan)
+  push:
+    branches: [main]
+    paths:                     # re-run when you change settings or code
+      - "config.yaml"
+      - "scraper/**"
+      - "docs/index.html"
+      - "docs/assets/**"
+      - ".github/workflows/**"
+
+permissions:
+  contents: write              # commit refreshed data back to the repo
+  pages: write
+  id-token: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false    # never interrupt a run halfway; the next one queues
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    outputs:
+      changed: ${{ steps.scrape.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Python packages
+        run: pip install -r requirements.txt
+
+      - name: Restore headless browser from cache
+        id: pw-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+
+      - name: Install headless browser
+        run: |
+          if [ "${{ steps.pw-cache.outputs.cache-hit }}" = "true" ]; then
+            python -m playwright install-deps chromium
+          else
+            python -m playwright install --with-deps chromium
+          fi
+
+      - name: Run tests
+        run: python -m pytest -q
+
+      - name: Get Pages URL
+        id: pages
+        uses: actions/configure-pages@v5
+        continue-on-error: true   # fine on the very first run, before Pages is switched on
+
+      - name: Scrape, score and merge
+        id: scrape
+        env:
+          RADAR_BASE_URL: ${{ steps.pages.outputs.base_url }}
+          # Scheduled runs: quick check of newest listings, deep scan once a day.
+          # Manual runs and code/config changes: always a deep scan.
+          SCAN_MODE: ${{ github.event_name == 'schedule' && 'auto' || 'full' }}
+        run: |
+          python -m scraper.run --mode "$SCAN_MODE" || echo "::warning::Scraper reported a problem; previous data was kept."
+
+      - name: Commit refreshed data (only when listings changed)
+        if: steps.scrape.outputs.changed == 'true'
+        run: |
+          git config user.name  "opportunity-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data docs/feed.xml docs/calendar.ics docs/calendar-all.ics
+          if ! git diff --cached --quiet; then
+            n="${{ steps.scrape.outputs.new_count }}"
+            git commit -m "Refresh opportunities $(date -u '+%F %H:%M') UTC (${n:-0} new)"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      # The site is redeployed every run, so "Updated" on the page is always current,
+      # even when nothing new was committed.
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
