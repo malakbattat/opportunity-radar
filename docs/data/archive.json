@@ -1,7 +1,7130 @@
 {
- "generated_at": "2026-10-29T17:16:30+00:00",
- "count": 4,
+ "generated_at": "2026-10-30T22:10:51+00:00",
+ "count": 93,
  "items": [
+  {
+   "id": "a3395f1a3168",
+   "title": "KAUST AMS Program 2026 in Saudi Arabia (Fully Funded)",
+   "url": "https://scholarshipscorner.website/kaust-ams-program-saudi-arabia/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Applications for the KAUST AMS Program 2026 in Saudi Arabia are now open. The one wekk KAUST visiting research program hosted by King Abdullah University of Science and Technology, will run from November 30-December 4, 2026, in Saudi Arabia. With an aim to…",
+   "type": "Internship",
+   "degrees": [
+    "bachelor",
+    "masters"
+   ],
+   "fields": [
+    "data_science",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Saudi Arabia",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "regions": [
+    "Middle East & North Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-09-10",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "CGPA of 3.5",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-17",
+   "prestige": true,
+   "score": 100,
+   "tier": "top",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     38,
+     [
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "KAUST"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ]
+   ],
+   "_key": "kaust ams saudi arabia",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-10",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "92aa8b9bfc75",
+   "title": "Cambridge ERA AI Fellowship 2027 in UK (Fully Funded)",
+   "url": "https://scholarshipscorner.website/cambridge-era-ai-fellowship/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Applications for an exciting opportunity, the Cambridge ERA AI Fellowship 2027 in UK, are now open. Beginning on 18 January, 2027, the fellowship will be for 10 weeks in Cambridge, UK. The research program offers complimentary accommodation, meals during…",
+   "type": "Fellowship",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "ai_ml"
+   ],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "Open to applicants from all",
+   "deadline": "2026-09-13",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "not_required",
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-16",
+   "prestige": true,
+   "score": 100,
+   "tier": "top",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     36,
+     [
+      "ai_ml"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Cambridge"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "no_english_test",
+     4,
+     null
+    ]
+   ],
+   "_key": "cambridge era ai fellowship uk",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-13",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "c36db492131d",
+   "title": "Arizona State University Mastercard Foundation Scholars Program (Fully Funded)",
+   "url": "https://opportunityportal.info/arizona-state-university-mastercard-foundation/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "The Arizona State University (ASU) Mastercard Foundation Scholars Program is officially accepting applications for the 2027–2028 academic year, offering one of the most competitive fully funded scholarships for African students in the United States. As part…",
+   "type": "Fellowship",
+   "degrees": [
+    "masters"
+   ],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "computing",
+    "health",
+    "engineering",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": "restricted",
+   "eligibility_note": "for African students",
+   "deadline": "2026-09-27",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "GPA equivalent to 3.5",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-12",
+   "prestige": true,
+   "score": 92,
+   "tier": "top",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     36,
+     [
+      "ai_ml",
+      "data_science",
+      "computing"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Mastercard Foundation"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "arizona state university mastercard foundation scholars",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-27",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "b71b7ef50d88",
+   "title": "CERN Technical Student Program 2027 in Switzerland | Fully Funded",
+   "url": "https://scholarshipscorner.website/cern-technical-student-program/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The CERN Technical Student Program 2027 in Switzerland is a wonderful internship program for people enrolled in Bachelor’s or Master’s programs. Various fields have been announced to teach you about the universe and the particles in the land of Geneva. This…",
+   "type": "Internship",
+   "degrees": [
+    "bachelor",
+    "masters"
+   ],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science",
+    "engineering"
+   ],
+   "funding": "fully_funded",
+   "country": "Switzerland",
+   "countries": [
+    "Switzerland"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-16",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-20",
+   "prestige": true,
+   "score": 90,
+   "tier": "top",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     30,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "CERN"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ]
+   ],
+   "_key": "cern technical student switzerland",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-16",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "ab8874475afa",
+   "title": "NUS IRIS Research Internship in Singapore 2027 (Fully Funded)",
+   "url": "https://scholarshipscorner.website/nus-iris-research-internship-singapore/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The NUS IRIS Research Internship in Singapore 2027 is a fully funded research programme by the National University of Singapore (NUS). It is open to undergraduate and master’s students from all fields. This programme is called Internship and Research…",
+   "type": "Research",
+   "degrees": [
+    "bachelor",
+    "masters"
+   ],
+   "fields": [
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Singapore",
+   "countries": [
+    "Singapore"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-08-28",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "not_required",
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "GPA of 3.5",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-23",
+   "prestige": true,
+   "score": 87,
+   "tier": "top",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "NUS"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     14,
+     "Research"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "no_english_test",
+     4,
+     null
+    ]
+   ],
+   "_key": "nus iris research internship singapore",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-28",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "15a2007f6938",
+   "title": "UNDP Digital, AI and Innovation Internship 2026 (Paid Internship)",
+   "url": "https://scholarshipscorner.website/undp-digital-ai-and-innovation-internship/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The UNDP Digital, AI and Innovation Internship 2026 invites applications from students and recent graduates. The Paid Internship program is home based and will take place for three months. During this online internship, students will work on any of the areas…",
+   "type": "Internship",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [
+    "ai_ml"
+   ],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-01",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-19",
+   "prestige": true,
+   "score": 85,
+   "tier": "top",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     36,
+     [
+      "ai_ml"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "UNDP"
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ]
+   ],
+   "_key": "undp digital ai innovation internship",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-01",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "484ddafa1d48",
+   "title": "CyberSafe x SANS AI Security Fellowship 2026 | Fully Funded",
+   "url": "https://scholarshipscorner.website/cybersafe-sans-ai-security-fellowship/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Are you ready to specialize in securing AI systems and applications? If yes, The CyberSafe X SANS AI Security Fellowship 2026 is an interesting opportunity for you. The fully funded training and certification program is designed for cybersecurity…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "computing"
+   ],
+   "funding": "fully_funded",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-09-10",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-04",
+   "prestige": false,
+   "score": 83,
+   "tier": "top",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     44,
+     [
+      "ai_ml",
+      "computing"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "cybersafe x sans ai security fellowship",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-10",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "23521902d46f",
+   "title": "Mitacs Globalink Research Internship 2027 in Canada | Fully Funded",
+   "url": "https://scholarshipscorner.website/mitacs-globalink-research-internship/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The Mitacs Globalink Research Internship 2027 is a Canadian initiative that provides talented international undergraduate students with an opportunity to gain research experience at leading Canadian universities. The Globalink Research Internship offers a…",
+   "type": "Research",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [
+    "science",
+    "engineering"
+   ],
+   "funding": "fully_funded",
+   "country": "Canada",
+   "countries": [
+    "Canada"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-09-16",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-06",
+   "prestige": true,
+   "score": 77,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     14,
+     [
+      "science",
+      "engineering"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Mitacs"
+    ],
+    [
+     "type",
+     14,
+     "Research"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ]
+   ],
+   "_key": "mitacs globalink research internship canada",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-16",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "5b0447cc49bd",
+   "title": "Green Climate Fund Internship 2026 in South Korea | US$1,600/Month",
+   "url": "https://scholarshipscorner.website/green-climate-fund-internship-south-korea/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The Green Climate Fund Internship 2026 in South Korea is a paid opportunity for students and recent graduates. The paid internship will take place at the Green Climate Fund (GCF) headquarters in Songdo, Incheon. Selected interns will receive US$1,600 per…",
+   "type": "Internship",
+   "degrees": [
+    "masters"
+   ],
+   "fields": [
+    "data_science",
+    "computing",
+    "engineering",
+    "science"
+   ],
+   "funding": "paid",
+   "country": "South Korea",
+   "countries": [
+    "South Korea",
+    "United States"
+   ],
+   "regions": [
+    "Asia",
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "developing countries",
+   "deadline": "2026-09-17",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-09",
+   "prestige": false,
+   "score": 72,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     25,
+     [
+      "data_science",
+      "computing",
+      "engineering"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "green climate fund internship south korea",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-17",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "bd40f78273c7",
+   "title": "CERN Administrative Student Programme 2027, Switzerland (Fully Funded)",
+   "url": "https://scholarshipscorner.website/cern-administrative-student-programme/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The CERN Administrative Student Programme in Switzerland 2027 is a chance for students pursuing their studies in administration-related fields to get involved in the tasks that are revolutionizing the world. The world-famous organization and the world-leading…",
+   "type": "Internship",
+   "degrees": [
+    "bachelor",
+    "masters"
+   ],
+   "fields": [
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Switzerland",
+   "countries": [
+    "Switzerland"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-10-16",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-14",
+   "prestige": true,
+   "score": 72,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "CERN"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ]
+   ],
+   "_key": "cern administrative student switzerland",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-16",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "3fec5e30bddf",
+   "title": "University of Science and Technology (UST) Scholarships in South Korea (Fully Funded)",
+   "url": "https://opportunityportal.info/university-of-science-and-technology-ust-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "The University of Science and Technology (UST) Scholarships 2027 in South Korea provide an exceptional opportunity for international students to pursue MS, PhD, or MS leading to PhD degrees with 100% fully funded financial support. South Korea is globally…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "ai_ml",
+    "science",
+    "biomed",
+    "engineering"
+   ],
+   "funding": "fully_funded",
+   "country": "South Korea",
+   "countries": [
+    "South Korea"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-10-06",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "not_required",
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "academic excellence",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-27",
+   "prestige": false,
+   "score": 71,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     28,
+     [
+      "ai_ml",
+      "science",
+      "biomed"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "no_english_test",
+     4,
+     null
+    ]
+   ],
+   "_key": "university science technology scholarships south korea",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-06",
+   "reopens_intake": null
+  },
+  {
+   "id": "6aaf64eda8ba",
+   "title": "TMU Graduate Scholarships in Taiwan 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/tmu-graduate-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "The TMU Graduate Scholarships 2026 in Taiwan provide an outstanding opportunity for international students seeking to pursue fully funded Master’s and PhD programs in medical and health sciences. Offered by Taipei Medical University, these scholarships are…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters"
+   ],
+   "fields": [
+    "biomed",
+    "health",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Taiwan",
+   "countries": [
+    "Taiwan"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-08-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "required",
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-25",
+   "prestige": false,
+   "score": 70,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     30,
+     [
+      "biomed",
+      "health",
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "tmu graduate scholarships taiwan",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "4d816321892a",
+   "title": "Max Planck MTL Internship 2027 in Germany (Fully Funded)",
+   "url": "https://scholarshipscorner.website/max-planck-mtl-internship-germany/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The Max Planck MTL Internship 2027 in Germany is an interesting research opportunity for Bachelor’s students. For 10 weeks, the fully funded internship program will take place under the supervision of a highly qualified faculty member. What makes this…",
+   "type": "Internship",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [
+    "science",
+    "biomed",
+    "engineering"
+   ],
+   "funding": "fully_funded",
+   "country": "Germany",
+   "countries": [
+    "Germany"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-01",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-17",
+   "prestige": true,
+   "score": 70,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     18,
+     [
+      "science",
+      "biomed",
+      "engineering"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Max Planck"
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ]
+   ],
+   "_key": "max planck mtl internship germany",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-29T17:16:30+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-01",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "e1bcd63eb9c6",
+   "title": "Fulbright U.S.–ASEAN Visiting Scholar Initiative 2027–2028: Research Fellowship in the United States for Academics and Professionals",
+   "url": "https://opportunitiesforyouth.org/2026/10/26/fulbright-u-s-asean-visiting-scholar-initiative-2027-2028-research-fellowship-in-the-united-states-for-academics-and-professionals/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Fulbright U.S.–ASEAN Visiting Scholar Initiative is an international academic and professional exchange opportunity designed to strengthen cooperation between the United States and Southeast Asian countries through research, knowledge-sharing and…",
+   "type": "Research",
+   "degrees": [
+    "bachelor",
+    "masters"
+   ],
+   "fields": [
+    "science",
+    "health"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-16",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-26",
+   "prestige": true,
+   "score": 69,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     15,
+     [
+      "science",
+      "health"
+     ]
+    ],
+    [
+     "prestige",
+     10,
+     "Fulbright"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     14,
+     "Research"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "fulbright u s asean visiting scholar initiative research fellowship united states academics professionals",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-16",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "843bc6c95176",
+   "title": "ARES Belgium Training Scholarships 2027–2028 (Fully Funded)",
+   "url": "https://opportunityportal.info/ares-belgium-training-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Securing fully funded international development scholarships in Europe is one of the most effective pathways to advance your professional career and gain world-class expertise. The ARES Belgium Training Scholarships 2027–2028 offer mid-career professionals…",
+   "type": "Course",
+   "degrees": [
+    "bachelor",
+    "masters"
+   ],
+   "fields": [
+    "computing",
+    "health"
+   ],
+   "funding": "fully_funded",
+   "country": "Belgium",
+   "countries": [
+    "Belgium"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "developing countries",
+   "deadline": "2026-09-18",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-28",
+   "prestige": false,
+   "score": 68,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     15,
+     [
+      "computing",
+      "health"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "ares belgium training scholarships",
+   "also_on": [
+    {
+     "source": "scholarshipscorner",
+     "url": "https://scholarshipscorner.website/ares-scholarships/"
+    }
+   ],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-18",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "ed345b9acfad",
+   "title": "Chevening Europe Defence and Security Fellowship in UK (Fully Funded)",
+   "url": "https://scholarshipscorner.website/chevening-europe-defence-security-fellowship/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The Chevening Europe Defence and Security Fellowship in UK invites mid-career professionals from across Europe. Funded by the UK Foreign, Commonwealth and Development Office (FCDO), the fellowship will take place at the Defence Academy of the United Kingdom…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [
+    "ai_ml"
+   ],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-09-27",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-09",
+   "prestige": true,
+   "score": 67,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     18,
+     [
+      "ai_ml"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Chevening"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "chevening europe defence security fellowship uk",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-27",
+   "reopens_intake": null
+  },
+  {
+   "id": "76731fd156c4",
+   "title": "Harvard Radcliffe Institute Scholarships In USA 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/harvard-radcliffe-institute-fellowship/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are now invited for the Harvard Radcliffe Institute Fellowship 2027 in the USA — one of the most prestigious fully funded research fellowship opportunities in the United States — offering scholars, scientists, artists, and professionals the…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters",
+    "phd",
+    "postdoc"
+   ],
+   "fields": [
+    "science",
+    "health",
+    "engineering"
+   ],
+   "funding": "fully_funded",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-05",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-19",
+   "prestige": true,
+   "score": 66,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     17,
+     [
+      "science",
+      "health",
+      "engineering"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Harvard"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "harvard radcliffe institute scholarships usa",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-05",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "6f98cf1d9a01",
+   "title": "Chevening British Library Coptic Collections Fellowship in UK (Fully Funded)",
+   "url": "https://scholarshipscorner.website/chevening-british-library-coptic-collections-fellowship/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The Chevening British Library Coptic Collections Fellowship in UK invites applications from individuals who are interested in cultural collections and Coptic manuscript heritage. The fully funded program is open to mid-career professionals from Palestine…",
+   "type": "Fellowship",
+   "degrees": [
+    "masters",
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "The citizens",
+   "deadline": "2026-10-27",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-14",
+   "prestige": true,
+   "score": 65,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Chevening"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "chevening british library coptic collections fellowship uk",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-27",
+   "reopens_intake": null
+  },
+  {
+   "id": "2fb11daaac0a",
+   "title": "Chevning OCIS Fellowship 2027 in the UK (Fully Funded to Oxford)",
+   "url": "https://scholarshipscorner.website/chevning-ocis-fellowship-uk/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The Chevening OCIS Fellowship 2027 is now accepting applcations. It is a fully funded research opportunity at the Chevening Oxford Centre for Islamic Studies. The duration of the fellowship is 5 months. This program is collaboration between the Oxford Centre…",
+   "type": "Fellowship",
+   "degrees": [
+    "masters"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-06",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-16",
+   "prestige": true,
+   "score": 65,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Oxford"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "chevning ocis fellowship uk",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-06",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "0508d9078ec8",
+   "title": "WHO Business Operation Internship 2026 in Germany (Paid Internship)",
+   "url": "https://scholarshipscorner.website/who-business-operation-internship/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "WHO Business Operation Internship 2026 in Germany is offered to gain practical experience in operations, information management, and digital workplace technologies. The paid internship is designed exclusively for students and recent graduates. It will take…",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "computing",
+    "science"
+   ],
+   "funding": "paid",
+   "country": "Germany",
+   "countries": [
+    "Germany"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-08-21",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-10",
+   "prestige": true,
+   "score": 65,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     24,
+     [
+      "ai_ml",
+      "computing",
+      "science"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Microsoft"
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ]
+   ],
+   "_key": "who business operation internship germany",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-21",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "b8b8e50de437",
+   "title": "Paid IOM Internships 2026: International Organization for Migration (IOM) Global Internship Programme – Remote & On-Site Opportunities Worldwide",
+   "url": "https://opportunitiesforyouth.org/2026/10/25/internship-opportunity-diaspora-engagement-iom-italy/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Applications Open | Paid Internships | Rolling Deadlines | Global Locations Key Details at a Glance Category Details Organization International Organization for Migration (IOM) Programme Global Internship Programme 2026 Funding Paid (stipend varies by…",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "computing",
+    "health"
+   ],
+   "funding": "paid",
+   "country": "Online",
+   "countries": [
+    "Online"
+   ],
+   "regions": [
+    "Online"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "Worldwide",
+   "deadline": "2026-10-28",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-25",
+   "prestige": false,
+   "score": 64,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     25,
+     [
+      "ai_ml",
+      "computing",
+      "health"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "iom internships international organization migration global internship remote on site opportunities worldwide",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-28",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "72eee9dd84b7",
+   "title": "KAUST King Abdullah University Scholarship In Saudi Arabia 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/kaust-scholarship-2026/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are now open for the King Abdullah University Scholarships 2027 for international students—a fully funded graduate scholarship in Saudi Arabia that provides comprehensive support for those pursuing Master’s and Ph.D. degrees. This prestigious…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "biomed",
+    "engineering",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Saudi Arabia",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "regions": [
+    "Middle East & North Africa"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-09-27",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-22",
+   "prestige": true,
+   "score": 63,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     14,
+     [
+      "biomed",
+      "engineering",
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "KAUST"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "kaust king abdullah university scholarship saudi arabia",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-27",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "03c550ac8828",
+   "title": "SIIT Thailand Scholarship For Masters & Ph.D. (Fully Funded)",
+   "url": "https://opportunityportal.info/siit-scholarship-in-thailand/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Application is now open to apply for the SIIT Thailand Scholarship 2027. The Sirindhorn International Institute of Technology (SIIT) scholarship is a fully funded scholarship in Thailand for international students offering Master’s and Ph.D. degree programs…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "computing",
+    "health",
+    "engineering",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Thailand",
+   "countries": [
+    "Thailand"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-09-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "not_required",
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-16",
+   "prestige": false,
+   "score": 62,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     19,
+     [
+      "computing",
+      "health",
+      "engineering"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "no_english_test",
+     4,
+     null
+    ]
+   ],
+   "_key": "siit thailand scholarship masters ph d",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-30",
+   "reopens_intake": null
+  },
+  {
+   "id": "ce03f48f287c",
+   "title": "YSEALI Academic Fellows Program 2027 in the USA | Fully Funded",
+   "url": "https://scholarshipscorner.website/yseali-academic-fellows-program/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The YSEALI Academic Fellows Program 2027 in the USA is designed to strengthen collaboration between the U.S. and Southeast Asia. This fully funded exchange program will build leadership capabilities of youth. Through the Young Southeast Asian Leaders…",
+   "type": "Fellowship",
+   "degrees": [
+    "bachelor",
+    "masters"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "U.S. citizens",
+   "deadline": "2026-10-12",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-20",
+   "prestige": false,
+   "score": 61,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ]
+   ],
+   "_key": "yseali academic fellows usa",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-12",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "017097a8c305",
+   "title": "Chevening LSE Fellowship in UK 2027 | Fully Funded",
+   "url": "https://scholarshipscorner.website/chevening-lse-fellowship/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Chevening LSE fellowship 2027 is a fully funded Fellowship in UK which is jointly funded by the UK Foreign, Commonwealth, and Development Office. Through various research fellowship programs, the British Embassy and Consulates-General in China collaborate…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-10-06",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-13",
+   "prestige": true,
+   "score": 61,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Chevening"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "chevening lse fellowship uk",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-06",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "b392d0fcbf3a",
+   "title": "FRIAS Fellowship Programmes in Germany (Fully Funded)",
+   "url": "https://scholarshipscorner.website/frias-fellowship-programmes-germany/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "FRIAS Fellowship Programmes in Germany are fully funded opportunities for both early-career and senior researchers. These fellowships are hosted by Freiburg Institute for Advanced Studies. The programmes will bring together scholars from Germany and around…",
+   "type": "Fellowship",
+   "degrees": [
+    "bachelor",
+    "phd",
+    "postdoc"
+   ],
+   "fields": [
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Germany",
+   "countries": [
+    "Germany"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "any nationality",
+   "deadline": "2026-09-18",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-07-27",
+   "prestige": false,
+   "score": 61,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     6,
+     [
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     2,
+     "phd"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ]
+   ],
+   "_key": "frias fellowship programmes germany",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-18",
+   "reopens_intake": null
+  },
+  {
+   "id": "b32e2970c0ce",
+   "title": "AAUW International Fellowships In USA 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/aauw-international-fellowships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are now open for the AAUW International Fellowships 2027, one of the most prestigious fully funded USA graduate scholarships for women. Offered by the American Association of University Women (AAUW), these USA scholarships for international women…",
+   "type": "Fellowship",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd",
+    "postdoc"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "worldwide",
+   "deadline": "2026-09-17",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "academic excellence",
+   "for_women": true,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-13",
+   "prestige": false,
+   "score": 60,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "women",
+     5,
+     null
+    ]
+   ],
+   "_key": "aauw international fellowships usa",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-17",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "07600e170098",
+   "title": "Scotland Scholarships for Young Women and Girls (Fully Funded)",
+   "url": "https://opportunityportal.info/scotland-scholarships-for-young-women/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "The Scotland Pakistan Scholarships for Young Women and Girls—funded by the Scottish Government and administered by the British Council Pakistan—provides vital support for female students pursuing higher education at Higher Education Commission (HEC)…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters"
+   ],
+   "fields": [
+    "health",
+    "engineering",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "Pakistani nationals",
+   "deadline": "2026-08-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "required",
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": true,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-16",
+   "prestige": false,
+   "score": 57,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     13,
+     [
+      "health",
+      "engineering",
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "women",
+     5,
+     null
+    ]
+   ],
+   "_key": "scotland scholarships young women girls",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-31",
+   "reopens_intake": null
+  },
+  {
+   "id": "211e8074f92f",
+   "title": "Scotland Pakistan Scholarships 2026 | Fully Funded | British Council Scholarship",
+   "url": "https://scholarshipscorner.website/scotland-pakistan-scholarships/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Scotland Pakistan Scholarships 20256 is a unique opportunity for young, talented, and self-motivated women who are pursuing their Bachelor’s Master’s or MPhil Pakistan. This fully funded scholarship in Pakistan aims to make higher education more accessible to…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters"
+   ],
+   "fields": [
+    "health",
+    "engineering",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom",
+    "Pakistan"
+   ],
+   "regions": [
+    "Europe",
+    "Asia"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "for Pakistani students",
+   "deadline": "2026-08-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": true,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-06",
+   "prestige": false,
+   "score": 57,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     13,
+     [
+      "health",
+      "engineering",
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "women",
+     5,
+     null
+    ]
+   ],
+   "_key": "scotland pakistan scholarships",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "ed96a53a296a",
+   "title": "Government of Ireland International Education Scholarship (GOI-IES)",
+   "url": "https://www.scholarshipsads.com/government-of-ireland-international-education-scholarship",
+   "source": "scholarshipsads",
+   "org": null,
+   "summary": "Government of Ireland International Education Scholarship (GOI-IES) Partial Funding Ireland Universities Masters, PhD All Subjects Non European Students Ireland Partial Funding Ireland Universities Masters, PhD All Subjects Non European Students Ireland…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "computing",
+    "biomed",
+    "health",
+    "science"
+   ],
+   "funding": "partial",
+   "country": "Ireland",
+   "countries": [
+    "Ireland"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "Belarusian nationals",
+   "deadline": "2026-03-12",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "outstanding academic achievement",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": null,
+   "prestige": false,
+   "score": 57,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     37,
+     [
+      "ai_ml",
+      "data_science",
+      "computing"
+     ]
+    ],
+    [
+     "partial",
+     6,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "government ireland international education scholarship",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-03-12",
+   "reopens_intake": null
+  },
+  {
+   "id": "ba1b6192d74b",
+   "title": "Czech Government Scholarships for International Students 2027-28 | Fully Funded",
+   "url": "https://scholarshipscorner.website/czech-government-scholarships/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Czech Government Scholarships for International Students 2027-28 is one of the best opportunities to support the underprivileged people of developing countries. Following its long tradition of expanding foreign development cooperation among the countries, the…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "health"
+   ],
+   "funding": "fully_funded",
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International Students",
+   "deadline": "2026-09-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-21",
+   "prestige": false,
+   "score": 56,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     9,
+     [
+      "health"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "czech government scholarships",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-30",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "5f169d334c73",
+   "title": "Constructor University Scholarship in Germany (Fully Funded)",
+   "url": "https://opportunityportal.info/constructor-university-scholarship/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Are you a computer science researcher aiming to pursue advanced doctoral studies in artificial intelligence in Europe? Applications are now open for the Constructor PhD Scholarship 2027 in Germany, a fully funded PhD program in Germany offered by Constructor…",
+   "type": "Scholarship",
+   "degrees": [
+    "phd"
+   ],
+   "fields": [
+    "ai_ml",
+    "computing",
+    "data_science",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Germany",
+   "countries": [
+    "Germany"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": "2026-08-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": true,
+   "rolling": false,
+   "published": "2026-08-24",
+   "prestige": false,
+   "score": 55,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "computing",
+      "data_science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "phd_only",
+     -22,
+     null
+    ],
+    [
+     "phd_cap",
+     -4,
+     null
+    ]
+   ],
+   "_key": "constructor university scholarship germany",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-31",
+   "reopens_intake": null
+  },
+  {
+   "id": "d598f71e5e55",
+   "title": "World Bank WBG Pioneers Internship 2026 (Paid Global Internship for Students)",
+   "url": "https://scholarshipscorner.website/world-bank-wbg-pioneers-internship/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The World Bank WBG Pioneers Internship 2026 is now open for applications. It is a paid internship for undergraduate and postgraduate students from World Bank Group member countries. Depending on the position, the internship lasts from 7 weeks to 6 months…",
+   "type": "Internship",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": "open",
+   "eligibility_note": "worldwide",
+   "deadline": "2026-08-12",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026-winter"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "not_required",
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-07-20",
+   "prestige": true,
+   "score": 55,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "World Bank"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "no_english_test",
+     4,
+     null
+    ]
+   ],
+   "_key": "world bank wbg pioneers internship",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-12",
+   "reopens_intake": "2026-winter"
+  },
+  {
+   "id": "4b3e9aa66a53",
+   "title": "AWS Work-Based Learning Program 2026: Paid 12-Month Training and Entry-Level Data Centre Logistics Careers in the United States",
+   "url": "https://opportunitiesforyouth.org/2026/10/27/aws-work-based-learning-program-2026-paid-12-month-training-and-entry-level-data-centre-logistics-careers-in-the-united-states/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The AWS Work-Based Learning Program (WBLP) 2026 is a paid, 12-month training and employment opportunity offered by Amazon Web Services (AWS) for individuals seeking to build practical skills and begin careers in data centre operations, logistics…",
+   "type": "Course",
+   "degrees": [],
+   "fields": [
+    "computing",
+    "health",
+    "engineering",
+    "science"
+   ],
+   "funding": "paid",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-27",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-27",
+   "prestige": true,
+   "score": 51,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     19,
+     [
+      "computing",
+      "health",
+      "engineering"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Amazon"
+    ]
+   ],
+   "_key": "aws work based learning 12 month training entry level data centre logistics careers united states",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-27",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "e196d57184e9",
+   "title": "AIxBio Fellowship in UK 2027 | Fully Funded",
+   "url": "https://scholarshipscorner.website/aixbio-fellowship-uk/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Applications are now open for the AIxBio Fellowship in UK 2027. The fully funded research program is offered by ERA in partnership with the Cambridge Biosecurity. Scheduled for 10 weeks, the fellowship will take place from 18 January to 26 March, 2027 in…",
+   "type": "Fellowship",
+   "degrees": [
+    "phd"
+   ],
+   "fields": [
+    "ai_ml",
+    "science",
+    "engineering"
+   ],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-19",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": true,
+   "rolling": false,
+   "published": "2026-10-13",
+   "prestige": true,
+   "score": 51,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     24,
+     [
+      "ai_ml",
+      "science",
+      "engineering"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Cambridge"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "phd_only",
+     -22,
+     null
+    ]
+   ],
+   "_key": "aixbio fellowship uk",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-19",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "026c820258d4",
+   "title": "University of Milan Regional Scholarships In Italy (Funded)",
+   "url": "https://opportunityportal.info/university-of-milan-regional-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Are you planning to study in Europe with low tuition fees and comprehensive living support? The University of Milan Regional Scholarship (DSU – Diritto allo Studio Universitario) for the 2026/2027 academic year offers financial aid to both Italian and…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "biomed",
+    "health",
+    "science"
+   ],
+   "funding": "paid",
+   "country": "Italy",
+   "countries": [
+    "Italy"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-09-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": true,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-16",
+   "prestige": false,
+   "score": 50,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     15,
+     [
+      "biomed",
+      "health",
+      "science"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "women",
+     5,
+     null
+    ]
+   ],
+   "_key": "university milan regional scholarships italy",
+   "also_on": [
+    {
+     "source": "scholarshipscorner",
+     "url": "https://scholarshipscorner.website/university-of-milan-regional-scholarship-italy/"
+    }
+   ],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-30",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "8a838aa15191",
+   "title": "Loughborough University Commonwealth Scholarship 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/loughborough-university-commonwealth-scholarship/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "The Loughborough University Commonwealth PhD Scholarship 2027 provides fully funded doctoral research funding in the UK for high-achieving scholars from eligible Commonwealth countries. Jointly funded by the UK Foreign, Commonwealth & Development Office…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "for Commonwealth citizens",
+   "deadline": "2026-10-20",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "moderate",
+   "gpa_note": "upper second",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-13",
+   "prestige": true,
+   "score": 49,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Commonwealth"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "loughborough university commonwealth scholarship",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-20",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "91dc2be900c7",
+   "title": "University Of Pretoria Mastercard Scholarship 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/university-of-pretoria-mastercard-scholarship/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Are you searching for fully funded postgraduate scholarships for African students to advance your education without financial burden? Applications are officially open for the University of Pretoria Mastercard Foundation Scholars Program 2027, offering…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": "restricted",
+   "eligibility_note": "for African students",
+   "deadline": "2026-09-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-01",
+   "prestige": true,
+   "score": 49,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Mastercard Foundation"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "university pretoria mastercard scholarship",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-30",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "81ca0cc1b94c",
+   "title": "Commonwealth Startup Fellowship In UK 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/commonwealth-startup-fellowship/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Are you an early-stage entrepreneur in a Commonwealth country looking to scale your startup, access global networks, and gain immersive business training? The Commonwealth Startup Fellowship—delivered by the Commonwealth Scholarship Commission (CSC) in…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "Are citizens",
+   "deadline": "2026-09-01",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027",
+    "2026-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-29",
+   "prestige": true,
+   "score": 49,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Commonwealth"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "commonwealth startup fellowship uk",
+   "also_on": [
+    {
+     "source": "scholarshipscorner",
+     "url": "https://scholarshipscorner.website/commonwealth-startup-fellowship/"
+    }
+   ],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-01",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "f95898d0c763",
+   "title": "Commonwealth Master’s Scholarships 2027/28 in UK | Fully Funded",
+   "url": "https://scholarshipscorner.website/commonwealth-masters-scholarships/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Commonwealth Master’s Scholarships 2027-28 in the UK is a prestigious fully funded scholarship opportunity for talented and motivated individuals from eligible low and middle-income Commonwealth countries to come to the UK and pursue a full-time taught…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-20",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "moderate",
+   "gpa_note": "upper second",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-08",
+   "prestige": true,
+   "score": 49,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Commonwealth"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "commonwealth master s scholarships uk",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-20",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "04474a186c5b",
+   "title": "DAAD Re-Invitation Program 2027 in Germany (Fully Funded)",
+   "url": "https://scholarshipscorner.website/daad-re-invitation-program-germany/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "DAAD Re-Invitation Program 2027 in Germany invites former scholarship holders of DAAD research grants or study scholarships. The fully funded program offers an incredible research opportunity in Germany. Through DAAD’s global alumni network, researchers will…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters",
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Germany",
+   "countries": [
+    "Germany"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-08-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-05",
+   "prestige": true,
+   "score": 49,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "DAAD"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "daad re invitation germany",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "22e1dd78ae44",
+   "title": "Chevening Scholarship 2027 in UK | Fully Funded | Study in UK",
+   "url": "https://scholarshipscorner.website/chevening-scholarship/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The Chevening Scholarship is one of the most popular and fully funded scholarships in the UK. It offers a one-year master’s degree at any UK university to students from eligible countries. This UK government scholarship covers tuition fees, living expenses…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2025-10-07",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "required",
+   "english_min": null,
+   "gpa_level": "moderate",
+   "gpa_note": "upper second",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-03",
+   "prestige": true,
+   "score": 49,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Chevening"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "chevening scholarship uk",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-07",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "33e02c3d378b",
+   "title": "Yale Peace Fellowship 2027 in USA & UK (Fully Funded)",
+   "url": "https://scholarshipscorner.website/yale-peace-fellowship/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Are you an emerging leader who advocates peace and harmony? The Yale Peace Fellowship 2027 can be an excellent opportunity for you. This fully funded fellowship program invites peace activists working on conflict resolution and peace building. The program is…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United States",
+   "countries": [
+    "United States",
+    "United Kingdom"
+   ],
+   "regions": [
+    "North America",
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "all countries",
+   "deadline": "2026-09-09",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-01",
+   "prestige": true,
+   "score": 49,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Yale"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "yale peace fellowship usa uk",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-09",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "7061ff5581ca",
+   "title": "Czech Republic Government Scholarship 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/czech-republic-government-scholarship-2026/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are now invited for the Czech Republic Government Scholarship 2027 — a prestigious and fully funded international scholarship program in Europe — offered by the Government of the Czech Republic as part of its Foreign Development Assistance…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters",
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Czech Republic",
+   "countries": [
+    "Czech Republic"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-09-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-23",
+   "prestige": false,
+   "score": 47,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "czech republic government scholarship",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-30",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "700d61e2ea4a",
+   "title": "Western Balkans Meet Japan 2027 | Fully Funded Youth Exchange Program",
+   "url": "https://scholarshipscorner.website/western-balkans-meet-japan/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Applications are now open for the seventh edition of Western Balkans Meet Japan 2027. The Fully Funded Youth Exchange Program will bring together undergraduate and graduate students from different countries. This is a unique opportunity for students…",
+   "type": "Exchange",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Japan",
+   "countries": [
+    "Japan"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-08-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-15",
+   "prestige": false,
+   "score": 47,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ]
+   ],
+   "_key": "western balkans meet japan",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "cd7205d3ad7f",
+   "title": "HSC Youth Ambassador Program 2027 in Germany (Fully Funded)",
+   "url": "https://scholarshipscorner.website/hsc-youth-ambassador-program-germany/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Call for Applications for the HSC Youth Ambassador Program 2027 in Germany. The Hamburg Sustainability Conference (HSC) is a global sustainability platform which will bring together stakeholders from politics, business, science, civil society, and…",
+   "type": "Course",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Germany",
+   "countries": [
+    "Germany"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-19",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-10",
+   "prestige": false,
+   "score": 43,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ]
+   ],
+   "_key": "hsc youth ambassador germany",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-19",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "7ab13a8df719",
+   "title": "IRENA Youth Forum 2027 in Abu Dhabi, UAE | Fully Funded",
+   "url": "https://scholarshipscorner.website/irena-youth-forum-uae/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Call for applications for the IRENA Youth Forum 2027 with a powerful theme of “Youth Energising the Future: Grids, Storage and Flexibility for Renewable Energy Systems”. IRENA will be held in Abu Dhabi (UAE) which is most popularly known as a country of…",
+   "type": "Conference",
+   "degrees": [],
+   "fields": [
+    "engineering"
+   ],
+   "funding": "fully_funded",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "regions": [
+    "Middle East & North Africa"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "all countries",
+   "deadline": "2026-09-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-04",
+   "prestige": false,
+   "score": 43,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "engineering"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ]
+   ],
+   "_key": "irena youth forum abu dhabi uae",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-30",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "a626f6d88b90",
+   "title": "ICYF International Media Training Camp 2026 in Turkey | Funded Program",
+   "url": "https://scholarshipscorner.website/icyf-international-media-training-camp/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "If you are a young student passionate about media and journalism and looking for an opportunity to sharpen your skills and connect with like-minded peers, then the ICYF International Media Training Camp 20256 (Journalism for Juniors) in Antalya, Türkiye, is…",
+   "type": "Summer school",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Turkey",
+   "countries": [
+    "Turkey"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-08-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-13",
+   "prestige": false,
+   "score": 43,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "type",
+     4,
+     "Summer school"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ]
+   ],
+   "_key": "icyf international media training camp turkey",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-30",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "9a71bddd17b3",
+   "title": "Fulbright Scholar Program for Pakistan 2027 in the USA | Fully Funded",
+   "url": "https://scholarshipscorner.website/fulbright-scholar-program-for-pakistan/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The Fulbright Scholar Program for Pakistan 20267 is an exceptional opportunity for those who are interested in lectureship, research, or a combination of both. This Fulbright program is a fully funded scholarship program for those who are willing to make a…",
+   "type": "Fellowship",
+   "degrees": [
+    "phd"
+   ],
+   "fields": [
+    "health"
+   ],
+   "funding": "fully_funded",
+   "country": "Pakistan",
+   "countries": [
+    "Pakistan",
+    "United States"
+   ],
+   "regions": [
+    "Asia",
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-28",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "not_required",
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": true,
+   "rolling": false,
+   "published": "2026-10-11",
+   "prestige": true,
+   "score": 40,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     9,
+     [
+      "health"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Fulbright"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "phd_only",
+     -22,
+     null
+    ],
+    [
+     "no_english_test",
+     4,
+     null
+    ]
+   ],
+   "_key": "fulbright scholar pakistan usa",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-28",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "e684be13897e",
+   "title": "Nordic Scholarship Programme In Sweden 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/nordic-scholarship-programme/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are officially open for the Nordic Scholarship Programme 2027, hosted by the Nordic Africa Institute (NAI) in Uppsala, Sweden. Designed for students and scholars engaged in Africa-focused research at institutions across Sweden, Finland, Denmark…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters",
+    "phd",
+    "postdoc"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Sweden",
+   "countries": [
+    "Sweden"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "any nationality",
+   "deadline": "2026-10-11",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-24",
+   "prestige": false,
+   "score": 39,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "nordic scholarship sweden",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-11",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "8ba14d0bec75",
+   "title": "Rotary Yoneyama Scholarship for Overseas Candidates 2027 in Japan (Fully Funded)",
+   "url": "https://opportunityportal.info/rotary-yoneyama-scholarship/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "The Rotary Yoneyama Scholarship for Overseas Candidates is a prestigious financial award designed for international postgraduate students residing outside Japan who intend to pursue higher education at Ritsumeikan Asia Pacific University (APU). Supported by…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Japan",
+   "countries": [
+    "Japan"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International Students",
+   "deadline": "2026-10-07",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "academic excellence",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-05",
+   "prestige": false,
+   "score": 39,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "rotary yoneyama scholarship overseas candidates japan",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-07",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "d5cbff246168",
+   "title": "Turin University Scholarships In Italy 2027 (Funded)",
+   "url": "https://opportunityportal.info/turin-university-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are now open for the University of Turin Scholarship 2027 in Italy, offering international students the chance to pursue a fully funded postgraduate degree in Italy. Under this Italy scholarship 2027, the University of Turin is funding 10…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Italy",
+   "countries": [
+    "Italy"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-09-08",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-24",
+   "prestige": false,
+   "score": 39,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "turin university scholarships italy",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-08",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "37f88ded4843",
+   "title": "Portugal Government Scholarships 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/portugal-government-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are now open for the Portugal Government Scholarships 2027, offering fully funded scholarships for international students across undergraduate, Master’s, and doctoral programs in one of Europe’s most culturally rich study destinations — and for…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Portugal",
+   "countries": [
+    "Portugal"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-09-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "academic excellence",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-15",
+   "prestige": false,
+   "score": 39,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "portugal government scholarships",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-30",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "ac2d868e5e22",
+   "title": "EJN Reporting Fellowship 2027 in New York, USA (Fully Funded)",
+   "url": "https://scholarshipscorner.website/ejn-reporting-fellowship-2027-usa/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Applications are open for the EJN Reporting Fellowship 2027 in New York, USA. This fully funded fellowship is for journalists and has a duration of 15 days. Selected participants will travel to New York to cover the first conference of the High Seas Treaty…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-27",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-19",
+   "prestige": false,
+   "score": 39,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "ejn reporting fellowship new york usa",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-27",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "c22491273a6f",
+   "title": "Stigler Center Journalists in Residence Program 2027 in USA (Fully Funded)",
+   "url": "https://scholarshipscorner.website/stigler-center-journalists-in-residence-program/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The Stigler Center Journalists in Residence Program 2027 in USA is launched with an aim to empower leaders in business reporting. The fully funded program invites journalists in any form of media from around the world. Selected participants will spend around…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "Additionally residents",
+   "deadline": "2026-09-20",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-26",
+   "prestige": false,
+   "score": 39,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "stigler center journalists residence usa",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-20",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "72fda583e5a9",
+   "title": "APSIG Fellowship 2026 in Taiwan (Fully Funded)",
+   "url": "https://scholarshipscorner.website/apsig-fellowship-taiwan/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The Asia Pacific School on Internet Governance (APSIG) Fellowship 2026 in Taiwan is open to individuals having a strong interest in Internet Governance. The fully funded program will bring together a group of emerging leaders from diverse backgrounds. It is…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Taiwan",
+   "countries": [
+    "Taiwan"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-08-21",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-20",
+   "prestige": false,
+   "score": 39,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "apsig fellowship taiwan",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-21",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "c8b5862b9d45",
+   "title": "Harvard Law School Fellowship in the USA 2027-28 | Fully Funded",
+   "url": "https://scholarshipscorner.website/harvard-law-school-fellowship/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Harvard Law School Fellowship in the USA is an excellent opportunity for recent law graduates who have a strong interest in legal scholarship and are preparing for a career in law teaching. If you want to become a legal scholar and law teacher, the Reginald…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-01",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-12",
+   "prestige": true,
+   "score": 39,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Harvard"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "off_topic",
+     -10,
+     null
+    ]
+   ],
+   "_key": "harvard law school fellowship usa",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-01",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "7970f7ed70cb",
+   "title": "OHCHR Indigenous Fellowship Program 2027 in Switzerland | Fully Funded",
+   "url": "https://scholarshipscorner.website/ohchr-indigenous-fellowship-program/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The OHCHR Indigenous Fellowship Program 2027 in Switzerland is designed to provide indigenous people with an opportunity to learn about the United Nations system and mechanisms dealing with human rights and the rights of Indigenous Peoples. This fully funded…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Switzerland",
+   "countries": [
+    "Switzerland"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-09-06",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-05",
+   "prestige": false,
+   "score": 39,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "ohchr indigenous fellowship switzerland",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-06",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "e41a8e0fe764",
+   "title": "IIAS Asia in the World Fellowship 2027 (Fully Funded)",
+   "url": "https://scholarshipscorner.website/iias-asia-in-the-world-fellowship/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The Asia in the World Fellowship Program is a unique, two-phase, nine-month opportunity. The first three months take place at a selected partner institution, while the remaining six months are hosted by the International Institute for Asian Studies (IIAS) in…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-09-10",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-07-22",
+   "prestige": false,
+   "score": 39,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "iias asia world fellowship",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-10",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "d66c3a95d393",
+   "title": "UNU-INWEH World Food Academy 4 Sustainable Food Systems: Free Online Learning Opportunities for Students, Researchers and Young Professionals Worldwide",
+   "url": "https://opportunitiesforyouth.org/2026/10/30/unu-inweh-world-food-academy-4-sustainable-food-systems-free-online-learning-opportunities-for-students-researchers-and-young-professionals-worldwide/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The World Food Academy 4 Sustainable Food Systems, developed by the United Nations University Institute for Water, Environment and Health (UNU-INWEH), is a global educational initiative designed to equip university students, early-career researchers and…",
+   "type": "Course",
+   "degrees": [],
+   "fields": [
+    "health",
+    "biomed",
+    "science"
+   ],
+   "funding": null,
+   "country": "Online",
+   "countries": [
+    "Online"
+   ],
+   "regions": [
+    "Online"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "Worldwide",
+   "deadline": "2026-10-16",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-30",
+   "prestige": false,
+   "score": 38,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     24,
+     [
+      "health",
+      "biomed",
+      "science"
+     ]
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "unu inweh world food academy 4 sustainable food systems online learning opportunities students researchers young professionals worldwide",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-16",
+   "reopens_intake": null
+  },
+  {
+   "id": "84afb28bfa9e",
+   "title": "CERN Doctoral Student Program 2027 in Geneva, Switzerland (Fully Funded)",
+   "url": "https://scholarshipscorner.website/cern-doctoral-student-program/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The CERN Doctoral Student Programme is a fully funded opportunity in Switzerland for research students. CERN is the European Organization for Nuclear Research where scientists and engineers explore the fundamental structure of the universe. They study the…",
+   "type": "Scholarship",
+   "degrees": [
+    "phd"
+   ],
+   "fields": [
+    "computing",
+    "science",
+    "engineering"
+   ],
+   "funding": "fully_funded",
+   "country": "Switzerland",
+   "countries": [
+    "Switzerland"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "Croatian nationals",
+   "deadline": "2026-10-16",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": true,
+   "rolling": false,
+   "published": "2026-08-19",
+   "prestige": true,
+   "score": 37,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     18,
+     [
+      "computing",
+      "science",
+      "engineering"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "CERN"
+    ],
+    [
+     "phd_only",
+     -22,
+     null
+    ]
+   ],
+   "_key": "cern doctoral student geneva switzerland",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-16",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "367e654bae5b",
+   "title": "UfM Med Youth Lab 2026 in Italy (Fully Funded)",
+   "url": "https://scholarshipscorner.website/ufm-med-youth-lab-italy/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Call for Applications for the third edition of UfM Med Youth Lab 2026 in Italy. The fully funded program is open to university students and recent graduates from different countries. UfM youth program is a skills building initiative jointly organised by The…",
+   "type": "Exchange",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Italy",
+   "countries": [
+    "Italy"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-08-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-18",
+   "prestige": false,
+   "score": 37,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ]
+   ],
+   "_key": "ufm med youth lab italy",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-30",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "5affbc7a6233",
+   "title": "Canon Collins Master & PhD Scholarships 2027 (Funded)",
+   "url": "https://opportunityportal.info/canon-collins-master-phd-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Are you a postgraduate researcher or activist in Southern Africa dedicated to driving social justice, legal reform, or educational equity? Applications are officially open for the Canon Collins RMTF Scholarships 2027. Funded by the Canon Collins Educational…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "science"
+   ],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-08-21",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-19",
+   "prestige": false,
+   "score": 36,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     6,
+     [
+      "science"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "canon collins master phd scholarships",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-21",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "3d7ce0b8ad74",
+   "title": "Commonwealth Fellowships 2027 in the UK (Fully Funded)",
+   "url": "https://scholarshipscorner.website/commonwealth-fellowships-uk/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The Commonwealth Fellowships 2027 in the UK will be offered in two categories for the session 2026-27. These fully funded programs in Uk include the current Professional Fellowship and a new Academic Fellowship category. These fellowships are designed…",
+   "type": "Fellowship",
+   "degrees": [
+    "phd"
+   ],
+   "fields": [
+    "health"
+   ],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-08-25",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": true,
+   "rolling": false,
+   "published": "2026-08-08",
+   "prestige": true,
+   "score": 36,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     9,
+     [
+      "health"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Commonwealth"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "phd_only",
+     -22,
+     null
+    ]
+   ],
+   "_key": "commonwealth fellowships uk",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-25",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "904e5e5dba6a",
+   "title": "Kochi University Scholarships In Japan 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/kochi-university-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are now open for the Kochi University of Technology Special Scholarship Program (KUT SSP) 2027 — one of Japan’s most prestigious and fully funded doctoral scholarship opportunities for international researchers — inviting highly motivated PhD…",
+   "type": "Scholarship",
+   "degrees": [
+    "phd"
+   ],
+   "fields": [
+    "data_science",
+    "computing",
+    "engineering",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Japan",
+   "countries": [
+    "Japan"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-10-16",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": true,
+   "rolling": false,
+   "published": "2026-09-17",
+   "prestige": false,
+   "score": 34,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     25,
+     [
+      "data_science",
+      "computing",
+      "engineering"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "phd_only",
+     -22,
+     null
+    ]
+   ],
+   "_key": "kochi university scholarships japan",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-16",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "0918058ed522",
+   "title": "World Bank Young Professionals Program 2027 in the USA | WBG YPP",
+   "url": "https://scholarshipscorner.website/world-bank-young-professionals-program/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "World Bank Young Professionals Program 2027 is an exceptional opportunity for youth to start their professional career in an international organization. From all over the globe and from multiple academic and professional backgrounds, the young professional is…",
+   "type": "Course",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-09-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-31",
+   "prestige": true,
+   "score": 34,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     18,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "World Bank"
+    ]
+   ],
+   "_key": "world bank young professionals usa",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-30",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "198b7c90443f",
+   "title": "NextGen ICANN88 Program 2027 in Portugal (Fully Funded)",
+   "url": "https://scholarshipscorner.website/nextgen-icann88-program-portugal/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Are you interested in shaping the future of global internet? If yes, the NextGen ICANN88 Program 2027 in Portugal is a unique opportunity for you. The fully funded program is designed to provide students guidance for engaging into the ICANN ecosystem. Three…",
+   "type": "Course",
+   "degrees": [
+    "bachelor",
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Portugal",
+   "countries": [
+    "Portugal"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-09",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-22",
+   "prestige": false,
+   "score": 33,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     2,
+     "phd"
+    ]
+   ],
+   "_key": "nextgen icann88 portugal",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-09",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "bac80e04e7d2",
+   "title": "EU Blue Book Traineeship Program 2027 | Paid Internship in Europe",
+   "url": "https://scholarshipscorner.website/eu-blue-book-traineeship-program/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The EU Blue Book Traineeship 2026 is a well-known internship programme run by the European Commission. It offers young graduates a great opportunity to learn how the European Union works. The programme promotes equal opportunities and values diversity in…",
+   "type": "Internship",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "non-EU",
+   "deadline": "2026-09-04",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-07-26",
+   "prestige": false,
+   "score": 33,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ]
+   ],
+   "_key": "eu blue book traineeship",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-04",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "eba504195772",
+   "title": "Cardiff University Scholarships 2027 | Fully Funded PhD UK",
+   "url": "https://opportunityportal.info/cardiff-university-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "The Cardiff University Scholarships 2027 offer fully funded doctoral research opportunities in the UK for both Home and international students across a wide range of academic disciplines. Primarily funded through UK Research and Innovation (UKRI) research…",
+   "type": "Scholarship",
+   "degrees": [
+    "phd"
+   ],
+   "fields": [
+    "computing",
+    "biomed",
+    "health",
+    "engineering",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-10-21",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "required",
+   "english_min": 6.5,
+   "gpa_level": "high",
+   "gpa_note": "first-class",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": true,
+   "rolling": false,
+   "published": "2026-09-29",
+   "prestige": false,
+   "score": 32,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     23,
+     [
+      "computing",
+      "biomed",
+      "health"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "phd_only",
+     -22,
+     null
+    ]
+   ],
+   "_key": "cardiff university scholarships",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-21",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "2367c5db08c0",
+   "title": "University of Sussex Pakistan Scholarship 2026-27 in UK",
+   "url": "https://scholarshipscorner.website/university-of-sussex-pakistan-scholarship/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Are you a Pakistani student who wants to pursue their studies abroad? The University of Sussex Pakistan Scholarship 2026-27 in UK can be an incredible opportunity for you. Students who have been accepted to study an eligible Masters course at Sussex…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Pakistan",
+   "countries": [
+    "Pakistan",
+    "United Kingdom"
+   ],
+   "regions": [
+    "Asia",
+    "Europe"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "for Pakistani students",
+   "deadline": "2026-09-01",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-18",
+   "prestige": false,
+   "score": 32,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     18,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "university sussex pakistan scholarship uk",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-01",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "fbc99300c10a",
+   "title": "Iceland Writers Retreat Award 2027 | Full Funding & Partial Funding",
+   "url": "https://scholarshipscorner.website/iceland-writers-retreat-award/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Iceland Writers Retreat Award 2027 is an international writing competition where writers can get a chance to win full and partial funding to attend a trip to Iceland. Anyone who loves to write is welcome to apply to the Iceland Writers Retreat. Other than…",
+   "type": "Competition",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Iceland",
+   "countries": [
+    "Iceland"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "open to all",
+   "deadline": "2026-10-15",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-04",
+   "prestige": false,
+   "score": 31,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ]
+   ],
+   "_key": "iceland writers retreat award",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-15",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "a97b7bf2295c",
+   "title": "UN Youth Townhall 2026 in Germany ( Fully Funded)",
+   "url": "https://scholarshipscorner.website/un-youth-townhall-germany/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Call for applications for the first-ever UN Youth Townhall 2026 in Germany. The fully funded youth program will bring together around 1000 participants from different backgrounds. The program aims to increase global youth engagement through young people and…",
+   "type": "Conference",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Germany",
+   "countries": [
+    "Germany"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-09-07",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-30",
+   "prestige": false,
+   "score": 31,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ]
+   ],
+   "_key": "un youth townhall germany",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-07",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "83975fd3a6d2",
+   "title": "Switzerland Writers Residency 2027 (Fully Funded)",
+   "url": "https://scholarshipscorner.website/switzerland-writers-residency/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Are you a passionate writer engaged in literary creation? If yes, the Switzerland Writers Residency 2027 offers an exclusive opportunity for you. The fully funded program is designed to support literary writers and translators. Depending on the disciplines of…",
+   "type": "Course",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Switzerland",
+   "countries": [
+    "Switzerland"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "Former residents",
+   "deadline": "2026-08-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-15",
+   "prestige": false,
+   "score": 31,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ]
+   ],
+   "_key": "switzerland writers residency",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "af90354dd514",
+   "title": "Council of Europe Training Course 2026 in France (Fully Funded)",
+   "url": "https://scholarshipscorner.website/council-of-europe-training-course/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Call for applications for the Council of Europe Training Course 2026 in France. The Council of Europe Training Course 2026 in France is a fully funded opportunity for young people working in youth organisations and civil society. The official training course…",
+   "type": "Course",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "France",
+   "countries": [
+    "France"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-08-14",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-08",
+   "prestige": false,
+   "score": 31,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ]
+   ],
+   "_key": "council europe training course france",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-14",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "c16229ce179f",
+   "title": "ASEF LinkUp Program 2026 in Slovenia (Fully Funded)",
+   "url": "https://scholarshipscorner.website/asef-linkup-program-slovenia/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "ASEF LinkUp Program 2026 in Slovenia is calling mid-career individuals from arts and cultural sector. The fully funded program will bring together cultural practitioners, arts managers, academics, curators, researchers and representatives from arts…",
+   "type": "Course",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Slovenia",
+   "countries": [
+    "Slovenia"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-08-27",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-02",
+   "prestige": false,
+   "score": 31,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ]
+   ],
+   "_key": "asef linkup slovenia",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-27",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "7f006532dfd6",
+   "title": "World Forum for Democracy 2027 in France (Fully Funded)",
+   "url": "https://scholarshipscorner.website/world-forum-for-democracy-france/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The World Forum for Democracy 2026 is a global platform that brings together political decision-makers, activists, and people from different backgrounds to discuss the future of democracy. The 2026 edition is held under the theme “Rupture or Renewal?…",
+   "type": "Conference",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "France",
+   "countries": [
+    "France"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "for Democracy Youth",
+   "deadline": "2026-08-14",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-07-30",
+   "prestige": false,
+   "score": 31,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ]
+   ],
+   "_key": "world forum democracy france",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-14",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "22e9d1793ada",
+   "title": "UN Women SAFE Project Call for Proposals 2026: Community-Led Advocacy and Digital Safety for Women and Girls in West Africa",
+   "url": "https://opportunitiesforyouth.org/2026/10/24/un-women-safe-project-call-for-proposals-2026-community-led-advocacy-and-digital-safety-for-women-and-girls-in-west-africa/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) has announced a Call for Proposals under its SAFE project, focusing on community-led advocacy and the creation of safer digital spaces for women and girls in West Africa…",
+   "type": "Grant",
+   "degrees": [],
+   "fields": [
+    "ai_ml"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-21",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": true,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-24",
+   "prestige": false,
+   "score": 29,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     18,
+     [
+      "ai_ml"
+     ]
+    ],
+    [
+     "women",
+     5,
+     null
+    ]
+   ],
+   "_key": "un women safe project proposals community led advocacy digital safety women girls west africa",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-21",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "5b391eecb42e",
+   "title": "Australia Government ARC Future Fellowships 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/arc-future-fellowships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Are you a mid-career researcher aiming to make a global impact through groundbreaking research? The Australian Government Future Fellowships 2027 (GO7921), administered by the Australian Research Council (ARC), is one of the most prestigious research funding…",
+   "type": "Fellowship",
+   "degrees": [
+    "phd",
+    "postdoc"
+   ],
+   "fields": [
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Australia",
+   "countries": [
+    "Australia"
+   ],
+   "regions": [
+    "Oceania"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-08",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": true,
+   "rolling": false,
+   "published": "2026-09-12",
+   "prestige": false,
+   "score": 29,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "phd_only",
+     -22,
+     null
+    ]
+   ],
+   "_key": "australia government arc future fellowships",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-08",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "b5345e202c1f",
+   "title": "World Bank Group Africa Fellowship Program 2027",
+   "url": "https://scholarshipscorner.website/world-bank-group-africa-fellowship-program/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Do you wish to join the World Bank Group? The World Bank Group Africa Fellowship program has been announced for students. Women are preferred to join the fellowship. This international fellowship will open multiple avenues to your career by providing you with…",
+   "type": "Fellowship",
+   "degrees": [
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "African nationals",
+   "deadline": "2026-08-25",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": true,
+   "rolling": false,
+   "published": "2026-07-26",
+   "prestige": true,
+   "score": 28,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     18,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "World Bank"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "phd_only",
+     -22,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "world bank group africa fellowship",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-25",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "ad1ec027f8da",
+   "title": "Harvard Academy Scholars Program In USA 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/harvard-academy-scholars-program/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are now open for the Harvard Academy Scholars Program 2027, one of the most sought-after fully funded postdoctoral fellowships in USA for early-career researchers. Offered by The Harvard Academy for International and Area Studies, this…",
+   "type": "Fellowship",
+   "degrees": [
+    "phd",
+    "postdoc"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-09-18",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": true,
+   "rolling": false,
+   "published": "2026-08-23",
+   "prestige": true,
+   "score": 27,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Harvard"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "phd_only",
+     -22,
+     null
+    ]
+   ],
+   "_key": "harvard academy scholars usa",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-18",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "fdf8dcadabc0",
+   "title": "One Young World Academy Leadership Course 2026 with Free Certificate",
+   "url": "https://scholarshipscorner.website/one-young-world-academy-leadership-course/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Do you want to improve your leadership skills and learn how to solve global challenges? The One Young World Academy Leadership Course 2026 is now open for registrations. The official course is called One Young World Academy: Introduction to Planetary…",
+   "type": "Course",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "health"
+   ],
+   "funding": null,
+   "country": "Online",
+   "countries": [
+    "Online"
+   ],
+   "regions": [
+    "Online"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "worldwide",
+   "deadline": "2026-08-07",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-07-22",
+   "prestige": false,
+   "score": 27,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     21,
+     [
+      "ai_ml",
+      "health"
+     ]
+    ]
+   ],
+   "_key": "one young world academy leadership course with certificate",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-08-07",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "2d03dc3a7551",
+   "title": "Coca-Cola Scholarship 2027 in USA | $20,000 Award",
+   "url": "https://scholarshipscorner.website/coca-cola-scholarship-usa/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The Coca-Cola Scholarship 2027 is now open for applications in the United States. Officially known as the Coca-Cola Scholars Program Scholarship, it supports high school students who show strong leadership and a commitment to serving others. Each selected…",
+   "type": "Competition",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "Temporary residents",
+   "deadline": "2026-09-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-09",
+   "prestige": false,
+   "score": 24,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     18,
+     null
+    ]
+   ],
+   "_key": "coca cola scholarship usa",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-30",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "e13acfb1ee50",
+   "title": "EUI Jean Monnet Fellowships in Italy 2027 (Fully Funded)",
+   "url": "https://scholarshipscorner.website/eui-jean-monnet-fellowships-italy/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The EUI Jean Monnet Fellowships in Italy 2027 are offered for one year by The Robert Schuman Centre for Advanced Studies. The fully funded fellowship in Europe 2027 is open to individuals who are post-doctorates and tenure-track academics. It is an…",
+   "type": "Fellowship",
+   "degrees": [
+    "phd"
+   ],
+   "fields": [
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Italy",
+   "countries": [
+    "Italy"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "non-EU",
+   "deadline": "2026-10-23",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": true,
+   "rolling": false,
+   "published": "2026-09-23",
+   "prestige": false,
+   "score": 23,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     6,
+     [
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "phd_only",
+     -22,
+     null
+    ]
+   ],
+   "_key": "eui jean monnet fellowships italy",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-23",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "abad785d0e8c",
+   "title": "Harpswell Leadership Residency 2027 in Cambodia | Funded",
+   "url": "https://scholarshipscorner.website/harpswell-leadership-residency-cambodia/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The Harpswell Leadership Residency 2027 in Cambodia is a unique professional development opportunity for volunteers. The funded program will take place in Harpswell’s leadership centers in Phnom Penh. During the stay, selected leadership residents (LRs) will…",
+   "type": "Opportunity",
+   "degrees": [],
+   "fields": [],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": "restricted",
+   "eligibility_note": "Leadership Residents",
+   "deadline": "2026-09-18",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-26",
+   "prestige": false,
+   "score": 22,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "paid",
+     16,
+     null
+    ]
+   ],
+   "_key": "harpswell leadership residency cambodia",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
+  {
+   "id": "0d7350497895",
+   "title": "Commonwealth PhD Scholarships 2027-28 in the UK | Fully Funded",
+   "url": "https://scholarshipscorner.website/commonwealth-phd-scholarships-in-the-uk/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Commonwealth PhD Scholarships 2027-28 is an initiative taken by the Foreign Commonwealth & Development Office (FCDO). It is a commendable opportunity for those individuals who are passionate and brilliant. Commonwealth Scholarship is an excellent option for…",
+   "type": "Scholarship",
+   "degrees": [
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-09-06",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "moderate",
+   "gpa_note": "upper second",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": true,
+   "rolling": false,
+   "published": "2026-08-08",
+   "prestige": true,
+   "score": 19,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Commonwealth"
+    ],
+    [
+     "phd_only",
+     -22,
+     null
+    ]
+   ],
+   "_key": "commonwealth phd scholarships uk",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-06",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "3f9eea107997",
+   "title": "FRRR Grants 2026: Five Funding Opportunities for Rural Communities, Youth Innovation, Climate Action and Disaster Resilience in Australia",
+   "url": "https://opportunitiesforyouth.org/2026/10/22/frrr-grants-2026-major-funding-opportunities-for-rural-regional-and-community-development-projects-in-australia/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Introduction: Explore FRRR Funding Opportunities for Rural and Regional Australia Community organisations, youth groups, not-for-profit organisations, innovators and local leaders across Australia play an important role in strengthening rural and regional…",
+   "type": "Grant",
+   "degrees": [],
+   "fields": [
+    "health"
+   ],
+   "funding": null,
+   "country": "Australia",
+   "countries": [
+    "Australia"
+   ],
+   "regions": [
+    "Oceania"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-03-24",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-22",
+   "prestige": false,
+   "score": 15,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     9,
+     [
+      "health"
+     ]
+    ]
+   ],
+   "_key": "frrr grants five funding opportunities rural communities youth innovation climate action disaster resilience australia",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-03-24",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "cdc49af2f063",
+   "title": "Global Peace Summit Greece 2026 (GPC Greece)",
+   "url": "https://scholarshipscorner.website/global-peace-summit-greece-2026/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The Global Peace Summit Greece 2026 will bring young people from different countries to Athens, Greece. The four-day summit will take place from 15 to 18 December 2026. Global Peace Chain is organizing the event for students, young professionals…",
+   "type": "Conference",
+   "degrees": [],
+   "fields": [
+    "ai_ml"
+   ],
+   "funding": "fee_based",
+   "country": "Greece",
+   "countries": [
+    "Greece"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-09-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "not_required",
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-22",
+   "prestige": false,
+   "score": 15,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     18,
+     [
+      "ai_ml"
+     ]
+    ],
+    [
+     "fee_based",
+     -13,
+     null
+    ],
+    [
+     "no_english_test",
+     4,
+     null
+    ]
+   ],
+   "_key": "global peace summit greece",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-30",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "5091bc781d9a",
+   "title": "Reporting Migration Competition 2026: How to Participate, Submission Requirements, Eligibility and Important Information",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/reporting-migration-competition-2026-how-to-participate-submission-requirements-eligibility-and-important-information/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Overview of the Reporting Migration Competition The Reporting Migration Competition is an opportunity announced through an online submission form dated 21 October 2026. The available announcement indicates that participants are expected to complete all…",
+   "type": "Competition",
+   "degrees": [],
+   "fields": [],
+   "funding": null,
+   "country": "Australia",
+   "countries": [
+    "Australia"
+   ],
+   "regions": [
+    "Oceania"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-21",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-21",
+   "prestige": false,
+   "score": 14,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "reporting migration competition how to participate submission requirements eligibility important information",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-10-21",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "5a279243bec0",
+   "title": "Australia University of Canberra Scholarships 2027 (Funded)",
+   "url": "https://opportunityportal.info/australia-university-of-canberra-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "If you’re searching for fully funded PhD scholarships in Australia that cover both tuition fees and living costs, the University of Canberra Research Scholarships 2026–2027 are among the most competitive and rewarding options available. Designed for…",
+   "type": "Scholarship",
+   "degrees": [
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Australia",
+   "countries": [
+    "Australia"
+   ],
+   "regions": [
+    "Oceania"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "Australian citizens",
+   "deadline": "2026-09-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "first-class",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": true,
+   "rolling": false,
+   "published": "2026-09-25",
+   "prestige": false,
+   "score": 9,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "phd_only",
+     -22,
+     null
+    ]
+   ],
+   "_key": "australia university canberra scholarships",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T22:10:51+00:00",
+   "reopens": "2027-09-30",
+   "reopens_intake": "2027-ay"
+  },
   {
    "id": "93e03e65bdf1",
    "title": "KAUST Photonics Summer Camp 2026 in Saudi Arabia | Fully Funded",
