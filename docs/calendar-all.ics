@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:af2fd9a49d4c@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Deadline: Kyungpook National University (KNU) Scholarships 2027 in 
@@ -21,7 +21,7 @@ DESCRIPTION:https://opportunityportal.info/kyungpook-national-university-kn
  rsity (KNU) Scholarships 2027 offer excellent fully funded and partially f
  unded scholarships in South Korea for international students at undergradu
  ate\, Master’s\, and Doctoral levels. Designed to attract high-achieving
-  global…
+  global…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -38,7 +38,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:90daee69d5ac@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Deadline: University of Tokyo MEXT Scholarship 2027 | Fully Funded 
@@ -49,7 +49,7 @@ DESCRIPTION:https://www.scholarshipsads.com/university-of-tokyo-mext-schola
  027 | Fully Funded Scholarship in Japan Fully Funded University of Tokyo M
  asters\, PhD International Students Japan University of Tokyo MEXT Scholar
  ship 2027 | Fully Funded Scholarship in Japan The University of Tokyo MEXT
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:951a4e8960a1@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Deadline: IDM-Africa Fellowship Programme in Infectious Disease Mod
@@ -80,7 +80,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/24/idm-africa-fellows
  ellowship Programme in Infectious Disease Modelling 2026 is an opportunity
   for qualified early- and mid-career scientists in sub-Saharan Africa to s
  trengthen their expertise in infectious-disease modelling\, conduct applie
- d research and develop…
+ d research and develop…\nhttps://malakbattat.github.io/opportunity-radar
+ /
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -97,7 +98,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cbf033752d52@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Deadline: International Growth Centre (IGC) Jobs 2026: Paid Economi
@@ -111,7 +112,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/22/international-grow
  Centre (IGC) Jobs 2026 offer experienced economists\, researchers and poli
  cy professionals an opportunity to contribute to evidence-based economic p
  olicymaking and development research through three paid positions in Jorda
- n and South…
+ n and South…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -128,7 +129,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5f2815bd96e3@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Deadline: Chonnam National University Scholarships 2027 in South Ko
@@ -140,7 +141,7 @@ DESCRIPTION:https://opportunityportal.info/chonnam-national-university-scho
  Scholarships 2027 offer support options for international applicants to CN
  U’s Spring 2027 graduate intake\, providing full or partial tuition waiv
  ers for selected Master’s\, PhD\, and integrated programs. These South K
- orea…
+ orea…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -157,7 +158,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:25a56e113248@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Deadline: 20 Fully Funded European Scholarships for International S
@@ -167,7 +168,8 @@ DESCRIPTION:https://opportunityportal.info/fully-funded-european-scholarshi
  ps/\nScore 39/100 · Scholarship\nAre you an international student dreamin
  g of advancing your higher education without financial burden? Securing a 
  fully funded education abroad is entirely possible when you target the rig
- ht opportunities. This comprehensive guide highlights some of the best…
+ ht opportunities. This comprehensive guide highlights some of the best…\
+ nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -184,7 +186,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b8ab65346b8c@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Deadline: South Korea Government Global Korea Scholarship (GKS-U) 2
@@ -194,7 +196,7 @@ URL:https://www.scholarshipsads.com/south-korea-government-global-korea-sch
 DESCRIPTION:https://www.scholarshipsads.com/south-korea-government-global-k
  orea-scholarship-gks-u-2026-fully-funded-29april2026\nScore 38/100 · Scho
  larship\nKorean government undergraduate scholarship including language tr
- aining year.
+ aining year.\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -211,7 +213,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6c01c1ea585a@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Deadline: Pierre Elliott Trudeau Foundation Scholarship 2027 in Can
@@ -223,7 +225,7 @@ DESCRIPTION:https://opportunityportal.info/pierre-elliott-trudeau-foundatio
   the Pierre Elliott Trudeau Foundation Scholarship 2027 in Canada\, a pres
  tigious fully funded doctoral scholarship for outstanding PhD students in 
  humanities and social sciences. This Canada PhD scholarship 2027 stands ou
- t among…
+ t among…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -240,7 +242,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:26869496177f@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Deadline: Research Fellows Program 2026–2027: Apply for a Nine-Mo
@@ -254,7 +256,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/21/research-fellows-p
  llows Program 2026–2027 offers a research-focused opportunity to explore
   how higher education institutions across Africa can initiate\, implement\
  , and sustain meaningful systems-level transformation. The program is cent
- ered on the role of…
+ ered on the role of…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -271,7 +273,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9a6d7a922f29@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Deadline: Mastercard Foundation Scholarships 2026–2027: Fully Fun
@@ -286,7 +288,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/28/mastercard-foundat
  he Mastercard Foundation Scholars Program offers educational and professio
  nal development opportunities to talented young people who face significan
  t financial\, social\, or economic barriers to accessing higher education.
-  Through partnerships with…
+  Through partnerships with…\nhttps://malakbattat.github.io/opportunity-r
+ adar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -305,7 +308,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:42d2d5a84533@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Deadline: DAAD Scholarship in Germany 2027 (Fully Funded)
@@ -314,7 +317,8 @@ DESCRIPTION:https://opportunityportal.info/daad-scholarship-2026/\nScore 80
  /100 · Scholarship\nApplications are now open for the DAAD Scholarship 20
  27 in Germany — one of the world’s most prestigious and widely recogni
  sed fully funded international scholarships\, generously funded by the Fed
- eral Ministry for Economic Cooperation and Development (BMZ)…
+ eral Ministry for Economic Cooperation and Development (BMZ)…\nhttps://m
+ alakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -329,7 +333,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c401fb4e738c@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Deadline: University of Tokyo Japanese Government (MEXT) Scholarshi
@@ -341,7 +345,7 @@ DESCRIPTION:https://opportunityportal.info/university-of-tokyo-japanese-gov
  en for the University of Tokyo Recommended MEXT Scholarship 2027 — a pre
  stigious and fully funded government scholarship in Japan offering outstan
  ding international students the rare opportunity to pursue Master’s and 
- PhD degrees at one…
+ PhD degrees at one…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -358,7 +362,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0117c1974d1b@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Deadline: World Vasectomy Day (WVD) Zambia Country Director Job 202
@@ -372,7 +376,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/23/world-vasectomy-da
  leader in public health\, international development\, social programmes\, 
  or health systems management looking for a senior leadership opportunity i
  n Zambia? World Vasectomy Day (WVD) is inviting applications for the posit
- ion of Zambia…
+ ion of Zambia…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -391,7 +395,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c6066fd0218f@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Deadline: University of Brunei Darussalam UBD Graduate Scholarship 
@@ -401,7 +405,8 @@ DESCRIPTION:https://opportunityportal.info/ubd-graduate-scholarships/\nScor
  e 62/100 · Scholarship\nApplications are now open for the University of B
  runei Darussalam (UBD) Graduate Scholarship 2027\, one of the most competi
  tive fully funded Brunei postgraduate scholarships for international stude
- nts. Backed by Brunei’s premier research university\, this UBD…
+ nts. Backed by Brunei’s premier research university\, this UBD…\nhttps
+ ://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -418,14 +423,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0aa0b8003846@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Expected deadline: OIST Research Internship Program
 URL:https://admissions.oist.jp/oist-research-internship-program-description
 DESCRIPTION:https://admissions.oist.jp/oist-research-internship-program-des
  cription\nScore 58/100 · Research\n2–6 month research program in Japan\
- ; includes stipend\, housing\, and travel support
+ ; includes stipend\, housing\, and travel support\nhttps://malakbattat.git
+ hub.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -440,7 +446,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dd90bf748ee3@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Deadline: Honjo International Scholarship 2027 in Japan
@@ -451,7 +457,7 @@ DESCRIPTION:https://www.scholarshipsads.com/honjo-japan-scholarships-for-in
  olarship 2027 in Japan Partial Funding Japan Universities Masters\, PhD Al
  l Subjects International Students Japan Deadline: 31 Oct 2026 Partial Fund
  ing Japan Universities Masters\, PhD All Subjects International Students J
- apan Deadline…
+ apan Deadline…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -466,7 +472,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c58432374ef3@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Deadline: INPEX Scholarship In Japan 2027 (Fully Funded)
@@ -475,7 +481,8 @@ DESCRIPTION:https://opportunityportal.info/inpex-scholarship-in-japan/\nSco
  re 45/100 · Scholarship\nAre you a talented graduate from Indonesia\, Aus
  tralia\, or the UAE dreaming of a fully funded master’s degree in Japan?
   The INPEX Scholarship 2027 opens a powerful gateway: generous financial s
- upport\, cultural immersion\, and academic flexibility designed to…
+ upport\, cultural immersion\, and academic flexibility designed to…\nhtt
+ ps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -490,7 +497,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e041f7c35d63@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Deadline: JPMorganChase 2027 Marketing Leadership Development Progr
@@ -504,7 +511,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/26/jpmorganchase-2027
  iversity student approaching graduation and looking to launch a career in 
  marketing? The JPMorganChase 2027 Marketing Leadership Development Program
   (MLDP) offers eligible graduates an opportunity to gain practical marketi
- ng experience\, develop…
+ ng experience\, develop…\nhttps://malakbattat.github.io/opportunity-rada
+ r/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -521,7 +529,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:70e2cc3300e7@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Deadline: PATH Global Health Strategy Intern 2026: Paid Remote Inte
@@ -535,7 +543,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/22/path-global-health
  al health sector depends on strong partnerships\, innovative research\, an
  d strategic investments to address some of the world’s most pressing hea
  lthcare challenges. For students and emerging professionals seeking practi
- cal experience in global health…
+ cal experience in global health…\nhttps://malakbattat.github.io/opportun
+ ity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -554,7 +563,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fcc4c1887e24@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Deadline: BioPREVAIL × CEPI Biosecurity Innovation Challenge 2026:
@@ -569,7 +578,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/22/bioprevail-x-cepi-
  oduction: A Global Opportunity to Strengthen Laboratory Biosafety and Bios
  ecurity Organisations\, research teams\, startups\, laboratories\, and inn
  ovators worldwide have an opportunity to develop practical solutions that 
- strengthen laboratory biosafety and…
+ strengthen laboratory biosafety and…\nhttps://malakbattat.github.io/oppo
+ rtunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -588,7 +598,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:88e975ad8958@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Deadline: Girl Up Project Awards 2026: Apply for Up to US$1\,000 to
@@ -602,7 +612,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/21/girl-up-project-aw
  st with an idea for promoting gender justice in your community? Are you lo
  oking for funding and mentorship to turn your ideas into meaningful action
  ? The Girl Up Project Awards 2026 offer an opportunity for individuals\, y
- outh-led…
+ outh-led…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -619,7 +629,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:780ddc77f047@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Deadline: Show Us Your India Photo Contest 2026: Submit Unpublished
@@ -633,7 +643,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/26/show-us-your-india
  ur India Photo Contest invites photographers across India to capture and s
  hare compelling images that demonstrate how climate change affects people\
  , communities\, nature and everyday life. Organised through the United Nat
- ions information and…
+ ions information and…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -650,7 +660,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6ce441605b47@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Deadline: ICON•S Winter/Summer School for Junior Scholars 2027 in
@@ -665,7 +675,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/27/icons-winter-summe
   International Society of Public Law (ICON•S) has announced a call for a
  pplications for the fifth edition of its Winter/Summer School for Junior S
  cholars\, scheduled to take place from 17 to 27 May 2027 in Sydney\, Austr
- alia. The program is designed to…
+ alia. The program is designed to…\nhttps://malakbattat.github.io/opportu
+ nity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -684,7 +695,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:76179f4f5f2f@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Deadline: EPFL E3 Summer Internship 2027 in Switzerland | Funded
@@ -693,7 +704,8 @@ DESCRIPTION:https://scholarshipscorner.website/epfl-e3-summer-internship/\n
  Score 68/100 · Internship\nCall for applications for the EPFL E3 Summer I
  nternship 2027 in Switzerland. Offered by EPFL\, the fully funded internsh
  ip program will take place in different research laboratories. The duratio
- n of the internship in europe for international students is or a…
+ n of the internship in europe for international students is or a…\nhttps
+ ://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -710,7 +722,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:432c6cc55e4e@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Deadline: NPU Chinese Government Scholarships 2027 in China (Fully 
@@ -721,7 +733,7 @@ DESCRIPTION:https://opportunityportal.info/npu-chinese-government-scholarsh
  e NPU Chinese Government Scholarships 2027 (CSC Scholarship Type B). Funde
  d by the Ministry of Education of the People’s Republic of China\, this 
  prestigious award offers international students a fully funded scholarship
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -738,7 +750,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2a11cd6c24c5@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Deadline: Open Doors Russian Scholarship 2027 | Study in Russia
@@ -747,7 +759,8 @@ DESCRIPTION:https://scholarshipscorner.website/open-doors-russian-scholarsh
  ip/\nScore 59/100 · Scholarship\nThe Open Doors Russian Scholarship 2027 
  is a golden opportunity for international students who dream of studying i
  n Russia. Organized by the Association of Global Universities with the sup
- port of the Russian Government\, this scholarship allows students to…
+ port of the Russian Government\, this scholarship allows students to…\nh
+ ttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -762,7 +775,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:88484ca0ef37@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Deadline: Duke University Karsh Scholarships In USA 2027 (Fully Fun
@@ -773,6 +786,7 @@ DESCRIPTION:https://opportunityportal.info/duke-university-karsh-scholarshi
  niversity Karsh International Scholarships 2027—one of the most competit
  ive fully funded USA international scholarships designed to support outsta
  nding global scholars. Established in 2010 through a generous endowment…
+ \nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -789,7 +803,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6a705ff5f648@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Deadline: UNIL Master’s Grants Scholarships In Switzerland 2027 (
@@ -799,7 +813,8 @@ DESCRIPTION:https://opportunityportal.info/unil-masters-grants-scholarship/
  \nScore 41/100 · Grant\nApplication is invited to apply for UNIL Master
  ’s Grants Scholarships In Switzerland 2027. Masters scholarships are sch
  olarships for excellence awarded exclusively to students who have graduate
- d from a foreign university and whose academic results are of a…
+ d from a foreign university and whose academic results are of a…\nhttps:
+ //malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -816,7 +831,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:71044cca599d@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Deadline: University of Miami Stamps Scholarship In USA 2027 (Fully
@@ -826,7 +841,8 @@ DESCRIPTION:https://opportunityportal.info/university-of-miami-scholarship/
  \nScore 39/100 · Scholarship\nApplications are now open to apply for the 
  University of Miami Stamps Scholarship 2027 in the USA — a fully funded 
  undergraduate scholarship for international students. This prestigious mer
- it-based award is the most competitive scholarship offered by the…
+ it-based award is the most competitive scholarship offered by the…\nhttp
+ s://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -843,7 +859,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:be1fbddb9b3e@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Deadline: UNU Junior Fellows Internship 2027 in Japan (Paid UN Inte
@@ -854,7 +870,7 @@ DESCRIPTION:https://scholarshipscorner.website/unu-junior-fellows-internshi
  nior Fellows Internship in Japan. Offered by the United Nations University
  \, this paid internship program will take place for 6 months at the UNU he
  adquarters in Tokyo\, Japan. Along with receiving a monthly stipend to cov
- er…
+ er…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -871,7 +887,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e2d191e29c10@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Deadline: Asian Development Bank Junior Water Resources Specialist 
@@ -885,7 +901,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/26/asian-development-
  ADB) is offering an exciting international development opportunity for ear
  ly-career professionals interested in water resources engineering\, climat
  e resilience\, reservoir development\, irrigation systems\, dam safety\, a
- nd sustainable…
+ nd sustainable…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -902,7 +918,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9f5375884531@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Deadline: University of Westminster Scholarships 2027 In UK (Fully 
@@ -914,7 +930,7 @@ DESCRIPTION:https://opportunityportal.info/university-of-westminster-schola
  K for free at a top-ranked university in London? The University of Westmin
  ster Scholarships in the UK offer a fully funded opportunity for internati
  onal students to pursue Undergraduate and Postgraduate degrees without fin
- ancial…
+ ancial…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -931,7 +947,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:96a7921b764b@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Deadline: Fulbright Foreign Student Scholarship 2027 in USA (Fully 
@@ -942,6 +958,7 @@ DESCRIPTION:https://opportunityportal.info/fulbright-foreign-student-schola
  bright Foreign Student Program 2027\, one of the most prestigious fully fu
  nded USA scholarships for international students seeking to pursue Master
  ’s and Ph.D. degrees in the United States. With over 4\,000 Fulbright…
+ \nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -958,7 +975,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:490628447599@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Deadline: Georg Arnhold Senior Fellowship 2028 in Germany | Fully F
@@ -968,7 +985,8 @@ DESCRIPTION:https://scholarshipscorner.website/georg-arnhold-senior-fellows
  hip/\nScore 59/100 · Fellowship\nCall for applications for the Georg Arnh
  old Senior Fellowship 2028 in Germany. Offered by the Leibniz Institute fo
  r Educational Media\, the fully funded fellowship will take place for 6 mo
- nths in Brunswick\, Germany. In addition to covering return travelling…
+ nths in Brunswick\, Germany. In addition to covering return travelling…\
+ nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -985,7 +1003,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3a1a47672622@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Deadline: UNIDIR Research Consultant and Associate Researcher Jobs 
@@ -1000,7 +1018,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/23/unidir-research-co
  United Nations Institute for Disarmament Research (UNIDIR) is inviting app
  lications for two temporary consultancy and research positions under its M
  anaging Exits from Armed Conflict (MEAC) Project. These opportunities are 
- designed for qualified…
+ designed for qualified…\nhttps://malakbattat.github.io/opportunity-radar
+ /
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1019,7 +1038,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:89941cc0e170@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Deadline: Imperial College London President’s Scholarship 2027 (F
@@ -1030,7 +1049,7 @@ DESCRIPTION:https://opportunityportal.info/imperial-college-presidents-scho
  perial College London Doctoral Scholarships 2027 for international student
  s. This is a fully funded PhD scholarship in the UK designed for outstandi
  ng students worldwide. Applicants of any nationality are encouraged to app
- ly…
+ ly…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1047,7 +1066,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a44a925bf542@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Deadline: George Moore Scholars Programme 2026: Scholarships for St
@@ -1061,7 +1080,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/21/george-moore-schol
  cholars Programme 2026 offers an opportunity for academically talented stu
  dents and recent graduates from across the island of Ireland to pursue a m
  aster’s degree at leading universities in the United States\, Canada\, t
- he United Kingdom\, and…
+ he United Kingdom\, and…\nhttps://malakbattat.github.io/opportunity-rada
+ r/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1078,7 +1098,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2443d2fda161@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Deadline: FAO World Food Forum Internship Programme 2026 in Italy: 
@@ -1090,7 +1110,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/21/join-the-world-foo
  nScore 52/100 · Internship\nThe Food and Agriculture Organization of the 
  United Nations (FAO) is inviting eligible students and recent graduates to
   apply for its World Food Forum (WFF) Internship Programme 2026 at FAO hea
- dquarters in Rome\, Italy. This opportunity is designed for young…
+ dquarters in Rome\, Italy. This opportunity is designed for young…\nhttp
+ s://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1107,7 +1128,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:853015468b46@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Deadline: APU MEXT University Recommendation Scholarship 2027 in Ja
@@ -1119,7 +1140,7 @@ DESCRIPTION:https://scholarshipscorner.website/apu-mext-university-recommen
  y Recommendation Scholarship 2027 is a fully funded scholarship program in
   Japan that is awarded to outstanding international students who are recom
  mended by Ritsumeikan Asia Pacific University (APU). It is offered by the 
- Japanese Ministry…
+ Japanese Ministry…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1136,7 +1157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eee0668614a6@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Deadline: Asia Pacific University Japanese Government Scholarship 2
@@ -1148,7 +1169,7 @@ DESCRIPTION:https://opportunityportal.info/asia-pacific-university-japanese
  vited to apply for the Asia Pacific University (APU) MEXT Recommended Japa
  nese Government Scholarship 2027\, a fully funded Japan scholarship for in
  ternational students. This prestigious program allows students to pursue f
- ull Bachelor’s…
+ ull Bachelor’s…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1165,7 +1186,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ee61cffac1b4@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Deadline: Global Leadership Challenge 2026 | Chance to Visit Switze
@@ -1175,7 +1196,8 @@ DESCRIPTION:https://scholarshipscorner.website/global-leadership-challenge/
  \nScore 48/100 · Competition\nopen for the Global Leadership Challenge (G
  LC) 2026\, welcoming students and young professionals worldwide. The Unive
  rsity of Oxford and the St. Gallen Symposium have launched the Global Lead
- ership Challenge. Their mission is to empower young leaders so that…
+ ership Challenge. Their mission is to empower young leaders so that…\nht
+ tps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1192,7 +1214,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0bf450653988@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Deadline: Foreign Policy for America NextGen Initiative 2027: Apply
@@ -1206,7 +1228,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/21/foreign-policy-for
  a young professional\, policy expert\, activist\, or emerging leader inter
  ested in international relations\, diplomacy\, national security\, democra
  cy\, or global development? The Foreign Policy for America NextGen Initiat
- ive is inviting applications for its…
+ ive is inviting applications for its…\nhttps://malakbattat.github.io/opp
+ ortunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1225,7 +1248,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7821e281a783@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Deadline: Junior Summer Institute 2027 in the USA | Fully Funded
@@ -1234,7 +1257,8 @@ DESCRIPTION:https://scholarshipscorner.website/junior-summer-institute-usa/
  \nScore 47/100 · Course\nThe Junior Summer Institute (JSI) 2027 in the US
  A is offered to upcoming public policy leaders through the PPIA Fellowship
  . Along with lifelong membership in PPIA’s Alumni Network\, this interna
- tional fellowship includes a comprehensive and graduate school…
+ tional fellowship includes a comprehensive and graduate school…\nhttps:/
+ /malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1251,7 +1275,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f9c7dc65d3f8@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Deadline: Youth4Climate Services Innovation Hackathon 2026
@@ -1262,7 +1286,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/29/youth4climate-serv
  tors across Eastern Africa are being invited to showcase climate-focused t
  echnologies and digital solutions through the Youth4Climate Services Innov
  ation Hackathon 2026\, a regional initiative organized by the IGAD Climate
-  Prediction and…
+  Prediction and…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1277,7 +1301,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:841562c29c10@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Deadline: 9 Asian Development Bank (ADB) Consultancy Jobs in Gender
@@ -1291,7 +1315,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/29/9-asian-developmen
  ting qualified consultants to apply for nine consultancy opportunities sup
  porting gender equality\, women’s empowerment\, institutional capacity d
  evelopment\, communications\, and sector-specific development initiatives
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1308,7 +1332,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bb8d58478678@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Deadline: UKUDLA Master’s Scholarships 2027 in South Africa: DAAD
@@ -1323,7 +1347,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/24/ukudla-masters-sch
  \nUKUDLA Master’s Scholarships 2027 in South The African German Centre f
  or Sustainable and Resilient Food Systems and Applied Agricultural and Foo
  d Data Science (UKUDLA) is inviting applications for its Cohort 3 Master
- ’s Scholarship programme for African…
+ ’s Scholarship programme for African…\nhttps://malakbattat.github.io/o
+ pportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1342,7 +1367,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7e32f20d8cb2@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Deadline: IOM Ghana Procurement Opportunities 2026: Technical Assis
@@ -1356,7 +1381,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/23/iom-ghana-procurem
  rganization for Migration (IOM) provides procurement opportunities for ven
  dors\, companies\, consultants\, and service providers interested in suppo
  rting its humanitarian\, development\, and migration-related activities. T
- hrough its procurement…
+ hrough its procurement…\nhttps://malakbattat.github.io/opportunity-radar
+ /
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1373,7 +1399,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:805a233c67f9@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Deadline: USTC Winter Camp 2027 in China – Fully Funded Scholarsh
@@ -1383,7 +1409,8 @@ DESCRIPTION:https://scholarshipscorner.website/ustc-winter-camp-china/\nSco
  re 63/100 · Summer school\nApplications for USTC Winter Camp in China 202
  7 are now open. This International Winter Camp is offered by The Universit
  y of Science and Technology of China. The program will include Chinese lan
- guage courses where students will have the experience of learning…
+ guage courses where students will have the experience of learning…\nhttp
+ s://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1400,7 +1427,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9e117454e381@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Deadline: Atlantic Council GeoEconomics Center Spring 2027 Internsh
@@ -1414,7 +1441,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/24/atlantic-council-g
  l GeoEconomics Center Spring 2027 Young Global Professionals Program offer
  s an opportunity for university students and recent graduates interested i
  n international economics\, finance\, public policy\, and global affairs t
- o gain practical…
+ o gain practical…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1427,42 +1454,11 @@ ACTION:DISPLAY
 TRIGGER:-P1D
 DESCRIPTION:Deadline: Atlantic Council GeoEconomics Center Spring 2027 Inte
  rnship: Paid Young Global Professionals Program in Washington\, DC
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:d02906a31cef@opportunity-radar
-DTSTAMP:20261030T221051Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:Deadline: World Bank Group MNA Fellows Program 2027: Fellowship Opp
- ortunities for Saudi Arabian and Kuwaiti Nationals
-URL:https://opportunitiesforyouth.org/2026/10/26/world-bank-group-mna-fello
- ws-program-2027-fellowship-opportunities-for-saudi-arabian-and-kuwaiti-nat
- ionals/
-DESCRIPTION:https://opportunitiesforyouth.org/2026/10/26/world-bank-group-m
- na-fellows-program-2027-fellowship-opportunities-for-saudi-arabian-and-kuw
- aiti-nationals/\nScore 57/100 · Fellowship\nThe World Bank Group MNA Fell
- ows Program offers an opportunity for qualified professionals from Saudi A
- rabia and Kuwait to strengthen their expertise\, develop leadership capabi
- lities\, and contribute to international development through assignments a
- cross…
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P7D
-DESCRIPTION:Deadline: World Bank Group MNA Fellows Program 2027: Fellowship
-  Opportunities for Saudi Arabian and Kuwaiti Nationals
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P1D
-DESCRIPTION:Deadline: World Bank Group MNA Fellows Program 2027: Fellowship
-  Opportunities for Saudi Arabian and Kuwaiti Nationals
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a5dd1508b003@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Deadline: Atlantic Council Eurasia Center Spring 2027 Young Global 
@@ -1476,7 +1472,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/25/atlantic-council-e
  enter Spring 2027 Young Global Professionals Program offers an exciting op
  portunity for university students\, graduate students\, and recent graduat
  es interested in international affairs\, geopolitics\, foreign policy\, re
- search\, and…
+ search\, and…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1493,7 +1489,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e41d29cb819d@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Deadline: UNDP Online Volunteer Opportunity 2026: 12 Research Suppo
@@ -1507,7 +1503,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/30/undp-online-volunt
  oduction The United Nations Development Programme (UNDP)\, through its Bio
  diversity and Ecosystem Services Network (BES-Net)\, is inviting applicati
  ons from motivated and research-oriented individuals for an exciting onlin
- e volunteering opportunity focused…
+ e volunteering opportunity focused…\nhttps://malakbattat.github.io/oppor
+ tunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1525,8 +1522,39 @@ DESCRIPTION:Deadline: UNDP Online Volunteer Opportunity 2026: 12 Research S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:d02906a31cef@opportunity-radar
+DTSTAMP:20261030T231238Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Deadline: World Bank Group MNA Fellows Program 2027: Fellowship Opp
+ ortunities for Saudi Arabian and Kuwaiti Nationals
+URL:https://opportunitiesforyouth.org/2026/10/26/world-bank-group-mna-fello
+ ws-program-2027-fellowship-opportunities-for-saudi-arabian-and-kuwaiti-nat
+ ionals/
+DESCRIPTION:https://opportunitiesforyouth.org/2026/10/26/world-bank-group-m
+ na-fellows-program-2027-fellowship-opportunities-for-saudi-arabian-and-kuw
+ aiti-nationals/\nScore 9/100 · Fellowship\nThe World Bank Group MNA Fello
+ ws Program offers an opportunity for qualified professionals from Saudi Ar
+ abia and Kuwait to strengthen their expertise\, develop leadership capabil
+ ities\, and contribute to international development through assignments ac
+ ross…\nhttps://malakbattat.github.io/opportunity-radar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Deadline: World Bank Group MNA Fellows Program 2027: Fellowship
+  Opportunities for Saudi Arabian and Kuwaiti Nationals
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Deadline: World Bank Group MNA Fellows Program 2027: Fellowship
+  Opportunities for Saudi Arabian and Kuwaiti Nationals
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:d04f0092c240@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Deadline: EPFL AI Center and Swiss AI Initiative Postdoctoral Fello
@@ -1540,7 +1568,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/27/epfl-ai-center-and
  PFL AI Center and Swiss AI Initiative Postdoctoral Fellowships 2026 offer 
  an exciting opportunity for outstanding early-career researchers to advanc
  e artificial intelligence research in Switzerland. Hosted by the École po
- lytechnique fédérale de Lausanne…
+ lytechnique fédérale de Lausanne…\nhttps://malakbattat.github.io/oppor
+ tunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1559,7 +1588,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0a060dd5d1df@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Deadline: Uppsala University Fully Funded PhD Positions in Peace an
@@ -1573,7 +1602,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/24/uppsala-university
  s inviting applications for two fully funded PhD positions in Peace and Co
  nflict Research under the European Union-funded Doctoral Network: Democrat
  ic Institutions and Violence Network in Europe (DIViNE). The positions off
- er…
+ er…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1590,7 +1619,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8c2ba5e53bf8@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Deadline: UNDP Internship in Effective Development Cooperation 2026
@@ -1604,7 +1633,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/30/undp-internship-in
  nt Programme (UNDP) is inviting applications for its Internship in Effecti
  ve Development Cooperation\, offering an opportunity for eligible universi
  ty students and recent graduates to gain professional experience in intern
- ational…
+ ational…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1621,7 +1650,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a9b777e81b98@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Deadline: UNICEF Communications and Marketing Associate Volunteer A
@@ -1635,7 +1664,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/29/unicef-communicati
  ns\, marketing\, public relations\, or digital media professional looking 
  for an opportunity to contribute to the work of the United Nations? The Un
  ited Nations Children’s Fund (UNICEF) is offering a Communications and M
- arketing Associate…
+ arketing Associate…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1652,7 +1681,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bacb5a2a5982@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Deadline: Council of Europe Development Bank (CEB) Paid Internship 
@@ -1667,7 +1696,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/27/council-of-europe-
  · Internship\nThe Council of Europe Development Bank (CEB) is offering a 
  range of internship opportunities for eligible students and recent graduat
  es seeking professional experience in an international financial instituti
- on. Based in Paris\, France\, the programme provides…
+ on. Based in Paris\, France\, the programme provides…\nhttps://malakbatt
+ at.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1686,7 +1716,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0c0ee173422d@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Deadline: WomenLeaders India Fellowship 2026–27: Fully Funded Lea
@@ -1700,7 +1730,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/24/womenleaders-india
  026–27\, powered by Reliance Foundation in partnership with Vital Voices
   Global Partnership\, is offering an exciting opportunity for Indian women
   leaders who are committed to driving social change\, advancing women’s
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1717,7 +1747,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1a2acc924429@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Deadline: U.S. Chamber of Commerce Internship Program 2027: Apply f
@@ -1729,7 +1759,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/25/opportunity-u-s-ch
  ip\nIntroduction to the U.S. Chamber of Commerce Internship Program 2027 A
  re you a student or aspiring young professional looking for an internship 
  that offers practical work experience\, professional development\, and net
- working opportunities? The U.S. Chamber of…
+ working opportunities? The U.S. Chamber of…\nhttps://malakbattat.github.
+ io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1744,45 +1775,11 @@ TRIGGER:-P1D
 DESCRIPTION:Deadline: U.S. Chamber of Commerce Internship Program 2027: App
  ly for Spring Internships in Research\, Communications\, Policy and Busine
  ss
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ca18172ba988@opportunity-radar
-DTSTAMP:20261030T221051Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Deadline: Columbia University HBCU Fellowship Program 2027: Full Tu
- ition Scholarship\, Student Housing\, Stipend and Mentorship for HBCU Grad
- uates
-URL:https://opportunitiesforyouth.org/2026/10/28/columbia-university-hbcu-f
- ellowship-program-2027-full-tuition-scholarship-student-housing-stipend-an
- d-mentorship-for-hbcu-graduates/
-DESCRIPTION:https://opportunitiesforyouth.org/2026/10/28/columbia-universit
- y-hbcu-fellowship-program-2027-full-tuition-scholarship-student-housing-st
- ipend-and-mentorship-for-hbcu-graduates/\nScore 86/100 · Fellowship\nThe 
- Columbia University HBCU Fellowship Program for Fall 2027 offers eligible 
- seniors and recent graduates of Historically Black Colleges and Universiti
- es (HBCUs) an opportunity to pursue a Master of Science degree at Columbia
-  University in New York City…
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P7D
-DESCRIPTION:Deadline: Columbia University HBCU Fellowship Program 2027: Ful
- l Tuition Scholarship\, Student Housing\, Stipend and Mentorship for HBCU 
- Graduates
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P1D
-DESCRIPTION:Deadline: Columbia University HBCU Fellowship Program 2027: Ful
- l Tuition Scholarship\, Student Housing\, Stipend and Mentorship for HBCU 
- Graduates
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5dad61792f33@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Deadline: Morgan Stanley 2027 Sustainable Finance Fellowship Progra
@@ -1796,7 +1793,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/29/morgan-stanley-202
  27 Sustainable Finance Fellowship Program is an opportunity for current gr
  aduate students interested in sustainable investing\, financial markets\, 
  environmental and social impact\, and responsible economic growth. Based i
- n New York City…
+ n New York City…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1812,8 +1809,43 @@ DESCRIPTION:Deadline: Morgan Stanley 2027 Sustainable Finance Fellowship Pr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ca18172ba988@opportunity-radar
+DTSTAMP:20261030T231238Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Deadline: Columbia University HBCU Fellowship Program 2027: Full Tu
+ ition Scholarship\, Student Housing\, Stipend and Mentorship for HBCU Grad
+ uates
+URL:https://opportunitiesforyouth.org/2026/10/28/columbia-university-hbcu-f
+ ellowship-program-2027-full-tuition-scholarship-student-housing-stipend-an
+ d-mentorship-for-hbcu-graduates/
+DESCRIPTION:https://opportunitiesforyouth.org/2026/10/28/columbia-universit
+ y-hbcu-fellowship-program-2027-full-tuition-scholarship-student-housing-st
+ ipend-and-mentorship-for-hbcu-graduates/\nScore 38/100 · Fellowship\nThe 
+ Columbia University HBCU Fellowship Program for Fall 2027 offers eligible 
+ seniors and recent graduates of Historically Black Colleges and Universiti
+ es (HBCUs) an opportunity to pursue a Master of Science degree at Columbia
+  University in New York City…\nhttps://malakbattat.github.io/opportunity
+ -radar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Deadline: Columbia University HBCU Fellowship Program 2027: Ful
+ l Tuition Scholarship\, Student Housing\, Stipend and Mentorship for HBCU 
+ Graduates
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Deadline: Columbia University HBCU Fellowship Program 2027: Ful
+ l Tuition Scholarship\, Student Housing\, Stipend and Mentorship for HBCU 
+ Graduates
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:d260bfbf848e@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Deadline: USDA Internship Program 2027 in the USA | Volunteer Inter
@@ -1823,7 +1855,8 @@ DESCRIPTION:https://scholarshipscorner.website/usda-internship-program-usa/
  \nScore 27/100 · Internship\nCall for applications for the USDA Internshi
  p Program 2027. The duration of the internship is 14 weeks and it will tak
  e palce in Washington\, D.C. The is a great opportunity to gain practical 
- experience in public service. The program is offered by the U.S…
+ experience in public service. The program is offered by the U.S…\nhttps:
+ //malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1840,7 +1873,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b3d2e379c5ad@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Deadline: MBZUAI Artificial Intelligence Scholarships 2027 in UAE (
@@ -1852,7 +1885,7 @@ DESCRIPTION:https://opportunityportal.info/mbzuai-artificial-intelligence-s
  y of Artificial Intelligence (MBZUAI) offers fully funded graduate scholar
  ships for international and domestic students to pursue Master of Science 
  (M.Sc.) and Doctor of Philosophy (Ph.D.) degrees in Abu Dhabi\, United Ara
- b…
+ b…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1869,7 +1902,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1bf0f2934462@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Deadline: Fully Funded MSc in Remote Sensing and Wildfire Science a
@@ -1884,7 +1917,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/29/fully-funded-msc-i
  larship\nIntroduction Are you interested in environmental science\, wildfi
  re research\, remote sensing\, geographic information systems (GIS)\, fore
  st ecology\, or artificial intelligence? The University of Victoria in Can
- ada is offering a two-year funded Master of Science…
+ ada is offering a two-year funded Master of Science…\nhttps://malakbatta
+ t.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1903,7 +1937,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:347817c278a2@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Deadline: Harvard LEAD Fellowship 2027–2028 in the USA | Fully Fu
@@ -1913,7 +1947,8 @@ DESCRIPTION:https://opportunityportal.info/harvard-lead-fellowship/\nScore
  75/100 · Fellowship\nThe Harvard LEAD Fellowship 2027-2028 (Learn\, Engag
  e\, Advance\, Disrupt) is officially accepting applications for its upcomi
  ng annual cohort. Hosted jointly by the Harvard Global Health Institute (H
- GHI) and the Department of Global Health and Population at the…
+ GHI) and the Department of Global Health and Population at the…\nhttps:/
+ /malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1930,7 +1965,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5b430ef8be15@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Deadline: 2027 UKUDLA Summer School in South Africa: Applications O
@@ -1944,7 +1979,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/30/2027-ukudla-summer
   2027 UKUDLA Summer School: Building Resilient Food Systems through Data S
  cience is inviting applications from eligible Master’s students at the U
  niversity of Hohenheim in Germany for an international learning programme 
- scheduled to take place in…
+ scheduled to take place in…\nhttps://malakbattat.github.io/opportunity-r
+ adar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1963,7 +1999,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:08f148b34126@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Deadline: Hans de Wit Fellowship 2027–2028 at Boston College\, US
@@ -1975,6 +2011,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/29/fellowship-researc
  g in higher education studies can apply for the Hans de Wit Fellowship at 
  the Center for International Higher Education (CIHE)\, based at Boston Col
  lege in the United States. The fellowship offers an opportunity for one…
+ \nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1991,7 +2028,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dd6fbaa6b111@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Deadline: Timbuktoo Africa UniPods Mentor Network 2026: Apply to Me
@@ -2005,7 +2042,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/21/timbuktoo-africa-u
  ’s innovation ecosystem continues to grow\, creating new opportunities f
  or young entrepreneurs\, technology enthusiasts\, researchers\, and aspiri
  ng business leaders to develop solutions to the continent’s challenges. 
- However\, turning an innovative idea…
+ However\, turning an innovative idea…\nhttps://malakbattat.github.io/opp
+ ortunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2024,7 +2062,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b299ee118452@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Deadline: Humboldt Research Fellowship In Germany 2027 (Fully Funde
@@ -2034,7 +2072,8 @@ DESCRIPTION:https://opportunityportal.info/humboldt-research-fellowship/\nS
  core 37/100 · Research\nLooking for a fully funded international research
   fellowship in Germany that propels your academic career to new heights? T
  he Alexander von Humboldt Research Fellowships 2027 offer a prestigious an
- d highly competitive opportunity for postdoctoral and…
+ d highly competitive opportunity for postdoctoral and…\nhttps://malakbat
+ tat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2051,7 +2090,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3bcbe900a7e5@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Deadline: British Library Youth Collective Programme 2026–2027 in
@@ -2065,7 +2104,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/28/british-library-yo
  ry Youth Collective Programme 2026–2027 offers an exciting opportunity f
  or young people aged 18–24 who are passionate about arts\, heritage\, cr
  eativity\, cultural institutions\, and youth participation. Through this p
- rogramme\, selected…
+ rogramme\, selected…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2082,7 +2121,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1a3a04296fa1@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Deadline: British Council TeachingEnglish Call for Webinar Speakers
@@ -2096,7 +2135,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/26/british-council-te
  l is inviting talented classroom practitioners\, English language teachers
  \, teacher educators\, and other education professionals to submit proposa
  ls to become speakers for its TeachingEnglish Webinars 2027. This internat
- ional opportunity…
+ ional opportunity…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2113,7 +2152,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:213255074f39@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Deadline: UNITAR Multilateral Diplomacy Paid Traineeship 2026–202
@@ -2128,7 +2167,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/26/unitar-traineeship
  r Training and Research (UNITAR) is inviting applications for its Multilat
  eral Diplomacy Programme Traineeship – Field Visits and Online Training 
  Programmes in Geneva\, Switzerland. This opportunity is designed for stude
- nts and…
+ nts and…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2147,7 +2186,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c6ef11836a60@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Deadline: BRICS South-South Knowledge Series 2: Online Skills Devel
@@ -2161,7 +2200,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/25/brics-south-south-
  al Training Centre of the International Labour Organization (ITCILO) is or
  ganizing the BRICS South-South Knowledge Series 2: Advancing South-South a
  nd Triangular Cooperation on Skills Development\, Skills Mapping and Lifel
- ong Learning from 9 to…
+ ong Learning from 9 to…\nhttps://malakbattat.github.io/opportunity-radar
+ /
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2180,7 +2220,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:456e9bf61a2e@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Deadline: APFSD Youth Forum 2027 in Thailand: Apply to Attend the A
@@ -2194,7 +2234,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/22/apply-now-apfsd-yo
   Forum 2027 Young people under the age of 30 from across Asia and the Paci
  fic who are passionate about sustainable development have an opportunity t
  o participate in the Asia-Pacific Forum on Sustainable Development (APFSD)
-  Youth…
+  Youth…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2211,7 +2251,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:077f8c184571@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Deadline: Stanford University Hoover Fellowships In USA (Fully Fund
@@ -2222,7 +2262,7 @@ DESCRIPTION:https://opportunityportal.info/stanford-university-hoover-fello
  ships 2027 represent one of the most lucrative and prestigious fully funde
  d early-career academic opportunities available in the United States. Tail
  ored specifically for recent PhD graduates\, post-doctoral scholars\, and
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2239,7 +2279,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bec45b0d5ec2@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Deadline: DW Paid Traineeship 2028–29 in Germany | Up to €2\,47
@@ -2249,7 +2289,8 @@ DESCRIPTION:https://scholarshipscorner.website/dw-traineeship-germany/\nSco
  re 25/100 · Internship\nApplications window for the DW traineeship in Ger
  many\, 2028–29 is now open. Funded by Deutsche Welle (DW)\, the paid jou
  rnalism program will take place for 18-months\, in Bonn and Berlin\, Germa
- ny. Trainees will receive a monthly salary of 2196 to 2473 Euros for…
+ ny. Trainees will receive a monthly salary of 2196 to 2473 Euros for…\nh
+ ttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2266,7 +2307,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:276aba02776c@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Deadline: British Council Green and Digital Employability and Enter
@@ -2281,7 +2322,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/27/british-council-gr
  rant\nThe British Council is inviting eligible United Kingdom and South Af
  rican higher education and Technical and Vocational Education and Training
   (TVET) institutions to apply for £150\,000 in funding to lead a UK–Sou
- th Africa consortium under its new Green and…
+ th Africa consortium under its new Green and…\nhttps://malakbattat.githu
+ b.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2300,7 +2342,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:856f8757517c@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Deadline: MEPI Tomorrow’s Leaders Program 2027–28 | Fully Funde
@@ -2311,6 +2353,7 @@ DESCRIPTION:https://scholarshipscorner.website/mepi-tomorrows-leaders-progr
  row’s Leaders Program 2027–28. It is a fully funded undergraduate scho
  larship supported by the U.S. Department of State. It offers students from
   underserved communities in the Middle East and North Africa (MENA) the…
+ \nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2327,7 +2370,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:260d16c74ff1@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Deadline: Community Engagement Exchange Program 2027 in the USA | F
@@ -2339,6 +2382,7 @@ DESCRIPTION:https://scholarshipscorner.website/community-engagement-exchang
  m 2027 is a program to enhance cooperation and promote peace among nations
   by supporting civil society leaders in building healthy and participatory
   communities in over 100 countries. The CEE program 2027 is designed to…
+ \nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2355,7 +2399,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2a749b7ecc71@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Deadline: British Academy Innovation Fellowships Scheme 2026 – Ro
@@ -2367,7 +2411,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/21/apply-for-the-brit
  iences/\nScore 30/100 · Fellowship\nThe British Academy Innovation Fellow
  ships Scheme 2026 – Route B: Policy-Led (FCDO) offers an exciting opport
  unity for early-career and mid-career researchers in the humanities and so
- cial sciences to work closely with policymakers in the United Kingdom…
+ cial sciences to work closely with policymakers in the United Kingdom…\n
+ https://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2386,7 +2431,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0194be6cfcca@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Deadline: Community Engagement Exchange Program 2027: U.S. Leadersh
@@ -2398,7 +2443,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/24/community-engageme
  Exchange\nThe Community Engagement Exchange (CEE) Program 2027 is an inter
  national leadership and professional exchange initiative sponsored by the 
  U.S. Department of State\, funded by the U.S. Government\, and implemented
-  by IREX. The programme is designed to equip…
+  by IREX. The programme is designed to equip…\nhttps://malakbattat.githu
+ b.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2415,7 +2461,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c98c77dc4a28@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Deadline: 2027 Sir Cyril Taylor Young African Leaders Program: Full
@@ -2427,7 +2473,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/26/fully-funded-2026-
  re 60/100 · Fellowship\nApplication Deadline: 19 November 2026 at 23:59 U
  TC Are you a young African leader working to solve community challenges\, 
  promote sustainable development\, or create meaningful social change? Do y
- ou lead a community initiative that addresses issues such as…
+ ou lead a community initiative that addresses issues such as…\nhttps://m
+ alakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2444,7 +2491,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:41fccd062877@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Deadline: Women in Tech × UN Women Digital Skills and Mentorship P
@@ -2457,7 +2504,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/22/women-in-tech-x-un
  arch\nThe Women in Tech × UN Women Digital Skills and Mentorship Programm
  e 2026 is a collaborative initiative designed to empower women and girls t
  hrough digital skills training\, professional mentorship\, and education o
- n online safety. The programme aims to help…
+ n online safety. The programme aims to help…\nhttps://malakbattat.github
+ .io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2476,7 +2524,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:df18dbefcbaf@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Deadline: Women’s Economic Empowerment in Transport Research Gran
@@ -2488,7 +2536,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/21/womens-economic-em
  ding/\nScore 39/100 · Grant\nThe Research Initiative for Data and Evidenc
  e (RIDE) has announced an open call for research proposals on Women’s Ec
  onomic Empowerment (WEE) in Transport\, offering substantial research fund
- ing to eligible universities\, research institutes\, and research…
+ ing to eligible universities\, research institutes\, and research…\nhttp
+ s://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2505,7 +2554,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:216ef8f66989@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Deadline: New York Times Fellowship 2027-28 in the USA | Paid Fello
@@ -2515,7 +2564,8 @@ DESCRIPTION:https://scholarshipscorner.website/new-york-times-fellowship/\n
  Score 30/100 · Fellowship\nNew York Times Fellowship in the USA is a paid
   fellowship program which aims to develop the future generation of journal
  ists for The Times and the overall news industry. The program will include
-  visual journalists\, editors\, and reporters who can present…
+  visual journalists\, editors\, and reporters who can present…\nhttps://
+ malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2532,7 +2582,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:030379568103@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Deadline: Grief Reach Grant 2027: New York Life Foundation and NACG
@@ -2542,7 +2592,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/22/grief-reach-grant-
  2027/\nScore 18/100 · Grant\nThe Grief Reach Grant 2027 is a competitive 
  funding opportunity from the New York Life Foundation and the National All
  iance for Children’s Grief (NACG) designed to help eligible U.S. nonprof
- it organizations expand school-based bereavement programmes and…
+ it organizations expand school-based bereavement programmes and…\nhttps:
+ //malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2561,7 +2612,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2c8c461f3366@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Deadline: PICS Climate Internship Program 2026: Apply for Up to $15
@@ -2575,7 +2626,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/22/pics-climate-inter
  tions working to address climate change often have important projects they
   want to implement but lack the time\, staffing capacity\, or resources ne
  eded to move their ideas forward. Whether the goal is to conduct climate r
- esearch\, collect…
+ esearch\, collect…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2592,7 +2643,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d6ae57d03d71@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Deadline: Mastercard Foundation and Arizona State University 2027 I
@@ -2606,7 +2657,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/28/asu-and-mastercard
  ooking for a fully funded master’s degree in technology\, business analy
  tics\, computer science\, engineering\, or user experience? The 2027 Innov
  ation and Technology Scholarship Application\, offered through the Masterc
- ard…
+ ard…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2625,7 +2676,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:91849a026b93@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Deadline: HKU Social Sciences Global South Fellowship Scheme 2026/2
@@ -2640,7 +2691,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/26/hku-social-science
  University of Hong Kong (HKU) Faculty of Social Sciences is inviting appli
  cations from eligible scholars and researchers affiliated with universitie
  s and comparable institutions in the Global South for its Social Sciences 
- Global South Fellowship Scheme…
+ Global South Fellowship Scheme…\nhttps://malakbattat.github.io/opportuni
+ ty-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2659,7 +2711,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a60ab5f666c7@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Deadline: Tokyo Institute of Technology MEXT Scholarships 2027 (Ful
@@ -2671,7 +2723,7 @@ DESCRIPTION:https://opportunityportal.info/tokyo-institute-of-technology-sc
  or the Tokyo Institute of Technology MEXT Scholarships 2027\, a prestigiou
  s fully funded scholarship in Japan that helps outstanding international s
  tudents pursue higher education in Tokyo. Funded by the Japanese Governmen
- t (MEXT)…
+ t (MEXT)…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2688,7 +2740,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:db225490a251@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Deadline: NCTU International Student Scholarship in Taiwan 2027 (Fu
@@ -2699,7 +2751,7 @@ DESCRIPTION:https://opportunityportal.info/nctu-international-student-schol
  tional Chiao Tung University International Student Scholarship 2027\, a fu
  lly funded Taiwan scholarship open to international students applying for 
  Bachelor’s\, Master’s\, and Doctoral degree programs across multiple a
- cademic…
+ cademic…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2716,7 +2768,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:983969e67258@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Deadline: WHO Europe Summer School 2027 in France: Free Public Heal
@@ -2730,7 +2782,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/23/who-europe-summer-
  ealth Organization (WHO) Regional Office for Europe is inviting applicatio
  ns for its 2027 Summer School on Systems Thinking and Innovation for the P
  revention of Noncommunicable Diseases and a Healthy Ageing Population in t
- he WHO European Region…
+ he WHO European Region…\nhttps://malakbattat.github.io/opportunity-radar
+ /
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2747,7 +2800,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b23a64e6208e@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Deadline: AI & Economic Opportunity Fund 2026: Funding for Organisa
@@ -2760,7 +2813,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/30/ai-economic-opport
  h-careers/\nScore 42/100 · Grant\nThe AI & Economic Opportunity Fund 2026
   is an initiative designed to help low-income young adults without univers
  ity degrees access employment opportunities in the technology sector. Supp
- orted by The Hg Foundation and JPMorganChase\, the fund aims to…
+ orted by The Hg Foundation and JPMorganChase\, the fund aims to…\nhttps:
+ //malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2777,7 +2831,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d84be8c63ced@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Deadline: Fund for Innovation in Development (FID) Open Call for Pr
@@ -2791,7 +2845,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/30/fund-for-innovatio
  Innovation in Development (FID) Open Call for Proposals 2026 offers an opp
  ortunity for organizations and innovators working in development to seek f
  unding for solutions that address important social and economic challenges
- . The call is listed as…
+ . The call is listed as…\nhttps://malakbattat.github.io/opportunity-rada
+ r/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2810,7 +2865,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:376982207c14@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Deadline: Mastercard Foundation EdTech Fellowship Uganda Cohort 2: 
@@ -2823,7 +2878,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/27/mastercard-foundat
  ercard Foundation EdTech Fellowship Uganda Cohort 2 is an opportunity for 
  locally founded and locally led education technology (EdTech) ventures in 
  Uganda to strengthen their businesses\, improve digital learning solutions
- \, and expand access to…
+ \, and expand access to…\nhttps://malakbattat.github.io/opportunity-rada
+ r/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2842,7 +2898,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4e15afaebc24@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Deadline: Sabanci University Scholarship In Turkey 2027 (Fully Fund
@@ -2852,7 +2908,8 @@ DESCRIPTION:https://opportunityportal.info/sabanci-university-scholarships/
  \nScore 68/100 · Scholarship\nApplications are now open for the Sabancı 
  University Fully Funded Scholarships 2027 — one of the most prestigious 
  and comprehensive university scholarships for international students in Tu
- rkey\, supporting Bachelor’s\, Master’s\, and PhD programs at an…
+ rkey\, supporting Bachelor’s\, Master’s\, and PhD programs at an…\nh
+ ttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2869,7 +2926,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8925de795fcd@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Deadline: Bodleian Visiting Fellowships 2027–2028 at the Universi
@@ -2884,7 +2941,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/22/bodleian-visiting-
  dleian Libraries are part of the University of Oxford and hold extensive c
  ollections of historical documents\, manuscripts\, printed books and other
   research materials. Their special collections support scholarship across 
- numerous disciplines\, including…
+ numerous disciplines\, including…\nhttps://malakbattat.github.io/opportu
+ nity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2903,7 +2961,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7a899f83ca6e@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Deadline: The Center for Implementation Online Training 2026: Self-
@@ -2916,7 +2974,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/30/the-center-for-imp
  Implementation (TCI) Online Training offers self-directed professional dev
  elopment courses designed to help individuals and organisations strengthen
   their knowledge and practical skills in implementation science\, evidence
- -informed practice\, and…
+ -informed practice\, and…\nhttps://malakbattat.github.io/opportunity-rad
+ ar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2935,7 +2994,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d2d41babb42d@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Deadline: Yeungnam University PSPS Scholarship 2027 | Tuition + Mon
@@ -2946,7 +3005,7 @@ DESCRIPTION:https://opportunityportal.info/yeungnam-university-psps-scholar
  gnam University Scholarship 2027 in South Korea\, a funded Master’s scho
  larship for international students through the university’s PSPS General
   Scholarship. Spring 2027 applicants can receive tuition coverage for four
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2963,7 +3022,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c4cd0f797af9@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Deadline: Griffith University Vice Chancellor's International Schol
@@ -2973,7 +3032,7 @@ URL:https://www.scholarshipsads.com/griffith-university-vice-chancellor-s-i
 DESCRIPTION:https://www.scholarshipsads.com/griffith-university-vice-chance
  llor-s-international-scholarship-australia\nScore 49/100 · Scholarship\nT
  he scholarship has different deadlines depending on the intended commencin
- g trimester.
+ g trimester.\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2990,7 +3049,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b5b16610838b@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Deadline: OCA 2027 Summer Internship Program in Washington\, D.C.: 
@@ -3003,7 +3062,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/29/oca-summer-interns
  nternship\nApplications are now open for the OCA National Center 2027 Summ
  er Internship Program\, an established paid internship opportunity for und
  ergraduate students and recent graduates interested in public service\, le
- adership development\, advocacy\, and issues…
+ adership development\, advocacy\, and issues…\nhttps://malakbattat.githu
+ b.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3022,7 +3082,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6382e74f6474@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: ETH Zurich Excellence Scholarship & Opportunity Programme
@@ -3034,7 +3094,8 @@ DESCRIPTION:https://www.scholarshipsads.com/eth-zurich-excellence-scholarsh
  ellence Scholarship & Opportunity Programme (ESOP) 2027 | Switzerland Full
  y Funded ETH Zurich Masters Earth Sciences\, Chemistry\, Architecture\, Ma
  thematics\, Computer Science\, Physics +11 More \, Biology\, Social Scienc
- es\, Robotics\, Engineering…
+ es\, Robotics\, Engineering…\nhttps://malakbattat.github.io/opportunity-
+ radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3051,7 +3112,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:12f00a7b97a3@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: Helmut Veith Stipend Scholarships In Austria 2027 (Fully 
@@ -3061,7 +3122,8 @@ DESCRIPTION:https://opportunityportal.info/helmut-veith-stipend/\nScore 78/
  100 · Scholarship\nAre you a computer science graduate seeking a fully fu
  nded master’s scholarship in Europe? The Helmut Veith Stipend 2027 at TU
   Wien\, Austria’s premier technical university\, offers €7\,000 per ye
- ar\, tuition waiver\, and a vibrant research environment for up to…
+ ar\, tuition waiver\, and a vibrant research environment for up to…\nhtt
+ ps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3078,7 +3140,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f21f4e8c9f0e@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: Hurford Youth Fellows Program 2027 in the USA | Fully Fun
@@ -3090,7 +3152,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/29/2026-global-democr
  p\nThe 2027 Hurford Youth Fellows Program invites emerging youth leaders f
  rom around the world to undertake a four-month fellowship in Washington\, 
  D.C.\, USA. Organised by the International Forum for Democratic Studies at
-  the National Endowment for Democracy…
+  the National Endowment for Democracy…\nhttps://malakbattat.github.io/op
+ portunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3107,7 +3170,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:72aaef82b69d@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: UN DPoA MTR Journalism Fellowship 2027: Fully Funded Jour
@@ -3121,7 +3184,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/22/un-dpoa-mtr-journa
  Nations DPoA MTR Journalism Fellowship 2027 is a fully funded internationa
  l journalism opportunity for professional journalists from the world’s 4
  4 Least Developed Countries (LDCs). The fellowship will enable 10 selected
-  journalists to travel to…
+  journalists to travel to…\nhttps://malakbattat.github.io/opportunity-ra
+ dar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3138,7 +3202,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0b250c2e6e48@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: Fully Funded UN Journalism Fellowship 2027 in Qatar: Trav
@@ -3152,7 +3216,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/27/fully-funded-un-jo
  nited Nations is inviting applications for the 2027 DPoA MTR Journalism Fe
  llowship\, a fully funded opportunity for journalists from eligible Least 
  Developed Countries (LDCs) to travel to Doha\, Qatar\, and report on the H
- igh-level Midterm Review of the…
+ igh-level Midterm Review of the…\nhttps://malakbattat.github.io/opportun
+ ity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3171,7 +3236,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d05bac5a39c5@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: Yenching Academy of Peking University Scholarship 2027 (F
@@ -3181,7 +3246,8 @@ DESCRIPTION:https://opportunityportal.info/yenching-academy-scholarship/\nS
  core 49/100 · Course\nApplications are now open for the Yenching Academy 
  Scholarship 2027 in China. The academy annually selects around 120 new stu
  dents from Mainland China and abroad to study\, live\, and learn together 
- at Peking University. Notably\, international students make up…
+ at Peking University. Notably\, international students make up…\nhttps:/
+ /malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3198,7 +3264,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:40fdac134b2e@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: Yenching Academy Scholarship in China 2027 | Fully Funded
@@ -3209,7 +3275,7 @@ DESCRIPTION:https://scholarshipscorner.website/yenching-academy-scholarship
  hina invites graduates from all around the globe to continue their master
  ’s degree program on a fully-funded scholarship program. The students wh
  o demonstrate excellent academic\, as well as and extracurricular records
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3226,7 +3292,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8275623334bb@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: World Food Forum Youth Policy Board 2027–2028: Applicat
@@ -3239,7 +3305,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/22/call-for-applicati
  ence\nThe World Food Forum (WFF) Youth Policy Board 2027–2028 is invitin
  g applications from eligible young people interested in youth leadership\,
   policy advocacy\, agrifood systems\, and sustainable development. The You
- th Policy Board (YPB) plays a governance role…
+ th Policy Board (YPB) plays a governance role…\nhttps://malakbattat.gith
+ ub.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3258,7 +3325,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5080fac33b9c@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: FLEX Global Abroad 2027–28 | Fully Funded High School E
@@ -3269,7 +3336,7 @@ DESCRIPTION:https://scholarshipscorner.website/flex-global-abroad-exchange-
  king for a fully funded study abroad program? Applications are open for th
  e FLEX Global Abroad Program 2027–28. This high school exchange program 
  offers American students the chance to study abroad for 10 months. Selecte
- d…
+ d…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3286,7 +3353,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:caafa4ba44bc@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: Stanford University GLAM Postdoctoral Fellowships 2027–
@@ -3300,7 +3367,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/30/stanford-universit
   Geballe Laboratory for Advanced Materials (GLAM) Postdoctoral Fellowships
   2027–2029 offer an exciting opportunity for early-career scientists to 
  advance their research careers at one of the world’s leading research un
- iversities…
+ iversities…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3317,7 +3384,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:404193c1da6d@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: Stanton Nuclear Security Fellowships 2027/2028 at Hertie 
@@ -3329,7 +3396,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/26/stanton-nuclear-se
  uclear Security Fellowships 2027/2028 at Hertie School in Berlin\, Germany
  \, offer an exceptional research opportunity for postdoctoral researchers 
  and tenure-track junior faculty members seeking to advance their expertise
-  in nuclear security…
+  in nuclear security…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3346,7 +3413,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:257abb07c449@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: University of Cambridge Peace\, Conflict and Religion Ear
@@ -3361,7 +3428,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/24/university-of-camb
   University of Cambridge\, through its Cambridge Interfaith Programme (CIP
  )\, is inviting applications from outstanding early-career researchers int
  erested in exploring the relationships between peace\, conflict\, religion
- \, political violence and society. This…
+ \, political violence and society. This…\nhttps://malakbattat.github.io/
+ opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3380,14 +3448,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4c9b695b03f3@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Expected deadline: DAAD RISE Germany
 URL:https://www.daad.de/rise/en/rise-germany/
 DESCRIPTION:https://www.daad.de/rise/en/rise-germany/\nScore 30/100 · Rese
  arch\nSummer research at German universities\; English widely accepted\; C
- S projects available
+ S projects available\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3402,7 +3470,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e0528b0ad715@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: City St George’s University of London PhD Studentship i
@@ -3417,7 +3485,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/22/city-st-georges-un
  p\nAre you looking for a fully funded PhD scholarship in Economics in the 
  United Kingdom? The City St George’s\, University of London PhD Students
  hip in Economics offers an excellent opportunity for aspiring researchers 
- to pursue doctoral studies at a leading…
+ to pursue doctoral studies at a leading…\nhttps://malakbattat.github.io/
+ opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3436,7 +3505,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b21f2a1c637d@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Beit Trust Scholarships 2027/2028: Fully Funded Postgradu
@@ -3448,7 +3517,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/21/beit-trust-postgra
  arship\nThe Beit Trust Scholarships for the 2027/2028 academic year offer 
  an opportunity for eligible students from Zambia\, Zimbabwe\, and Malawi t
  o pursue postgraduate Master’s studies at selected partner universities 
- in the United Kingdom and South Africa. The…
+ in the United Kingdom and South Africa. The…\nhttps://malakbattat.github
+ .io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3467,7 +3537,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:316c811dd3e4@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Berlin Mathematical School (BMS) Scholarships In Germany 
@@ -3479,7 +3549,7 @@ DESCRIPTION:https://opportunityportal.info/berlin-mathematical-school-bms-s
  (BMS) has officially announced its Call for Applications for the Master’
  s and PhD Programs. BMS is one of Europe’s most prestigious graduate sch
  ools in mathematics\, offering a highly competitive\, research-driven\, an
- d fully…
+ d fully…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3496,7 +3566,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:152367857bc7@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: TU Delft University Justus & Louise van Effen Excellence 
@@ -3508,7 +3578,7 @@ DESCRIPTION:https://opportunityportal.info/tu-delft-university-excellence-s
  he TU Delft Justus & Louise van Effen Excellence Scholarships 2027\, one o
  f the most prestigious fully funded master’s scholarships in the Netherl
  ands for international students. As the Netherlands remains the top study 
- abroad…
+ abroad…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3525,7 +3595,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1302394fe1b3@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Ellison Scholars Program 2027 at Oxford University | UK
@@ -3536,7 +3606,7 @@ DESCRIPTION:https://www.scholarshipsads.com/ellison-scholars-program-at-oxf
  at Oxford University | UK Fully Funded University of Oxford PhD Science\, 
  Technology International Students UK Deadline: 01 Dec 2026 Fully Funded Un
  iversity of Oxford PhD Science\, Technology International Students UK Dead
- line: 01…
+ line: 01…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3553,7 +3623,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c26534c4056f@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Erasmus Mundus MAPP Scholarships 2027 (Fully Funded)
@@ -3562,7 +3632,8 @@ DESCRIPTION:https://opportunityportal.info/erasmus-mundus-mapp-scholarships
  /\nScore 49/100 · Scholarship\nApplications are officially open for the 2
  027–2028 Mundus MAPP cohort\, one of the most prestigious Erasmus Mundus
   Joint Master’s (EMJM) programs in Public Policy\, funded by the Erasmus
- + initiative of the European Union. This fully funded scholarship is…
+ + initiative of the European Union. This fully funded scholarship is…\nh
+ ttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3577,7 +3648,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6f088ce3edcc@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Nintendo of America Summer Internship Program 2027: Apply
@@ -3589,7 +3660,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/22/nintendo-of-americ
  hip\nNintendo of America has opened applications for its 2027 Summer Inter
  nship Program\, offering students and aspiring professionals an opportunit
  y to gain hands-on work experience at one of the world’s most recognized
-  video game and entertainment companies. The…
+  video game and entertainment companies. The…\nhttps://malakbattat.githu
+ b.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3606,7 +3678,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b35103d4609c@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: EWC Graduate Degree Fellowship in the United States | Ful
@@ -3617,7 +3689,7 @@ DESCRIPTION:https://scholarshipscorner.website/ewc-graduate-degree-fellowsh
  owship in the United States welcomes committed\, hardworking\, and passion
  ate young graduates from around the globe. Everyone\, having a Bachelor’
  s degree from a higher institution abroad or from U.S. based institute can
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3634,7 +3706,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:19b06f41f9a5@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: ACMER Foundation Leadership Development Program Summer 20
@@ -3649,7 +3721,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/24/acmer-foundation-l
  For students and young professionals seeking meaningful experience in publ
  ic policy\, foreign affairs\, human rights\, and congressional engagement\
  , the ACMER Foundation Leadership Development Program Summer 2027 Internsh
- ip offers a unique opportunity to gain…
+ ip offers a unique opportunity to gain…\nhttps://malakbattat.github.io/o
+ pportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3668,7 +3741,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:178564b80792@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: University of Hawaii ADB-Japan Scholarship 2027 (Fully Fu
@@ -3680,7 +3753,7 @@ DESCRIPTION:https://opportunityportal.info/university-of-hawaii-adb-japan-s
  e University of Hawaii Scholarships\, funded by the Asian Development Bank
  -Japan Scholarship Program\, one of the most sought-after fully funded sch
  olarships in the USA for local and international students. This USA intern
- ational…
+ ational…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3697,7 +3770,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:faca29b7c044@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Knight-Wallace Fellowship 2027–2028 in USA (Fully Funde
@@ -3707,7 +3780,8 @@ DESCRIPTION:https://scholarshipscorner.website/knight-wallace-fellowship-us
  a/\nScore 39/100 · Fellowship\nAre you a journalist who is passionate abo
  ut their future growth in journalism? If yes\, then the Knight-Wallace Fel
  lowship 2027–2028 in USA is an incredible opportunity for you. Through t
- his fully funded research program\, journalists will get a chance to…
+ his fully funded research program\, journalists will get a chance to…\nh
+ ttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3724,7 +3798,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f91de840eb8d@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: University of British Columbia (UBC) Scholarship In Canad
@@ -3736,7 +3810,7 @@ DESCRIPTION:https://opportunityportal.info/university-of-british-columbia-u
  da at one of the world’s top-ranked universities? The University of Brit
  ish Columbia (UBC) offers an incredible opportunity for international stud
  ents through its fully funded and partially funded scholarships for the 20
- 26–2027…
+ 26–2027…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3753,7 +3827,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4254db77f815@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Hong Kong PhD Fellowship Scheme 2027-28 | 400 Fully Funde
@@ -3763,7 +3837,8 @@ DESCRIPTION:https://scholarshipscorner.website/hong-kong-phd-fellowship-sch
  eme/\nScore 30/100 · Fellowship\nHong Kong PhD Fellowship Scheme is a ful
  ly funded opportunity for students from all over the world to study in the
   leading universities of Hong Kong. The fully-funded scholarships for inte
- rnational students are available for every individual who is…
+ rnational students are available for every individual who is…\nhttps://m
+ alakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3780,17 +3855,18 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ba471536e109@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Deadline: Yale World Fellows Program 2027 in USA | Fully Funded Fel
  lowship
 URL:https://scholarshipscorner.website/yale-world-fellows-program-usa/
 DESCRIPTION:https://scholarshipscorner.website/yale-world-fellows-program-u
- sa/\nScore 49/100 · Fellowship\nThe Yale World Fellows Program 2027 is no
- w open for applications. This fully funded youth leadership program is a 4
- -month residential program in the USA. The program will take place from mi
- d-August to mid-December. The program is open to emerging leaders from…
+ sa/\nScore 9/100 · Fellowship\nThe Yale World Fellows Program 2027 is now
+  open for applications. This fully funded youth leadership program is a 4-
+ month residential program in the USA. The program will take place from mid
+ -August to mid-December. The program is open to emerging leaders from…\n
+ https://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3807,7 +3883,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:77a4edaf2613@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Deadline: Columbia University Italian Academy Fellowship Program 20
@@ -3821,7 +3897,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/23/columbia-universit
  ers\, and academics from around the world are invited to apply for the pre
  stigious Italian Academy Fellowship Program 2027–2028 at Columbia Univer
  sity in New York City\, United States. Hosted by the renowned Italian Acad
- emy for Advanced…
+ emy for Advanced…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3834,38 +3910,11 @@ ACTION:DISPLAY
 TRIGGER:-P1D
 DESCRIPTION:Deadline: Columbia University Italian Academy Fellowship Progra
  m 2027–2028: Fully Funded Research Fellowship in the United States
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:09897a288f72@opportunity-radar
-DTSTAMP:20261030T221051Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Deadline: SMART Scholarship 2027 in USA (Full Tuition + $30\,000–
- $46\,000 Annual Stipend)
-URL:https://scholarshipscorner.website/smart-scholarship-usa/
-DESCRIPTION:https://scholarshipscorner.website/smart-scholarship-usa/\nScor
- e 64/100 · Scholarship\nThe SMART Scholarship 2027 in the USA is a DoW ST
- EM Scholarship that supports students pursuing degrees in science\, techno
- logy\, engineering\, and mathematics (STEM). The program offers scholarshi
- ps for bachelor’s\, master’s\, and doctoral degrees. Eligible high…
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P7D
-DESCRIPTION:Deadline: SMART Scholarship 2027 in USA (Full Tuition + $30\,00
- 0–$46\,000 Annual Stipend)
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P1D
-DESCRIPTION:Deadline: SMART Scholarship 2027 in USA (Full Tuition + $30\,00
- 0–$46\,000 Annual Stipend)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4e5850bf8392@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Deadline: Columbia University Fellowships 2027–28 in USA | $74\,2
@@ -3876,7 +3925,7 @@ DESCRIPTION:https://scholarshipscorner.website/columbia-university-fellowsh
  27–2028 in USA is open to candidates worldwide. This fellowship is exclu
  sively designed for scholars who are interested in innovative work in the 
  humanities\, sciences\, or social sciences. It will take place for one or 
- two…
+ two…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3892,14 +3941,40 @@ DESCRIPTION:Deadline: Columbia University Fellowships 2027–28 in USA | $7
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:95ce89322c42@opportunity-radar
+DTSTAMP:20261030T231238Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Deadline: SMART Scholarship Program In USA 2027 (Fully Funded)
+URL:https://opportunityportal.info/smart-scholarship-program-2/
+DESCRIPTION:https://opportunityportal.info/smart-scholarship-program-2/\nSc
+ ore 55/100 · Scholarship\nThe SMART Scholarship-for-Service Program is a 
+ unique opportunity for science\, technology\, engineering\, and mathematic
+ s (STEM) students to advance their education and jumpstart their careers. 
+ SMART provides merit-based scholarships to bachelor’s\, master’s…\nh
+ ttps://malakbattat.github.io/opportunity-radar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Deadline: SMART Scholarship Program In USA 2027 (Fully Funded)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Deadline: SMART Scholarship Program In USA 2027 (Fully Funded)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:36033136a157@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Deadline: Gates Cambridge Scholarship 2027 in UK | Fully Funded
 URL:https://www.scholarshipsads.com/gates-cambridge-scholarship-uk
 DESCRIPTION:https://www.scholarshipsads.com/gates-cambridge-scholarship-uk\
- nScore 88/100 · Scholarship\nDifferent for each course.
+ nScore 88/100 · Scholarship\nDifferent for each course.\nhttps://malakbat
+ tat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3914,7 +3989,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cb729bc8839c@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Deadline: Commonwealth Shared Scholarship In UK 2027 (Fully Funded)
@@ -3924,7 +3999,7 @@ DESCRIPTION:https://opportunityportal.info/commonwealth-shared-scholarship-
  onwealth Shared Scholarships 2027\, one of the most prestigious and compet
  itive fully funded scholarship programs in the world. Offered under the Co
  mmonwealth Scholarship and Fellowship Plan (CSFP)\, this program provides
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3941,7 +4016,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f3d811fcedec@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Deadline: CrossCulture Program in Germany 2027 Fully Funded | CCP 2
@@ -3951,7 +4026,8 @@ DESCRIPTION:https://scholarshipscorner.website/crossculture-program-germany
  /\nScore 47/100 · Fellowship\nThe CrossCulture Program 2027 in Germany (C
  CP Fellowships) is a fully funded exchange program for professionals and a
  ctive volunteers from over 40 countries. It is a culture exchange program 
- that brings people together to learn\, share ideas\, and work on…
+ that brings people together to learn\, share ideas\, and work on…\nhttps
+ ://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3968,7 +4044,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9ef7543cdefc@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Deadline: NobleReach Scholars Program 2027: Apply for a One-Year Pa
@@ -3978,11 +4054,11 @@ URL:https://opportunitiesforyouth.org/2026/10/23/noblereach-scholars-progra
  00-stipend/
 DESCRIPTION:https://opportunitiesforyouth.org/2026/10/23/noblereach-scholar
  s-program-2027-apply-for-a-one-year-paid-fellowship-paying-70000-90000-plu
- s-an-18000-stipend/\nScore 100/100 · Fellowship\nOverview of the NobleRea
- ch Scholars Program Recent graduates seeking a paid professional opportuni
- ty in technology\, engineering\, cybersecurity\, or public-sector innovati
- on can apply for the NobleReach Scholars Program\, a one-year\, full-time 
- fellowship that…
+ s-an-18000-stipend/\nScore 61/100 · Fellowship\nOverview of the NobleReac
+ h Scholars Program Recent graduates seeking a paid professional opportunit
+ y in technology\, engineering\, cybersecurity\, or public-sector innovatio
+ n can apply for the NobleReach Scholars Program\, a one-year\, full-time f
+ ellowship that…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3999,7 +4075,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:abfaf9ceec3c@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Deadline: Yokohama National University MEXT Scholarship 2027 in Jap
@@ -4007,7 +4083,8 @@ SUMMARY:Deadline: Yokohama National University MEXT Scholarship 2027 in Jap
 URL:https://www.scholarshipsads.com/yokohama-national-university-mext-schol
  arship
 DESCRIPTION:https://www.scholarshipsads.com/yokohama-national-university-me
- xt-scholarship\nScore 65/100 · Scholarship\nThere is no single deadline.
+ xt-scholarship\nScore 65/100 · Scholarship\nThere is no single deadline.\
+ nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4024,7 +4101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9cdd0c970839@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Deadline: YSEALI Professional Exchange Program 2027: Six-Week Fully
@@ -4039,7 +4116,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/22/young-southeast-as
   Leaders Initiative Professional Exchange (YSEALI PE) is inviting eligible
   young professionals from Southeast Asia to apply for an international exc
  hange programme designed to strengthen leadership\, professional developme
- nt\, and…
+ nt\, and…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4058,7 +4135,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b6868fd1e45b@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Deadline: Aspen Strategy Group Rising Leaders Program 2027: Applica
@@ -4071,7 +4148,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/27/applications-now-o
  lowship\nAre you a young professional with experience in international aff
  airs\, diplomacy\, national security\, international development\, human r
  ights\, cybersecurity\, or U.S. foreign policy? The Aspen Strategy Group R
- ising Leaders Program 2027 offers an opportunity to…
+ ising Leaders Program 2027 offers an opportunity to…\nhttps://malakbatta
+ t.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4090,7 +4168,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4d6ae46750a0@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Deadline: LPI Summer Internship in the United States 2027 | Fully F
@@ -4101,7 +4179,7 @@ DESCRIPTION:https://scholarshipscorner.website/lpi-summer-internship-united
  ited States is a creditable opportunity for undergraduate students to get 
  valuable research experience. This helps them learn from world-class plane
  tary scientists and discover thrilling careers in planetary science. The
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4118,7 +4196,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:31e79b398667@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Deadline: Justice First Fellowship 2027 in the UK: Applications Ope
@@ -4132,7 +4210,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/24/justice-first-fell
  r the Justice First Fellowship 2027\, an opportunity for people passionate
   about access to justice\, supporting marginalised communities\, and creat
  ing positive change within the legal community. Successful applicants will
-  begin working…
+  begin working…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4149,7 +4227,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b0f4cdaa31f6@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Deadline: University of Sheffield PhD Scholarship 2027 in the UK | 
@@ -4160,7 +4238,8 @@ DESCRIPTION:https://scholarshipscorner.website/university-of-sheffield-phd-
  scholarship/\nScore 9/100 · Scholarship\nApplications are now open for th
  e University of Sheffield PhD Scholarship 2027 in the UK. The fully funded
   scholarship program is offered for postgraduate researchers in the Facult
- y of Arts and Humanities. Under this scheme\, each year four full PhD…
+ y of Arts and Humanities. Under this scheme\, each year four full PhD…\n
+ https://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4177,7 +4256,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:51c7f4d5f811@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Deadline: EPFL Master Excellence Scholarship in Switzerland 2027 (F
@@ -4188,7 +4267,7 @@ DESCRIPTION:https://opportunityportal.info/epfl-master-excellence-scholarsh
  and at one of the world’s top-ranked technology universities on a genero
  us merit-based scholarship? The EPFL Master Excellence Scholarship 2027 of
  fers an exceptional opportunity for international students to pursue Maste
- r’s…
+ r’s…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4205,7 +4284,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:deb81c6e782d@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Deadline: University of Alabama Presidential Scholarship in USA (Fu
@@ -4217,7 +4296,7 @@ DESCRIPTION:https://opportunityportal.info/university-of-alabama-presidenti
  esidential Scholarship is a highly competitive\, merit-based financial awa
  rd designed for outstanding international first-year undergraduates. Locat
  ed in Tuscaloosa\, the university offers high-achieving students automatic
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4234,7 +4313,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:150ace3b896f@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Deadline: MOPGA Fellowship Program 2027 in France | €2\,500 Month
@@ -4244,7 +4323,8 @@ DESCRIPTION:https://scholarshipscorner.website/mopga-fellowship-program/\nS
  core 19/100 · Fellowship\nCall for applications for the MOPGA Fellowship 
  Program 2027 in France. The MOPGA Visiting Fellowship\, funded by Ministry
   for Europe and Foreign Affairs (MEAE)\, will take place in different Fren
- ch research institutions\, for a period of 12 months. The…
+ ch research institutions\, for a period of 12 months. The…\nhttps://mala
+ kbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4261,7 +4341,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fc433e698dae@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Expected deadline: ETH Student Summer Research Fellowship in Comput
@@ -4269,7 +4349,7 @@ SUMMARY:Expected deadline: ETH Student Summer Research Fellowship in Comput
 URL:https://inf.ethz.ch/studies/summer-research-fellowship.html
 DESCRIPTION:https://inf.ethz.ch/studies/summer-research-fellowship.html\nSc
  ore 58/100 · Research\n2-month summer research fellowship in computer sci
- ence at ETH Zurich
+ ence at ETH Zurich\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4286,7 +4366,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b4827e2305c9@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Deadline: Global Schools Prize 2027: Win Up to US$500\,000 for Your
@@ -4298,7 +4378,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/28/the-global-schools
  /\nScore 48/100 · Competition\nSchools worldwide are invited to apply for
   the 2027 Global Schools Prize\, an international education award establis
  hed to recognise and celebrate exceptional schools that are transforming e
- ducation\, improving learning experiences\, and preparing young people…
+ ducation\, improving learning experiences\, and preparing young people…\
+ nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4315,7 +4396,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:962b2a126043@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Deadline: Mozilla Foundation Fellowship 2027–2028: Apply for Up t
@@ -4329,7 +4410,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/29/mozilla-foundation
  lowship 2027–2028 is inviting applications from visionary technology bui
  lders\, innovators\, researchers\, founders\, artists\, and change-makers 
  who want to shape a more open\, inclusive\, trustworthy\, and people-cente
- red digital future…
+ red digital future…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4346,7 +4427,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:82f5059b1b81@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Deadline: Allianz MoveNow Social Innovation Challenge 2026: Win a S
@@ -4358,7 +4439,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/21/social-innovation-
  novators working to solve social and environmental challenges have an oppo
  rtunity to access grant funding\, startup support\, mentorship\, and inter
  national networking through the Allianz MoveNow Social Innovation Challeng
- e. The…
+ e. The…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4375,7 +4456,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9c297f3d4a46@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:Deadline: GBD Fellowship 2027 at the University of Washington: Appl
@@ -4389,7 +4470,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/29/gbd-fellowship-202
  en for the 2027 Global Burden of Disease (GBD) Fellowship at the Institute
   for Health Metrics and Evaluation (IHME)\, University of Washington\, in 
  the United States. This fellowship offers an opportunity for qualified ear
- ly-career…
+ ly-career…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4406,7 +4487,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f15d3820da1e@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:Deadline: Fully Funded A&A Excursion to CERN 2027 in Switzerland fo
@@ -4419,7 +4500,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/30/fully-funded-aa-ex
  nomy\, astrophysics\, cosmology\, and scientific research now have an extr
  aordinary opportunity to experience one of the world’s most prestigious 
  scientific institutions. The A&A Excursion to CERN 2027 is a fully funded
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4436,14 +4517,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eec2c1850b28@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Expected deadline: EPFL Summer Fellowship
 URL:https://summer.epfl.ch/
 DESCRIPTION:https://summer.epfl.ch/\nScore 73/100 · Fellowship\nResearch f
  ellowship in computer science\, AI\, systems\, and related areas in Switze
- rland
+ rland\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4458,7 +4539,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0b453a693870@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Deadline: Google Gemini Student Plan 2026 | Google AI Plus Free for
@@ -4468,7 +4549,8 @@ DESCRIPTION:https://scholarshipscorner.website/google-gemini-student-plan/\
  nScore 63/100 · Course\nGoogle is offering the Google Gemini Student Plan
   2026 for eligible university students. Students can get Google AI Plus fr
  ee for 12 months. It is open to students worldwide. The plan offers powerf
- ul AI tools for study\, research\, writing\, and exam…
+ ul AI tools for study\, research\, writing\, and exam…\nhttps://malakbat
+ tat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4485,7 +4567,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:de80558416e2@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Deadline: Nanyang President’s Graduate Scholarship 2027 (Fully Fu
@@ -4496,7 +4578,7 @@ DESCRIPTION:https://opportunityportal.info/nanyang-presidents-graduate-scho
  for the Nanyang University Singapore Scholarship 2027 for international st
  udents. This is a fully funded scholarship program offering opportunities 
  to pursue Bachelor’s\, Master’s\, and Doctoral degrees at one of Asia
- ’s…
+ ’s…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4513,7 +4595,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:489fe2eab023@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Deadline: Erasmus Mundus PlantHealth Scholarship 2027 in Europe | F
@@ -4525,7 +4607,7 @@ DESCRIPTION:https://www.scholarshipsads.com/erasmus-mundus-planthealth-scho
   Scholarship 2027 in Europe | Fully Funded Fully Funded University of Göt
  tingen\, AgroParisTech\, Universitat Politècnica de València\, Spain\, U
  niversità di Padova\, Italy\, L’Institut Agro\, France Masters Plant He
- alth All countries…
+ alth All countries…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4542,7 +4624,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b8fc022b9710@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Deadline: UNDP and Tencent Youth AI4SDGs Impact Challenge 2027: Gra
@@ -4556,6 +4638,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/28/undp-and-tencent-y
   Impact Challenge 2027 is an opportunity for young innovators\, entreprene
  urs\, and youth-led organizations across Asia and the Pacific to develop a
  nd scale artificial intelligence (AI) solutions that address real-world…
+ \nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4572,14 +4655,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f3840e49a023@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Expected deadline: Fatima Fellowship
 URL:https://fatima.institute/
 DESCRIPTION:https://fatima.institute/\nScore 42/100 · Fellowship\nOpen to 
  global applicants\; 9-month program remotely (online)\; for aspiring resea
- rchers in computer science
+ rchers in computer science\nhttps://malakbattat.github.io/opportunity-rada
+ r/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4594,7 +4678,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:06a6bd6f596f@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Deadline: American University Emerging Global Leader Scholarship 20
@@ -4606,7 +4690,7 @@ DESCRIPTION:https://opportunityportal.info/american-university-emerging-glo
  ed to apply for the American University Emerging Global Leader Scholarship
   in USA 2027. The AU Emerging Global Leader Scholarship promotes access an
  d educational opportunities while increasing international diversity. Brin
- ging together the…
+ ging together the…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4623,7 +4707,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e6a205019bf8@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Deadline: FAO Volunteer Programme 2026–27 in Rome\, Italy
@@ -4633,7 +4717,7 @@ DESCRIPTION:https://scholarshipscorner.website/fao-volunteer-programme-ital
  eer Programme 2026–27 in Rome\, Italy. It is offered by The Food and Agr
  iculture Organization of the United Nations (FAO). The program will run fo
  r up to a maximum of 6 months. FAO works to ensure that people have access
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4648,7 +4732,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dfaf7812bca0@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Deadline: FASPE Fellowship 2027 in Germany and Poland (Fully Funded
@@ -4658,7 +4742,8 @@ DESCRIPTION:https://scholarshipscorner.website/faspe-fellowship/\nScore 69/
  100 · Fellowship\nThe FASPE Fellowship 2027 in Germany and Poland invites
   applications from graduate students and early-career professionals. The f
  ully funded research fellowship program is designed to facilitate particip
- ants to know their ethical responsibilities as future…
+ ants to know their ethical responsibilities as future…\nhttps://malakbat
+ tat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4675,7 +4760,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cc149dfa013b@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Deadline: WIPO Internship 2026-27 in Geneva\, Switzerland (Fully Fu
@@ -4685,7 +4770,8 @@ DESCRIPTION:https://scholarshipscorner.website/wipo-internship-switzerland/
  \nScore 56/100 · Internship\nThe WIPO Internship 2026-27 in Geneva\, Swit
  zerland is now open for applications. This is a fully funded internship fo
  r students and recent graduates who want to gain international work experi
- ence. The interns will work at WIPO Headquarters in Geneva…
+ ence. The interns will work at WIPO Headquarters in Geneva…\nhttps://mal
+ akbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4702,7 +4788,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d3a8c71be87a@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:Deadline: Erasmus Mundus ILSPSD Scholarship 2027 (Fully Funded Join
@@ -4712,7 +4798,8 @@ DESCRIPTION:https://opportunityportal.info/erasmus-mundus-ilspsd-scholarshi
  p/\nScore 49/100 · Scholarship\nThe Erasmus Mundus ILSPSD Scholarship 202
  7 offers international students a chance to pursue a fully funded joint Ma
  ster’s degree in Europe in International Law of Security\, Peace and Sus
- tainable Development (ILSPSD). This two-year Erasmus Mundus Joint…
+ tainable Development (ILSPSD). This two-year Erasmus Mundus Joint…\nhttp
+ s://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4729,7 +4816,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a38fa9b63b8e@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:Deadline: University of Miami Scholarship in Economics 2027 (Fully 
@@ -4741,7 +4828,7 @@ DESCRIPTION:https://opportunityportal.info/university-of-miami-scholarship-
  omics is a high-stakes decision that shapes your academic path\, research 
  impact\, and long-term career. Prospective students should look beyond ins
  titutional reputation and compare program structure\, multi-year funding g
- uarantees…
+ uarantees…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4758,7 +4845,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c15523a87710@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Deadline: France Eiffel Excellence Scholarship | Fully Funded
@@ -4768,7 +4855,7 @@ DESCRIPTION:https://www.scholarshipsads.com/france-eiffel-excellence-schola
   Fully Funded Fully Funded France Universities Masters\, PhD Science and E
  ngineering\, Economics / Management\, Biology and Health\, Ecological Tran
  sition\, Mathematics and Digital Technology\, History\, French Language an
- d…
+ d…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4783,7 +4870,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:98b87ed90a08@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Deadline: Oxford Pershing Square Graduate Scholarships In UK | Full
@@ -4795,7 +4882,7 @@ DESCRIPTION:https://opportunityportal.info/oxford-pershing-square-graduate-
  holarship in the UK at a world-renowned institution is the pinnacle of aca
  demic and professional achievement for emerging global leaders. Applicatio
  ns are officially open for the Oxford Pershing Square Graduate Scholarship
- s 2027…
+ s 2027…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4808,40 +4895,11 @@ ACTION:DISPLAY
 TRIGGER:-P1D
 DESCRIPTION:Deadline: Oxford Pershing Square Graduate Scholarships In UK | 
  Fully Funded
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:dc8f41a776f6@opportunity-radar
-DTSTAMP:20261030T221051Z
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
-SUMMARY:Deadline: McCall MacBain International Fellowships 2027 | CAD $30\,
- 000 Funding
-URL:https://scholarshipscorner.website/mccall-macbain-international-fellows
- hips/
-DESCRIPTION:https://scholarshipscorner.website/mccall-macbain-international
- -fellowships/\nScore 59/100 · Fellowship\nApplications are now open for t
- he McCall MacBain International Fellowships 2027. The program offers up to
-  CAD $30\,000 and is designed to help young students live and learn in dif
- ferent countries. Through McCall fellowships\, students will create interc
- ultural…
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P7D
-DESCRIPTION:Deadline: McCall MacBain International Fellowships 2027 | CAD $
- 30\,000 Funding
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P1D
-DESCRIPTION:Deadline: McCall MacBain International Fellowships 2027 | CAD $
- 30\,000 Funding
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7f611f10ee24@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Deadline: Fully Funded CENTA PhD Studentships 2027 in Earth and Env
@@ -4853,7 +4911,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/21/apply-now-fully-fu
  /\nScore 44/100 · Research\nApplications are open for the CENTA fully fun
  ded PhD studentships for autumn 2027 entry\, offering prospective doctoral
   researchers the opportunity to pursue advanced research in Earth and Envi
- ronmental Sciences through a partnership of leading universities…
+ ronmental Sciences through a partnership of leading universities…\nhttps
+ ://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4869,8 +4928,37 @@ DESCRIPTION:Deadline: Fully Funded CENTA PhD Studentships 2027 in Earth and
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:dc8f41a776f6@opportunity-radar
+DTSTAMP:20261030T231238Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Deadline: McCall MacBain International Fellowships 2027 | CAD $30\,
+ 000 Funding
+URL:https://scholarshipscorner.website/mccall-macbain-international-fellows
+ hips/
+DESCRIPTION:https://scholarshipscorner.website/mccall-macbain-international
+ -fellowships/\nScore 19/100 · Fellowship\nApplications are now open for t
+ he McCall MacBain International Fellowships 2027. The program offers up to
+  CAD $30\,000 and is designed to help young students live and learn in dif
+ ferent countries. Through McCall fellowships\, students will create interc
+ ultural…\nhttps://malakbattat.github.io/opportunity-radar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Deadline: McCall MacBain International Fellowships 2027 | CAD $
+ 30\,000 Funding
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Deadline: McCall MacBain International Fellowships 2027 | CAD $
+ 30\,000 Funding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:97e8829e095a@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:Deadline: Erasmus Mundus MESPOM Scholarship (Fully Funded)
@@ -4879,7 +4967,8 @@ DESCRIPTION:https://opportunityportal.info/erasmus-mundus-mespom-scholarshi
  /\nScore 61/100 · Scholarship\nThe Erasmus Mundus MESPOM Scholarship (202
  7–2029 Intake) offers full funding for international candidates to pursu
  e the prestigious Master’s in Environmental Sciences\, Policy\, and Mana
- gement. Funded by the European Union\, the 2-year joint degree program…
+ gement. Funded by the European Union\, the 2-year joint degree program…\
+ nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4894,7 +4983,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7a519b5777ba@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:Deadline: Learning Planet Youth Design Challenge 2026–2027: Apply
@@ -4909,7 +4998,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/25/learning-planet-yo
   · Competition\nYoung innovators\, social entrepreneurs\, student leaders
   and youth advocates seeking to transform their communities have an opport
  unity to strengthen their projects through the Learning Planet Youth Desig
- n Challenge (LPYDC) 2026–2027. Organised by the Learning…
+ n Challenge (LPYDC) 2026–2027. Organised by the Learning…\nhttps://mal
+ akbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4928,7 +5018,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:010447a5a8e4@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Deadline: French Government Eiffel Excellence Scholarship 2027 (Ful
@@ -4938,7 +5028,8 @@ DESCRIPTION:https://opportunityportal.info/french-eiffel-excellence-scholar
  ship/\nScore 65/100 · Scholarship\nApplications are now open for the Eiff
  el Scholarship Program of Excellence 2027\, a prestigious French Governmen
  t scholarship offering fully funded opportunities for international studen
- ts pursuing Master’s and PhD degrees in France. With up to 500…
+ ts pursuing Master’s and PhD degrees in France. With up to 500…\nhttps
+ ://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4955,7 +5046,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1026f6c27d4f@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Deadline: Skoll MBA Scholarship 2027 in the UK | Fully Funded | Stu
@@ -4965,7 +5056,8 @@ DESCRIPTION:https://scholarshipscorner.website/skoll-mba-scholarship/\nScor
  e 39/100 · Scholarship\nThe Skoll MBA Scholarship encourages potential ca
  ndidates to come to the UK for higher studies without worrying about the h
  igh financial costs of study and living. The Skoll Scholarship provides st
- udents with the opportunity to study at the University of…
+ udents with the opportunity to study at the University of…\nhttps://mala
+ kbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4982,7 +5074,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c8f24d58197d@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Deadline: CDC Steven M. Teutsch Prevention Effectiveness Fellowship
@@ -4996,7 +5088,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/27/cdc-steven-m-teuts
  rofessional with a strong interest in health economics\, decision science\
  , disease modelling\, and evidence-based public health policy? The Steven 
  M. Teutsch Prevention Effectiveness Fellowship at the U.S. Centers for Dis
- ease Control…
+ ease Control…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5013,7 +5105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:174b72ff2a46@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:Deadline: Fulbright Swedish Scholar Program 2027–2028 | USA
@@ -5024,7 +5116,7 @@ DESCRIPTION:https://www.scholarshipsads.com/usa-government-fulbright-swedis
  ar Program 2027–2028 | USA Partial Funding USA Universities Post Doctora
  te All Subjects Swedish Citizens USA Deadline: 11 Jan 2027 Partial Funding
   USA Universities Post Doctorate All Subjects Swedish Citizens USA Deadlin
- e: 11 Jan 2027…
+ e: 11 Jan 2027…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5039,7 +5131,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:35290280d8bf@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Deadline: Stanford University Fisher Family Summer Fellows Program 
@@ -5052,7 +5144,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/30/stanford-universit
   Summer Fellows Program 2027 is an opportunity for experienced professiona
  ls and mid-career leaders who are committed to strengthening democracy\, p
  romoting economic development\, advancing the rule of law\, and improving
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5069,7 +5161,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1dcd91619cf1@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:Deadline: LSE MPhil/PhD Demography (Social/Formal) 2027/28: Fully D
@@ -5081,7 +5173,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/22/lse-mphil-phd-demo
   Demography (Social/Formal) 2027/28 is a postgraduate research programme o
  ffered by the London School of Economics and Political Science (LSE) in th
  e United Kingdom. The programme is designed for graduates who want to deve
- lop advanced…
+ lop advanced…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5098,7 +5190,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7e4399e1fd4e@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:Deadline: University of Southampton Scholarships In UK (Funded)
@@ -5108,6 +5200,7 @@ DESCRIPTION:https://opportunityportal.info/university-of-southampton-schola
  rships 2027 offer high-value financial support for international students 
  pursuing Undergraduate\, Master’s\, and PhD degrees in the UK. Designed 
  to attract top global talent\, these UK university scholarships include…
+ \nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5122,7 +5215,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c1d24e07d01a@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:Deadline: GLOCAL Erasmus Mundus Scholarship 2027-2029 (Fully Funded
@@ -5133,7 +5226,7 @@ DESCRIPTION:https://scholarshipscorner.website/glocal-erasmus-mundus-schola
  undus Scholarship\, for the session 2027-29\, are now open. Funded by Eras
  mus Mundus and European Union\, the fully funded scholarship program will 
  begin in September 2027. The scholarship program invites students from all
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5150,7 +5243,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:45f0c36d0f76@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Deadline: Impact AI Fellowship 2027 in Germany (Fully Funded)
@@ -5159,7 +5252,8 @@ DESCRIPTION:https://scholarshipscorner.website/impact-ai-fellowship-germany
  /\nScore 83/100 · Fellowship\nApplications are now open for the Impact AI
   Fellowship 2027 in Germany. The AI research program is offered by the Ale
  xander von Humboldt Institute for Internet and Society (HIIG). This fully 
- funded fellowship in Germany is designed to explore real impacts of…
+ funded fellowship in Germany is designed to explore real impacts of…\nht
+ tps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5174,7 +5268,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6aadadf8d632@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Deadline: SI Scholarship for Global Professionals 2027/2028 in Swed
@@ -5187,6 +5281,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/21/swedish-institute-
  r Global Professionals 2027/2028 offers international professionals an opp
  ortunity to pursue a fully funded master’s degree at a Swedish universit
  y. The scholarship supports talented individuals who want to strengthen…
+ \nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5203,7 +5298,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:458b8704f9df@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Deadline: University of Debrecen Stipendium Hungaricum Scholarship 
@@ -5214,7 +5309,7 @@ DESCRIPTION:https://opportunityportal.info/university-of-debrecen-scholarsh
  niversity of Debrecen Stipendium Hungaricum Scholarship 2027\, one of the 
  most prestigious and highly competitive fully funded Hungary scholarships 
  for international students. The University of Debrecen is offering 5\,000
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5231,7 +5326,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3df5fdcfac00@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Deadline: KAUST Global Fellowship Program in Saudi Arabia (Fully Fu
@@ -5241,7 +5336,8 @@ DESCRIPTION:https://opportunityportal.info/kaust-global-fellowship-program/
  \nScore 54/100 · Fellowship\nThe KAUST Global Fellowship Program (Call 20
  27) is a prestigious\, merit-based fully funded research fellowship that e
  mpowers outstanding early-career scientists and engineers to pursue indepe
- ndent\, fellow-led research. Hosted at King Abdullah University of…
+ ndent\, fellow-led research. Hosted at King Abdullah University of…\nhtt
+ ps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5258,7 +5354,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:951f1c0a15e9@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Deadline: Berlin School of Economics PhD Program 2027 in Germany | 
@@ -5272,7 +5368,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/28/berlin-school-of-e
  f Economics (BSE) PhD Program 2027 offers an excellent opportunity for out
  standing postgraduate students from around the world who wish to pursue do
  ctoral studies in economics\, business studies\, and related quantitative 
- social science…
+ social science…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5289,7 +5385,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:77a4382c05a2@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Deadline: Trinity Fellows Program at Marquette University
@@ -5300,7 +5396,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/22/trinity-fellows-pr
  duate degree while gaining meaningful professional experience can be chall
  enging\, especially when balancing tuition costs\, living expenses\, and c
  areer development opportunities. The Trinity Fellows Program at Marquette 
- University addresses these…
+ University addresses these…\nhttps://malakbattat.github.io/opportunity-r
+ adar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5315,7 +5412,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:68a40d072e64@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Deadline: Doha Institute for Graduate Studies Scholarship 2027 in Q
@@ -5327,7 +5424,7 @@ DESCRIPTION:https://www.scholarshipsads.com/doha-institute-for-graduate-stu
  e Studies Scholarship 2027 in Qatar | Fully Funded Fully Funded Doha Insti
  tute for Graduate Studies Masters\, PhD History\, Psychology\, Humanities\
  , Economics\, Public Policy\, Human Rights +5 More \, Philosophy\, Social 
- Sciences\, Media…
+ Sciences\, Media…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5344,7 +5441,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5c7a9dc7e0b3@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Deadline: Ghent University Scholarships 2027 (Fully Funded)
@@ -5353,7 +5450,8 @@ DESCRIPTION:https://opportunityportal.info/ghent-university-scholarships/\n
  Score 17/100 · Scholarship\nApplications are now open for the Ghent Unive
  rsity Doctoral Scholarships 2027\, a prestigious fully funded PhD scholars
  hip in Belgium supported by the Special Research Fund (BOF). This competit
- ive international PhD scholarship is designed for outstanding…
+ ive international PhD scholarship is designed for outstanding…\nhttps://
+ malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5368,7 +5466,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5c83dabfcb47@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Deadline: Algalita Student Mini-Grants 2026–2027: Apply for $500 
@@ -5380,7 +5478,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/25/student-mini-grant
  dents aged 11–25 around the world have an opportunity to receive funding
   to tackle plastic pollution in their schools and communities through the 
  Algalita Student Mini-Grants 2026–2027. The programme supports young peo
- ple who want to understand the root…
+ ple who want to understand the root…\nhttps://malakbattat.github.io/oppo
+ rtunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5397,7 +5496,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5fe768b2f529@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Deadline: CODESRIA Research Grants on University Ecosystems 2027: F
@@ -5411,7 +5510,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/27/codesria-research-
  l Science Research in Africa (CODESRIA) has announced a call for proposals
   for its Research Grants on University Ecosystems programme\, focusing on 
  higher education\, gender equality\, academic freedom\, and the quality of
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5428,7 +5527,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ad1e9d31e281@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 SUMMARY:Deadline: MIT Summer Research Program (MSRP) 2027 – Fully Funded 
@@ -5437,10 +5536,11 @@ URL:https://opportunitiesforyouth.org/2026/10/29/mit-summer-research-progra
  m-msrp-2026-fully-funded-undergraduate-research-opportunity-at-mit/
 DESCRIPTION:https://opportunitiesforyouth.org/2026/10/29/mit-summer-researc
  h-program-msrp-2026-fully-funded-undergraduate-research-opportunity-at-mit
- /\nScore 90/100 · Research\nOpportunity Details Information Programme Nam
+ /\nScore 50/100 · Research\nOpportunity Details Information Programme Nam
  e MIT Summer Research Program (MSRP) 2027 Host Institution Massachusetts I
  nstitute of Technology (MIT)\, USA Programme Type Summer Research Internsh
- ip Location Cambridge\, Massachusetts\, United States Programme…
+ ip Location Cambridge\, Massachusetts\, United States Programme…\nhttps:
+ //malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5457,18 +5557,18 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7b3fb6a82428@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 SUMMARY:Deadline: MIT Summer Research Program (MSRP) 2027 in USA (Fully Fun
  ded)
 URL:https://scholarshipscorner.website/mit-summer-research-program-msrp/
 DESCRIPTION:https://scholarshipscorner.website/mit-summer-research-program-
- msrp/\nScore 87/100 · Research\nThe MIT Summer Research Program (MSRP) 20
+ msrp/\nScore 47/100 · Research\nThe MIT Summer Research Program (MSRP) 20
  27 is a fully funded summer program in the United States for undergraduate
   students. It is hosted by the Massachusetts Institute of Technology (MIT)
  \, one of the world’s top universities. This MIT Summer Internship 2027
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5485,7 +5585,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b3a8a1f3ad2c@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:Deadline: Nanjing University Chinese Government Scholarship 2027 (F
@@ -5495,7 +5595,8 @@ DESCRIPTION:https://opportunityportal.info/nanjing-university-scholarship-2
  026/\nScore 52/100 · Scholarship\nAll international students of any natio
  nality are eligible to apply for the Nanjing University CSC Scholarship 20
  27 in China\, offering access to a wide range of academic programs in Chin
- a. The university provides more than 86 undergraduate programs\, 27…
+ a. The university provides more than 86 undergraduate programs\, 27…\nht
+ tps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5512,7 +5613,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2b31d73d0bf4@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Deadline: University of Eastern Finland (UEF) Master's Scholarships
@@ -5524,7 +5625,7 @@ DESCRIPTION:https://www.scholarshipsads.com/university-of-eastern-finland-u
  rn Finland (UEF) Master's Scholarships 2027 Partial Funding University of 
  Eastern Finland Masters All Subjects International Students Finland Deadli
  ne: 21 Jan 2027 Partial Funding University of Eastern Finland Masters All 
- Subjects…
+ Subjects…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5541,7 +5642,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:449c816dc1b7@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:Deadline: Erasmus Mundus CLMCE Scholarship 2027 (Fully Funded Joint
@@ -5552,7 +5653,7 @@ DESCRIPTION:https://opportunityportal.info/erasmus-mundus-clmce-scholarship
  offers international students the chance to pursue a fully funded two-year
   Master’s degree in Europe in Children’s Literature\, Media and Cultur
  al Entrepreneurship (CLMCE). Delivered by universities across Europe\, thi
- s…
+ s…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5569,7 +5670,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4eff9c8c1d36@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:Deadline: Reach Oxford UK Scholarship 2027 (Fully Funded)
@@ -5578,7 +5679,8 @@ DESCRIPTION:https://opportunityportal.info/reach-oxford-uk-scholarship-2027
  /\nScore 49/100 · Scholarship\nApplications are now open for the Reach Ox
  ford Scholarship 2027\, a fully funded UK scholarship offering support for
   Undergraduate programs at the University of Oxford. This Oxford Universit
- y scholarship 2027 ranks among the most generous fully funded…
+ y scholarship 2027 ranks among the most generous fully funded…\nhttps://
+ malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5593,7 +5695,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d1f0c75224ec@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:Deadline: LawAI Summer Fellowship 2027 in USA (Fully Funded)
@@ -5602,7 +5704,8 @@ DESCRIPTION:https://scholarshipscorner.website/lawai-summer-fellowship-usa/
  \nScore 75/100 · Fellowship\nThe LawAI Summer Fellowship 2027 in USA invi
  tes applications from law students\, professionals\, and academics. With a
   focus on U.S Law and Policy\, the fully funded international program is a
- n exciting opportunity for individuals who are interested in AI law…
+ n exciting opportunity for individuals who are interested in AI law…\nht
+ tps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5617,7 +5720,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2c5bff24858e@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Expected deadline: CERN Openlab Summer Student Programme
@@ -5625,7 +5728,7 @@ URL:https://openlab.cern/cern-openlab-summer-student-programme/
 DESCRIPTION:https://openlab.cern/cern-openlab-summer-student-programme/\nSc
  ore 84/100 · Research\nOpen to international students in CS\, data scienc
  e\, and related areas\; 8–9 week research program with stipend and trave
- l support
+ l support\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5640,7 +5743,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b93e55cbd9bd@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Expected deadline: Aalto Science Institute International Summer Res
@@ -5650,7 +5753,8 @@ URL:https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-inst
 DESCRIPTION:https://www.aalto.fi/en/aalto-science-institute-asci/aalto-scie
  nce-institute-international-summer-research-programme\nScore 74/100 · Res
  earch\nOpen to bachelor's and master's students worldwide\; 12-week paid s
- ummer research program in Finland
+ ummer research program in Finland\nhttps://malakbattat.github.io/opportuni
+ ty-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5667,7 +5771,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4ee30bd4cc15@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Deadline: Global Investigative Journalism Conference 2027 in Nether
@@ -5679,7 +5783,7 @@ DESCRIPTION:https://scholarshipscorner.website/global-investigative-journal
  nalism Conference 2027 in the Netherlands is offering fully funded fellows
  hips for journalists from around the world. The five-day international con
  ference will take place in Rotterdam from October 19 to 23\, 2027. It will
-  bring…
+  bring…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5696,7 +5800,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ad9e3191e3ad@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Deadline: Hamad Bin Khalifa University (HBKU) Scholarship 2027 | Qa
@@ -5708,7 +5812,7 @@ DESCRIPTION:https://www.scholarshipsads.com/scholarship-hammad-bin-khalifa-
  y (HBKU) Scholarship 2027 | Qatar Fully Funded Hamad Bin Khalifa Universit
  y Masters\, PhD Islamic Studies\, Sustainable Development\, Public Health\
  , Humanities\, Computer Science\, Economics +16 More \, Finance\, Law\, Pu
- blic Policy\, Health…
+ blic Policy\, Health…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5725,7 +5829,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bad44143755a@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Deadline: Hammad Bin Khalifa University Qatar Scholarship 2027 (Ful
@@ -5737,7 +5841,7 @@ DESCRIPTION:https://opportunityportal.info/hammad-bin-khalifa-university-qa
  pply for the Hamad Bin Khalifa University Scholarship 2027 in Qatar. This 
  prestigious\, fully funded Qatar scholarship for international students we
  lcomes applicants from all over the world to pursue Bachelor’s\, Master
- ’s\, and PhD…
+ ’s\, and PhD…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5754,7 +5858,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:06709eeb3c14@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Deadline: Maastricht University Holland High Potential Scholarship 
@@ -5766,7 +5870,7 @@ DESCRIPTION:https://opportunityportal.info/maastricht-university-holland-sc
  iting you to apply for the Maastricht University Holland High Potential Sc
  holarship 2027 — one of the most prestigious fully funded scholarships i
  n the Netherlands for international students. If you are interested in stu
- dying in…
+ dying in…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5783,14 +5887,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b0da67df8591@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Expected deadline: Rockefeller University SURF
 URL:https://surfapplication.rockefeller.edu/
 DESCRIPTION:https://surfapplication.rockefeller.edu/\nScore 54/100 · Resea
  rch\nInternational students eligible\; 10-week summer fellowship in NYC\; 
- $6\,500 stipend with free housing for those who cannot commute
+ $6\,500 stipend with free housing for those who cannot commute\nhttps://ma
+ lakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5805,7 +5910,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:023af94a2b11@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Deadline: Jefferson Scholars Foundation Scholarship In USA 2027 (Fu
@@ -5817,7 +5922,7 @@ DESCRIPTION:https://opportunityportal.info/jefferson-scholars-foundation-sc
  Jefferson Scholars Foundation Scholarship in the USA 2027. The Jefferson S
  cholars Foundation Scholarship transcends traditional academic support\, o
  ffering a transformative experience that goes beyond financial assistance.
-  The…
+  The…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5834,7 +5939,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:be6e600fd735@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Deadline: TIGP Taiwan International Internship Program (Fully Funde
@@ -5844,7 +5949,8 @@ DESCRIPTION:https://opportunityportal.info/taiwan-international-internship-
  program/\nScore 24/100 · Internship\nApplications are now open for the Ta
  iwan International Graduate Program (TIGP) Scholarship 2027\, a prestigiou
  s fully funded PhD scholarship in Taiwan for international students pursui
- ng advanced doctoral research. Jointly organized by Academia Sinica in…
+ ng advanced doctoral research. Jointly organized by Academia Sinica in…\
+ nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5861,7 +5967,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:169f258b64e1@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:Deadline: Central European University Hungary Scholarships 2027 (Fu
@@ -5873,7 +5979,7 @@ DESCRIPTION:https://opportunityportal.info/central-european-university-hung
  to apply for the Central European University (CEU) Scholarships 2027 in Hu
  ngary. This is a fully funded scholarship program for international studen
  ts who wish to pursue their studies in one of Europe’s most prestigious 
- universities…
+ universities…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5890,14 +5996,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d7fb3491693b@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:Expected deadline: ASU Summer Research Initiative (SURI)
 URL:https://students.engineering.asu.edu/graduate/research/suri/
 DESCRIPTION:https://students.engineering.asu.edu/graduate/research/suri/\nS
  core 36/100 · Research\nOpen to global applicants\; 8-week summer researc
- h program\; $5\,000 stipend and on-campus housing
+ h program\; $5\,000 stipend and on-campus housing\nhttps://malakbattat.git
+ hub.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5912,7 +6019,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3cf372324d6e@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:Deadline: Human Rights Essay Award 2027 by American University (Ful
@@ -5922,7 +6029,8 @@ DESCRIPTION:https://scholarshipscorner.website/human-rights-essay-award-usa
  /\nScore 24/100 · Competition\nThe Human Rights Essay Award 2027 is an in
  ternational writing contest offered every year by American University Wash
  ington College of Law. The goal of this award is to support new research a
- nd writing in international human rights law. The theme for 2027 is…
+ nd writing in international human rights law. The theme for 2027 is…\nht
+ tps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5939,14 +6047,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ecc7c56624ea@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Expected deadline: ISTA Summer Fellowship
 URL:https://phd.pages.ist.ac.at/isternship/
 DESCRIPTION:https://phd.pages.ist.ac.at/isternship/\nScore 68/100 · Fellow
  ship\nResearch fellowship in Austria across computer science and related f
- ields\; stipend and housing support
+ ields\; stipend and housing support\nhttps://malakbattat.github.io/opportu
+ nity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5961,7 +6070,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dd06b31a86b0@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 SUMMARY:Deadline: Ghent University Doctoral Scholarships 2027 in Belgium | 
@@ -5973,7 +6082,7 @@ DESCRIPTION:https://scholarshipscorner.website/ghent-university-doctoral-sc
  holarships 2027 in Belgium is an excellent opportunity for students to pur
  sue their academic careers abroad. It targets individuals from selected de
  veloping countries to excel in their careers in research fields. The Ghent
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5990,14 +6099,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cb263889862b@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:Expected deadline: The Cornell\, Maryland\, Max Planck Pre-doctoral
   Research School in Computer Science (CMMRS 2026)
 URL:https://cmmrs.mpi-sws.org/
 DESCRIPTION:https://cmmrs.mpi-sws.org/\nScore 80/100 · Research\nOne-week 
- immersive pre-doctoral research school\; travel funding available
+ immersive pre-doctoral research school\; travel funding available\nhttps:/
+ /malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6014,7 +6124,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cbf56492b092@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
 SUMMARY:Deadline: Vidyasirimedhi Institute of Science and Technology Schola
@@ -6024,7 +6134,8 @@ DESCRIPTION:https://opportunityportal.info/vistec-scholarship-2026/\nScore
  60/100 · Scholarship\nApplications are now open for the Vidyasirimedhi In
  stitute of Science and Technology (VISTEC) Scholarship 2027 in Thailand\, 
  a fully funded scholarship program for international students offered by o
- ne of Thailand’s leading research universities. Under this…
+ ne of Thailand’s leading research universities. Under this…\nhttps://m
+ alakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6041,7 +6152,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ef04f89720c7@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
 SUMMARY:Deadline: International Joint Master in Climate Change and Diversit
@@ -6054,7 +6165,8 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/24/erasmus-mundus-joi
  he International Joint Master in Climate Change and Diversity: Sustainable
   Territorial Development (CCD-STeDe) is a two-year international master’
  s degree programme designed to prepare professionals to address climate ch
- ange\, environmental challenges\, and…
+ ange\, environmental challenges\, and…\nhttps://malakbattat.github.io/op
+ portunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6073,7 +6185,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:470625cde579@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Expected deadline: CMU LTI - Language Technology for All Summer Int
@@ -6082,7 +6194,8 @@ URL:https://forms.gle/cUu8g6wb27HsWWkd7
 DESCRIPTION:https://forms.gle/cUu8g6wb27HsWWkd7\nScore 53/100 · Internship
  \nIn-person research internship at Carnegie Mellon for pre-doctoral studen
  ts interested in language technology\; 12–14 weeks\; travel covered plus
-  stipend for housing and expenses
+  stipend for housing and expenses\nhttps://malakbattat.github.io/opportuni
+ ty-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6099,7 +6212,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d3ff323eae22@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Deadline: Zhejiang Normal University Chinese Government Scholarship
@@ -6110,7 +6223,7 @@ DESCRIPTION:https://opportunityportal.info/zhejiang-normal-university-schol
  ejiang Normal University Chinese Government Scholarship 2027\, a fully fun
  ded scholarship in China for international students pursuing Master’s an
  d PhD degrees. This CSC scholarship at ZJNU is a strong option for student
- s…
+ s…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6127,7 +6240,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4ea7d814176f@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:Deadline: Swedish Institute Scholarship for Global Professionals 20
@@ -6138,7 +6251,7 @@ DESCRIPTION:https://opportunityportal.info/si-scholarship-for-global-profes
  wedish Institute Scholarships for Global Professionals (SISGP) 2027\, also
   known as the Sweden Government Scholarship 2027. This is a fully funded i
  nternational scholarship for students worldwide who wish to pursue a maste
- r’s…
+ r’s…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6155,14 +6268,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:03583625533b@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Expected deadline: MIT Summer Geometry Initiative
 URL:https://sgi.mit.edu/
 DESCRIPTION:https://sgi.mit.edu/\nScore 46/100 · Research\nOpen to global 
  applicants\; 6-week summer research program remotely (online)\; stipend (a
- round $4000 for 2025)
+ round $4000 for 2025)\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6177,7 +6290,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:58193f1c3b6d@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Deadline: Caspar David Friedrich Scholarship 2027 (€1\,500/Month\
@@ -6187,7 +6300,8 @@ DESCRIPTION:https://opportunityportal.info/caspar-david-friedrich-scholarsh
  ip/\nScore 31/100 · Scholarship\nThe Caspar David Friedrich Scholarship 2
  027 supports exceptional art graduates with €1\,500 per month for up to 
  one year to realize an original artistic development project in Mecklenbur
- g-Western Pomerania\, Germany. This fully funded arts scholarship in…
+ g-Western Pomerania\, Germany. This fully funded arts scholarship in…\nh
+ ttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6204,7 +6318,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a2b2a1769563@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Expected deadline: AIR Writing and Mentorship Program
@@ -6212,7 +6326,8 @@ URL:https://air-collective.com/about-the-program/
 DESCRIPTION:https://air-collective.com/about-the-program/\nScore 20/100 · 
  Research\nYear-long online program for early career researchers from under
  represented groups\; includes writing workshops and one-on-one mentorship 
- to develop academic manuscripts\; no cost to participants
+ to develop academic manuscripts\; no cost to participants\nhttps://malakba
+ ttat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6227,7 +6342,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3904c52429ac@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
 SUMMARY:Expected deadline: INSAIT Summer Undergraduate Research Fellowship 
@@ -6235,7 +6350,7 @@ SUMMARY:Expected deadline: INSAIT Summer Undergraduate Research Fellowship
 URL:https://insait.ai/surf/
 DESCRIPTION:https://insait.ai/surf/\nScore 100/100 · Research\nResearch pr
  ogram in AI and computer science in Bulgaria\; stipend\, accommodation\, t
- ravel\, and visa support
+ ravel\, and visa support\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6252,7 +6367,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1fda59b2a31d@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
 SUMMARY:Deadline: Hansen Leadership Institute 2027 in USA | Fully Funded Ha
@@ -6262,7 +6377,8 @@ DESCRIPTION:https://scholarshipscorner.website/hansen-leadership-institute/
  \nScore 31/100 · Exchange\nThe wait is over. applications for the Hansen 
  Leadership Institute 2027 are now open! This prestigious program in the US
  A is designed for individuals who demonstrate strong leadership potential 
- and are committed to contributing to the development of their…
+ and are committed to contributing to the development of their…\nhttps://
+ malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6279,7 +6395,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:264194e33c1e@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:Deadline: AIT Royal Thai Government Scholarships 2027 (Fully Funded
@@ -6290,7 +6406,7 @@ DESCRIPTION:https://opportunityportal.info/royal-thai-government-scholarshi
  AIT) in Thailand is offering the prestigious Royal Thai Government Scholar
  ships 2027\, a fully funded scholarship program for international students
   pursuing Master’s or PhD degrees across a wide range of fields. This fu
- lly…
+ lly…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6307,7 +6423,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:145cda269a43@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Deadline: KUT Special Scholarship Program in Japan | Fully Funded
@@ -6318,7 +6434,7 @@ DESCRIPTION:https://scholarshipscorner.website/kut-special-scholarship-prog
  am in Japan is now open for applications. This fully funded scholarship pr
  ogram invites exceptional students from different regions of the world to 
  pursue a 3-year doctoral research program. During the Kochi University of
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6335,7 +6451,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2ee2e37a1ff4@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:Deadline: Gwangju Institute of Science and Technology GIST Scholars
@@ -6345,7 +6461,8 @@ DESCRIPTION:https://opportunityportal.info/gist-scholarships-in-korea/\nSco
  re 53/100 · Scholarship\nApplications are now open for the Gwangju Instit
  ute of Science and Technology (GIST) Scholarship 2027—a fully funded Kor
  ean scholarship program designed for international students pursuing Maste
- r’s\, Ph.D.\, and Integrated MS/Ph.D. Programs. Gwangju Institute…
+ r’s\, Ph.D.\, and Integrated MS/Ph.D. Programs. Gwangju Institute…\nht
+ tps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6362,7 +6479,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d5c03eac2166@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Expected deadline: UIUC++ Summer Research in Software Engineering (
@@ -6370,7 +6487,8 @@ SUMMARY:Expected deadline: UIUC++ Summer Research in Software Engineering (
 URL:https://uiuc-srse.github.io/
 DESCRIPTION:https://uiuc-srse.github.io/\nScore 79/100 · Research\nOpen to
   global applicants\; mostly remote unpaid mentored research program in sof
- tware engineering\, program analysis\, testing\, and AI for code
+ tware engineering\, program analysis\, testing\, and AI for code\nhttps://
+ malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6387,7 +6505,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d4427a284569@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:Deadline: Japan (JSPS) International Fellowships in Japan (Fully Fu
@@ -6397,7 +6515,8 @@ DESCRIPTION:https://opportunityportal.info/japan-jsps-international-fellows
  hips/\nScore 29/100 · Fellowship\nThe Japan Society for the Promotion of 
  Science (JSPS) International Fellowships offer an unparalleled postdoctora
  l research opportunity in Japan for outstanding early-career scholars from
-  ASEAN and beyond. Each year\, JSPS partners with leading Japanese…
+  ASEAN and beyond. Each year\, JSPS partners with leading Japanese…\nhtt
+ ps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6414,7 +6533,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7452cc5fceea@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Expected deadline: Flatiron Institute Pre-Doctoral Program
@@ -6423,7 +6542,8 @@ URL:https://www.simonsfoundation.org/2023-flatiron-institute-center-for-com
 DESCRIPTION:https://www.simonsfoundation.org/2023-flatiron-institute-center
  -for-computational-astrophysics-pre-doctoral-programhow-to-apply/\nScore 4
  8/100 · Research\nPredoctoral research program\; mentor-based application
-  process\; suitable for computational science research
+  process\; suitable for computational science research\nhttps://malakbatta
+ t.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6438,7 +6558,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a8635ac4f692@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Deadline: EURECOM Excellence Scholarship In France 2027 (Funded)
@@ -6448,7 +6568,7 @@ DESCRIPTION:https://opportunityportal.info/eurecom-excellence-scholarship/\
  rs financial support of up to €9\,000 to academically outstanding intern
  ational students applying for eligible Master’s and Post-Master’s prog
  rammes in France. For students comparing Master’s scholarships in France
- …
+ …\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6465,7 +6585,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e3356d443970@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270607
 DTEND;VALUE=DATE:20270608
 SUMMARY:Deadline: University of Lincoln Global Leaders Scholarship 2027–2
@@ -6479,7 +6599,7 @@ DESCRIPTION:https://opportunitiesforyouth.org/2026/10/23/university-of-linc
  y of Lincoln Global Leaders Scholarship is an opportunity for outstanding 
  international students who wish to pursue undergraduate or postgraduate ta
  ught studies in the United Kingdom. The scholarship recognises applicants 
- who demonstrate…
+ who demonstrate…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6496,7 +6616,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d77a1ef46c04@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270903
 SUMMARY:Deadline: Maastricht University Scholarships 2027 in Netherlands | 
@@ -6506,7 +6626,8 @@ DESCRIPTION:https://scholarshipscorner.website/maastricht-university-schola
  rships/\nScore 66/100 · Scholarship\nMaastricht University Scholarships 2
  027 is an amazing opportunity for international students to study in Holla
  nd for free. This fully-funded scholarship opportunity is for brilliant st
- udents who want to climb the ladder of success to enroll themselves in…
+ udents who want to climb the ladder of success to enroll themselves in…\
+ nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6523,7 +6644,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:659f35e7e562@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270924
 DTEND;VALUE=DATE:20270925
 SUMMARY:Deadline: KAUST Microelectronics Winter Camp 2027 in Saudi Arabia |
@@ -6534,7 +6655,7 @@ DESCRIPTION:https://scholarshipscorner.website/kaust-microelectronics-winte
  T Microelectronics Winter Camp 2027 in Saudi Arabia. Offered by King Abdul
  lah University of Science and Technology\, the fully funded internship pro
  gram will be held from January 4 to February 11\, 2027 in Saudi Arabia. KA
- UST…
+ UST…\nhttps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6551,7 +6672,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f31b88442afc@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20270930
 DTEND;VALUE=DATE:20271001
 SUMMARY:Deadline: KWI International Fellowship in Germany 2027 | Funded
@@ -6560,7 +6681,8 @@ DESCRIPTION:https://scholarshipscorner.website/kwi-international-fellowship
  /\nScore 14/100 · Fellowship\nKWI International Fellowship is designed fo
  r exceptional researchers worldwide. This funded program in Germany is an 
  excellent opportunity for researchers having background in cultural studie
- s\, social sciences\, and humanities. During the global fellowship…
+ s\, social sciences\, and humanities. During the global fellowship…\nhtt
+ ps://malakbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6575,7 +6697,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c714f5488715@opportunity-radar
-DTSTAMP:20261030T221051Z
+DTSTAMP:20261030T231238Z
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
 SUMMARY:Deadline: The Song Master Scholarships 2027 (Fully Funded)
@@ -6584,7 +6706,8 @@ DESCRIPTION:https://opportunityportal.info/song-master-scholarships/\nScore
   39/100 · Scholarship\nThe SONG project (Solwara na Graun blo pipol – S
  ea and land biodiversity for people) is France’s contribution to Papua N
  ew Guinea (PNG) Country Package. It is managed by Expertise France and WCS
-  and funded by the Agence Française de Développement The…
+  and funded by the Agence Française de Développement The…\nhttps://mal
+ akbattat.github.io/opportunity-radar/
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
