@@ -1,7 +1,544 @@
 {
- "generated_at": "2026-10-30T23:12:38+00:00",
- "count": 94,
+ "generated_at": "2026-10-31T01:41:31+00:00",
+ "count": 100,
  "items": [
+  {
+   "id": "af2fd9a49d4c",
+   "title": "Kyungpook National University (KNU) Scholarships 2027 in South Korea (Fully Funded)",
+   "url": "https://opportunityportal.info/kyungpook-national-university-knu-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "The Kyungpook National University (KNU) Scholarships 2027 offer excellent fully funded and partially funded scholarships in South Korea for international students at undergraduate, Master’s, and Doctoral levels. Designed to attract high-achieving global…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "computing",
+    "health",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "South Korea",
+   "countries": [
+    "South Korea"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-10-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "required",
+   "english_min": 7.0,
+   "gpa_level": "moderate",
+   "gpa_note": "GPA requirement: B0 (3.0",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-01",
+   "prestige": false,
+   "score": 56,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     17,
+     [
+      "computing",
+      "health",
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "kyungpook national university scholarships south korea",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-31T01:41:31+00:00",
+   "reopens": "2027-10-30",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "951a4e8960a1",
+   "title": "IDM-Africa Fellowship Programme in Infectious Disease Modelling 2026: Eligibility, Requirements, Benefits and How to Apply.",
+   "url": "https://opportunitiesforyouth.org/2026/10/24/idm-africa-fellowship-programme-in-infectious-disease-modelling-2026-eligibility-requirements-benefits-and-how-to-apply/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The IDM-Africa Fellowship Programme in Infectious Disease Modelling 2026 is an opportunity for qualified early- and mid-career scientists in sub-Saharan Africa to strengthen their expertise in infectious-disease modelling, conduct applied research and develop…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [
+    "data_science",
+    "computing",
+    "biomed",
+    "health",
+    "science"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-24",
+   "prestige": false,
+   "score": 52,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     30,
+     [
+      "data_science",
+      "computing",
+      "biomed"
+     ]
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "idm africa fellowship infectious disease modelling eligibility requirements benefits how to apply",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-31T01:41:31+00:00",
+   "reopens": "2027-10-30",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "cbf033752d52",
+   "title": "International Growth Centre (IGC) Jobs 2026: Paid Economics, Research and Policy Opportunities in Jordan and South Africa",
+   "url": "https://opportunitiesforyouth.org/2026/10/22/international-growth-centre-igc-jobs-2026-paid-economics-research-and-policy-opportunities-in-jordan-and-south-africa/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The International Growth Centre (IGC) Jobs 2026 offer experienced economists, researchers and policy professionals an opportunity to contribute to evidence-based economic policymaking and development research through three paid positions in Jordan and South…",
+   "type": "Job",
+   "degrees": [],
+   "fields": [
+    "data_science",
+    "computing"
+   ],
+   "funding": "paid",
+   "country": "Jordan",
+   "countries": [
+    "Jordan",
+    "South Africa"
+   ],
+   "regions": [
+    "Middle East & North Africa",
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "developing countries",
+   "deadline": "2026-10-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-22",
+   "prestige": false,
+   "score": 51,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     21,
+     [
+      "data_science",
+      "computing"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "international growth centre jobs economics research policy opportunities jordan south africa",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-31T01:41:31+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
+  {
+   "id": "25a56e113248",
+   "title": "20 Fully Funded European Scholarships for International Students 2027/28",
+   "url": "https://opportunityportal.info/fully-funded-european-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Are you an international student dreaming of advancing your higher education without financial burden? Securing a fully funded education abroad is entirely possible when you target the right opportunities. This comprehensive guide highlights some of the best…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters",
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International Students",
+   "deadline": "2026-10-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-27",
+   "prestige": false,
+   "score": 39,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "20 european scholarships",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-31T01:41:31+00:00",
+   "reopens": "2027-10-30",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "b8ab65346b8c",
+   "title": "South Korea Government Global Korea Scholarship (GKS-U) 2027 (Fully Funded)",
+   "url": "https://www.scholarshipsads.com/south-korea-government-global-korea-scholarship-gks-u-2026-fully-funded-29april2026",
+   "source": "scholarshipsads",
+   "org": null,
+   "summary": "Korean government undergraduate scholarship including language training year.",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "South Korea",
+   "countries": [
+    "South Korea"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International Students",
+   "deadline": "2026-10-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-15",
+   "prestige": true,
+   "score": 38,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "open_field",
+     12,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Global Korea Scholarship"
+    ],
+    [
+     "bachelor_degree",
+     -15,
+     null
+    ]
+   ],
+   "_key": "south korea government global korea scholarship",
+   "also_on": [],
+   "last_seen": "2026-10-29T17:16:30+00:00",
+   "first_seen": "2026-10-29T17:16:30+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-31T01:41:31+00:00",
+   "reopens": "2027-10-30",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "6c01c1ea585a",
+   "title": "Pierre Elliott Trudeau Foundation Scholarship 2027 in Canada (Fully Funded)",
+   "url": "https://opportunityportal.info/pierre-elliott-trudeau-foundation-scholarship/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are now open for the Pierre Elliott Trudeau Foundation Scholarship 2027 in Canada, a prestigious fully funded doctoral scholarship for outstanding PhD students in humanities and social sciences. This Canada PhD scholarship 2027 stands out among…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Canada",
+   "countries": [
+    "Canada"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "Canadian citizens",
+   "deadline": "2026-10-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "academic excellence",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-21",
+   "prestige": false,
+   "score": 33,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     2,
+     "phd"
+    ]
+   ],
+   "_key": "pierre elliott trudeau foundation scholarship canada",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-31T01:41:31+00:00",
+   "reopens": "2027-10-30",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "26869496177f",
+   "title": "Research Fellows Program 2026–2027: Apply for a Nine-Month Research Fellowship on Higher Education Transformation in Africa",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/research-fellows-program-2026-2027-apply-for-a-nine-month-research-fellowship-on-higher-education-transformation-in-africa/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Research Fellows Program 2026–2027 offers a research-focused opportunity to explore how higher education institutions across Africa can initiate, implement, and sustain meaningful systems-level transformation. The program is centered on the role of…",
+   "type": "Research",
+   "degrees": [],
+   "fields": [
+    "science"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-21",
+   "prestige": false,
+   "score": 32,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "science"
+     ]
+    ],
+    [
+     "type",
+     14,
+     "Research"
+    ]
+   ],
+   "_key": "research fellows apply a nine month research fellowship on higher education transformation africa",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-31T01:41:31+00:00",
+   "reopens": "2027-10-30",
+   "reopens_intake": "2027-ay"
+  },
   {
    "id": "7cee4243fa4c",
    "title": "Commonwealth Startup Fellowship 2026-27 | Fully Funded",
@@ -2735,96 +3272,6 @@
    "reopens_intake": "2027"
   },
   {
-   "id": "ed96a53a296a",
-   "title": "Government of Ireland International Education Scholarship (GOI-IES)",
-   "url": "https://www.scholarshipsads.com/government-of-ireland-international-education-scholarship",
-   "source": "scholarshipsads",
-   "org": null,
-   "summary": "Government of Ireland International Education Scholarship (GOI-IES) Partial Funding Ireland Universities Masters, PhD All Subjects Non European Students Ireland Partial Funding Ireland Universities Masters, PhD All Subjects Non European Students Ireland…",
-   "type": "Scholarship",
-   "degrees": [
-    "masters",
-    "phd"
-   ],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "computing",
-    "biomed",
-    "health",
-    "science"
-   ],
-   "funding": "partial",
-   "country": "Ireland",
-   "countries": [
-    "Ireland"
-   ],
-   "regions": [
-    "Europe"
-   ],
-   "eligibility": "restricted",
-   "eligibility_note": "Belarusian nationals",
-   "deadline": "2026-03-12",
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": "high",
-   "gpa_note": "outstanding academic achievement",
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": false,
-   "published": null,
-   "prestige": false,
-   "score": 17,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     37,
-     [
-      "ai_ml",
-      "data_science",
-      "computing"
-     ]
-    ],
-    [
-     "partial",
-     6,
-     null
-    ],
-    [
-     "level",
-     8,
-     "masters"
-    ],
-    [
-     "not_open",
-     -40,
-     "Belarusian nationals"
-    ]
-   ],
-   "_key": "government ireland international education scholarship",
-   "also_on": [],
-   "last_seen": "2026-10-30T23:12:38+00:00",
-   "first_seen": "2026-10-30T22:10:51+00:00",
-   "archive_reason": "closed",
-   "archived_at": "2026-10-30T22:10:51+00:00",
-   "reopens": "2027-03-12",
-   "reopens_intake": null
-  },
-  {
    "id": "ba1b6192d74b",
    "title": "Czech Government Scholarships for International Students 2027-28 | Fully Funded",
    "url": "https://scholarshipscorner.website/czech-government-scholarships/",
@@ -3157,7 +3604,7 @@
    ],
    "_key": "aws work based learning 12 month training entry level data centre logistics careers united states",
    "also_on": [],
-   "last_seen": "2026-10-30T23:12:38+00:00",
+   "last_seen": "2026-10-31T01:41:31+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -3250,7 +3697,7 @@
    ],
    "_key": "aixbio fellowship uk",
    "also_on": [],
-   "last_seen": "2026-10-30T23:12:38+00:00",
+   "last_seen": "2026-10-31T01:41:31+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -4111,7 +4558,7 @@
    ],
    "_key": "hsc youth ambassador germany",
    "also_on": [],
-   "last_seen": "2026-10-30T23:12:38+00:00",
+   "last_seen": "2026-10-31T01:41:31+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -4354,7 +4801,7 @@
    ],
    "_key": "fulbright scholar pakistan usa",
    "also_on": [],
-   "last_seen": "2026-10-30T23:12:38+00:00",
+   "last_seen": "2026-10-31T01:41:31+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -4708,7 +5155,7 @@
    ],
    "_key": "ejn reporting fellowship new york usa",
    "also_on": [],
-   "last_seen": "2026-10-30T23:12:38+00:00",
+   "last_seen": "2026-10-31T01:41:31+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5130,7 +5577,7 @@
    ],
    "_key": "unu inweh world food academy 4 sustainable food systems online learning opportunities students researchers young professionals worldwide",
    "also_on": [],
-   "last_seen": "2026-10-30T23:12:38+00:00",
+   "last_seen": "2026-10-31T01:41:31+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5969,7 +6416,7 @@
    ],
    "_key": "iceland writers retreat award",
    "also_on": [],
-   "last_seen": "2026-10-30T23:12:38+00:00",
+   "last_seen": "2026-10-31T01:41:31+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
