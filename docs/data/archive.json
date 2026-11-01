@@ -1,7 +1,86 @@
 {
- "generated_at": "2026-11-01T19:48:56+00:00",
- "count": 111,
+ "generated_at": "2026-11-01T23:42:36+00:00",
+ "count": 112,
  "items": [
+  {
+   "id": "8e07db54fe20",
+   "title": "UNU-INWEH Independent Scientific Review Board 2026: Call for Global Experts in Food, Nutrition, Science and Sustainable Food Systems",
+   "url": "https://opportunitiesforyouth.org/2026/11/01/join-unu-inweh-shape-global-solutions-for-water-environment-and-health/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The United Nations University Institute for Water, Environment and Health (UNU-INWEH) is inviting nominations and self-nominations from highly qualified professionals, researchers, academics and recognized specialists to join the Independent Scientific Review…",
+   "type": "Job",
+   "degrees": [],
+   "fields": [
+    "health",
+    "science",
+    "engineering"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-08",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-01",
+   "prestige": false,
+   "score": 44,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     24,
+     [
+      "health",
+      "science",
+      "engineering"
+     ]
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "unu inweh independent scientific review board global experts food nutrition science sustainable food systems",
+   "also_on": [],
+   "last_seen": "2026-11-01T23:42:36+00:00",
+   "first_seen": "2026-11-01T23:42:36+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T23:42:36+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
   {
    "id": "c6066fd0218f",
    "title": "University of Brunei Darussalam UBD Graduate Scholarship 2027 (Fully Funded)",
@@ -76,7 +155,7 @@
    ],
    "_key": "university brunei darussalam ubd graduate scholarship",
    "also_on": [],
-   "last_seen": "2026-11-01T19:48:56+00:00",
+   "last_seen": "2026-11-01T23:42:36+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-01T06:28:37+00:00",
@@ -4597,7 +4676,7 @@
    ],
    "_key": "aixbio fellowship uk",
    "also_on": [],
-   "last_seen": "2026-11-01T19:48:56+00:00",
+   "last_seen": "2026-11-01T23:42:36+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5458,7 +5537,7 @@
    ],
    "_key": "hsc youth ambassador germany",
    "also_on": [],
-   "last_seen": "2026-11-01T19:48:56+00:00",
+   "last_seen": "2026-11-01T23:42:36+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5701,7 +5780,7 @@
    ],
    "_key": "fulbright scholar pakistan usa",
    "also_on": [],
-   "last_seen": "2026-11-01T19:48:56+00:00",
+   "last_seen": "2026-11-01T23:42:36+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6055,7 +6134,7 @@
    ],
    "_key": "ejn reporting fellowship new york usa",
    "also_on": [],
-   "last_seen": "2026-11-01T19:48:56+00:00",
+   "last_seen": "2026-11-01T23:42:36+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6477,7 +6556,7 @@
    ],
    "_key": "unu inweh world food academy 4 sustainable food systems online learning opportunities students researchers young professionals worldwide",
    "also_on": [],
-   "last_seen": "2026-11-01T19:48:56+00:00",
+   "last_seen": "2026-11-01T23:42:36+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -7316,7 +7395,7 @@
    ],
    "_key": "iceland writers retreat award",
    "also_on": [],
-   "last_seen": "2026-11-01T19:48:56+00:00",
+   "last_seen": "2026-11-01T23:42:36+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
