@@ -1,7 +1,1602 @@
 {
- "generated_at": "2026-10-30T22:10:51+00:00",
- "count": 93,
+ "generated_at": "2026-11-01T23:42:36+00:00",
+ "count": 112,
  "items": [
+  {
+   "id": "8e07db54fe20",
+   "title": "UNU-INWEH Independent Scientific Review Board 2026: Call for Global Experts in Food, Nutrition, Science and Sustainable Food Systems",
+   "url": "https://opportunitiesforyouth.org/2026/11/01/join-unu-inweh-shape-global-solutions-for-water-environment-and-health/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The United Nations University Institute for Water, Environment and Health (UNU-INWEH) is inviting nominations and self-nominations from highly qualified professionals, researchers, academics and recognized specialists to join the Independent Scientific Review…",
+   "type": "Job",
+   "degrees": [],
+   "fields": [
+    "health",
+    "science",
+    "engineering"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-08",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-01",
+   "prestige": false,
+   "score": 44,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     24,
+     [
+      "health",
+      "science",
+      "engineering"
+     ]
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "unu inweh independent scientific review board global experts food nutrition science sustainable food systems",
+   "also_on": [],
+   "last_seen": "2026-11-01T23:42:36+00:00",
+   "first_seen": "2026-11-01T23:42:36+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T23:42:36+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
+  {
+   "id": "c6066fd0218f",
+   "title": "University of Brunei Darussalam UBD Graduate Scholarship 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/ubd-graduate-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are now open for the University of Brunei Darussalam (UBD) Graduate Scholarship 2027, one of the most competitive fully funded Brunei postgraduate scholarships for international students. Backed by Brunei’s premier research university, this UBD…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters"
+   ],
+   "fields": [
+    "computing",
+    "biomed",
+    "health",
+    "engineering",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "required",
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "first-class",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-15",
+   "prestige": false,
+   "score": 62,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     23,
+     [
+      "computing",
+      "biomed",
+      "health"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "university brunei darussalam ubd graduate scholarship",
+   "also_on": [],
+   "last_seen": "2026-11-01T23:42:36+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "42d2d5a84533",
+   "title": "DAAD Scholarship in Germany 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/daad-scholarship-2026/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are now open for the DAAD Scholarship 2027 in Germany — one of the world’s most prestigious and widely recognised fully funded international scholarships, generously funded by the Federal Ministry for Economic Cooperation and Development (BMZ)…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "ai_ml",
+    "health",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Germany",
+   "countries": [
+    "Germany"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "required",
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-03",
+   "prestige": true,
+   "score": 80,
+   "tier": "top",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     23,
+     [
+      "ai_ml",
+      "health",
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "DAAD"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "daad scholarship germany",
+   "also_on": [
+    {
+     "source": "opportunitiesforyouth",
+     "url": "https://opportunitiesforyouth.org/2026/10/26/joint-msc-in-geography-of-environmental-risks-and-human-security-at-unu-ehs-and-the-university-of-bonn-germany-2027-masters-programme-with-daad-epos-scholarship-opportunities/"
+    }
+   ],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "c401fb4e738c",
+   "title": "University of Tokyo Japanese Government (MEXT) Scholarship 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/university-of-tokyo-japanese-government-scholarship/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are now open for the University of Tokyo Recommended MEXT Scholarship 2027 — a prestigious and fully funded government scholarship in Japan offering outstanding international students the rare opportunity to pursue Master’s and PhD degrees at one…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "biomed",
+    "health",
+    "engineering",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Japan",
+   "countries": [
+    "Japan"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "academic excellence",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-19",
+   "prestige": true,
+   "score": 66,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     17,
+     [
+      "biomed",
+      "health",
+      "engineering"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "University of Tokyo"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "university tokyo japanese government scholarship",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "0117c1974d1b",
+   "title": "World Vasectomy Day (WVD) Zambia Country Director Job 2026: Requirements, Responsibilities, Salary Benefits, and How to Apply",
+   "url": "https://opportunitiesforyouth.org/2026/10/23/world-vasectomy-day-wvd-zambia-country-director-job-2026-requirements-responsibilities-salary-benefits-and-how-to-apply/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Are you an experienced leader in public health, international development, social programmes, or health systems management looking for a senior leadership opportunity in Zambia? World Vasectomy Day (WVD) is inviting applications for the position of Zambia…",
+   "type": "Job",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [
+    "health",
+    "data_science",
+    "computing"
+   ],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-23",
+   "prestige": false,
+   "score": 64,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     28,
+     [
+      "health",
+      "data_science",
+      "computing"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "world vasectomy day zambia country director job requirements responsibilities salary benefits how to apply",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
+  {
+   "id": "c58432374ef3",
+   "title": "INPEX Scholarship In Japan 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/inpex-scholarship-in-japan/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Are you a talented graduate from Indonesia, Australia, or the UAE dreaming of a fully funded master’s degree in Japan? The INPEX Scholarship 2027 opens a powerful gateway: generous financial support, cultural immersion, and academic flexibility designed to…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters"
+   ],
+   "fields": [
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Japan",
+   "countries": [
+    "Japan"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "academic excellence",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-14",
+   "prestige": false,
+   "score": 45,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     6,
+     [
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "inpex scholarship japan",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "e041f7c35d63",
+   "title": "JPMorganChase 2027 Marketing Leadership Development Program: Apply for a Full-Time Marketing Analyst Opportunity in the USA",
+   "url": "https://opportunitiesforyouth.org/2026/10/26/jpmorganchase-2027-marketing-leadership-development-program-apply-for-a-full-time-marketing-analyst-opportunity-in-the-usa/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Are you a university student approaching graduation and looking to launch a career in marketing? The JPMorganChase 2027 Marketing Leadership Development Program (MLDP) offers eligible graduates an opportunity to gain practical marketing experience, develop…",
+   "type": "Opportunity",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": "paid",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international applicants",
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-26",
+   "prestige": false,
+   "score": 43,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     26,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "paid",
+     11,
+     null
+    ]
+   ],
+   "_key": "jpmorganchase marketing leadership development apply a full time marketing analyst opportunity usa",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
+  {
+   "id": "70e2cc3300e7",
+   "title": "PATH Global Health Strategy Intern 2026: Paid Remote Internship Supporting International Health Development and Funding Strategy",
+   "url": "https://opportunitiesforyouth.org/2026/10/22/path-global-health-strategy-intern-2026-paid-remote-internship-supporting-international-health-development-and-funding-strategy/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The global health sector depends on strong partnerships, innovative research, and strategic investments to address some of the world’s most pressing healthcare challenges. For students and emerging professionals seeking practical experience in global health…",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "health"
+   ],
+   "funding": "paid",
+   "country": "Online",
+   "countries": [
+    "Online"
+   ],
+   "regions": [
+    "Online"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "worldwide",
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-22",
+   "prestige": false,
+   "score": 43,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     18,
+     [
+      "health"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "path global health strategy intern remote internship supporting international health development funding strategy",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "fcc4c1887e24",
+   "title": "BioPREVAIL × CEPI Biosecurity Innovation Challenge 2026: Apply for Up to US$50,000 in Seed Funding and a Six-Month Global Accelerator",
+   "url": "https://opportunitiesforyouth.org/2026/10/22/bioprevail-x-cepi-biosecurity-innovation-challenge-2026-apply-for-up-to-us50000-in-seed-funding-and-a-six-month-global-accelerator/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Introduction: A Global Opportunity to Strengthen Laboratory Biosafety and Biosecurity Organisations, research teams, startups, laboratories, and innovators worldwide have an opportunity to develop practical solutions that strengthen laboratory biosafety and…",
+   "type": "Competition",
+   "degrees": [],
+   "fields": [
+    "computing",
+    "science",
+    "biomed",
+    "health",
+    "engineering"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "worldwide",
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-22",
+   "prestige": false,
+   "score": 39,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     25,
+     [
+      "computing",
+      "science",
+      "biomed"
+     ]
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "bioprevail cepi biosecurity innovation challenge apply up to us 50 000 seed funding a six month global accelerator",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "88e975ad8958",
+   "title": "Girl Up Project Awards 2026: Apply for Up to US$1,000 to Advance Gender Justice and Empower Young Activists",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/girl-up-project-awards-2026-apply-for-up-to-us1000-to-advance-gender-justice-and-empower-young-activists/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Are you a girl or young activist with an idea for promoting gender justice in your community? Are you looking for funding and mentorship to turn your ideas into meaningful action? The Girl Up Project Awards 2026 offer an opportunity for individuals, youth-led…",
+   "type": "Competition",
+   "degrees": [],
+   "fields": [
+    "ai_ml"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-21",
+   "prestige": false,
+   "score": 32,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     18,
+     [
+      "ai_ml"
+     ]
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "girl up project awards apply up to us 1 000 to advance gender justice empower young activists",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "780ddc77f047",
+   "title": "Show Us Your India Photo Contest 2026: Submit Unpublished Climate Change Photographs to Be Featured on UN India Platforms",
+   "url": "https://opportunitiesforyouth.org/2026/10/26/show-us-your-india-photo-contest-2026-submit-unpublished-climate-change-photographs-to-be-featured-on-un-india-platforms/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Show Us Your India Photo Contest invites photographers across India to capture and share compelling images that demonstrate how climate change affects people, communities, nature and everyday life. Organised through the United Nations information and…",
+   "type": "Competition",
+   "degrees": [],
+   "fields": [
+    "data_science"
+   ],
+   "funding": null,
+   "country": "India",
+   "countries": [
+    "India"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-26",
+   "prestige": false,
+   "score": 31,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     17,
+     [
+      "data_science"
+     ]
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "show us your india photo contest submit unpublished climate change photographs to be featured on un india platforms",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "6ce441605b47",
+   "title": "ICON•S Winter/Summer School for Junior Scholars 2027 in Australia: Applications Open for Early-Career Legal and Public Law Scholars",
+   "url": "https://opportunitiesforyouth.org/2026/10/27/icons-winter-summer-school-for-junior-scholars-2027-in-australia-applications-open-for-early-career-legal-and-public-law-scholars/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The International Society of Public Law (ICON•S) has announced a call for applications for the fifth edition of its Winter/Summer School for Junior Scholars, scheduled to take place from 17 to 27 May 2027 in Sydney, Australia. The program is designed to…",
+   "type": "Summer school",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [
+    "health"
+   ],
+   "funding": "fee_based",
+   "country": "Australia",
+   "countries": [
+    "Australia"
+   ],
+   "regions": [
+    "Oceania"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-27",
+   "prestige": false,
+   "score": 22,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     9,
+     [
+      "health"
+     ]
+    ],
+    [
+     "fee_based",
+     -13,
+     null
+    ],
+    [
+     "type",
+     4,
+     "Summer school"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "icon s winter summer school junior scholars australia early career legal public law scholars",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "af2fd9a49d4c",
+   "title": "Kyungpook National University (KNU) Scholarships 2027 in South Korea (Fully Funded)",
+   "url": "https://opportunityportal.info/kyungpook-national-university-knu-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "The Kyungpook National University (KNU) Scholarships 2027 offer excellent fully funded and partially funded scholarships in South Korea for international students at undergraduate, Master’s, and Doctoral levels. Designed to attract high-achieving global…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "computing",
+    "health",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "South Korea",
+   "countries": [
+    "South Korea"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-10-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "required",
+   "english_min": 7.0,
+   "gpa_level": "moderate",
+   "gpa_note": "GPA requirement: B0 (3.0",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-01",
+   "prestige": false,
+   "score": 56,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     17,
+     [
+      "computing",
+      "health",
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "kyungpook national university scholarships south korea",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-31T01:41:31+00:00",
+   "reopens": "2027-10-30",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "951a4e8960a1",
+   "title": "IDM-Africa Fellowship Programme in Infectious Disease Modelling 2026: Eligibility, Requirements, Benefits and How to Apply.",
+   "url": "https://opportunitiesforyouth.org/2026/10/24/idm-africa-fellowship-programme-in-infectious-disease-modelling-2026-eligibility-requirements-benefits-and-how-to-apply/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The IDM-Africa Fellowship Programme in Infectious Disease Modelling 2026 is an opportunity for qualified early- and mid-career scientists in sub-Saharan Africa to strengthen their expertise in infectious-disease modelling, conduct applied research and develop…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [
+    "data_science",
+    "computing",
+    "biomed",
+    "health",
+    "science"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-24",
+   "prestige": false,
+   "score": 52,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     30,
+     [
+      "data_science",
+      "computing",
+      "biomed"
+     ]
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "idm africa fellowship infectious disease modelling eligibility requirements benefits how to apply",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-31T01:41:31+00:00",
+   "reopens": "2027-10-30",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "cbf033752d52",
+   "title": "International Growth Centre (IGC) Jobs 2026: Paid Economics, Research and Policy Opportunities in Jordan and South Africa",
+   "url": "https://opportunitiesforyouth.org/2026/10/22/international-growth-centre-igc-jobs-2026-paid-economics-research-and-policy-opportunities-in-jordan-and-south-africa/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The International Growth Centre (IGC) Jobs 2026 offer experienced economists, researchers and policy professionals an opportunity to contribute to evidence-based economic policymaking and development research through three paid positions in Jordan and South…",
+   "type": "Job",
+   "degrees": [],
+   "fields": [
+    "data_science",
+    "computing"
+   ],
+   "funding": "paid",
+   "country": "Jordan",
+   "countries": [
+    "Jordan",
+    "South Africa"
+   ],
+   "regions": [
+    "Middle East & North Africa",
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "developing countries",
+   "deadline": "2026-10-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-22",
+   "prestige": false,
+   "score": 51,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     21,
+     [
+      "data_science",
+      "computing"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "international growth centre jobs economics research policy opportunities jordan south africa",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-31T01:41:31+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
+  {
+   "id": "25a56e113248",
+   "title": "20 Fully Funded European Scholarships for International Students 2027/28",
+   "url": "https://opportunityportal.info/fully-funded-european-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Are you an international student dreaming of advancing your higher education without financial burden? Securing a fully funded education abroad is entirely possible when you target the right opportunities. This comprehensive guide highlights some of the best…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters",
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International Students",
+   "deadline": "2026-10-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-27",
+   "prestige": false,
+   "score": 39,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "20 european scholarships",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-31T01:41:31+00:00",
+   "reopens": "2027-10-30",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "b8ab65346b8c",
+   "title": "South Korea Government Global Korea Scholarship (GKS-U) 2027 (Fully Funded)",
+   "url": "https://www.scholarshipsads.com/south-korea-government-global-korea-scholarship-gks-u-2026-fully-funded-29april2026",
+   "source": "scholarshipsads",
+   "org": null,
+   "summary": "Korean government undergraduate scholarship including language training year.",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "South Korea",
+   "countries": [
+    "South Korea"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International Students",
+   "deadline": "2026-10-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-15",
+   "prestige": true,
+   "score": 38,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "open_field",
+     12,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Global Korea Scholarship"
+    ],
+    [
+     "bachelor_degree",
+     -15,
+     null
+    ]
+   ],
+   "_key": "south korea government global korea scholarship",
+   "also_on": [],
+   "last_seen": "2026-10-29T17:16:30+00:00",
+   "first_seen": "2026-10-29T17:16:30+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-31T01:41:31+00:00",
+   "reopens": "2027-10-30",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "6c01c1ea585a",
+   "title": "Pierre Elliott Trudeau Foundation Scholarship 2027 in Canada (Fully Funded)",
+   "url": "https://opportunityportal.info/pierre-elliott-trudeau-foundation-scholarship/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are now open for the Pierre Elliott Trudeau Foundation Scholarship 2027 in Canada, a prestigious fully funded doctoral scholarship for outstanding PhD students in humanities and social sciences. This Canada PhD scholarship 2027 stands out among…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Canada",
+   "countries": [
+    "Canada"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "Canadian citizens",
+   "deadline": "2026-10-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "academic excellence",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-21",
+   "prestige": false,
+   "score": 33,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     2,
+     "phd"
+    ]
+   ],
+   "_key": "pierre elliott trudeau foundation scholarship canada",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-31T01:41:31+00:00",
+   "reopens": "2027-10-30",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "26869496177f",
+   "title": "Research Fellows Program 2026–2027: Apply for a Nine-Month Research Fellowship on Higher Education Transformation in Africa",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/research-fellows-program-2026-2027-apply-for-a-nine-month-research-fellowship-on-higher-education-transformation-in-africa/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Research Fellows Program 2026–2027 offers a research-focused opportunity to explore how higher education institutions across Africa can initiate, implement, and sustain meaningful systems-level transformation. The program is centered on the role of…",
+   "type": "Research",
+   "degrees": [],
+   "fields": [
+    "science"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-30",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-21",
+   "prestige": false,
+   "score": 32,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "science"
+     ]
+    ],
+    [
+     "type",
+     14,
+     "Research"
+    ]
+   ],
+   "_key": "research fellows apply a nine month research fellowship on higher education transformation africa",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-31T01:41:31+00:00",
+   "reopens": "2027-10-30",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "7cee4243fa4c",
+   "title": "Commonwealth Startup Fellowship 2026-27 | Fully Funded",
+   "url": "https://scholarshipscorner.website/commonwealth-startup-fellowship/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The Commonwealth Startup Fellowship is a 6-month immersive program which is offered to support high-potential startups. This fully funded opportunity is exclusively for individuals who belong to low and middle income Commonwealth countries. The Commonwealth…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "Are citizens",
+   "deadline": "2026-08-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026-ay",
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-08-11",
+   "prestige": true,
+   "score": 49,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Commonwealth"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "commonwealth startup fellowship",
+   "also_on": [
+    {
+     "source": "opportunityportal",
+     "url": "https://opportunityportal.info/commonwealth-startup-fellowship/"
+    }
+   ],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T23:12:38+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-10-30T23:12:38+00:00",
+   "reopens": "2027-08-31",
+   "reopens_intake": "2027"
+  },
   {
    "id": "a3395f1a3168",
    "title": "KAUST AMS Program 2026 in Saudi Arabia (Fully Funded)",
@@ -97,7 +1692,7 @@
    ],
    "_key": "kaust ams saudi arabia",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -198,7 +1793,7 @@
    ],
    "_key": "cambridge era ai fellowship uk",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -250,8 +1845,8 @@
    "rolling": false,
    "published": "2026-09-12",
    "prestige": true,
-   "score": 92,
-   "tier": "top",
+   "score": 52,
+   "tier": "standard",
    "why": [
     [
      "base",
@@ -286,11 +1881,16 @@
      "type",
      8,
      "Fellowship"
+    ],
+    [
+     "not_open",
+     -40,
+     "for African students"
     ]
    ],
    "_key": "arizona state university mastercard foundation scholars",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -390,7 +1990,7 @@
    ],
    "_key": "cern technical student switzerland",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -490,7 +2090,7 @@
    ],
    "_key": "nus iris research internship singapore",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -580,7 +2180,7 @@
    ],
    "_key": "undp digital ai innovation internship",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -655,7 +2255,7 @@
    ],
    "_key": "cybersafe x sans ai security fellowship",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -746,7 +2346,7 @@
    ],
    "_key": "mitacs globalink research internship canada",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -847,7 +2447,7 @@
    ],
    "_key": "green climate fund internship south korea",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -942,7 +2542,7 @@
    ],
    "_key": "cern administrative student switzerland",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -1031,7 +2631,7 @@
    ],
    "_key": "university science technology scholarships south korea",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -1114,7 +2714,7 @@
    ],
    "_key": "tmu graduate scholarships taiwan",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -1207,7 +2807,7 @@
    ],
    "_key": "max planck mtl internship germany",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -1304,7 +2904,7 @@
    ],
    "_key": "fulbright u s asean visiting scholar initiative research fellowship united states academics professionals",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -1401,7 +3001,7 @@
      "url": "https://scholarshipscorner.website/ares-scholarships/"
     }
    ],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -1481,7 +3081,7 @@
    ],
    "_key": "chevening europe defence security fellowship uk",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -1571,7 +3171,7 @@
    ],
    "_key": "harvard radcliffe institute scholarships usa",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -1614,13 +3214,13 @@
    "gpa_level": null,
    "gpa_note": null,
    "for_women": false,
-   "targets_me": true,
+   "targets_me": false,
    "phd_level": false,
    "rolling": false,
    "published": "2026-09-14",
    "prestige": true,
-   "score": 65,
-   "tier": "high",
+   "score": 17,
+   "tier": "standard",
    "why": [
     [
      "base",
@@ -1648,14 +3248,14 @@
      "Fellowship"
     ],
     [
-     "nationality",
-     8,
-     "Palestine"
+     "not_open",
+     -40,
+     "The citizens"
     ]
    ],
    "_key": "chevening british library coptic collections fellowship uk",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -1740,7 +3340,7 @@
    ],
    "_key": "chevning ocis fellowship uk",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -1831,7 +3431,7 @@
    ],
    "_key": "who business operation internship germany",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -1922,7 +3522,7 @@
    ],
    "_key": "iom internships international organization migration global internship remote on site opportunities worldwide",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -2012,7 +3612,7 @@
    ],
    "_key": "kaust king abdullah university scholarship saudi arabia",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -2100,7 +3700,7 @@
    ],
    "_key": "siit thailand scholarship masters ph d",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -2150,7 +3750,7 @@
    "rolling": false,
    "published": "2026-09-20",
    "prestige": false,
-   "score": 61,
+   "score": 21,
    "tier": "standard",
    "why": [
     [
@@ -2182,11 +3782,16 @@
      "final_year",
      6,
      null
+    ],
+    [
+     "not_open",
+     -40,
+     "U.S. citizens"
     ]
    ],
    "_key": "yseali academic fellows usa",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -2268,7 +3873,7 @@
    ],
    "_key": "chevening lse fellowship uk",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -2362,7 +3967,7 @@
    ],
    "_key": "frias fellowship programmes germany",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -2450,7 +4055,7 @@
    ],
    "_key": "aauw international fellowships usa",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -2502,7 +4107,7 @@
    "rolling": false,
    "published": "2026-08-16",
    "prestige": false,
-   "score": 57,
+   "score": 17,
    "tier": "standard",
    "why": [
     [
@@ -2530,6 +4135,11 @@
      "masters"
     ],
     [
+     "not_open",
+     -40,
+     "Pakistani nationals"
+    ],
+    [
      "women",
      5,
      null
@@ -2537,7 +4147,7 @@
    ],
    "_key": "scotland scholarships young women girls",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -2593,7 +4203,7 @@
    "rolling": false,
    "published": "2026-08-06",
    "prestige": false,
-   "score": 57,
+   "score": 17,
    "tier": "standard",
    "why": [
     [
@@ -2621,6 +4231,11 @@
      "masters"
     ],
     [
+     "not_open",
+     -40,
+     "for Pakistani students"
+    ],
+    [
      "women",
      5,
      null
@@ -2628,97 +4243,12 @@
    ],
    "_key": "scotland pakistan scholarships",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
    "reopens": "2027-08-31",
    "reopens_intake": "2027"
-  },
-  {
-   "id": "ed96a53a296a",
-   "title": "Government of Ireland International Education Scholarship (GOI-IES)",
-   "url": "https://www.scholarshipsads.com/government-of-ireland-international-education-scholarship",
-   "source": "scholarshipsads",
-   "org": null,
-   "summary": "Government of Ireland International Education Scholarship (GOI-IES) Partial Funding Ireland Universities Masters, PhD All Subjects Non European Students Ireland Partial Funding Ireland Universities Masters, PhD All Subjects Non European Students Ireland…",
-   "type": "Scholarship",
-   "degrees": [
-    "masters",
-    "phd"
-   ],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "computing",
-    "biomed",
-    "health",
-    "science"
-   ],
-   "funding": "partial",
-   "country": "Ireland",
-   "countries": [
-    "Ireland"
-   ],
-   "regions": [
-    "Europe"
-   ],
-   "eligibility": "restricted",
-   "eligibility_note": "Belarusian nationals",
-   "deadline": "2026-03-12",
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": "high",
-   "gpa_note": "outstanding academic achievement",
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": false,
-   "published": null,
-   "prestige": false,
-   "score": 57,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     37,
-     [
-      "ai_ml",
-      "data_science",
-      "computing"
-     ]
-    ],
-    [
-     "partial",
-     6,
-     null
-    ],
-    [
-     "level",
-     8,
-     "masters"
-    ]
-   ],
-   "_key": "government ireland international education scholarship",
-   "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
-   "first_seen": "2026-10-30T22:10:51+00:00",
-   "archive_reason": "closed",
-   "archived_at": "2026-10-30T22:10:51+00:00",
-   "reopens": "2027-03-12",
-   "reopens_intake": null
   },
   {
    "id": "ba1b6192d74b",
@@ -2796,7 +4326,7 @@
    ],
    "_key": "czech government scholarships",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -2883,7 +4413,7 @@
    ],
    "_key": "constructor university scholarship germany",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -2971,7 +4501,7 @@
    ],
    "_key": "world bank wbg pioneers internship",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -3053,7 +4583,7 @@
    ],
    "_key": "aws work based learning 12 month training entry level data centre logistics careers united states",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-11-01T19:48:56+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -3146,7 +4676,7 @@
    ],
    "_key": "aixbio fellowship uk",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-11-01T23:42:36+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -3241,7 +4771,7 @@
      "url": "https://scholarshipscorner.website/university-of-milan-regional-scholarship-italy/"
     }
    ],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -3292,7 +4822,7 @@
    "rolling": false,
    "published": "2026-09-13",
    "prestige": true,
-   "score": 49,
+   "score": 9,
    "tier": "standard",
    "why": [
     [
@@ -3314,11 +4844,16 @@
      "level",
      8,
      "masters"
+    ],
+    [
+     "not_open",
+     -40,
+     "for Commonwealth citizens"
     ]
    ],
    "_key": "loughborough university commonwealth scholarship",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -3364,7 +4899,7 @@
    "rolling": false,
    "published": "2026-09-01",
    "prestige": true,
-   "score": 49,
+   "score": 9,
    "tier": "standard",
    "why": [
     [
@@ -3386,11 +4921,16 @@
      "level",
      8,
      "masters"
+    ],
+    [
+     "not_open",
+     -40,
+     "for African students"
     ]
    ],
    "_key": "university pretoria mastercard scholarship",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -3544,7 +5084,7 @@
    ],
    "_key": "commonwealth master s scholarships uk",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -3620,7 +5160,7 @@
    ],
    "_key": "daad re invitation germany",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -3695,7 +5235,7 @@
    ],
    "_key": "chevening scholarship uk",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -3770,7 +5310,7 @@
    ],
    "_key": "yale peace fellowship usa uk",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -3846,7 +5386,7 @@
    ],
    "_key": "czech republic government scholarship",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -3923,7 +5463,7 @@
    ],
    "_key": "western balkans meet japan",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -3997,7 +5537,7 @@
    ],
    "_key": "hsc youth ambassador germany",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-11-01T23:42:36+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -4069,7 +5609,7 @@
    ],
    "_key": "irena youth forum abu dhabi uae",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -4144,7 +5684,7 @@
    ],
    "_key": "icyf international media training camp turkey",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -4240,7 +5780,7 @@
    ],
    "_key": "fulbright scholar pakistan usa",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-11-01T23:42:36+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -4312,7 +5852,7 @@
    ],
    "_key": "nordic scholarship sweden",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -4384,7 +5924,7 @@
    ],
    "_key": "rotary yoneyama scholarship overseas candidates japan",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -4454,7 +5994,7 @@
    ],
    "_key": "turin university scholarships italy",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -4526,7 +6066,7 @@
    ],
    "_key": "portugal government scholarships",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -4594,7 +6134,7 @@
    ],
    "_key": "ejn reporting fellowship new york usa",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-11-01T23:42:36+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -4730,7 +6270,7 @@
    ],
    "_key": "apsig fellowship taiwan",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -4808,7 +6348,7 @@
    ],
    "_key": "harvard law school fellowship usa",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -4876,7 +6416,7 @@
    ],
    "_key": "ohchr indigenous fellowship switzerland",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -4942,7 +6482,7 @@
    ],
    "_key": "iias asia world fellowship",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5016,7 +6556,7 @@
    ],
    "_key": "unu inweh world food academy 4 sustainable food systems online learning opportunities students researchers young professionals worldwide",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-11-01T23:42:36+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5172,7 +6712,7 @@
    ],
    "_key": "ufm med youth lab italy",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5248,7 +6788,7 @@
    ],
    "_key": "canon collins master phd scholarships",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5337,7 +6877,7 @@
    ],
    "_key": "commonwealth fellowships uk",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5421,7 +6961,7 @@
    ],
    "_key": "kochi university scholarships japan",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5489,7 +7029,7 @@
    ],
    "_key": "world bank young professionals usa",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5560,7 +7100,7 @@
    ],
    "_key": "nextgen icann88 portugal",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5633,7 +7173,7 @@
    ],
    "_key": "eu blue book traineeship",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5718,7 +7258,7 @@
    ],
    "_key": "cardiff university scholarships",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5855,7 +7395,7 @@
    ],
    "_key": "iceland writers retreat award",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-11-01T23:42:36+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5918,7 +7458,7 @@
    ],
    "_key": "un youth townhall germany",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6044,7 +7584,7 @@
    ],
    "_key": "council europe training course france",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6107,7 +7647,7 @@
    ],
    "_key": "asef linkup slovenia",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6240,7 +7780,7 @@
    ],
    "_key": "un women safe project proposals community led advocacy digital safety women girls west africa",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6325,7 +7865,7 @@
    ],
    "_key": "australia government arc future fellowships",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6489,7 +8029,7 @@
    ],
    "_key": "harvard academy scholars usa",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6558,7 +8098,7 @@
    ],
    "_key": "one young world academy leadership course with certificate",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6707,7 +8247,7 @@
    ],
    "_key": "eui jean monnet fellowships italy",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6841,7 +8381,7 @@
    ],
    "_key": "commonwealth phd scholarships uk",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6908,7 +8448,7 @@
    ],
    "_key": "frrr grants five funding opportunities rural communities youth innovation climate action disaster resilience australia",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6985,7 +8525,7 @@
    ],
    "_key": "global peace summit greece",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -7003,12 +8543,10 @@
    "degrees": [],
    "fields": [],
    "funding": null,
-   "country": "Australia",
-   "countries": [
-    "Australia"
-   ],
+   "country": null,
+   "countries": [],
    "regions": [
-    "Oceania"
+    "Sub-Saharan Africa"
    ],
    "eligibility": null,
    "eligibility_note": null,
@@ -7048,7 +8586,7 @@
    ],
    "_key": "reporting migration competition how to participate submission requirements eligibility important information",
    "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
+   "last_seen": "2026-10-30T23:12:38+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
