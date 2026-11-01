@@ -1,7 +1,907 @@
 {
- "generated_at": "2026-10-31T23:30:04+00:00",
- "count": 100,
+ "generated_at": "2026-11-01T06:28:37+00:00",
+ "count": 111,
  "items": [
+  {
+   "id": "c6066fd0218f",
+   "title": "University of Brunei Darussalam UBD Graduate Scholarship 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/ubd-graduate-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are now open for the University of Brunei Darussalam (UBD) Graduate Scholarship 2027, one of the most competitive fully funded Brunei postgraduate scholarships for international students. Backed by Brunei’s premier research university, this UBD…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters"
+   ],
+   "fields": [
+    "computing",
+    "biomed",
+    "health",
+    "engineering",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "required",
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "first-class",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-15",
+   "prestige": false,
+   "score": 62,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     23,
+     [
+      "computing",
+      "biomed",
+      "health"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "university brunei darussalam ubd graduate scholarship",
+   "also_on": [],
+   "last_seen": "2026-11-01T06:28:37+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "42d2d5a84533",
+   "title": "DAAD Scholarship in Germany 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/daad-scholarship-2026/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are now open for the DAAD Scholarship 2027 in Germany — one of the world’s most prestigious and widely recognised fully funded international scholarships, generously funded by the Federal Ministry for Economic Cooperation and Development (BMZ)…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "ai_ml",
+    "health",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Germany",
+   "countries": [
+    "Germany"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "required",
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-03",
+   "prestige": true,
+   "score": 80,
+   "tier": "top",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     23,
+     [
+      "ai_ml",
+      "health",
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "DAAD"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "daad scholarship germany",
+   "also_on": [
+    {
+     "source": "opportunitiesforyouth",
+     "url": "https://opportunitiesforyouth.org/2026/10/26/joint-msc-in-geography-of-environmental-risks-and-human-security-at-unu-ehs-and-the-university-of-bonn-germany-2027-masters-programme-with-daad-epos-scholarship-opportunities/"
+    }
+   ],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "c401fb4e738c",
+   "title": "University of Tokyo Japanese Government (MEXT) Scholarship 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/university-of-tokyo-japanese-government-scholarship/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are now open for the University of Tokyo Recommended MEXT Scholarship 2027 — a prestigious and fully funded government scholarship in Japan offering outstanding international students the rare opportunity to pursue Master’s and PhD degrees at one…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "biomed",
+    "health",
+    "engineering",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Japan",
+   "countries": [
+    "Japan"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "academic excellence",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-19",
+   "prestige": true,
+   "score": 66,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     17,
+     [
+      "biomed",
+      "health",
+      "engineering"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "University of Tokyo"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "university tokyo japanese government scholarship",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "0117c1974d1b",
+   "title": "World Vasectomy Day (WVD) Zambia Country Director Job 2026: Requirements, Responsibilities, Salary Benefits, and How to Apply",
+   "url": "https://opportunitiesforyouth.org/2026/10/23/world-vasectomy-day-wvd-zambia-country-director-job-2026-requirements-responsibilities-salary-benefits-and-how-to-apply/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Are you an experienced leader in public health, international development, social programmes, or health systems management looking for a senior leadership opportunity in Zambia? World Vasectomy Day (WVD) is inviting applications for the position of Zambia…",
+   "type": "Job",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [
+    "health",
+    "data_science",
+    "computing"
+   ],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-23",
+   "prestige": false,
+   "score": 64,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     28,
+     [
+      "health",
+      "data_science",
+      "computing"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "world vasectomy day zambia country director job requirements responsibilities salary benefits how to apply",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
+  {
+   "id": "c58432374ef3",
+   "title": "INPEX Scholarship In Japan 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/inpex-scholarship-in-japan/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Are you a talented graduate from Indonesia, Australia, or the UAE dreaming of a fully funded master’s degree in Japan? The INPEX Scholarship 2027 opens a powerful gateway: generous financial support, cultural immersion, and academic flexibility designed to…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters"
+   ],
+   "fields": [
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Japan",
+   "countries": [
+    "Japan"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "academic excellence",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-14",
+   "prestige": false,
+   "score": 45,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     6,
+     [
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "inpex scholarship japan",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "e041f7c35d63",
+   "title": "JPMorganChase 2027 Marketing Leadership Development Program: Apply for a Full-Time Marketing Analyst Opportunity in the USA",
+   "url": "https://opportunitiesforyouth.org/2026/10/26/jpmorganchase-2027-marketing-leadership-development-program-apply-for-a-full-time-marketing-analyst-opportunity-in-the-usa/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Are you a university student approaching graduation and looking to launch a career in marketing? The JPMorganChase 2027 Marketing Leadership Development Program (MLDP) offers eligible graduates an opportunity to gain practical marketing experience, develop…",
+   "type": "Opportunity",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": "paid",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international applicants",
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-26",
+   "prestige": false,
+   "score": 43,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     26,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "paid",
+     11,
+     null
+    ]
+   ],
+   "_key": "jpmorganchase marketing leadership development apply a full time marketing analyst opportunity usa",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
+  {
+   "id": "70e2cc3300e7",
+   "title": "PATH Global Health Strategy Intern 2026: Paid Remote Internship Supporting International Health Development and Funding Strategy",
+   "url": "https://opportunitiesforyouth.org/2026/10/22/path-global-health-strategy-intern-2026-paid-remote-internship-supporting-international-health-development-and-funding-strategy/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The global health sector depends on strong partnerships, innovative research, and strategic investments to address some of the world’s most pressing healthcare challenges. For students and emerging professionals seeking practical experience in global health…",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "health"
+   ],
+   "funding": "paid",
+   "country": "Online",
+   "countries": [
+    "Online"
+   ],
+   "regions": [
+    "Online"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "worldwide",
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-22",
+   "prestige": false,
+   "score": 43,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     18,
+     [
+      "health"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "path global health strategy intern remote internship supporting international health development funding strategy",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "fcc4c1887e24",
+   "title": "BioPREVAIL × CEPI Biosecurity Innovation Challenge 2026: Apply for Up to US$50,000 in Seed Funding and a Six-Month Global Accelerator",
+   "url": "https://opportunitiesforyouth.org/2026/10/22/bioprevail-x-cepi-biosecurity-innovation-challenge-2026-apply-for-up-to-us50000-in-seed-funding-and-a-six-month-global-accelerator/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Introduction: A Global Opportunity to Strengthen Laboratory Biosafety and Biosecurity Organisations, research teams, startups, laboratories, and innovators worldwide have an opportunity to develop practical solutions that strengthen laboratory biosafety and…",
+   "type": "Competition",
+   "degrees": [],
+   "fields": [
+    "computing",
+    "science",
+    "biomed",
+    "health",
+    "engineering"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "worldwide",
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-22",
+   "prestige": false,
+   "score": 39,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     25,
+     [
+      "computing",
+      "science",
+      "biomed"
+     ]
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "bioprevail cepi biosecurity innovation challenge apply up to us 50 000 seed funding a six month global accelerator",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "88e975ad8958",
+   "title": "Girl Up Project Awards 2026: Apply for Up to US$1,000 to Advance Gender Justice and Empower Young Activists",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/girl-up-project-awards-2026-apply-for-up-to-us1000-to-advance-gender-justice-and-empower-young-activists/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Are you a girl or young activist with an idea for promoting gender justice in your community? Are you looking for funding and mentorship to turn your ideas into meaningful action? The Girl Up Project Awards 2026 offer an opportunity for individuals, youth-led…",
+   "type": "Competition",
+   "degrees": [],
+   "fields": [
+    "ai_ml"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-21",
+   "prestige": false,
+   "score": 32,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     18,
+     [
+      "ai_ml"
+     ]
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "girl up project awards apply up to us 1 000 to advance gender justice empower young activists",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "780ddc77f047",
+   "title": "Show Us Your India Photo Contest 2026: Submit Unpublished Climate Change Photographs to Be Featured on UN India Platforms",
+   "url": "https://opportunitiesforyouth.org/2026/10/26/show-us-your-india-photo-contest-2026-submit-unpublished-climate-change-photographs-to-be-featured-on-un-india-platforms/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Show Us Your India Photo Contest invites photographers across India to capture and share compelling images that demonstrate how climate change affects people, communities, nature and everyday life. Organised through the United Nations information and…",
+   "type": "Competition",
+   "degrees": [],
+   "fields": [
+    "data_science"
+   ],
+   "funding": null,
+   "country": "India",
+   "countries": [
+    "India"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-26",
+   "prestige": false,
+   "score": 31,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     17,
+     [
+      "data_science"
+     ]
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "show us your india photo contest submit unpublished climate change photographs to be featured on un india platforms",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "6ce441605b47",
+   "title": "ICON•S Winter/Summer School for Junior Scholars 2027 in Australia: Applications Open for Early-Career Legal and Public Law Scholars",
+   "url": "https://opportunitiesforyouth.org/2026/10/27/icons-winter-summer-school-for-junior-scholars-2027-in-australia-applications-open-for-early-career-legal-and-public-law-scholars/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The International Society of Public Law (ICON•S) has announced a call for applications for the fifth edition of its Winter/Summer School for Junior Scholars, scheduled to take place from 17 to 27 May 2027 in Sydney, Australia. The program is designed to…",
+   "type": "Summer school",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [
+    "health"
+   ],
+   "funding": "fee_based",
+   "country": "Australia",
+   "countries": [
+    "Australia"
+   ],
+   "regions": [
+    "Oceania"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-10-31",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-27",
+   "prestige": false,
+   "score": 22,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     9,
+     [
+      "health"
+     ]
+    ],
+    [
+     "fee_based",
+     -13,
+     null
+    ],
+    [
+     "type",
+     4,
+     "Summer school"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "icon s winter summer school junior scholars australia early career legal public law scholars",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-01T06:28:37+00:00",
+   "reopens": "2027-10-31",
+   "reopens_intake": "2027"
+  },
   {
    "id": "af2fd9a49d4c",
    "title": "Kyungpook National University (KNU) Scholarships 2027 in South Korea (Fully Funded)",
@@ -3604,7 +4504,7 @@
    ],
    "_key": "aws work based learning 12 month training entry level data centre logistics careers united states",
    "also_on": [],
-   "last_seen": "2026-10-31T23:30:04+00:00",
+   "last_seen": "2026-11-01T06:28:37+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -3697,7 +4597,7 @@
    ],
    "_key": "aixbio fellowship uk",
    "also_on": [],
-   "last_seen": "2026-10-31T23:30:04+00:00",
+   "last_seen": "2026-11-01T06:28:37+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -4558,7 +5458,7 @@
    ],
    "_key": "hsc youth ambassador germany",
    "also_on": [],
-   "last_seen": "2026-10-31T23:30:04+00:00",
+   "last_seen": "2026-11-01T06:28:37+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -4801,7 +5701,7 @@
    ],
    "_key": "fulbright scholar pakistan usa",
    "also_on": [],
-   "last_seen": "2026-10-31T23:30:04+00:00",
+   "last_seen": "2026-11-01T06:28:37+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5155,7 +6055,7 @@
    ],
    "_key": "ejn reporting fellowship new york usa",
    "also_on": [],
-   "last_seen": "2026-10-31T23:30:04+00:00",
+   "last_seen": "2026-11-01T06:28:37+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5577,7 +6477,7 @@
    ],
    "_key": "unu inweh world food academy 4 sustainable food systems online learning opportunities students researchers young professionals worldwide",
    "also_on": [],
-   "last_seen": "2026-10-31T23:30:04+00:00",
+   "last_seen": "2026-11-01T06:28:37+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6416,7 +7316,7 @@
    ],
    "_key": "iceland writers retreat award",
    "also_on": [],
-   "last_seen": "2026-10-31T23:30:04+00:00",
+   "last_seen": "2026-11-01T06:28:37+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
