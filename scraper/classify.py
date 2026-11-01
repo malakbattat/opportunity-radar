@@ -251,7 +251,7 @@ _RESTRICTED_RE = re.compile(
     r"\b((?<![Nn]on-)(?:[A-Z][a-z]+|U\.?S\.?|UK|EU|EEA)\s+(?:[Cc]itizens|[Nn]ationals|[Rr]esidents)(?:\s+only)?|"
     r"(?:citizens|nationals|residents)\s+only|must be (?:a |an )?(?:citizen|national|permanent resident) of [A-Z][\w ]{2,30}|"
     r"(?:for|open to)\s+(?:[A-Z][a-z]+(?:\s+and\s+[A-Z][a-z]+)?)\s+(?:[Ss]tudents|[Cc]itizens|[Nn]ationals|[Yy]outh)|"
-    r"UK/EEA nationals|HBCU|"
+    r"UK/EEA nationals|HBCU|[Yy]oung Africans|Africans only|"
     r"(?:enrolled|studying|program) (?:at|in) a U\.?S\.? (?:college|university|institution)|"
     r"(?:enrolled|students) (?:at|in) (?:a )?U\.?S\.?(?:-based)? (?:college|university|institution)s?|"
     r"limited to [A-Z][\w ]{3,40}partner universities)\b")
@@ -715,7 +715,7 @@ class Classifier:
         extra = raw.get("countries") or ([raw["country"]] if raw.get("country") else [])
         # Site categories are often tagged loosely, so a country category only counts when the post itself names it.
         post_text = (clean_text(raw.get("summary")) + " " + body[:2500]).lower()
-        place_meta = " ".join([c for c in categories if all(m.group(1).lower() in post_text for m in _COUNTRY_RE.finditer(c))]
+        place_meta = " ".join([c for c in categories if all(m.group(1).lower() in post_text for m in (*_COUNTRY_RE.finditer(c), *_REGION_RE.finditer(c)))]
                               + subjects + [clean_text(raw.get("meta_text"))])
         countries = detect_countries(title, place_meta, extra, short_body)
         regions = detect_region(countries, title, place_meta)

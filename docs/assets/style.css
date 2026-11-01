@@ -258,7 +258,8 @@ legend { font-size: 14px; font-weight: 700; padding: 0; margin-bottom: 8px; }
 .meta .place { color: var(--ink); font-weight: 550; }
 .meta .src { color: var(--ink-3); }
 .meta .restricted { color: var(--amber); }
-.summary { margin: 6px 0 0; font-size: 14.5px; color: var(--ink-2); max-width: 74ch; }
+.summary { margin: 6px 0 0; font-size: 14.5px; color: var(--ink-2); max-width: 74ch; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; line-clamp: 3; overflow: hidden; }
+.nowrap { white-space: nowrap; }
 .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 9px; }
 .tag { font-size: 12.5px; padding: 2px 8px; border-radius: 4px; background: var(--paper); border: 1px solid var(--rule); color: var(--ink-2); }
 .tag.type { background: transparent; font-weight: 600; color: var(--ink); }
@@ -380,7 +381,12 @@ legend { font-size: 14px; font-weight: 700; padding: 0; margin-bottom: 8px; }
   .toolbar { display: grid; grid-template-columns: auto 1fr; }
   .toolbar .count { grid-column: 1 / -1; grid-row: 2; }
   .tools { justify-self: end; }
-  .masthead-links { gap: 6px 14px; }
+  .masthead-links { gap: 6px 11px; font-size: 14px; }
+  .masthead-links .lang-btn { padding-inline: 10px; }
+  .summary { -webkit-line-clamp: 3; line-clamp: 3; font-size: 14px; }
+  .actions { column-gap: 14px; flex-wrap: nowrap; }
+  .actions button:not(.details-btn):not([aria-pressed]) .lbl { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  .actions svg { width: 17px; height: 17px; }
 }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition: none !important; animation: none !important; }

@@ -92,6 +92,7 @@
       "cal.title": "Calendar", "cal.high": "High-value deadlines", "cal.all": "All deadlines", "cal.google": "Add to Google Calendar",
       "cal.apple": "Apple or Outlook", "cal.copy": "Copy link", "cal.mine": "My list", "cal.download": "Download my list's deadlines",
       "t.calMine": "Downloaded {n}", "cal.empty": "Your list has no deadlines yet",
+      "feed.what": "New high-value picks", "feed.feedly": "Open in Feedly", "feed.inoreader": "Open in Inoreader",
     },
     ar: {
       "site.title": "رادار الفرص",
@@ -173,6 +174,7 @@
       "cal.title": "التقويم", "cal.high": "مواعيد الفرص عالية القيمة", "cal.all": "كل المواعيد", "cal.google": "إضافة إلى تقويم Google",
       "cal.apple": "Apple أو Outlook", "cal.copy": "نسخ الرابط", "cal.mine": "قائمتي", "cal.download": "تنزيل مواعيد قائمتي",
       "t.calMine": "نُزّلت {n}", "cal.empty": "لا مواعيد في قائمتك بعد",
+      "feed.what": "أحدث الفرص عالية القيمة", "feed.feedly": "فتح في Feedly", "feed.inoreader": "فتح في Inoreader",
     },
   };
 
@@ -245,6 +247,7 @@
     ugresearch: "https://github.com/zapplyjobs/Research-Internships-for-Undergraduates",
     daad: "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/",
   };
+  const activeSources = () => DATA?.sources ? Object.keys(SOURCE_NAMES).filter(k => k in DATA.sources) : [];
   const AI_FIELDS = new Set(["medical_ai", "ai_ml", "data_science"]);
   const TYPE_ORDER = ["Research", "Fellowship", "Scholarship", "Internship", "Summer school", "Exchange", "Externship", "Mentorship",
     "Competition", "Course", "Conference", "Grant", "Job", "Volunteering", "Opportunity"];
@@ -563,7 +566,7 @@
       v => AI_FIELDS.has(v) ? " ai" : "");
     renderChipGroup("f-funding", "funding", ["fully_funded", "paid", "partial", "fee_based", "none"].map(v => [v, L("funding", v)]),
       it => [it.funding || "none"]);
-    renderChipGroup("f-source", "source", Object.keys(SOURCE_NAMES).map(k => [k, SOURCE_NAMES[k]]), it => it._sources);
+    renderChipGroup("f-source", "source", activeSources().map(k => [k, SOURCE_NAMES[k]]), it => it._sources);
     renderChipGroup("f-regions", "regions", REGION_ORDER.map(r => [r, L("region", r)]), it => it.regions, "dest");
     renderChipGroup("f-status", "mine", Object.keys(LABELS.en.status).map(v => [v, L("status", v)]),
       it => status[it.id] ? [status[it.id]] : [], "mine");
@@ -796,6 +799,12 @@
     return due;
   }
 
+  function cleanSummary(title, summary) {
+    let s = (summary || "").trim();
+    const head = title.trim().toLowerCase();
+    if (head.length > 12 && s.toLowerCase().startsWith(head)) s = s.slice(title.trim().length).replace(/^[\s|:–—-]+/, "");
+    return s.length > 20 ? s : (summary || "");
+  }
   function dueBlock(it) {
     if (it._archived) return archivedDue(it);
     const due = el("div", "due");
@@ -815,7 +824,8 @@
       due.append(el("span", "n", dl === 0 ? t("due.today") : nf.format(dl)));
       if (dl > 0) due.append(el("span", "u", tn("dayLeft", dl)));
       const date = fmtDate.format(parseDay(it.deadline));
-      due.append(el("span", "d", it.deadline_estimated ? `${t("estimated")}${SEP()}${t("due.expectedD", { d: date })}` : date));
+      if (it.deadline_estimated) due.append(el("span", "d", t("estimated")), el("span", "d nowrap", t("due.expectedD", { d: date })));
+      else due.append(el("span", "d nowrap", date));
     }
     return due;
   }
@@ -1036,18 +1046,18 @@
     if (it.year_limit) meta.append(el("span", "restricted", t("d.yearOnly", { x: yearLabel(it.year_limit) })));
     meta.append(el("span", "src", t("via", { s: SOURCE_NAMES[it.source] || it.source }) + (it.also_on.length ? " " + t("alsoOn", { n: nf.format(it.also_on.length) }) : "")));
     body.append(meta);
-    if (density === "detailed" && it.summary) body.append(auto(el("p", "summary", it.summary)));
+    if (density === "detailed" && it._summary) body.append(auto(el("p", "summary", it._summary)));
 
     const tags = el("div", "tags");
     tags.append(el("span", "tag type", L("type", it.type)));
     for (const k of it.intakes.slice(0, 2)) tags.append(el("span", "tag intake" + (it.intake_inferred ? " est" : ""), intakeLabel(k)));
-    for (const d of it.degrees) tags.append(el("span", "tag", L("degree", d)));
+    if (it.degrees.length) tags.append(el("span", "tag", it.degrees.map(d => L("degree", d)).join(" · ")));
     if (it.funding) tags.append(el("span", "tag " + (it.funding === "fee_based" ? "fee" : "money"), L("funding", it.funding)));
     if (it.english_test === "not_required") tags.append(el("span", "tag money", t("tag.noIelts")));
     else if (it.english_min) tags.append(el("span", "tag" + (profile?.english && it.english_min <= profile.english ? " money" : ""), t("tag.ielts", { x: nf.format(it.english_min) })));
     if (it.gpa_level === "high") tags.append(el("span", "tag fee", t("tag.topGrades")));
     if (it.for_women) tags.append(el("span", "tag f-ai", t("tag.women")));
-    for (const f of it.fields.slice(0, density === "detailed" ? 3 : 2)) tags.append(el("span", "tag" + (AI_FIELDS.has(f) ? " f-ai" : ""), L("field", f)));
+    for (const f of it.fields.slice(0, density === "detailed" ? 2 : 1)) tags.append(el("span", "tag" + (AI_FIELDS.has(f) ? " f-ai" : ""), L("field", f)));
     if (it.diversity && density === "detailed") tags.append(el("span", "tag", t("diversity")));
     body.append(tags);
 
@@ -1056,7 +1066,8 @@
       const b = el("button");
       b.type = "button";
       b.innerHTML = html;
-      b.append(el("span", null, label));
+      b.append(el("span", "lbl", label));
+      b.title = label;
       if (pressed !== undefined) b.setAttribute("aria-pressed", String(pressed));
       b.addEventListener("click", fn);
       actions.append(b);
@@ -1151,6 +1162,24 @@
       row.append(links, url);
       return row;
     }));
+  }
+  function renderFeedDialog() {
+    const url = new URL("feed.xml", location.href.split("#")[0]).href;
+    const row = el("div", "cal-feed");
+    row.append(el("h3", null, t("feed.what")));
+    const links = el("div", "cal-links");
+    const f = el("a", "btn", t("feed.feedly"));
+    f.href = "https://feedly.com/i/subscription/feed/" + encodeURIComponent(url); f.target = "_blank"; f.rel = "noopener";
+    const i = el("a", "btn btn-ghost", t("feed.inoreader"));
+    i.href = "https://www.inoreader.com/?add_feed=" + encodeURIComponent(url); i.target = "_blank"; i.rel = "noopener";
+    const copy = el("button", "btn btn-ghost", t("cal.copy"));
+    copy.type = "button";
+    copy.addEventListener("click", async () => {
+      try { await navigator.clipboard.writeText(url); toast(t("t.copied")); } catch { toast(url); }
+    });
+    links.append(f, i, copy);
+    row.append(links, el("code", "cal-url", url));
+    $("#feedLinks").replaceChildren(row);
   }
   function fillProfileForm() {
     const sel = $("#pfNationality");
@@ -1333,7 +1362,7 @@
 
   function renderSources() {
     const src = DATA?.sources || {};
-    $("#sourcesList").replaceChildren(...Object.keys(SOURCE_NAMES).map(key => {
+    $("#sourcesList").replaceChildren(...activeSources().map(key => {
       const s = src[key] || {};
       const li = el("li");
       const a = el("a", null, SOURCE_NAMES[key]);
@@ -1349,8 +1378,9 @@
   }
   function renderCredits() {
     const p = $("#credits");
+    const keys = activeSources();
+    if (!keys.length) { p.replaceChildren(); return; }
     p.replaceChildren(document.createTextNode(t("credits") + " "));
-    const keys = Object.keys(SOURCE_NAMES);
     keys.forEach((k, i) => {
       const a = el("a", null, SOURCE_NAMES[k]);
       a.href = SOURCE_HOME[k]; a.target = "_blank"; a.rel = "noopener";
@@ -1435,6 +1465,8 @@
     pdlg.addEventListener("close", () => { if (pdlg.returnValue === "save") saveProfile(); });
     const cdlg = $("#calendarDialog");
     $("#calendarBtn").addEventListener("click", () => { renderCalendarDialog(); cdlg.showModal ? cdlg.showModal() : cdlg.setAttribute("open", ""); });
+    const fdlg = $("#feedDialog");
+    $("#rssLink").addEventListener("click", () => { renderFeedDialog(); fdlg.showModal ? fdlg.showModal() : fdlg.setAttribute("open", ""); });
     $("#calMine").addEventListener("click", downloadMine);
     if (PREVIEW) $("#calendarBtn").hidden = true;
     const dlg = $("#sourcesDialog");
@@ -1460,6 +1492,7 @@
     it._reopened = !archived && it.reopened_at && (gen - new Date(it.reopened_at)) / DAY <= 14;
     it._sources = [it.source, ...it.also_on.map(a => a.source)];
     it._title = displayTitle(it.title).toLowerCase();
+    it._summary = cleanSummary(it.title, it.summary);
     it._intakeYears = [...new Set(it.intakes.map(k => k.slice(0, 4)))];
     it._intakeOrder = it.intakes.length ? intakeOrder(it.intakes[0]) : 1e9;
     if (it.countries.length === 1 && it.regions.length === 1) REGION_OF[it.countries[0]] = it.regions[0];
@@ -1487,7 +1520,7 @@
     const gen = data.generated_at ? new Date(data.generated_at) : new Date();
     ITEMS = (data.items || []).map(i => prep(i, gen));
     if (refresh && archiveState === "ready") { archiveState = "idle"; ARCHIVE = []; }
-    renderUpdated();
+    renderUpdated(); renderCredits();
     if (refresh) { const y = window.scrollY; update(); window.scrollTo(0, y); ensureArchive(); return; }
     const hash = location.hash.slice(1);
     state = hash.includes("=") ? decodeState(hash) : decodeState(store.get("radar:last", ""));

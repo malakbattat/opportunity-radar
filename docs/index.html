@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Opportunity Radar</title>
-<meta name="description" content="Scholarships, research programmes, fellowships and internships in STEM, data science and AI, updated every hour.">
+<meta name="description" content="Scholarships, research programmes, fellowships and internships in STEM, data science and AI, updated every 3 hours.">
 <meta property="og:title" content="Opportunity Radar">
-<meta property="og:description" content="Scholarships, research programmes, fellowships and internships in STEM, data science and AI, updated every hour.">
+<meta property="og:description" content="Scholarships, research programmes, fellowships and internships in STEM, data science and AI, updated every 3 hours.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://malakbattat.github.io/opportunity-radar/">
 <meta property="og:image" content="https://malakbattat.github.io/opportunity-radar/assets/preview.png">
@@ -41,7 +41,7 @@
         <button class="linkish" type="button" id="profileBtn" aria-haspopup="dialog" data-i18n="nav.profile">Profile</button>
         <button class="linkish" type="button" id="calendarBtn" aria-haspopup="dialog" data-i18n="nav.calendar">Calendar</button>
         <button class="linkish" type="button" id="sourcesBtn" aria-haspopup="dialog" data-i18n="nav.sources">Sources</button>
-        <a class="linkish" href="feed.xml" id="rssLink" data-i18n="nav.rss">RSS feed</a>
+        <button class="linkish" type="button" id="rssLink" aria-haspopup="dialog" data-i18n="nav.rss">RSS feed</button>
         <button class="linkish" type="button" id="shareBtn" data-i18n="nav.share">Copy link</button>
       </div>
     </div>
@@ -285,6 +285,14 @@
       <h3 data-i18n="cal.mine">My list</h3>
       <button type="button" class="btn btn-ghost" id="calMine" data-i18n="cal.download">Download my list's deadlines</button>
     </div>
+    <button class="btn" value="close" data-i18n="close">Close</button>
+  </form>
+</dialog>
+
+<dialog class="sources-dialog" id="feedDialog" aria-labelledby="feedTitle">
+  <form method="dialog">
+    <h2 id="feedTitle" data-i18n="nav.rss">RSS feed</h2>
+    <div class="cal-feeds" id="feedLinks"></div>
     <button class="btn" value="close" data-i18n="close">Close</button>
   </form>
 </dialog>

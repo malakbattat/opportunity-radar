@@ -2,7 +2,7 @@ name: Update opportunities and publish site
 
 on:
   schedule:
-    - cron: "23 * * * *"      # every hour at :23 (UTC); one of these runs is the daily deep scan
+    - cron: "17 */3 * * *"    # every 3 hours at :17 (UTC); the first run after 03:00 each day is the deep scan
   workflow_dispatch:           # "Run workflow" button in the Actions tab (always a deep scan)
   push:
     branches: [main]
@@ -39,14 +39,21 @@ jobs:
       - name: Install Python packages
         run: pip install -r requirements.txt
 
+      - name: Check whether a headless browser is needed
+        id: browser
+        run: |
+          python -c "import yaml; s = yaml.safe_load(open('config.yaml'))['sources']; print('needed=' + str(any(s.get(k, {}).get('enabled') for k in ('for9a', 'foras'))).lower())" >> "$GITHUB_OUTPUT"
+
       - name: Restore headless browser from cache
+        if: steps.browser.outputs.needed == 'true'
         id: pw-cache
         uses: actions/cache@v4
         with:
           path: ~/.cache/ms-playwright
           key: playwright-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
 
-      - name: Install headless browser
+      - name: Install headless browser (only for For9a and Foras)
+        if: steps.browser.outputs.needed == 'true'
         run: |
           if [ "${{ steps.pw-cache.outputs.cache-hit }}" = "true" ]; then
             python -m playwright install-deps chromium

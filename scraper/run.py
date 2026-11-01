@@ -277,9 +277,11 @@ def write_feed(items: list[dict[str, Any]], cfg: dict[str, Any], now: datetime) 
     entries = []
     for i in picks[:60]:
         when = datetime.fromisoformat(i.get("first_seen", now.isoformat())[:19]).replace(tzinfo=timezone.utc)
-        bits = [i["type"], f"score {i['score']}"]
+        bits = [i["type"], f"score {i['score']}/100"]
         if i.get("deadline"):
-            bits.append(f"deadline {i['deadline']}")
+            bits.append(f"deadline {date.fromisoformat(i['deadline']).strftime('%-d %b %Y')}" + (" (expected)" if i.get("deadline_estimated") else ""))
+        if i.get("country"):
+            bits.append(i["country"])
         if i.get("funding"):
             bits.append(i["funding"].replace("_", " "))
         desc = " · ".join(bits) + (f" — {i['summary']}" if i.get("summary") else "")
@@ -293,9 +295,11 @@ def write_feed(items: list[dict[str, Any]], cfg: dict[str, Any], now: datetime) 
             f"<description>{escape(desc)}</description>"
             "</item>"
         )
-    xml = ('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel>'
+    site = f"{base}/" if base else "https://github.com"
+    self_link = f'<atom:link href="{escape(base)}/feed.xml" rel="self" type="application/rss+xml"/>' if base else ""
+    xml = ('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>'
            f"<title>{escape(cfg['site']['title'])} — high-value picks</title>"
-           f"<link>{escape(base or 'https://github.com')}</link>"
+           f"<link>{escape(site)}</link>" + self_link +
            f"<description>{escape(cfg['site']['tagline'])}</description>"
            f"<lastBuildDate>{format_datetime(now)}</lastBuildDate>"
            + "".join(entries) + "</channel></rss>\n")
@@ -303,7 +307,7 @@ def write_feed(items: list[dict[str, Any]], cfg: dict[str, Any], now: datetime) 
 
 
 def apply_quick_limits(cfg: dict[str, Any]) -> None:
-    """Hourly quick check: read only each site's newest listings."""
+    """Quick check: read only each site's newest listings."""
     q = cfg.get("schedule", {}).get("quick_check", {})
     src = cfg["sources"]
     for key in ("opportunitiesforyouth", "opportunityportal", "scholarshipscorner"):
@@ -335,6 +339,31 @@ def fingerprint(payload: dict[str, Any]) -> str:
     return hashlib.sha1(json.dumps(core, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
 
 
+def deep_scan_due(now: datetime, previous: dict[str, Any], full_hour: int) -> bool:
+    """One deep scan a day: the first run at or after full_hour (UTC). Scheduled runs often start late,
+    so this compares against the last deep scan instead of expecting a run at an exact hour."""
+    if not previous.get("items") or not previous.get("last_full_scan"):
+        return True
+    boundary = now.replace(hour=full_hour, minute=0, second=0, microsecond=0)
+    if now < boundary:
+        boundary -= timedelta(days=1)
+    last = datetime.fromisoformat(previous["last_full_scan"])
+    return last < boundary
+
+
+def drop_disabled_sources(items: list[dict[str, Any]], cfg: dict[str, Any]) -> list[dict[str, Any]]:
+    """Forget listings from sources that have been switched off, so they leave the site straight away."""
+    on = {k for k, v in cfg.get("sources", {}).items() if v.get("enabled")}
+    kept = []
+    for it in items:
+        if it.get("source") not in on:
+            continue
+        if it.get("also_on"):
+            it = {**it, "also_on": [a for a in it["also_on"] if a.get("source") in on]}
+        kept.append(it)
+    return kept
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description="Update Opportunity Radar data")
     ap.add_argument("--only", help="comma-separated source keys to run")
@@ -357,8 +386,7 @@ def main(argv: list[str] | None = None) -> int:
 
     mode = args.mode
     if mode == "auto":
-        full_hour = cfg.get("schedule", {}).get("full_scan_hour_utc", 4)
-        mode = "full" if now.hour == full_hour or not previous.get("items") else "quick"
+        mode = "full" if deep_scan_due(now, previous, cfg.get("schedule", {}).get("full_scan_hour_utc", 3)) else "quick"
     if mode == "quick":
         apply_quick_limits(cfg)
     log.info("Mode: %s scan", mode)
@@ -396,8 +424,9 @@ def main(argv: list[str] | None = None) -> int:
         log.error("No items scraped from any source; keeping previous data untouched.")
         return 1
 
-    prev_archive = load_archive()
-    items, archive = merge_history(fresh, previous.get("items", []), cfg, today, run_stamp, failed, prev_archive)
+    prev_archive = drop_disabled_sources(load_archive(), cfg)
+    prev_items = drop_disabled_sources(previous.get("items", []), cfg)
+    items, archive = merge_history(fresh, prev_items, cfg, today, run_stamp, failed, prev_archive)
 
     # Carry forward last-good info for sources that failed this time.
     prev_sources = previous.get("sources", {})
@@ -422,6 +451,7 @@ def main(argv: list[str] | None = None) -> int:
         "items": items,
     }
     payload["scan"] = mode
+    payload["last_full_scan"] = run_stamp if mode == "full" else previous.get("last_full_scan")
     changed = fingerprint(payload) != fingerprint(previous) or fingerprint({"items": archive}) != fingerprint({"items": prev_archive})
     new_ids = {i["id"] for i in items} - {i["id"] for i in previous.get("items", [])}
 

@@ -387,11 +387,32 @@ def test_listings_closed_to_the_profile_nationality_rank_low():
 
 
 def test_loose_country_categories_are_ignored():
-    base = {"source": "opportunitiesforyouth", "categories": ["Fellowships", "Australia"],
+    base = {"source": "opportunitiesforyouth", "categories": ["Fellowships", "Australia", "Sub-Saharan Africa"],
             "summary": "A fully funded pre-doctoral research programme in economics and data science."}
     yale = CLF.classify({**base, "url": "https://x.y/yale", "title": "Yale University Tobin Center Pre-Doctoral Fellows Program 2027",
                          "body": "Fellows work with faculty in New Haven on research projects."})
-    assert "Australia" not in yale["countries"]
+    assert "Australia" not in yale["countries"] and not yale["regions"]
     syd = CLF.classify({**base, "url": "https://x.y/syd", "title": "Research Fellowship in Data Science 2027",
                         "body": "Hosted at the University of Sydney, Australia, for twelve months."})
     assert syd["countries"] == ["Australia"]
+
+
+def test_switched_off_sources_leave_the_site():
+    from scraper.run import drop_disabled_sources
+    cfg = {"sources": {"opportunityportal": {"enabled": True}, "foras": {"enabled": False}}}
+    items = [{"source": "foras", "also_on": []},
+             {"source": "opportunityportal", "also_on": [{"source": "foras", "url": "u"}, {"source": "opportunityportal", "url": "v"}]}]
+    kept = drop_disabled_sources(items, cfg)
+    assert len(kept) == 1 and kept[0]["also_on"] == [{"source": "opportunityportal", "url": "v"}]
+
+
+def test_one_deep_scan_a_day_even_when_runs_start_late():
+    from datetime import datetime, timezone
+    from scraper.run import deep_scan_due
+    at = lambda s: datetime.fromisoformat(s).replace(tzinfo=timezone.utc)
+    prev = lambda last: {"items": [1], "last_full_scan": last}
+    assert deep_scan_due(at("2026-11-02T04:41:00"), prev("2026-11-01T03:20:00+00:00"), 3)       # late run still does it
+    assert not deep_scan_due(at("2026-11-02T07:17:00"), prev("2026-11-02T04:41:00+00:00"), 3)   # only once that day
+    assert not deep_scan_due(at("2026-11-03T01:17:00"), prev("2026-11-02T04:41:00+00:00"), 3)   # before the next day's hour
+    assert deep_scan_due(at("2026-11-03T03:17:00"), prev("2026-11-02T04:41:00+00:00"), 3)
+    assert deep_scan_due(at("2026-11-03T03:17:00"), {"items": [1]}, 3)                         # no record yet

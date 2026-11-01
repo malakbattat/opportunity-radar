@@ -1,7 +1,7 @@
 # ─────────────────────────────────────────────────────────────
 # Opportunity Radar configuration
 # Edit this file to tune what counts as "interesting" and "high value".
-# Every change is picked up on the next automatic run (hourly) or when you
+# Every change is picked up on the next automatic run (every 3 hours) or when you
 # trigger the workflow manually from the Actions tab.
 # ─────────────────────────────────────────────────────────────
 
@@ -11,11 +11,11 @@ site:
   # The public address of the site, used in the RSS feed and calendar files.
   base_url: "https://malakbattat.github.io/opportunity-radar/"
 
-# How often things update. The workflow runs every hour; most runs are quick
+# How often things update. The workflow runs every 3 hours; most runs are quick
 # checks of each site's newest listings, and one run a day reads deeper.
 schedule:
-  full_scan_hour_utc: 4        # the hourly run at this UTC hour does the deep scan
-  quick_check:                 # limits used by the other 23 runs
+  full_scan_hour_utc: 3        # the first run at or after this UTC hour each day does the deep scan
+  quick_check:                 # limits used by the other runs
     wordpress_pages: 1         # newest 50 posts per WordPress site
     scholarshipsads_pages: 2
     for9a_paths: 3             # first N paths from the for9a list below
@@ -51,7 +51,7 @@ sources:
       - /en/opportunity/category/Competitions
       - /en/opportunity/category/Training
   foras:
-    enabled: true
+    enabled: false              # mostly local job tenders and category pages; switched off
     paths:
       - /home
       - /opportunities

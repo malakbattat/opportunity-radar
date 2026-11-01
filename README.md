@@ -1,6 +1,6 @@
 # Opportunity Radar
 
-**Scholarships, research programmes, fellowships and internships in STEM, data science and AI, collected from 9 sources, ranked by value and refreshed every hour.**
+**Scholarships, research programmes, fellowships and internships in STEM, data science and AI, collected from 8 sources, ranked by value and refreshed every 3 hours.**
 
 ### [→ Open Opportunity Radar](https://malakbattat.github.io/opportunity-radar/)
 
@@ -10,7 +10,7 @@ English and Arabic · Works on phones · Free, no sign-up
 
 <div dir="rtl">
 
-**رادار الفرص**: منح دراسية وبرامج بحثية وزمالات وتدريب في العلوم والتقنية والذكاء الاصطناعي، تُجمع من ٩ مصادر وتُرتّب حسب قيمتها وتُحدَّث كل ساعة. الموقع متاح بالعربية: اضغط على «العربية» في أعلى الصفحة.
+**رادار الفرص**: منح دراسية وبرامج بحثية وزمالات وتدريب في العلوم والتقنية والذكاء الاصطناعي، تُجمع من ٨ مصادر وتُرتّب حسب قيمتها وتُحدَّث كل ٣ ساعات. الموقع متاح بالعربية: اضغط على «العربية» في أعلى الصفحة.
 
 </div>
 
@@ -19,7 +19,7 @@ English and Arabic · Works on phones · Free, no sign-up
 ## Why it exists
 
 Good opportunities are scattered across dozens of sites, buried among expired posts, fee-charging events
-and listings only open to one nationality. Opportunity Radar reads those sites every hour, merges the
+and listings only open to one nationality. Opportunity Radar reads those sites every 3 hours, merges the
 duplicates, drops what's expired and **ranks the rest** for a final-year undergraduate or recent graduate
 heading towards research and a master's, with extra weight on AI, medical AI and data science, on full
 funding, and on programmes that welcome applicants from Palestine and the wider Arab region.
@@ -34,8 +34,8 @@ funding, and on programmes that welcome applicants from Palestine and the wider 
 | **See why something ranks high** | Every listing has a score from 0 to 100. **Details** shows how it was worked out, who can apply, and every site it appears on. |
 | **Keep track** | **Save** an opportunity to **My list**, mark it Applying or Applied, and work through its application checklist (CV, statement, references, transcript…) with notes and a target date. |
 | **Never miss a deadline** | **Calendar** subscribes Google, Apple or Outlook Calendar to the deadlines, with reminders a week and a day before. |
-| **Look back** | **Archive** keeps closed programmes for a year, with the date the next round is expected; reopened ones return to the list marked *Reopened*. |
-| **Share** | **Copy link** shares the exact view you're looking at, filters included. |
+| **Look back** | The day after a deadline passes, the listing moves to **Archive**, with the date the next round is expected. Programmes that reopen come back marked *Reopened*. Anything you saved stays in **My list**. |
+| **Share** | **Copy link** shares the exact view you're looking at, filters included. **RSS feed** follows new high-value picks in Feedly, Inoreader or any feed reader. |
 
 > Every listing links to its original post. Details are read automatically from listing text, so always
 > confirm the deadline and eligibility on the official page before applying.
@@ -55,7 +55,6 @@ profile are kept in your own browser and never leave it.
 |---|---|
 | [Opportunities for Youth](https://opportunitiesforyouth.org) · [Opportunity Portal](https://opportunityportal.info) · [Scholarships Corner](https://scholarshipscorner.website) | Scholarships, fellowships, internships and programmes worldwide |
 | [ScholarshipsAds](https://www.scholarshipsads.com) | Master's and PhD scholarships, with language and GPA requirements |
-| [Foras](https://foras.ps) | Opportunities for Arab and Palestinian applicants |
 | [Research Internships for Undergraduates](https://github.com/zapplyjobs/Research-Internships-for-Undergraduates) | Undergraduate research programmes by country |
 | [Academic Research Opportunities for International Students](https://github.com/smsnobin77/Academic-research-opportunities-for-international-students) | Summer research programmes open to international students |
 | [CS Everything but Internships](https://github.com/Julian048/CS-Everything-but-Internships) | Fellowships, externships and programmes for CS students |
@@ -81,9 +80,10 @@ entirely on GitHub's free tier: no server, no database, no API keys.
    interest `fields` and their weights, `prestige` names, and which `sources` are switched on.
    Every change re-scores everything on the next run.
 
-From then on it updates **every hour**: 23 quick checks of each site's newest listings and one deep scan
-a day (04:23 UTC). The site is republished every hour, but a commit is only made when the listings
-actually change.
+From then on it updates **every 3 hours**: quick checks of each site's newest listings, plus one deeper
+scan a day (the first run after 03:00 UTC). The site is republished on every run, but a commit is only
+made when the listings actually change. GitHub can start scheduled runs late when it's busy, so expect
+some variation in the timing.
 
 <details>
 <summary><b>All <code>config.yaml</code> settings</b></summary>
@@ -105,7 +105,7 @@ actually change.
 | `retention` | When items move to the archive and how long it keeps them. |
 
 To change how often it runs, edit the `cron` line in [`.github/workflows/update.yml`](.github/workflows/update.yml):
-`"23 * * * *"` is hourly, `"23 */3 * * *"` every three hours.
+`"17 */3 * * *"` is every three hours, `"17 */6 * * *"` every six, `"17 * * * *"` hourly.
 
 </details>
 
@@ -114,7 +114,7 @@ To change how often it runs, edit the `cron` line in [`.github/workflows/update.
 ```bash
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-python -m playwright install chromium                   # only needed for Foras
+python -m playwright install chromium                   # only if you switch on For9a or Foras
 python -m scraper.run                                   # fetch + score → docs/data/opportunities.json
 python -m http.server -d docs 8000                      # open http://localhost:8000
 python -m pytest -q                                     # offline tests on saved sample pages
@@ -124,9 +124,8 @@ python -m pytest -q                                     # offline tests on saved
 `--mode quick|full` picks the scan depth.
 
 ```
-GitHub Actions, hourly
-  scraper/sources.py        WordPress REST API (RSS fallback), ScholarshipsAds pages,
-                            headless browser for Foras
+GitHub Actions, every 3 hours
+  scraper/sources.py        WordPress REST API (RSS fallback), ScholarshipsAds pages
   scraper/github_lists.py   the four curated GitHub lists
   scraper/classify.py       type · level · fields · funding · deadline · intake · country ·
                             eligibility · language and GPA requirements · score
@@ -135,8 +134,8 @@ GitHub Actions, hourly
 ```
 
 A source that fails doesn't break anything: its previous listings are kept and **Sources** shows the
-error. Two more adapters are included but switched off in `config.yaml`, because those sites block
-automated reads from GitHub: For9a and the DAAD scholarship database.
+error. Three more adapters are included but switched off in `config.yaml`: For9a and the DAAD
+scholarship database block automated reads from GitHub, and Foras mostly lists local job tenders.
 
 To add a WordPress site it's one line in `build_sources()`:
 `WordPressSource("key", "https://example.org")`; any other site needs a class with a `fetch()` method
