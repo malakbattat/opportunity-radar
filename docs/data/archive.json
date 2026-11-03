@@ -1,183 +1,7 @@
 {
- "generated_at": "2026-11-03T10:52:51+00:00",
- "count": 122,
+ "generated_at": "2026-11-03T19:29:43+00:00",
+ "count": 120,
  "items": [
-  {
-   "id": "dd90bf748ee3",
-   "title": "Honjo International Scholarship 2027 in Japan",
-   "url": "https://www.scholarshipsads.com/honjo-japan-scholarships-for-international-students",
-   "source": "scholarshipsads",
-   "org": null,
-   "summary": "Honjo International Scholarship 2027 in Japan Partial Funding Japan Universities Masters, PhD All Subjects International Students Japan Partial Funding Japan Universities Masters, PhD All Subjects International Students Japan Honjo International Scholarship…",
-   "type": "Scholarship",
-   "degrees": [
-    "masters",
-    "phd"
-   ],
-   "fields": [
-    "data_science",
-    "computing",
-    "biomed",
-    "health",
-    "science"
-   ],
-   "funding": "partial",
-   "country": "Japan",
-   "countries": [
-    "Japan"
-   ],
-   "regions": [
-    "Asia"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International Students",
-   "deadline": "2026-10-31",
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": false,
-   "published": null,
-   "prestige": false,
-   "score": 50,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     30,
-     [
-      "data_science",
-      "computing",
-      "biomed"
-     ]
-    ],
-    [
-     "partial",
-     6,
-     null
-    ],
-    [
-     "level",
-     8,
-     "masters"
-    ]
-   ],
-   "_key": "honjo international scholarship japan",
-   "also_on": [],
-   "last_seen": "2026-11-03T10:52:51+00:00",
-   "first_seen": "2026-11-02T15:51:53+00:00",
-   "archive_reason": "closed",
-   "archived_at": "2026-11-03T10:52:51+00:00",
-   "reopens": "2027-10-31",
-   "reopens_intake": "2027"
-  },
-  {
-   "id": "ed96a53a296a",
-   "title": "Government of Ireland International Education Scholarship (GOI-IES)",
-   "url": "https://www.scholarshipsads.com/government-of-ireland-international-education-scholarship",
-   "source": "scholarshipsads",
-   "org": null,
-   "summary": "Government of Ireland International Education Scholarship (GOI-IES) Partial Funding Ireland Universities Masters, PhD All Subjects Non European Students Ireland Partial Funding Ireland Universities Masters, PhD All Subjects Non European Students Ireland…",
-   "type": "Scholarship",
-   "degrees": [
-    "masters",
-    "phd"
-   ],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "computing",
-    "biomed",
-    "health",
-    "science"
-   ],
-   "funding": "partial",
-   "country": "Ireland",
-   "countries": [
-    "Ireland"
-   ],
-   "regions": [
-    "Europe"
-   ],
-   "eligibility": "restricted",
-   "eligibility_note": "Belarusian nationals",
-   "deadline": "2026-03-12",
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": "high",
-   "gpa_note": "outstanding academic achievement",
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": false,
-   "published": null,
-   "prestige": false,
-   "score": 17,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     37,
-     [
-      "ai_ml",
-      "data_science",
-      "computing"
-     ]
-    ],
-    [
-     "partial",
-     6,
-     null
-    ],
-    [
-     "level",
-     8,
-     "masters"
-    ],
-    [
-     "not_open",
-     -40,
-     "Belarusian nationals"
-    ]
-   ],
-   "_key": "government ireland international education scholarship",
-   "also_on": [],
-   "last_seen": "2026-11-03T10:52:51+00:00",
-   "first_seen": "2026-11-02T15:51:53+00:00",
-   "archive_reason": "closed",
-   "archived_at": "2026-11-03T10:52:51+00:00",
-   "reopens": "2027-03-12",
-   "reopens_intake": null
-  },
   {
    "id": "490628447599",
    "title": "Georg Arnhold Senior Fellowship 2028 in Germany | Fully Funded",
@@ -261,7 +85,7 @@
    ],
    "_key": "georg arnhold senior fellowship germany",
    "also_on": [],
-   "last_seen": "2026-11-03T10:52:51+00:00",
+   "last_seen": "2026-11-03T19:29:43+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-03T00:58:26+00:00",
@@ -518,7 +342,7 @@
    ],
    "_key": "epfl e3 summer internship switzerland",
    "also_on": [],
-   "last_seen": "2026-11-03T10:52:51+00:00",
+   "last_seen": "2026-11-03T19:29:43+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-02T06:02:26+00:00",
@@ -838,7 +662,7 @@
    ],
    "_key": "unu junior fellows internship japan",
    "also_on": [],
-   "last_seen": "2026-11-03T10:52:51+00:00",
+   "last_seen": "2026-11-03T19:29:43+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-02T06:02:26+00:00",
@@ -991,7 +815,7 @@
    ],
    "_key": "unu inweh independent scientific review board global experts food nutrition science sustainable food systems",
    "also_on": [],
-   "last_seen": "2026-11-03T10:52:51+00:00",
+   "last_seen": "2026-11-03T19:29:43+00:00",
    "first_seen": "2026-11-01T23:42:36+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-01T23:42:36+00:00",
@@ -1072,7 +896,7 @@
    ],
    "_key": "university brunei darussalam ubd graduate scholarship",
    "also_on": [],
-   "last_seen": "2026-11-03T10:52:51+00:00",
+   "last_seen": "2026-11-03T19:29:43+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-01T06:28:37+00:00",
@@ -5522,7 +5346,7 @@
    ],
    "_key": "aixbio fellowship uk",
    "also_on": [],
-   "last_seen": "2026-11-03T10:52:51+00:00",
+   "last_seen": "2026-11-03T19:29:43+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6378,7 +6202,7 @@
    ],
    "_key": "hsc youth ambassador germany",
    "also_on": [],
-   "last_seen": "2026-11-03T10:52:51+00:00",
+   "last_seen": "2026-11-03T19:29:43+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6621,7 +6445,7 @@
    ],
    "_key": "fulbright scholar pakistan usa",
    "also_on": [],
-   "last_seen": "2026-11-03T10:52:51+00:00",
+   "last_seen": "2026-11-03T19:29:43+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6975,7 +6799,7 @@
    ],
    "_key": "ejn reporting fellowship new york usa",
    "also_on": [],
-   "last_seen": "2026-11-03T10:52:51+00:00",
+   "last_seen": "2026-11-03T19:29:43+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -7397,7 +7221,7 @@
    ],
    "_key": "unu inweh world food academy 4 sustainable food systems online learning opportunities students researchers young professionals worldwide",
    "also_on": [],
-   "last_seen": "2026-11-03T10:52:51+00:00",
+   "last_seen": "2026-11-03T19:29:43+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -8236,7 +8060,7 @@
    ],
    "_key": "iceland writers retreat award",
    "also_on": [],
-   "last_seen": "2026-11-03T10:52:51+00:00",
+   "last_seen": "2026-11-03T19:29:43+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
