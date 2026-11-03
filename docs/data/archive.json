@@ -1,7 +1,495 @@
 {
- "generated_at": "2026-11-02T15:51:53+00:00",
- "count": 117,
+ "generated_at": "2026-11-03T00:58:26+00:00",
+ "count": 123,
  "items": [
+  {
+   "id": "490628447599",
+   "title": "Georg Arnhold Senior Fellowship 2028 in Germany | Fully Funded",
+   "url": "https://scholarshipscorner.website/georg-arnhold-senior-fellowship/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Call for applications for the Georg Arnhold Senior Fellowship 2028 in Germany. Offered by the Leibniz Institute for Educational Media, the fully funded fellowship will take place for 6 months in Brunswick, Germany. In addition to covering return travelling…",
+   "type": "Fellowship",
+   "degrees": [
+    "bachelor",
+    "postdoc"
+   ],
+   "fields": [
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Germany",
+   "countries": [
+    "Germany"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "all countries",
+   "deadline": "2026-11-02",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2028"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-22",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     6,
+     [
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ]
+   ],
+   "_key": "georg arnhold senior fellowship germany",
+   "also_on": [],
+   "last_seen": "2026-11-03T00:58:26+00:00",
+   "first_seen": "2026-10-29T17:16:30+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-03T00:58:26+00:00",
+   "reopens": "2027-11-02",
+   "reopens_intake": "2028"
+  },
+  {
+   "id": "9f5375884531",
+   "title": "University of Westminster Scholarships 2027 In UK (Fully Funded)",
+   "url": "https://opportunityportal.info/university-of-westminster-scholarships-2026/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Are you ready to study in the UK for free at a top-ranked university in London? The University of Westminster Scholarships in the UK offer a fully funded opportunity for international students to pursue Undergraduate and Postgraduate degrees without financial…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "ai_ml"
+   ],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-11-02",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "academic excellence",
+   "for_women": true,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-16",
+   "prestige": false,
+   "score": 62,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     18,
+     [
+      "ai_ml"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "women",
+     5,
+     null
+    ]
+   ],
+   "_key": "university westminster scholarships uk",
+   "also_on": [],
+   "last_seen": "2026-11-02T06:02:26+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-03T00:58:26+00:00",
+   "reopens": "2027-11-02",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "96a7921b764b",
+   "title": "Fulbright Foreign Student Scholarship 2027 in USA (Fully Funded)",
+   "url": "https://opportunityportal.info/fulbright-foreign-student-scholarship/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are now open for the Fulbright Foreign Student Program 2027, one of the most prestigious fully funded USA scholarships for international students seeking to pursue Master’s and Ph.D. degrees in the United States. With over 4,000 Fulbright…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "health",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-11-02",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-15",
+   "prestige": true,
+   "score": 60,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     11,
+     [
+      "health",
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Fulbright"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "fulbright foreign student scholarship usa",
+   "also_on": [],
+   "last_seen": "2026-11-02T06:02:26+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-03T00:58:26+00:00",
+   "reopens": "2027-11-02",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "3a1a47672622",
+   "title": "UNIDIR Research Consultant and Associate Researcher Jobs 2026: Remote UN Opportunities in Conflict Research, Data Analysis and Peacebuilding",
+   "url": "https://opportunitiesforyouth.org/2026/10/23/unidir-research-consultant-and-associate-researcher-jobs-2026-remote-un-opportunities-in-conflict-research-data-analysis-and-peacebuilding/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The United Nations Institute for Disarmament Research (UNIDIR) is inviting applications for two temporary consultancy and research positions under its Managing Exits from Armed Conflict (MEAC) Project. These opportunities are designed for qualified…",
+   "type": "Job",
+   "degrees": [],
+   "fields": [
+    "data_science",
+    "ai_ml",
+    "computing"
+   ],
+   "funding": null,
+   "country": "Online",
+   "countries": [
+    "Online"
+   ],
+   "regions": [
+    "Online"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "worldwide",
+   "deadline": "2026-11-02",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-23",
+   "prestige": false,
+   "score": 50,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     44,
+     [
+      "data_science",
+      "ai_ml",
+      "computing"
+     ]
+    ]
+   ],
+   "_key": "unidir research consultant associate researcher jobs remote un opportunities conflict research data analysis peacebuilding",
+   "also_on": [],
+   "last_seen": "2026-11-02T06:02:26+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-03T00:58:26+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
+  {
+   "id": "89941cc0e170",
+   "title": "Imperial College London President’s Scholarship 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/imperial-college-presidents-scholarship/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Applications are invited for the Imperial College London Doctoral Scholarships 2027 for international students. This is a fully funded PhD scholarship in the UK designed for outstanding students worldwide. Applicants of any nationality are encouraged to apply…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-11-02",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027",
+    "2027-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "exceptional academic results",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-30",
+   "prestige": true,
+   "score": 49,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Imperial College"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "imperial college london president s scholarship",
+   "also_on": [
+    {
+     "source": "scholarshipscorner",
+     "url": "https://scholarshipscorner.website/presidents-phd-scholarships/"
+    }
+   ],
+   "last_seen": "2026-11-02T06:02:26+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-03T00:58:26+00:00",
+   "reopens": "2027-11-02",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "25a56e113248",
+   "title": "20 Fully Funded European Scholarships for International Students 2027/28",
+   "url": "https://opportunityportal.info/fully-funded-european-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Are you an international student dreaming of advancing your higher education without financial burden? Securing a fully funded education abroad is entirely possible when you target the right opportunities. This comprehensive guide highlights some of the best…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters",
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International Students",
+   "deadline": "2026-11-02",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-27",
+   "prestige": false,
+   "score": 39,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "20 european scholarships",
+   "also_on": [],
+   "last_seen": "2026-11-02T06:02:26+00:00",
+   "first_seen": "2026-11-01T23:57:46+00:00",
+   "reopened_at": "2026-11-01T23:57:46+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-03T00:58:26+00:00",
+   "reopens": "2027-11-02",
+   "reopens_intake": "2027-ay"
+  },
   {
    "id": "76179f4f5f2f",
    "title": "EPFL E3 Summer Internship 2027 in Switzerland | Funded",
@@ -93,7 +581,7 @@
    ],
    "_key": "epfl e3 summer internship switzerland",
    "also_on": [],
-   "last_seen": "2026-11-02T15:51:53+00:00",
+   "last_seen": "2026-11-03T00:58:26+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-02T06:02:26+00:00",
@@ -413,7 +901,7 @@
    ],
    "_key": "unu junior fellows internship japan",
    "also_on": [],
-   "last_seen": "2026-11-02T15:51:53+00:00",
+   "last_seen": "2026-11-03T00:58:26+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-02T06:02:26+00:00",
@@ -566,7 +1054,7 @@
    ],
    "_key": "unu inweh independent scientific review board global experts food nutrition science sustainable food systems",
    "also_on": [],
-   "last_seen": "2026-11-02T15:51:53+00:00",
+   "last_seen": "2026-11-03T00:58:26+00:00",
    "first_seen": "2026-11-01T23:42:36+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-01T23:42:36+00:00",
@@ -647,7 +1135,7 @@
    ],
    "_key": "university brunei darussalam ubd graduate scholarship",
    "also_on": [],
-   "last_seen": "2026-11-02T15:51:53+00:00",
+   "last_seen": "2026-11-03T00:58:26+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-01T06:28:37+00:00",
@@ -5097,7 +5585,7 @@
    ],
    "_key": "aixbio fellowship uk",
    "also_on": [],
-   "last_seen": "2026-11-02T15:51:53+00:00",
+   "last_seen": "2026-11-03T00:58:26+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -5953,7 +6441,7 @@
    ],
    "_key": "hsc youth ambassador germany",
    "also_on": [],
-   "last_seen": "2026-11-02T15:51:53+00:00",
+   "last_seen": "2026-11-03T00:58:26+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6196,7 +6684,7 @@
    ],
    "_key": "fulbright scholar pakistan usa",
    "also_on": [],
-   "last_seen": "2026-11-02T15:51:53+00:00",
+   "last_seen": "2026-11-03T00:58:26+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6550,7 +7038,7 @@
    ],
    "_key": "ejn reporting fellowship new york usa",
    "also_on": [],
-   "last_seen": "2026-11-02T15:51:53+00:00",
+   "last_seen": "2026-11-03T00:58:26+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6972,7 +7460,7 @@
    ],
    "_key": "unu inweh world food academy 4 sustainable food systems online learning opportunities students researchers young professionals worldwide",
    "also_on": [],
-   "last_seen": "2026-11-02T15:51:53+00:00",
+   "last_seen": "2026-11-03T00:58:26+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -7811,7 +8299,7 @@
    ],
    "_key": "iceland writers retreat award",
    "also_on": [],
-   "last_seen": "2026-11-02T15:51:53+00:00",
+   "last_seen": "2026-11-03T00:58:26+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
