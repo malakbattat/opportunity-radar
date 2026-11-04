@@ -1,7 +1,186 @@
 {
- "generated_at": "2026-11-03T19:29:43+00:00",
- "count": 120,
+ "generated_at": "2026-11-04T01:21:51+00:00",
+ "count": 122,
  "items": [
+  {
+   "id": "a44a925bf542",
+   "title": "George Moore Scholars Programme 2026: Scholarships for Students and Recent Graduates to Pursue a Master’s Degree Abroad",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/george-moore-scholars-programme-2026-scholarships-for-students-and-recent-graduates-to-pursue-a-masters-degree-abroad/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The George Moore Scholars Programme 2026 offers an opportunity for academically talented students and recent graduates from across the island of Ireland to pursue a master’s degree at leading universities in the United States, Canada, the United Kingdom, and…",
+   "type": "Fellowship",
+   "degrees": [
+    "masters"
+   ],
+   "fields": [
+    "data_science",
+    "health",
+    "engineering",
+    "science"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-03",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "academic excellence",
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-21",
+   "prestige": false,
+   "score": 60,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     24,
+     [
+      "data_science",
+      "health",
+      "engineering"
+     ]
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "george moore scholars scholarships students recent graduates to pursue a master s degree abroad",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-04T01:21:51+00:00",
+   "reopens": "2027-11-03",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "2443d2fda161",
+   "title": "FAO World Food Forum Internship Programme 2026 in Italy: Apply for a 3–11 Month Internship in Rome",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/join-the-world-food-forum-internship-programme-at-fao-empowering-youth-in-agrifood-systems/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Food and Agriculture Organization of the United Nations (FAO) is inviting eligible students and recent graduates to apply for its World Food Forum (WFF) Internship Programme 2026 at FAO headquarters in Rome, Italy. This opportunity is designed for young…",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml"
+   ],
+   "funding": "paid",
+   "country": "Italy",
+   "countries": [
+    "Italy"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "worldwide",
+   "deadline": "2026-11-03",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-21",
+   "prestige": false,
+   "score": 52,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     18,
+     [
+      "ai_ml"
+     ]
+    ],
+    [
+     "paid",
+     11,
+     null
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "fao world food forum internship italy apply a 3 11 month internship rome",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-04T01:21:51+00:00",
+   "reopens": "2027-11-03",
+   "reopens_intake": "2027"
+  },
   {
    "id": "490628447599",
    "title": "Georg Arnhold Senior Fellowship 2028 in Germany | Fully Funded",
@@ -85,7 +264,7 @@
    ],
    "_key": "georg arnhold senior fellowship germany",
    "also_on": [],
-   "last_seen": "2026-11-03T19:29:43+00:00",
+   "last_seen": "2026-11-04T01:21:51+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-03T00:58:26+00:00",
@@ -342,7 +521,7 @@
    ],
    "_key": "epfl e3 summer internship switzerland",
    "also_on": [],
-   "last_seen": "2026-11-03T19:29:43+00:00",
+   "last_seen": "2026-11-04T01:21:51+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-02T06:02:26+00:00",
@@ -662,7 +841,7 @@
    ],
    "_key": "unu junior fellows internship japan",
    "also_on": [],
-   "last_seen": "2026-11-03T19:29:43+00:00",
+   "last_seen": "2026-11-04T01:21:51+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-02T06:02:26+00:00",
@@ -815,7 +994,7 @@
    ],
    "_key": "unu inweh independent scientific review board global experts food nutrition science sustainable food systems",
    "also_on": [],
-   "last_seen": "2026-11-03T19:29:43+00:00",
+   "last_seen": "2026-11-04T01:21:51+00:00",
    "first_seen": "2026-11-01T23:42:36+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-01T23:42:36+00:00",
@@ -896,7 +1075,7 @@
    ],
    "_key": "university brunei darussalam ubd graduate scholarship",
    "also_on": [],
-   "last_seen": "2026-11-03T19:29:43+00:00",
+   "last_seen": "2026-11-04T01:21:51+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-01T06:28:37+00:00",
@@ -5346,7 +5525,7 @@
    ],
    "_key": "aixbio fellowship uk",
    "also_on": [],
-   "last_seen": "2026-11-03T19:29:43+00:00",
+   "last_seen": "2026-11-04T01:21:51+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6202,7 +6381,7 @@
    ],
    "_key": "hsc youth ambassador germany",
    "also_on": [],
-   "last_seen": "2026-11-03T19:29:43+00:00",
+   "last_seen": "2026-11-04T01:21:51+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6445,7 +6624,7 @@
    ],
    "_key": "fulbright scholar pakistan usa",
    "also_on": [],
-   "last_seen": "2026-11-03T19:29:43+00:00",
+   "last_seen": "2026-11-04T01:21:51+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6799,7 +6978,7 @@
    ],
    "_key": "ejn reporting fellowship new york usa",
    "also_on": [],
-   "last_seen": "2026-11-03T19:29:43+00:00",
+   "last_seen": "2026-11-04T01:21:51+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -7221,7 +7400,7 @@
    ],
    "_key": "unu inweh world food academy 4 sustainable food systems online learning opportunities students researchers young professionals worldwide",
    "also_on": [],
-   "last_seen": "2026-11-03T19:29:43+00:00",
+   "last_seen": "2026-11-04T01:21:51+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -8060,7 +8239,7 @@
    ],
    "_key": "iceland writers retreat award",
    "also_on": [],
-   "last_seen": "2026-11-03T19:29:43+00:00",
+   "last_seen": "2026-11-04T01:21:51+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
