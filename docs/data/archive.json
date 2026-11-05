@@ -1,7 +1,95 @@
 {
- "generated_at": "2026-11-04T19:45:13+00:00",
- "count": 122,
+ "generated_at": "2026-11-05T01:27:58+00:00",
+ "count": 123,
  "items": [
+  {
+   "id": "a96dd152f4c0",
+   "title": "UNDP Paid Internships 2026 for Students and Graduates – Launch Your Global Development Career",
+   "url": "https://opportunitiesforyouth.org/2026/10/31/undp-paid-internship-program-2022-23/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Are you passionate about world development and are looking for valuable experiences to complement your studies? The UNDP Internship Program is an outstanding opportunity where interns have the chance to learn about the leading development programs initiated…",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "computing"
+   ],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-04",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-31",
+   "prestige": true,
+   "score": 61,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "computing"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "UNDP"
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "undp internships students graduates launch your global development career",
+   "also_on": [],
+   "last_seen": "2026-11-04T19:45:13+00:00",
+   "first_seen": "2026-10-31T15:24:58+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-05T01:27:58+00:00",
+   "reopens": "2027-11-04",
+   "reopens_intake": "2027"
+  },
   {
    "id": "a44a925bf542",
    "title": "George Moore Scholars Programme 2026: Scholarships for Students and Recent Graduates to Pursue a Master’s Degree Abroad",
@@ -264,7 +352,7 @@
    ],
    "_key": "georg arnhold senior fellowship germany",
    "also_on": [],
-   "last_seen": "2026-11-04T19:45:13+00:00",
+   "last_seen": "2026-11-05T01:27:58+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-03T00:58:26+00:00",
@@ -521,7 +609,7 @@
    ],
    "_key": "epfl e3 summer internship switzerland",
    "also_on": [],
-   "last_seen": "2026-11-04T19:45:13+00:00",
+   "last_seen": "2026-11-05T01:27:58+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-02T06:02:26+00:00",
@@ -841,7 +929,7 @@
    ],
    "_key": "unu junior fellows internship japan",
    "also_on": [],
-   "last_seen": "2026-11-04T19:45:13+00:00",
+   "last_seen": "2026-11-05T01:27:58+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-02T06:02:26+00:00",
@@ -994,7 +1082,7 @@
    ],
    "_key": "unu inweh independent scientific review board global experts food nutrition science sustainable food systems",
    "also_on": [],
-   "last_seen": "2026-11-04T19:45:13+00:00",
+   "last_seen": "2026-11-05T01:27:58+00:00",
    "first_seen": "2026-11-01T23:42:36+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-01T23:42:36+00:00",
@@ -1075,7 +1163,7 @@
    ],
    "_key": "university brunei darussalam ubd graduate scholarship",
    "also_on": [],
-   "last_seen": "2026-11-04T19:45:13+00:00",
+   "last_seen": "2026-11-05T01:27:58+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-01T06:28:37+00:00",
@@ -5525,7 +5613,7 @@
    ],
    "_key": "aixbio fellowship uk",
    "also_on": [],
-   "last_seen": "2026-11-04T19:45:13+00:00",
+   "last_seen": "2026-11-05T01:27:58+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6381,7 +6469,7 @@
    ],
    "_key": "hsc youth ambassador germany",
    "also_on": [],
-   "last_seen": "2026-11-04T19:45:13+00:00",
+   "last_seen": "2026-11-05T01:27:58+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6624,7 +6712,7 @@
    ],
    "_key": "fulbright scholar pakistan usa",
    "also_on": [],
-   "last_seen": "2026-11-04T19:45:13+00:00",
+   "last_seen": "2026-11-05T01:27:58+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6978,7 +7066,7 @@
    ],
    "_key": "ejn reporting fellowship new york usa",
    "also_on": [],
-   "last_seen": "2026-11-04T19:45:13+00:00",
+   "last_seen": "2026-11-05T01:27:58+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
