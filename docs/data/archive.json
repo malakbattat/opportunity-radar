@@ -1,7 +1,478 @@
 {
- "generated_at": "2026-11-05T19:57:28+00:00",
- "count": 122,
+ "generated_at": "2026-11-06T01:33:04+00:00",
+ "count": 128,
  "items": [
+  {
+   "id": "87bb8d260db8",
+   "title": "UNIL Summer Research Program 2027 in Switzerland (Fully Funded)",
+   "url": "https://scholarshipscorner.website/unil-summer-research-program-switzerland/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The UNIL Summer Research Program 2027 in Switzerland is a program full of research opportunities in multiple fields of biology and medicine. It is a chance to perform high-quality research in the laboratories of the University of Lausanne. The summer…",
+   "type": "Research",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [
+    "biomed",
+    "health",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Switzerland",
+   "countries": [
+    "Switzerland"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-11-05",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "excellent academic record",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-03",
+   "prestige": false,
+   "score": 81,
+   "tier": "top",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     28,
+     [
+      "biomed",
+      "health",
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "type",
+     14,
+     "Research"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ]
+   ],
+   "_key": "unil summer research switzerland",
+   "also_on": [],
+   "last_seen": "2026-11-06T01:33:04+00:00",
+   "first_seen": "2026-11-03T10:52:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-06T01:33:04+00:00",
+   "reopens": "2027-11-05",
+   "reopens_intake": "2027-summer"
+  },
+  {
+   "id": "2110bdb2dc03",
+   "title": "UN Trust Fund Global Programme Advisory Committee 2026: Call for Civil Society Organisations and Independent Experts on Ending Violence Against Women and Girls",
+   "url": "https://opportunitiesforyouth.org/2026/11/03/un-trust-fund-global-programme-advisory-committee-2026-call-for-civil-society-organisations-and-independent-experts-on-ending-violence-against-women-and-girls/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Are you an experienced women’s rights advocate, feminist leader, researcher or representative of a civil society organisation committed to ending violence against women and girls? The UN Trust Fund to End Violence against Women and Girls is inviting qualified…",
+   "type": "Course",
+   "degrees": [],
+   "fields": [],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-05",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-03",
+   "prestige": false,
+   "score": 14,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "un trust fund global advisory committee civil society organisations independent experts on ending violence against women girls",
+   "also_on": [],
+   "last_seen": "2026-11-06T01:33:04+00:00",
+   "first_seen": "2026-11-03T19:29:43+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-06T01:33:04+00:00",
+   "reopens": "2027-11-05",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "853015468b46",
+   "title": "APU MEXT University Recommendation Scholarship 2027 in Japan (Fully Funded)",
+   "url": "https://scholarshipscorner.website/apu-mext-university-recommendation-scholarship-japan/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "APU MEXT University Recommendation Scholarship 2027 is a fully funded scholarship program in Japan that is awarded to outstanding international students who are recommended by Ritsumeikan Asia Pacific University (APU). It is offered by the Japanese Ministry…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "Japan",
+   "countries": [
+    "Japan"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-11-05",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-07-31",
+   "prestige": true,
+   "score": 61,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "MEXT"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "apu mext university recommendation scholarship japan",
+   "also_on": [],
+   "last_seen": "2026-11-05T10:56:10+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-06T01:33:04+00:00",
+   "reopens": "2027-11-05",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "eee0668614a6",
+   "title": "Asia Pacific University Japanese Government Scholarship 2027 (Fully Funded)",
+   "url": "https://opportunityportal.info/asia-pacific-university-japanese-government-scholarship/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "The applicant is invited to apply for the Asia Pacific University (APU) MEXT Recommended Japanese Government Scholarship 2027, a fully funded Japan scholarship for international students. This prestigious program allows students to pursue full Bachelor’s…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-11-05",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "not_required",
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-03",
+   "prestige": true,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     6,
+     [
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "MEXT"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "no_english_test",
+     4,
+     null
+    ]
+   ],
+   "_key": "asia pacific university japanese government scholarship",
+   "also_on": [],
+   "last_seen": "2026-11-05T10:56:10+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-06T01:33:04+00:00",
+   "reopens": "2027-11-05",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "ee61cffac1b4",
+   "title": "Global Leadership Challenge 2026 | Chance to Visit Switzerland for Free",
+   "url": "https://scholarshipscorner.website/global-leadership-challenge/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "open for the Global Leadership Challenge (GLC) 2026, welcoming students and young professionals worldwide. The University of Oxford and the St. Gallen Symposium have launched the Global Leadership Challenge. Their mission is to empower young leaders so that…",
+   "type": "Competition",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Switzerland",
+   "countries": [
+    "Switzerland"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "worldwide",
+   "deadline": "2026-11-05",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-01",
+   "prestige": true,
+   "score": 48,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     18,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Oxford"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ]
+   ],
+   "_key": "global leadership challenge",
+   "also_on": [],
+   "last_seen": "2026-11-05T10:56:10+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-06T01:33:04+00:00",
+   "reopens": "2027-11-05",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "0bf450653988",
+   "title": "Foreign Policy for America NextGen Initiative 2027: Apply for a Leadership Programme for Young Foreign Policy Leaders Aged 25–35",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/foreign-policy-for-america-nextgen-initiative-2027-apply-for-a-leadership-programme-for-young-foreign-policy-leaders-aged-25-35/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Are you a young professional, policy expert, activist, or emerging leader interested in international relations, diplomacy, national security, democracy, or global development? The Foreign Policy for America NextGen Initiative is inviting applications for its…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [
+    "computing"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-05",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-21",
+   "prestige": false,
+   "score": 26,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "computing"
+     ]
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "foreign policy america nextgen initiative apply a leadership young foreign policy leaders aged 25 35",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-06T01:33:04+00:00",
+   "reopens": "2027-11-05",
+   "reopens_intake": "2027"
+  },
   {
    "id": "a44a925bf542",
    "title": "George Moore Scholars Programme 2026: Scholarships for Students and Recent Graduates to Pursue a Master’s Degree Abroad",
@@ -264,7 +735,7 @@
    ],
    "_key": "georg arnhold senior fellowship germany",
    "also_on": [],
-   "last_seen": "2026-11-05T19:57:28+00:00",
+   "last_seen": "2026-11-06T01:33:04+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-03T00:58:26+00:00",
@@ -521,7 +992,7 @@
    ],
    "_key": "epfl e3 summer internship switzerland",
    "also_on": [],
-   "last_seen": "2026-11-05T19:57:28+00:00",
+   "last_seen": "2026-11-06T01:33:04+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-02T06:02:26+00:00",
@@ -841,7 +1312,7 @@
    ],
    "_key": "unu junior fellows internship japan",
    "also_on": [],
-   "last_seen": "2026-11-05T19:57:28+00:00",
+   "last_seen": "2026-11-06T01:33:04+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-02T06:02:26+00:00",
@@ -1075,7 +1546,7 @@
    ],
    "_key": "university brunei darussalam ubd graduate scholarship",
    "also_on": [],
-   "last_seen": "2026-11-05T19:57:28+00:00",
+   "last_seen": "2026-11-06T01:33:04+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-01T06:28:37+00:00",
@@ -5525,7 +5996,7 @@
    ],
    "_key": "aixbio fellowship uk",
    "also_on": [],
-   "last_seen": "2026-11-05T19:57:28+00:00",
+   "last_seen": "2026-11-06T01:33:04+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6381,7 +6852,7 @@
    ],
    "_key": "hsc youth ambassador germany",
    "also_on": [],
-   "last_seen": "2026-11-05T19:57:28+00:00",
+   "last_seen": "2026-11-06T01:33:04+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6624,7 +7095,7 @@
    ],
    "_key": "fulbright scholar pakistan usa",
    "also_on": [],
-   "last_seen": "2026-11-05T19:57:28+00:00",
+   "last_seen": "2026-11-06T01:33:04+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -6978,7 +7449,7 @@
    ],
    "_key": "ejn reporting fellowship new york usa",
    "also_on": [],
-   "last_seen": "2026-11-05T19:57:28+00:00",
+   "last_seen": "2026-11-06T01:33:04+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
