@@ -1,7 +1,540 @@
 {
- "generated_at": "2026-11-06T19:24:20+00:00",
- "count": 128,
+ "generated_at": "2026-11-07T00:56:46+00:00",
+ "count": 135,
  "items": [
+  {
+   "id": "a96dd152f4c0",
+   "title": "UNDP Paid Internships 2026 for Students and Graduates – Launch Your Global Development Career",
+   "url": "https://opportunitiesforyouth.org/2026/10/31/undp-paid-internship-program-2022-23/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Are you passionate about world development and are looking for valuable experiences to complement your studies? The UNDP Internship Program is an outstanding opportunity where interns have the chance to learn about the leading development programs initiated…",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "computing"
+   ],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-06",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-31",
+   "prestige": true,
+   "score": 61,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "computing"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "UNDP"
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "undp internships students graduates launch your global development career",
+   "also_on": [],
+   "last_seen": "2026-11-06T10:53:29+00:00",
+   "first_seen": "2026-11-05T10:56:10+00:00",
+   "reopened_at": "2026-11-05T10:56:10+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-07T00:56:46+00:00",
+   "reopens": "2027-11-06",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "7821e281a783",
+   "title": "Junior Summer Institute 2027 in the USA | Fully Funded",
+   "url": "https://scholarshipscorner.website/junior-summer-institute-usa/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "The Junior Summer Institute (JSI) 2027 in the USA is offered to upcoming public policy leaders through the PPIA Fellowship. Along with lifelong membership in PPIA’s Alumni Network, this international fellowship includes a comprehensive and graduate school…",
+   "type": "Course",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "enrolled at U.S.-based institutions",
+   "deadline": "2026-11-06",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-22",
+   "prestige": true,
+   "score": 47,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Berkeley"
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ]
+   ],
+   "_key": "junior summer institute usa",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-07T00:56:46+00:00",
+   "reopens": "2027-11-06",
+   "reopens_intake": "2027-summer"
+  },
+  {
+   "id": "013dfc3fb884",
+   "title": "JA Worldwide Senior Project Manager Job 2026: Remote Global Education Leadership Opportunity With International Travel",
+   "url": "https://opportunitiesforyouth.org/2026/11/03/ja-worldwide-senior-project-manager-job-2026-remote-global-education-leadership-opportunity-with-international-travel/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Application Deadline: November 6, 2026 JA Worldwide is inviting applications from highly experienced project management professionals for the position of Senior Project Manager, a senior-level opportunity to lead the strategic planning, coordination, and…",
+   "type": "Job",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [
+    "ai_ml",
+    "data_science"
+   ],
+   "funding": null,
+   "country": "Online",
+   "countries": [
+    "Online"
+   ],
+   "regions": [
+    "Online"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "Worldwide",
+   "deadline": "2026-11-06",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-03",
+   "prestige": false,
+   "score": 44,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     24,
+     [
+      "ai_ml",
+      "data_science"
+     ]
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "ja worldwide senior project manager job remote global education leadership opportunity with international travel",
+   "also_on": [],
+   "last_seen": "2026-11-06T10:53:29+00:00",
+   "first_seen": "2026-11-03T10:52:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-07T00:56:46+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
+  {
+   "id": "f9c7dc65d3f8",
+   "title": "Youth4Climate Services Innovation Hackathon 2026",
+   "url": "https://opportunitiesforyouth.org/2026/10/29/youth4climate-services-innovation-hackathon-2026/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Young innovators across Eastern Africa are being invited to showcase climate-focused technologies and digital solutions through the Youth4Climate Services Innovation Hackathon 2026, a regional initiative organized by the IGAD Climate Prediction and…",
+   "type": "Competition",
+   "degrees": [],
+   "fields": [
+    "computing",
+    "ai_ml",
+    "data_science"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-06",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-29",
+   "prestige": false,
+   "score": 42,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     36,
+     [
+      "computing",
+      "ai_ml",
+      "data_science"
+     ]
+    ]
+   ],
+   "_key": "youth4climate services innovation hackathon",
+   "also_on": [],
+   "last_seen": "2026-11-06T10:53:29+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-07T00:56:46+00:00",
+   "reopens": "2027-11-06",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "34db24d528af",
+   "title": "Eligibility Requirements for the 2027 WIPO IP Moot Court Competition",
+   "url": "https://opportunitiesforyouth.org/2026/11/01/eligibility-requirements-for-the-2027-wipo-ip-moot-court-competition/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The competition is open to university teams of law students who satisfy specific age, academic, institutional, and professional requirements. Applicants should carefully review the eligibility conditions before beginning the application process. 1. Age…",
+   "type": "Competition",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "ai_ml"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-06",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-01",
+   "prestige": false,
+   "score": 40,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     18,
+     [
+      "ai_ml"
+     ]
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "eligibility requirements wipo ip moot court competition",
+   "also_on": [],
+   "last_seen": "2026-11-06T10:53:29+00:00",
+   "first_seen": "2026-11-01T23:42:36+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-07T00:56:46+00:00",
+   "reopens": "2027-11-06",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "a45ac1de915f",
+   "title": "UNDP Ghana ICCA-GSI 2026 Grant Call: Up to US$50,000 for NGOs, CSOs and Community-Based Organizations to Support Monitoring and Evaluation of Conservation Projects",
+   "url": "https://opportunitiesforyouth.org/2026/10/30/undp-ghana-icca-gsi-2026-grant-call/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The UNDP, through the Global Environment Facility Small Grants Programme (GEF SGP), has announced its Third Call for Proposals for Monitoring and Evaluation (M&E) Support to Projects in Territories and Areas Conserved by Indigenous Peoples and Local…",
+   "type": "Grant",
+   "degrees": [],
+   "fields": [
+    "computing"
+   ],
+   "funding": null,
+   "country": "Ghana",
+   "countries": [
+    "Ghana",
+    "United States"
+   ],
+   "regions": [
+    "Sub-Saharan Africa",
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-06",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-30",
+   "prestige": true,
+   "score": 28,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "computing"
+     ]
+    ],
+    [
+     "prestige",
+     10,
+     "UNDP"
+    ]
+   ],
+   "_key": "undp ghana icca gsi grant up to us 50 000 ngos csos community based organizations to support monitoring evaluation conservation projects",
+   "also_on": [],
+   "last_seen": "2026-11-06T10:53:29+00:00",
+   "first_seen": "2026-10-31T15:24:58+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-07T00:56:46+00:00",
+   "reopens": "2027-11-06",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "841562c29c10",
+   "title": "9 Asian Development Bank (ADB) Consultancy Jobs in Gender Equality and Women’s Empowerment in the Pacific",
+   "url": "https://opportunitiesforyouth.org/2026/10/29/9-asian-development-bank-adb-consultancy-jobs-in-gender-equality-and-womens-empowerment-in-the-pacific/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Asian Development Bank (ADB) is inviting qualified consultants to apply for nine consultancy opportunities supporting gender equality, women’s empowerment, institutional capacity development, communications, and sector-specific development initiatives…",
+   "type": "Job",
+   "degrees": [],
+   "fields": [
+    "computing"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-06",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-29",
+   "prestige": false,
+   "score": 26,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "computing"
+     ]
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "9 asian development bank consultancy jobs gender equality women s empowerment pacific",
+   "also_on": [],
+   "last_seen": "2026-11-06T10:53:29+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-07T00:56:46+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
   {
    "id": "87bb8d260db8",
    "title": "UNIL Summer Research Program 2027 in Switzerland (Fully Funded)",
@@ -83,7 +616,7 @@
    ],
    "_key": "unil summer research switzerland",
    "also_on": [],
-   "last_seen": "2026-11-06T19:24:20+00:00",
+   "last_seen": "2026-11-07T00:56:46+00:00",
    "first_seen": "2026-11-03T10:52:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-06T01:33:04+00:00",
@@ -142,7 +675,7 @@
    ],
    "_key": "un trust fund global advisory committee civil society organisations independent experts on ending violence against women girls",
    "also_on": [],
-   "last_seen": "2026-11-06T19:24:20+00:00",
+   "last_seen": "2026-11-07T00:56:46+00:00",
    "first_seen": "2026-11-03T19:29:43+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-06T01:33:04+00:00",
@@ -735,7 +1268,7 @@
    ],
    "_key": "georg arnhold senior fellowship germany",
    "also_on": [],
-   "last_seen": "2026-11-06T19:24:20+00:00",
+   "last_seen": "2026-11-07T00:56:46+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-03T00:58:26+00:00",
@@ -992,7 +1525,7 @@
    ],
    "_key": "epfl e3 summer internship switzerland",
    "also_on": [],
-   "last_seen": "2026-11-06T19:24:20+00:00",
+   "last_seen": "2026-11-07T00:56:46+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-02T06:02:26+00:00",
@@ -1307,7 +1840,7 @@
    ],
    "_key": "unu junior fellows internship japan",
    "also_on": [],
-   "last_seen": "2026-11-06T19:24:20+00:00",
+   "last_seen": "2026-11-07T00:56:46+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-02T06:02:26+00:00",
@@ -5991,7 +6524,7 @@
    ],
    "_key": "aixbio fellowship uk",
    "also_on": [],
-   "last_seen": "2026-11-06T19:24:20+00:00",
+   "last_seen": "2026-11-07T00:56:46+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -7090,7 +7623,7 @@
    ],
    "_key": "fulbright scholar pakistan usa",
    "also_on": [],
-   "last_seen": "2026-11-06T19:24:20+00:00",
+   "last_seen": "2026-11-07T00:56:46+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
@@ -7444,7 +7977,7 @@
    ],
    "_key": "ejn reporting fellowship new york usa",
    "also_on": [],
-   "last_seen": "2026-11-06T19:24:20+00:00",
+   "last_seen": "2026-11-07T00:56:46+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
