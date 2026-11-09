@@ -1,7 +1,514 @@
 {
- "generated_at": "2026-11-08T19:41:20+00:00",
- "count": 138,
+ "generated_at": "2026-11-09T00:55:21+00:00",
+ "count": 144,
  "items": [
+  {
+   "id": "805a233c67f9",
+   "title": "USTC Winter Camp 2027 in China – Fully Funded Scholarship Available",
+   "url": "https://scholarshipscorner.website/ustc-winter-camp-china/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Applications for USTC Winter Camp in China 2027 are now open. This International Winter Camp is offered by The University of Science and Technology of China. The program will include Chinese language courses where students will have the experience of learning…",
+   "type": "Summer school",
+   "degrees": [
+    "bachelor",
+    "masters"
+   ],
+   "fields": [
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "China",
+   "countries": [
+    "China"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-11-08",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-winter"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-04",
+   "prestige": false,
+   "score": 63,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     4,
+     "Summer school"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ]
+   ],
+   "_key": "ustc winter camp china scholarship available",
+   "also_on": [],
+   "last_seen": "2026-11-08T06:00:28+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-09T00:55:21+00:00",
+   "reopens": "2027-11-08",
+   "reopens_intake": "2027-winter"
+  },
+  {
+   "id": "a96dd152f4c0",
+   "title": "UNDP Paid Internships 2026 for Students and Graduates – Launch Your Global Development Career",
+   "url": "https://opportunitiesforyouth.org/2026/10/31/undp-paid-internship-program-2022-23/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Are you passionate about world development and are looking for valuable experiences to complement your studies? The UNDP Internship Program is an outstanding opportunity where interns have the chance to learn about the leading development programs initiated…",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "computing"
+   ],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-08",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-31",
+   "prestige": true,
+   "score": 61,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "computing"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "UNDP"
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "undp internships students graduates launch your global development career",
+   "also_on": [],
+   "last_seen": "2026-11-08T06:00:28+00:00",
+   "first_seen": "2026-11-07T10:08:35+00:00",
+   "reopened_at": "2026-11-07T10:08:35+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-09T00:55:21+00:00",
+   "reopens": "2027-11-08",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "9e117454e381",
+   "title": "Atlantic Council GeoEconomics Center Spring 2027 Internship: Paid Young Global Professionals Program in Washington, DC",
+   "url": "https://opportunitiesforyouth.org/2026/10/24/atlantic-council-geoeconomics-center-spring-2027-internship-paid-young-global-professionals-program-in-washington-dc/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Atlantic Council GeoEconomics Center Spring 2027 Young Global Professionals Program offers an opportunity for university students and recent graduates interested in international economics, finance, public policy, and global affairs to gain practical…",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "computing"
+   ],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-08",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-spring"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "moderate",
+   "gpa_note": "good academic standing",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-24",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     28,
+     [
+      "ai_ml",
+      "data_science",
+      "computing"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ]
+   ],
+   "_key": "atlantic council geoeconomics center spring internship young global professionals washington dc",
+   "also_on": [],
+   "last_seen": "2026-11-04T10:55:48+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-09T00:55:21+00:00",
+   "reopens": "2027-11-08",
+   "reopens_intake": "2027-spring"
+  },
+  {
+   "id": "a5dd1508b003",
+   "title": "Atlantic Council Eurasia Center Spring 2027 Young Global Professionals Program: Paid Internship in the USA",
+   "url": "https://opportunitiesforyouth.org/2026/10/25/atlantic-council-eurasia-center-spring-2027-young-global-professionals-program-paid-internship-in-the-usa/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Atlantic Council Eurasia Center Spring 2027 Young Global Professionals Program offers an exciting opportunity for university students, graduate students, and recent graduates interested in international affairs, geopolitics, foreign policy, research, and…",
+   "type": "Internship",
+   "degrees": [
+    "masters"
+   ],
+   "fields": [
+    "computing"
+   ],
+   "funding": "paid",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-08",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-spring"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-25",
+   "prestige": false,
+   "score": 51,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "computing"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ]
+   ],
+   "_key": "atlantic council eurasia center spring young global professionals internship usa",
+   "also_on": [],
+   "last_seen": "2026-11-05T10:56:10+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-09T00:55:21+00:00",
+   "reopens": "2027-11-08",
+   "reopens_intake": "2027-spring"
+  },
+  {
+   "id": "e41d29cb819d",
+   "title": "UNDP Online Volunteer Opportunity 2026: 12 Research Support Positions in Biodiversity and Ecosystem Services Across Southeast Asia",
+   "url": "https://opportunitiesforyouth.org/2026/10/30/undp-online-volunteer-opportunity-2026-12-research-support-positions-in-biodiversity-and-ecosystem-services-across-southeast-asia/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Introduction The United Nations Development Programme (UNDP), through its Biodiversity and Ecosystem Services Network (BES-Net), is inviting applications from motivated and research-oriented individuals for an exciting online volunteering opportunity focused…",
+   "type": "Volunteering",
+   "degrees": [],
+   "fields": [
+    "science"
+   ],
+   "funding": null,
+   "country": "Online",
+   "countries": [
+    "Online"
+   ],
+   "regions": [
+    "Online"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-08",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-30",
+   "prestige": true,
+   "score": 22,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     6,
+     [
+      "science"
+     ]
+    ],
+    [
+     "prestige",
+     10,
+     "UNDP"
+    ]
+   ],
+   "_key": "undp online volunteer opportunity 12 research support positions biodiversity ecosystem services across southeast asia",
+   "also_on": [],
+   "last_seen": "2026-11-08T06:00:28+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-09T00:55:21+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
+  {
+   "id": "d02906a31cef",
+   "title": "World Bank Group MNA Fellows Program 2027: Fellowship Opportunities for Saudi Arabian and Kuwaiti Nationals",
+   "url": "https://opportunitiesforyouth.org/2026/10/26/world-bank-group-mna-fellows-program-2027-fellowship-opportunities-for-saudi-arabian-and-kuwaiti-nationals/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The World Bank Group MNA Fellows Program offers an opportunity for qualified professionals from Saudi Arabia and Kuwait to strengthen their expertise, develop leadership capabilities, and contribute to international development through assignments across…",
+   "type": "Fellowship",
+   "degrees": [
+    "masters"
+   ],
+   "fields": [
+    "data_science"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": "restricted",
+   "eligibility_note": "Kuwaiti Nationals",
+   "deadline": "2026-11-08",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-26",
+   "prestige": true,
+   "score": 9,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     17,
+     [
+      "data_science"
+     ]
+    ],
+    [
+     "prestige",
+     10,
+     "World Bank"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "not_open",
+     -40,
+     "Kuwaiti Nationals"
+    ]
+   ],
+   "_key": "world bank group mna fellows fellowship opportunities saudi arabian kuwaiti nationals",
+   "also_on": [],
+   "last_seen": "2026-11-06T10:53:29+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-09T00:55:21+00:00",
+   "reopens": "2027-11-08",
+   "reopens_intake": "2027"
+  },
   {
    "id": "7585c50e7bea",
    "title": "KAIST Visual AI Internship 2027 in South Korea | Paid Internship",
@@ -88,7 +595,7 @@
    ],
    "_key": "kaist visual ai internship south korea",
    "also_on": [],
-   "last_seen": "2026-11-08T19:41:20+00:00",
+   "last_seen": "2026-11-09T00:55:21+00:00",
    "first_seen": "2026-11-06T19:24:20+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -165,7 +672,7 @@
    ],
    "_key": "national university taiwan scholarships",
    "also_on": [],
-   "last_seen": "2026-11-08T19:41:20+00:00",
+   "last_seen": "2026-11-09T00:55:21+00:00",
    "first_seen": "2026-11-08T06:00:28+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -392,7 +899,7 @@
    ],
    "_key": "german africa foundation diaspora focal persons consultancy opportunities europe african diaspora representatives",
    "also_on": [],
-   "last_seen": "2026-11-08T19:41:20+00:00",
+   "last_seen": "2026-11-09T00:55:21+00:00",
    "first_seen": "2026-11-07T21:50:49+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-07T21:50:49+00:00",
@@ -468,7 +975,7 @@
    ],
    "_key": "hzdr summer student germany",
    "also_on": [],
-   "last_seen": "2026-11-08T19:41:20+00:00",
+   "last_seen": "2026-11-09T00:55:21+00:00",
    "first_seen": "2026-11-07T17:45:05+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-07T17:45:05+00:00",
@@ -855,7 +1362,7 @@
    ],
    "_key": "unil summer research switzerland",
    "also_on": [],
-   "last_seen": "2026-11-08T19:41:20+00:00",
+   "last_seen": "2026-11-09T00:55:21+00:00",
    "first_seen": "2026-11-03T10:52:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-06T01:33:04+00:00",
@@ -1507,7 +2014,7 @@
    ],
    "_key": "georg arnhold senior fellowship germany",
    "also_on": [],
-   "last_seen": "2026-11-08T19:41:20+00:00",
+   "last_seen": "2026-11-09T00:55:21+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-03T00:58:26+00:00",
@@ -1764,7 +2271,7 @@
    ],
    "_key": "epfl e3 summer internship switzerland",
    "also_on": [],
-   "last_seen": "2026-11-08T19:41:20+00:00",
+   "last_seen": "2026-11-09T00:55:21+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-02T06:02:26+00:00",
@@ -2079,7 +2586,7 @@
    ],
    "_key": "unu junior fellows internship japan",
    "also_on": [],
-   "last_seen": "2026-11-08T19:41:20+00:00",
+   "last_seen": "2026-11-09T00:55:21+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-02T06:02:26+00:00",
@@ -8216,7 +8723,7 @@
    ],
    "_key": "ejn reporting fellowship new york usa",
    "also_on": [],
-   "last_seen": "2026-11-08T19:41:20+00:00",
+   "last_seen": "2026-11-09T00:55:21+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-10-30T22:10:51+00:00",
