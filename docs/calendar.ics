@@ -8,174 +8,8 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:bacb5a2a5982@opportunity-radar
-DTSTAMP:20261111T170807Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Deadline: Council of Europe Development Bank (CEB) Paid Internship 
- Programme 2027 in Paris\, France: Seven Internship Opportunities with a Mo
- nthly Allowance of €1\,800
-URL:https://opportunitiesforyouth.org/2026/10/27/council-of-europe-developm
- ent-bank-ceb-paid-internship-programme-2027-in-paris-france-seven-internsh
- ip-opportunities-with-a-monthly-allowance-of-e1800/
-DESCRIPTION:https://opportunitiesforyouth.org/2026/10/27/council-of-europe-
- development-bank-ceb-paid-internship-programme-2027-in-paris-france-seven-
- internship-opportunities-with-a-monthly-allowance-of-e1800/\nScore 89/100 
- · Internship\nThe Council of Europe Development Bank (CEB) is offering a 
- range of internship opportunities for eligible students and recent graduat
- es seeking professional experience in an international financial instituti
- on. Based in Paris\, France\, the programme provides…\nhttps://malakbatt
- at.github.io/opportunity-radar/
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P7D
-DESCRIPTION:Deadline: Council of Europe Development Bank (CEB) Paid Interns
- hip Programme 2027 in Paris\, France: Seven Internship Opportunities with 
- a Monthly Allowance of €1\,800
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P1D
-DESCRIPTION:Deadline: Council of Europe Development Bank (CEB) Paid Interns
- hip Programme 2027 in Paris\, France: Seven Internship Opportunities with 
- a Monthly Allowance of €1\,800
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:0c0ee173422d@opportunity-radar
-DTSTAMP:20261111T170807Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Deadline: WomenLeaders India Fellowship 2026–27: Fully Funded Lea
- dership Fellowship for 50 Indian Women Leaders
-URL:https://opportunitiesforyouth.org/2026/10/24/womenleaders-india-fellows
- hip-2026-27-fully-funded-leadership-fellowship-for-50-indian-women-leaders
- /
-DESCRIPTION:https://opportunitiesforyouth.org/2026/10/24/womenleaders-india
- -fellowship-2026-27-fully-funded-leadership-fellowship-for-50-indian-women
- -leaders/\nScore 79/100 · Fellowship\nThe WomenLeaders India Fellowship 2
- 026–27\, powered by Reliance Foundation in partnership with Vital Voices
-  Global Partnership\, is offering an exciting opportunity for Indian women
-  leaders who are committed to driving social change\, advancing women’s
- …\nhttps://malakbattat.github.io/opportunity-radar/
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P7D
-DESCRIPTION:Deadline: WomenLeaders India Fellowship 2026–27: Fully Funded
-  Leadership Fellowship for 50 Indian Women Leaders
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P1D
-DESCRIPTION:Deadline: WomenLeaders India Fellowship 2026–27: Fully Funded
-  Leadership Fellowship for 50 Indian Women Leaders
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:c5d23dc9e5dd@opportunity-radar
-DTSTAMP:20261111T170807Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Deadline: Gates Foundation AI Fellowship 2026: Apply for a 12-Month
-  AI Fellow Position in Africa – Deadline November 11
-URL:https://opportunitiesforyouth.org/2026/11/03/gates-foundation-ai-fellow
- ship-2026-apply-for-a-12-month-ai-fellow-position-in-africa-deadline-novem
- ber-11/
-DESCRIPTION:https://opportunitiesforyouth.org/2026/11/03/gates-foundation-a
- i-fellowship-2026-apply-for-a-12-month-ai-fellow-position-in-africa-deadli
- ne-november-11/\nScore 75/100 · Fellowship\nThe Bill & Melinda Gates Foun
- dation is inviting applications for its AI Fellow – Africa Regional Offi
- ces position\, an exciting opportunity for artificial intelligence (AI) an
- d machine learning professionals interested in using emerging technologies
-  to address…\nhttps://malakbattat.github.io/opportunity-radar/
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P7D
-DESCRIPTION:Deadline: Gates Foundation AI Fellowship 2026: Apply for a 12-M
- onth AI Fellow Position in Africa – Deadline November 11
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P1D
-DESCRIPTION:Deadline: Gates Foundation AI Fellowship 2026: Apply for a 12-M
- onth AI Fellow Position in Africa – Deadline November 11
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:6ffefd6c2f59@opportunity-radar
-DTSTAMP:20261111T170807Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Deadline: Young Security Conference Fellowship 2026–2027: Fully F
- unded Fellowship in Germany for Young Security Researchers and Professiona
- ls – Apply by November 11\, 2026
-URL:https://opportunitiesforyouth.org/2026/11/03/young-security-conference-
- fellowship-2026-2027-fully-funded-fellowship-in-germany-for-young-security
- -researchers-and-professionals-apply-by-november-11-2026/
-DESCRIPTION:https://opportunitiesforyouth.org/2026/11/03/young-security-con
- ference-fellowship-2026-2027-fully-funded-fellowship-in-germany-for-young-
- security-researchers-and-professionals-apply-by-november-11-2026/\nScore 6
- 9/100 · Fellowship\nThe Young Security Conference (YSC) Fellowship 2026
- –2027 is inviting applications from outstanding young professionals\, re
- searchers\, policy analysts\, and diplomats interested in European securit
- y\, international relations\, democratic governance\, and…\nhttps://mala
- kbattat.github.io/opportunity-radar/
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P7D
-DESCRIPTION:Deadline: Young Security Conference Fellowship 2026–2027: Ful
- ly Funded Fellowship in Germany for Young Security Researchers and Profess
- ionals – Apply by November 11\, 2026
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P1D
-DESCRIPTION:Deadline: Young Security Conference Fellowship 2026–2027: Ful
- ly Funded Fellowship in Germany for Young Security Researchers and Profess
- ionals – Apply by November 11\, 2026
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:8eb69d601380@opportunity-radar
-DTSTAMP:20261111T170807Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Deadline: Oxford China Policy Lab 2027 Fellowship: Apply for £5\,0
- 00 Research Support and a Two-Week Fellowship at the University of Oxford
-URL:https://opportunitiesforyouth.org/2026/11/08/oxford-china-policy-lab-20
- 27-fellowship-apply-for-5000-research-support-and-a-two-week-fellowship-at
- -the-university-of-oxford/
-DESCRIPTION:https://opportunitiesforyouth.org/2026/11/08/oxford-china-polic
- y-lab-2027-fellowship-apply-for-5000-research-support-and-a-two-week-fello
- wship-at-the-university-of-oxford/\nScore 68/100 · Fellowship\nResearcher
- s and policy practitioners interested in artificial intelligence\, emergin
- g technologies\, international relations\, and global geopolitics are invi
- ted to apply for the Oxford China Policy Lab (OCPL) 2027 Fellowship Progra
- mme. The fellowship offers an…\nhttps://malakbattat.github.io/opportunit
- y-radar/
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P7D
-DESCRIPTION:Deadline: Oxford China Policy Lab 2027 Fellowship: Apply for £
- 5\,000 Research Support and a Two-Week Fellowship at the University of Oxf
- ord
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P1D
-DESCRIPTION:Deadline: Oxford China Policy Lab 2027 Fellowship: Apply for £
- 5\,000 Research Support and a Two-Week Fellowship at the University of Oxf
- ord
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:7fcfd669ba58@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Deadline: Google MBA Internship Program 2027 in the United States |
@@ -206,7 +40,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5dad61792f33@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Deadline: Morgan Stanley 2027 Sustainable Finance Fellowship Progra
@@ -237,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b3d2e379c5ad@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Deadline: MBZUAI Artificial Intelligence Scholarships 2027 in UAE (
@@ -266,7 +100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1bf0f2934462@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Deadline: Fully Funded MSc in Remote Sensing and Wildfire Science a
@@ -301,7 +135,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:347817c278a2@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Deadline: Harvard LEAD Fellowship 2027–2028 in the USA | Fully Fu
@@ -329,7 +163,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c14c5f5b1b98@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Deadline: NC State University Sustainable Futures Fellows Program 2
@@ -364,7 +198,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:aff2d2c260a9@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Deadline: Female Science Talents Intensive Track 2027: Fully Funded
@@ -398,7 +232,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5b430ef8be15@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Deadline: 2027 UKUDLA Summer School in South Africa: Applications O
@@ -432,7 +266,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9a6d7a922f29@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Deadline: Mastercard Foundation Scholarships 2026–2027: Fully Fun
@@ -466,8 +300,40 @@ DESCRIPTION:Deadline: Mastercard Foundation Scholarships 2026–2027: Fully
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ac4cc4ff0956@opportunity-radar
+DTSTAMP:20261112T004354Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Deadline: KNUST–GIZ AI for Professionals Programme 2026: Fully Fu
+ nded Artificial Intelligence Training for 120 Young Ghanaian Graduates
+URL:https://opportunitiesforyouth.org/2026/11/11/knust-giz-ai-for-professio
+ nals-programme-2026-fully-funded-artificial-intelligence-training-for-120-
+ young-ghanaian-graduates/
+DESCRIPTION:https://opportunitiesforyouth.org/2026/11/11/knust-giz-ai-for-p
+ rofessionals-programme-2026-fully-funded-artificial-intelligence-training-
+ for-120-young-ghanaian-graduates/\nScore 81/100 · Course\nArtificial inte
+ lligence (AI) is rapidly transforming the global workplace\, changing how 
+ businesses operate\, how professionals perform their duties\, and how orga
+ nisations make decisions. From content creation and software development t
+ o data analysis\, digital…\nhttps://malakbattat.github.io/opportunity-ra
+ dar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:Deadline: KNUST–GIZ AI for Professionals Programme 2026: Full
+ y Funded Artificial Intelligence Training for 120 Young Ghanaian Graduates
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Deadline: KNUST–GIZ AI for Professionals Programme 2026: Full
+ y Funded Artificial Intelligence Training for 120 Young Ghanaian Graduates
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:47f98f735648@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Deadline: UNDP Climate and Energy Internship 2026 in Italy or Home-
@@ -498,7 +364,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2b915899e3cd@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Deadline: GovAI UK Summer Fellowship 2027: Paid AI Governance Resea
@@ -528,7 +394,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:91849a026b93@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Deadline: HKU Social Sciences Global South Fellowship Scheme 2026/2
@@ -563,7 +429,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e37bd4f7968d@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Deadline: Internet Society Fellowship 2027: Systems Security Sub-Tr
@@ -598,7 +464,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f2a537daa3ec@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Deadline: Max Planck MPIIB Summer Internship 2027 in Germany (Fully
@@ -626,7 +492,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4e15afaebc24@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Deadline: Sabanci University Scholarship In Turkey 2027 (Fully Fund
@@ -654,7 +520,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4686f2a1fe48@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Deadline: EPFL Summer Internship in Switzerland 2027 | Paid Researc
@@ -682,7 +548,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:50a783122953@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: EDSAFE AI Fellowships 2027: Applications Open Worldwide f
@@ -713,7 +579,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6382e74f6474@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: ETH Zurich Excellence Scholarship & Opportunity Programme
@@ -743,7 +609,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:12f00a7b97a3@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: Helmut Veith Stipend Scholarships In Austria 2027 (Fully 
@@ -771,7 +637,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bbc59e04362e@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: ETH Zurich Excellence Scholarship (ESOP) 2027–2028 in S
@@ -806,7 +672,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f21f4e8c9f0e@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: Hurford Youth Fellows Program 2027 in the USA | Fully Fun
@@ -836,7 +702,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:09f4462afb7b@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: JIAS Writing Fellowship 2027 in South Africa: Two-Month R
@@ -871,7 +737,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9f5375884531@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline: University of Westminster Scholarships 2027 In UK (Fully 
@@ -900,7 +766,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dc6d4d71bcd5@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Harvard Kennedy School American Service Fellowship 2027
@@ -935,7 +801,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b21f2a1c637d@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Beit Trust Scholarships 2027/2028: Fully Funded Postgradu
@@ -967,7 +833,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:29970bce5b42@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Lloyds Banking Group 2027 Apprenticeships and Internships
@@ -1002,7 +868,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:26d55cfdca6d@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Deadline: 2027 MCW Global Young Leaders Fellowship: Applications Op
@@ -1031,7 +897,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:77a4edaf2613@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Deadline: Columbia University Italian Academy Fellowship Program 20
@@ -1062,7 +928,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4e5850bf8392@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Deadline: Columbia University Fellowships 2027–28 in USA | $74\,2
@@ -1089,43 +955,8 @@ DESCRIPTION:Deadline: Columbia University Fellowships 2027–28 in USA | $7
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:33dda76e8ee9@opportunity-radar
-DTSTAMP:20261111T170807Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-SUMMARY:Deadline: ETH Zurich Student Summer Research Fellowship 2027 – Fu
- lly Funded Computer Science Research Opportunity for Undergraduate and Gra
- duate Students Worldwide
-URL:https://opportunitiesforyouth.org/2026/11/09/eth-zurich-student-summer-
- research-fellowship-2027-fully-funded-computer-science-research-opportunit
- y-for-undergraduate-and-graduate-students-worldwide/
-DESCRIPTION:https://opportunitiesforyouth.org/2026/11/09/eth-zurich-student
- -summer-research-fellowship-2027-fully-funded-computer-science-research-op
- portunity-for-undergraduate-and-graduate-students-worldwide/\nScore 100/10
- 0 · Research\nThe ETH Zurich Student Summer Research Fellowship (ETH SSRF
- ) 2027 offers an exciting opportunity for undergraduate and graduate stude
- nts from universities around the world to gain valuable research experienc
- e at one of the world’s leading universities…\nhttps://malakbattat.git
- hub.io/opportunity-radar/
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P7D
-DESCRIPTION:Deadline: ETH Zurich Student Summer Research Fellowship 2027 
- – Fully Funded Computer Science Research Opportunity for Undergraduate a
- nd Graduate Students Worldwide
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P1D
-DESCRIPTION:Deadline: ETH Zurich Student Summer Research Fellowship 2027 
- – Fully Funded Computer Science Research Opportunity for Undergraduate a
- nd Graduate Students Worldwide
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:f15d3820da1e@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:Deadline: Fully Funded A&A Excursion to CERN 2027 in Switzerland fo
@@ -1155,7 +986,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:94f5e07cdb73@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Deadline: FFVT Fellowship Programme 2027 in Germany: Fully Funded R
@@ -1190,7 +1021,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eec2c1850b28@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Expected deadline: EPFL Summer Fellowship
@@ -1212,7 +1043,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ffe113e0da33@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Deadline: IMF Research Analyst Program (RAP) 2027: International Mo
@@ -1243,7 +1074,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0b453a693870@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Deadline: Google Gemini Student Plan 2026 | Google AI Plus Free for
@@ -1271,7 +1102,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:de80558416e2@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Deadline: Nanyang President’s Graduate Scholarship 2027 (Fully Fu
@@ -1299,7 +1130,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:432c6cc55e4e@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Deadline: NPU Chinese Government Scholarships 2027 in China (Fully 
@@ -1327,7 +1158,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dfaf7812bca0@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Deadline: FASPE Fellowship 2027 in Germany and Poland (Fully Funded
@@ -1355,7 +1186,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:94e39ba9f9b4@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:Deadline: Amazon Future Engineer Scholarship 2027: Apply for Up to 
@@ -1387,7 +1218,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c15523a87710@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Deadline: France Eiffel Excellence Scholarship | Fully Funded
@@ -1412,7 +1243,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:98b87ed90a08@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Deadline: Oxford Pershing Square Graduate Scholarships In UK | Full
@@ -1441,7 +1272,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:010447a5a8e4@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Deadline: French Government Eiffel Excellence Scholarship 2027 (Ful
@@ -1469,7 +1300,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e0797b94610c@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Deadline: RIKEN CBS Summer Program 2027 in Japan (Travel & Accommod
@@ -1497,7 +1328,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a8ec0fafd608@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Deadline: Erasmus Mundus Journalism Master’s Degree Scholarship 2
@@ -1527,7 +1358,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:45f0c36d0f76@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Deadline: Impact AI Fellowship 2027 in Germany (Fully Funded)
@@ -1552,7 +1383,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:936faa1a8c4d@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Deadline: Swedish Institute Pioneering Women in STEM Scholarship 20
@@ -1582,7 +1413,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6aadadf8d632@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Deadline: SI Scholarship for Global Professionals 2027/2028 in Swed
@@ -1612,7 +1443,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:458b8704f9df@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Deadline: University of Debrecen Stipendium Hungaricum Scholarship 
@@ -1640,7 +1471,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:012c15e171fa@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:Deadline: NIH Summer Internship Program 2027 (SIP): Paid Research I
@@ -1675,7 +1506,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d1f0c75224ec@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:Deadline: LawAI Summer Fellowship 2027 in USA (Fully Funded)
@@ -1700,7 +1531,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2c5bff24858e@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Expected deadline: CERN Openlab Summer Student Programme
@@ -1723,7 +1554,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b93e55cbd9bd@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Expected deadline: Aalto Science Institute International Summer Res
@@ -1751,7 +1582,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d97a2fe37e44@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Deadline: UCLA Public Health Scholars Training Program 2027: $4\,00
@@ -1786,7 +1617,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ad9e3191e3ad@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Deadline: Hamad Bin Khalifa University (HBKU) Scholarship 2027 | Qa
@@ -1815,7 +1646,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bad44143755a@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Deadline: Hammad Bin Khalifa University Qatar Scholarship 2027 (Ful
@@ -1844,7 +1675,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d6386448181f@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Deadline: University of Tokyo Amgen Scholars Program In Japan 2027 
@@ -1872,7 +1703,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:437c7b24df9c@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Deadline: Stanford University Summer Fellowship in USA 2027 | Fully
@@ -1901,7 +1732,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f596d4a876ea@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Deadline: NUS Amgen Scholars Program 2027 in Singapore & Japan | Fu
@@ -1929,7 +1760,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:85f5fc3711ce@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Deadline: UTokyo Amgen Scholars Program in Japan 2027 | Fully Funde
@@ -1957,7 +1788,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9f236d19db5b@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Deadline: Rockefeller University Summer Fellowship 2027 in USA | Fu
@@ -1986,7 +1817,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8880a57aa80a@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Deadline: TCCM Erasmus Mundus Scholarship 2027 in Europe | Fully Fu
@@ -2014,7 +1845,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ecc7c56624ea@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Expected deadline: ISTA Summer Fellowship
@@ -2037,7 +1868,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cb263889862b@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:Expected deadline: The Cornell\, Maryland\, Max Planck Pre-doctoral
@@ -2062,7 +1893,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dd252019127d@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
 SUMMARY:Deadline: CALTECH Summer Research Fellowship 2027 in USA | Paid Fel
@@ -2090,7 +1921,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:72596bd56b9e@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Deadline: Microsoft Imagine Cup 2027: Win Up to $250\,000 in Cash\,
@@ -2118,7 +1949,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:21b5a679d58c@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Deadline: VLIR-UOS ICP Connect Scholarship 2027-2028 in Belgium (Fu
@@ -2146,7 +1977,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3904c52429ac@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
 SUMMARY:Expected deadline: INSAIT Summer Undergraduate Research Fellowship 
@@ -2171,7 +2002,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d5c03eac2166@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Expected deadline: UIUC++ Summer Research in Software Engineering (
@@ -2197,7 +2028,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a8635ac4f692@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Deadline: EURECOM Excellence Scholarship In France 2027 (Funded)
@@ -2224,7 +2055,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d77a1ef46c04@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270903
 SUMMARY:Deadline: Maastricht University Scholarships 2027 in Netherlands | 
@@ -2252,7 +2083,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:659f35e7e562@opportunity-radar
-DTSTAMP:20261111T170807Z
+DTSTAMP:20261112T004354Z
 DTSTART;VALUE=DATE:20270924
 DTEND;VALUE=DATE:20270925
 SUMMARY:Deadline: KAUST Microelectronics Winter Camp 2027 in Saudi Arabia |

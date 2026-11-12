@@ -1,7 +1,682 @@
 {
- "generated_at": "2026-11-11T17:08:07+00:00",
- "count": 148,
+ "generated_at": "2026-11-12T00:43:54+00:00",
+ "count": 156,
  "items": [
+  {
+   "id": "bacb5a2a5982",
+   "title": "Council of Europe Development Bank (CEB) Paid Internship Programme 2027 in Paris, France: Seven Internship Opportunities with a Monthly Allowance of €1,800",
+   "url": "https://opportunitiesforyouth.org/2026/10/27/council-of-europe-development-bank-ceb-paid-internship-programme-2027-in-paris-france-seven-internship-opportunities-with-a-monthly-allowance-of-e1800/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Council of Europe Development Bank (CEB) is offering a range of internship opportunities for eligible students and recent graduates seeking professional experience in an international financial institution. Based in Paris, France, the programme provides…",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "computing",
+    "health",
+    "engineering",
+    "science"
+   ],
+   "funding": "paid",
+   "country": "France",
+   "countries": [
+    "France"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-11",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-27",
+   "prestige": false,
+   "score": 89,
+   "tier": "top",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "computing"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "council europe development bank internship paris france seven internship opportunities with a monthly allowance 1 800",
+   "also_on": [],
+   "last_seen": "2026-11-08T06:00:28+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-12T00:43:54+00:00",
+   "reopens": "2027-11-11",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "0c0ee173422d",
+   "title": "WomenLeaders India Fellowship 2026–27: Fully Funded Leadership Fellowship for 50 Indian Women Leaders",
+   "url": "https://opportunitiesforyouth.org/2026/10/24/womenleaders-india-fellowship-2026-27-fully-funded-leadership-fellowship-for-50-indian-women-leaders/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The WomenLeaders India Fellowship 2026–27, powered by Reliance Foundation in partnership with Vital Voices Global Partnership, is offering an exciting opportunity for Indian women leaders who are committed to driving social change, advancing women’s…",
+   "type": "Fellowship",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [
+    "ai_ml",
+    "health"
+   ],
+   "funding": "fully_funded",
+   "country": "India",
+   "countries": [
+    "India"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-11",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": true,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-24",
+   "prestige": false,
+   "score": 79,
+   "tier": "top",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     21,
+     [
+      "ai_ml",
+      "health"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "women",
+     5,
+     null
+    ]
+   ],
+   "_key": "womenleaders india fellowship leadership fellowship 50 indian women leaders",
+   "also_on": [],
+   "last_seen": "2026-11-04T10:55:48+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-12T00:43:54+00:00",
+   "reopens": "2027-11-11",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "c5d23dc9e5dd",
+   "title": "Gates Foundation AI Fellowship 2026: Apply for a 12-Month AI Fellow Position in Africa – Deadline November 11",
+   "url": "https://opportunitiesforyouth.org/2026/11/03/gates-foundation-ai-fellowship-2026-apply-for-a-12-month-ai-fellow-position-in-africa-deadline-november-11/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Bill & Melinda Gates Foundation is inviting applications for its AI Fellow – Africa Regional Offices position, an exciting opportunity for artificial intelligence (AI) and machine learning professionals interested in using emerging technologies to address…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "medical_ai",
+    "health",
+    "data_science",
+    "computing",
+    "engineering",
+    "science"
+   ],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-11",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-03",
+   "prestige": false,
+   "score": 75,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "medical_ai",
+      "health"
+     ]
+    ],
+    [
+     "paid",
+     11,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "gates foundation ai fellowship apply a 12 month ai fellow position africa deadline november 11",
+   "also_on": [],
+   "last_seen": "2026-11-11T06:19:20+00:00",
+   "first_seen": "2026-11-03T10:52:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-12T00:43:54+00:00",
+   "reopens": "2027-11-11",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "6ffefd6c2f59",
+   "title": "Young Security Conference Fellowship 2026–2027: Fully Funded Fellowship in Germany for Young Security Researchers and Professionals – Apply by November 11, 2026",
+   "url": "https://opportunitiesforyouth.org/2026/11/03/young-security-conference-fellowship-2026-2027-fully-funded-fellowship-in-germany-for-young-security-researchers-and-professionals-apply-by-november-11-2026/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Young Security Conference (YSC) Fellowship 2026–2027 is inviting applications from outstanding young professionals, researchers, policy analysts, and diplomats interested in European security, international relations, democratic governance, and…",
+   "type": "Fellowship",
+   "degrees": [
+    "bachelor",
+    "masters"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "Germany",
+   "countries": [
+    "Germany"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-11",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-03",
+   "prestige": false,
+   "score": 69,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "young security conference fellowship fellowship germany young security researchers professionals apply by november 11",
+   "also_on": [],
+   "last_seen": "2026-11-11T06:19:20+00:00",
+   "first_seen": "2026-11-03T19:29:43+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-12T00:43:54+00:00",
+   "reopens": "2027-11-11",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "8eb69d601380",
+   "title": "Oxford China Policy Lab 2027 Fellowship: Apply for £5,000 Research Support and a Two-Week Fellowship at the University of Oxford",
+   "url": "https://opportunitiesforyouth.org/2026/11/08/oxford-china-policy-lab-2027-fellowship-apply-for-5000-research-support-and-a-two-week-fellowship-at-the-university-of-oxford/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Researchers and policy practitioners interested in artificial intelligence, emerging technologies, international relations, and global geopolitics are invited to apply for the Oxford China Policy Lab (OCPL) 2027 Fellowship Programme. The fellowship offers an…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [
+    "ai_ml"
+   ],
+   "funding": null,
+   "country": "China",
+   "countries": [
+    "China"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-11",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-08",
+   "prestige": true,
+   "score": 68,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     36,
+     [
+      "ai_ml"
+     ]
+    ],
+    [
+     "prestige",
+     10,
+     "Oxford"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "oxford china policy lab fellowship apply 5 000 research support a two week fellowship university oxford",
+   "also_on": [],
+   "last_seen": "2026-11-11T06:19:20+00:00",
+   "first_seen": "2026-11-09T00:55:21+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-12T00:43:54+00:00",
+   "reopens": "2027-11-11",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "1c84b9aab9f8",
+   "title": "CEPS Climate Leadership Programme 2026–2027: Fully Funded Opportunity for Young Climate Leaders Worldwide – Apply Now",
+   "url": "https://opportunitiesforyouth.org/2026/11/04/ceps-climate-leadership-programme-2026-2027-fully-funded-opportunity-for-young-climate-leaders-worldwide-apply-now/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Climate Leadership Programme 2026–2027, jointly organised by the Centre for European Policy Studies (CEPS) and Heinrich-Böll-Stiftung European Union | Global Dialogue, is inviting applications from young people around the world who are actively…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "Worldwide",
+   "deadline": "2026-11-11",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-04",
+   "prestige": false,
+   "score": 47,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "ceps climate leadership opportunity young climate leaders worldwide apply",
+   "also_on": [],
+   "last_seen": "2026-11-11T06:19:20+00:00",
+   "first_seen": "2026-11-04T19:45:13+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-12T00:43:54+00:00",
+   "reopens": "2027-11-11",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "5f2815bd96e3",
+   "title": "Chonnam National University Scholarships 2027 in South Korea (Fully Funded)",
+   "url": "https://opportunityportal.info/chonnam-national-university-scholarships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "Chonnam National University (CNU) Scholarships 2027 offer support options for international applicants to CNU’s Spring 2027 graduate intake, providing full or partial tuition waivers for selected Master’s, PhD, and integrated programs. These South Korea…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "South Korea",
+   "countries": [
+    "South Korea"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international applicants",
+   "deadline": "2026-11-11",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-spring"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "required",
+   "english_min": 5.5,
+   "gpa_level": "high",
+   "gpa_note": "Academic Excellence",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-05",
+   "prestige": false,
+   "score": 45,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     6,
+     [
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "chonnam national university scholarships south korea",
+   "also_on": [],
+   "last_seen": "2026-11-11T06:19:20+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-12T00:43:54+00:00",
+   "reopens": "2027-11-11",
+   "reopens_intake": "2027-spring"
+  },
+  {
+   "id": "8669bb1b9ed8",
+   "title": "Paid Call for Contributions: 16 Days of Activism Against Gender-Based Violence 2026 – Submit Your Work and Receive $200 USD",
+   "url": "https://opportunitiesforyouth.org/2026/11/02/paid-call-for-contributions-16-days-of-activism-against-gender-based-violence-2026-submit-your-work-and-receive-200-usd/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Political Feminism Programme (PolFem) of the Friedrich-Ebert-Stiftung (FES) is inviting writers, researchers, journalists, artists, activists, and students from the Southwest Asia and North Africa (SWANA) region and its diaspora to contribute original…",
+   "type": "Competition",
+   "degrees": [],
+   "fields": [
+    "health"
+   ],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-11",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": true,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-02",
+   "prestige": false,
+   "score": 44,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     9,
+     [
+      "health"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ],
+    [
+     "women",
+     5,
+     null
+    ]
+   ],
+   "_key": "contributions 16 days activism against gender based violence submit your work receive 200 usd",
+   "also_on": [],
+   "last_seen": "2026-11-11T06:19:20+00:00",
+   "first_seen": "2026-11-02T15:51:53+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-12T00:43:54+00:00",
+   "reopens": "2027-11-11",
+   "reopens_intake": "2027"
+  },
   {
    "id": "8c2ba5e53bf8",
    "title": "UNDP Internship in Effective Development Cooperation 2026–2027: Paid Internship in Switzerland or Home-Based",
@@ -329,7 +1004,7 @@
    ],
    "_key": "cern summer student switzerland",
    "also_on": [],
-   "last_seen": "2026-11-11T17:08:07+00:00",
+   "last_seen": "2026-11-12T00:43:54+00:00",
    "first_seen": "2026-11-10T23:22:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-10T23:22:30+00:00",
@@ -1028,7 +1703,7 @@
    ],
    "_key": "kaist visual ai internship south korea",
    "also_on": [],
-   "last_seen": "2026-11-11T17:08:07+00:00",
+   "last_seen": "2026-11-12T00:43:54+00:00",
    "first_seen": "2026-11-06T19:24:20+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -1105,7 +1780,7 @@
    ],
    "_key": "national university taiwan scholarships",
    "also_on": [],
-   "last_seen": "2026-11-11T17:08:07+00:00",
+   "last_seen": "2026-11-12T00:43:54+00:00",
    "first_seen": "2026-11-08T06:00:28+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -1408,7 +2083,7 @@
    ],
    "_key": "hzdr summer student germany",
    "also_on": [],
-   "last_seen": "2026-11-11T17:08:07+00:00",
+   "last_seen": "2026-11-12T00:43:54+00:00",
    "first_seen": "2026-11-07T17:45:05+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-07T17:45:05+00:00",
@@ -1795,7 +2470,7 @@
    ],
    "_key": "unil summer research switzerland",
    "also_on": [],
-   "last_seen": "2026-11-11T17:08:07+00:00",
+   "last_seen": "2026-11-12T00:43:54+00:00",
    "first_seen": "2026-11-03T10:52:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-06T01:33:04+00:00",
@@ -2447,7 +3122,7 @@
    ],
    "_key": "georg arnhold senior fellowship germany",
    "also_on": [],
-   "last_seen": "2026-11-11T17:08:07+00:00",
+   "last_seen": "2026-11-12T00:43:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-03T00:58:26+00:00",
@@ -2704,7 +3379,7 @@
    ],
    "_key": "epfl e3 summer internship switzerland",
    "also_on": [],
-   "last_seen": "2026-11-11T17:08:07+00:00",
+   "last_seen": "2026-11-12T00:43:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-02T06:02:26+00:00",
