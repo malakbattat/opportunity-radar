@@ -1,7 +1,394 @@
 {
- "generated_at": "2026-11-13T19:41:51+00:00",
- "count": 159,
+ "generated_at": "2026-11-14T01:26:54+00:00",
+ "count": 164,
  "items": [
+  {
+   "id": "7fcfd669ba58",
+   "title": "Google MBA Internship Program 2027 in the United States | Paid Summer Internship Offering Up to $125,000",
+   "url": "https://opportunitiesforyouth.org/2026/11/09/google-mba-internship-program-2027-in-the-united-states-paid-summer-internship-offering-up-to-125000/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Google has opened applications for its MBA Intern, Summer 2027 programme, an exciting paid internship opportunity designed for first-year Master of Business Administration (MBA) students interested in gaining practical experience in the global technology…",
+   "type": "Internship",
+   "degrees": [
+    "masters"
+   ],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "computing",
+    "science"
+   ],
+   "funding": "paid",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-13",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-09",
+   "prestige": true,
+   "score": 73,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     30,
+     [
+      "ai_ml",
+      "data_science",
+      "computing"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Google"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "google mba internship united states",
+   "also_on": [],
+   "last_seen": "2026-11-13T10:58:35+00:00",
+   "first_seen": "2026-11-09T11:31:34+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-14T01:26:54+00:00",
+   "reopens": "2027-11-13",
+   "reopens_intake": "2027-summer"
+  },
+  {
+   "id": "5dad61792f33",
+   "title": "Morgan Stanley 2027 Sustainable Finance Fellowship Program: Apply for the 10-Week Summer Fellowship in New York, USA",
+   "url": "https://opportunitiesforyouth.org/2026/10/29/morgan-stanley-2027-sustainable-finance-fellowship-program-apply-for-the-10-week-summer-fellowship-in-new-york-usa/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Morgan Stanley 2027 Sustainable Finance Fellowship Program is an opportunity for current graduate students interested in sustainable investing, financial markets, environmental and social impact, and responsible economic growth. Based in New York City…",
+   "type": "Fellowship",
+   "degrees": [
+    "masters"
+   ],
+   "fields": [
+    "data_science",
+    "computing"
+   ],
+   "funding": "paid",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-13",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-29",
+   "prestige": false,
+   "score": 62,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     21,
+     [
+      "data_science",
+      "computing"
+     ]
+    ],
+    [
+     "paid",
+     11,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "morgan stanley sustainable finance fellowship apply 10 week summer fellowship new york usa",
+   "also_on": [],
+   "last_seen": "2026-11-10T07:17:46+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-14T01:26:54+00:00",
+   "reopens": "2027-11-13",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "890f108b2f2e",
+   "title": "World Cancer Research Fund International Regular Grants 2026–2027: Apply for Cancer Research Funding of Up to £500,000",
+   "url": "https://opportunitiesforyouth.org/2026/11/07/world-cancer-research-fund-international-regular-grants-2026-2027-apply-for-cancer-research-funding-of-up-to-500000-2/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The World Cancer Research Fund (WCRF) International is inviting applications for its 2026–2027 Regular Grant Programme, an international research funding initiative supporting innovative and original scientific investigations into the relationship between…",
+   "type": "Grant",
+   "degrees": [],
+   "fields": [
+    "health"
+   ],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-13",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-07",
+   "prestige": false,
+   "score": 34,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     9,
+     [
+      "health"
+     ]
+    ],
+    [
+     "paid",
+     11,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "world cancer research fund international regular grants apply cancer research funding up to 500 000",
+   "also_on": [],
+   "last_seen": "2026-11-13T10:58:35+00:00",
+   "first_seen": "2026-11-07T10:08:35+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-14T01:26:54+00:00",
+   "reopens": "2027-11-13",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "d260bfbf848e",
+   "title": "USDA Internship Program 2027 in the USA | Volunteer Internship",
+   "url": "https://scholarshipscorner.website/usda-internship-program-usa/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Call for applications for the USDA Internship Program 2027. The duration of the internship is 14 weeks and it will take palce in Washington, D.C. The is a great opportunity to gain practical experience in public service. The program is offered by the U.S…",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "U.S. citizens",
+   "deadline": "2026-11-13",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-09-03",
+   "prestige": false,
+   "score": 27,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     18,
+     null
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "usda internship usa",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-14T01:26:54+00:00",
+   "reopens": "2027-11-13",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "c1d0f1f0645d",
+   "title": "European Youth Event 2027 (EYE2027): European Parliament Opens Call for Youth Groups to Receive Financial Support to Participate in Strasbourg",
+   "url": "https://opportunitiesforyouth.org/2026/11/05/european-youth-event-2027-eye2027-european-parliament-opens-call-for-youth-groups-to-receive-financial-support-to-participate-in-strasbourg/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The European Parliament has opened a new call for youth groups to apply for a financial contribution to participate in the European Youth Event 2027 (EYE2027), an international gathering that brings together young people from across Europe and beyond to…",
+   "type": "Conference",
+   "degrees": [],
+   "fields": [],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-13",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-05",
+   "prestige": false,
+   "score": 14,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "european youth event european parliament opens youth groups to receive financial support to participate strasbourg",
+   "also_on": [],
+   "last_seen": "2026-11-13T10:58:35+00:00",
+   "first_seen": "2026-11-05T10:56:10+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-14T01:26:54+00:00",
+   "reopens": "2027-11-13",
+   "reopens_intake": "2027"
+  },
   {
    "id": "1a2acc924429",
    "title": "U.S. Chamber of Commerce Internship Program 2027: Apply for Spring Internships in Research, Communications, Policy and Business",
@@ -218,7 +605,7 @@
    ],
    "_key": "xprize accelerate learning competition 6 million global challenge to transform foundational literacy numeracy children africa india",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T11:09:19+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-12T11:09:19+00:00",
@@ -1227,7 +1614,7 @@
    ],
    "_key": "cern summer student switzerland",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-10T23:22:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-10T23:22:30+00:00",
@@ -1926,7 +2313,7 @@
    ],
    "_key": "kaist visual ai internship south korea",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-06T19:24:20+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -2003,7 +2390,7 @@
    ],
    "_key": "national university taiwan scholarships",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-08T06:00:28+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -2306,7 +2693,7 @@
    ],
    "_key": "hzdr summer student germany",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-07T17:45:05+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-07T17:45:05+00:00",
@@ -2693,7 +3080,7 @@
    ],
    "_key": "unil summer research switzerland",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-03T10:52:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-06T01:33:04+00:00",
@@ -3602,7 +3989,7 @@
    ],
    "_key": "epfl e3 summer internship switzerland",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-02T06:02:26+00:00",

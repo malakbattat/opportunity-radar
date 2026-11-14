@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T19:41:51+00:00",
+ "generated_at": "2026-11-14T01:26:54+00:00",
  "site": {
   "title": "Opportunity Radar",
   "tagline": "Scholarships, research, fellowships and internships in STEM and AI.",
@@ -44,8 +44,8 @@
     "count": 50,
     "error": null
    },
-   "last_ok": "2026-11-13T19:41:51+00:00",
-   "items": 218
+   "last_ok": "2026-11-14T01:26:54+00:00",
+   "items": 214
   },
   "opportunityportal": {
    "name": "Opportunity Portal",
@@ -55,7 +55,7 @@
     "count": 50,
     "error": null
    },
-   "last_ok": "2026-11-13T19:41:51+00:00",
+   "last_ok": "2026-11-14T01:26:54+00:00",
    "items": 133
   },
   "scholarshipscorner": {
@@ -66,8 +66,8 @@
     "count": 50,
     "error": null
    },
-   "last_ok": "2026-11-13T19:41:51+00:00",
-   "items": 89
+   "last_ok": "2026-11-14T01:26:54+00:00",
+   "items": 88
   },
   "scholarshipsads": {
    "name": "ScholarshipsAds",
@@ -77,8 +77,8 @@
     "count": 20,
     "error": null
    },
-   "last_ok": "2026-11-13T19:41:51+00:00",
-   "items": 47
+   "last_ok": "2026-11-14T01:26:54+00:00",
+   "items": 48
   },
   "researchlist": {
    "name": "Academic research opportunities (GitHub)",
@@ -88,7 +88,7 @@
     "count": 32,
     "error": null
    },
-   "last_ok": "2026-11-13T19:41:51+00:00",
+   "last_ok": "2026-11-14T01:26:54+00:00",
    "items": 30
   },
   "zapply": {
@@ -96,11 +96,11 @@
    "home": "https://github.com/zapplyjobs/Internships-2027",
    "status": {
     "ok": true,
-    "count": 238,
+    "count": 234,
     "error": null
    },
-   "last_ok": "2026-11-13T19:41:51+00:00",
-   "items": 89
+   "last_ok": "2026-11-14T01:26:54+00:00",
+   "items": 85
   },
   "csprograms": {
    "name": "CS Everything but Internships (GitHub)",
@@ -110,7 +110,7 @@
     "count": 34,
     "error": null
    },
-   "last_ok": "2026-11-13T19:41:51+00:00",
+   "last_ok": "2026-11-14T01:26:54+00:00",
    "items": 26
   },
   "ugresearch": {
@@ -121,11 +121,11 @@
     "count": 67,
     "error": null
    },
-   "last_ok": "2026-11-13T19:41:51+00:00",
+   "last_ok": "2026-11-14T01:26:54+00:00",
    "items": 64
   }
  },
- "count": 678,
+ "count": 670,
  "items": [
   {
    "id": "50a783122953",
@@ -392,7 +392,7 @@
    ],
    "_key": "insait summer undergraduate research fellowship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -765,7 +765,7 @@
    ],
    "_key": "eth zurich excellence scholarship opportunity",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -855,7 +855,7 @@
    ],
    "_key": "hamad bin khalifa university scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -947,7 +947,7 @@
    ],
    "_key": "daad heilbronn ai fellowships germany",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -1752,7 +1752,7 @@
    ],
    "_key": "daad region scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-03T10:52:51+00:00"
   },
   {
@@ -1927,7 +1927,7 @@
    ],
    "_key": "ntu singapore undergraduate research experience on campus",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -2109,7 +2109,7 @@
    ],
    "_key": "epfl summer internship switzerland",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-31T08:35:02+00:00"
   },
   {
@@ -2194,7 +2194,7 @@
    ],
    "_key": "thrive capital summer fellowship usa fellowship with 100 000 annualized salary 40 000 education stipend",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T11:09:19+00:00"
   },
   {
@@ -2369,7 +2369,7 @@
    ],
    "_key": "huaqiao university chinese government scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -2453,7 +2453,7 @@
    ],
    "_key": "france eiffel excellence scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -2539,7 +2539,7 @@
      "url": "https://scholarshipscorner.website/cern-openlab-summer-student-program/"
     }
    ],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -2619,7 +2619,7 @@
    ],
    "_key": "impact ai fellowship germany",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -2793,7 +2793,7 @@
    ],
    "_key": "knust giz ai professionals artificial intelligence training 120 young ghanaian graduates",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T00:43:54+00:00"
   },
   {
@@ -2890,7 +2890,7 @@
    ],
    "_key": "ffvt fellowship germany research fellowship phd candidates postdoctoral researchers senior scholars",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-11T17:08:07+00:00"
   },
   {
@@ -2975,7 +2975,7 @@
    ],
    "_key": "cornell maryland max planck pre doctoral research school computer science",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -3069,7 +3069,7 @@
    ],
    "_key": "tsinghua university amgen scholars",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T11:09:19+00:00"
   },
   {
@@ -3311,7 +3311,7 @@
    ],
    "_key": "uiuc summer research software engineering",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -3573,7 +3573,7 @@
    ],
    "_key": "600 university melbourne graduate research scholarships",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -3653,7 +3653,7 @@
    ],
    "_key": "research internship ai",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -3747,7 +3747,7 @@
    ],
    "_key": "university tokyo amgen scholars japan",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-02T06:02:26+00:00"
   },
   {
@@ -3833,7 +3833,7 @@
    ],
    "_key": "bayer foundation fellowships apply up to 10 000 international research internship funding",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -3997,7 +3997,7 @@
    ],
    "_key": "govai uk summer fellowship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -4091,7 +4091,7 @@
    ],
    "_key": "max planck mpiib summer internship germany",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-02T15:51:53+00:00"
   },
   {
@@ -4174,7 +4174,7 @@
    ],
    "_key": "oxford pershing square graduate scholarships uk",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -4342,7 +4342,7 @@
    ],
    "_key": "stanford university summer fellowship usa",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-08T13:24:37+00:00"
   },
   {
@@ -4615,7 +4615,7 @@
      "url": "https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme"
     }
    ],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -4707,7 +4707,7 @@
    ],
    "_key": "fulbright uk summer institutes 2 4 week uk study abroad us undergraduate students",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -4858,7 +4858,7 @@
    ],
    "_key": "codepath spring apply instructor led technology courses artificial intelligence cybersecurity web development technical interview preparation",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-10T23:22:30+00:00"
   },
   {
@@ -4936,7 +4936,7 @@
    ],
    "_key": "robotics institute summer scholars cmu",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -5020,96 +5020,6 @@
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
-   "id": "7fcfd669ba58",
-   "title": "Google MBA Internship Program 2027 in the United States | Paid Summer Internship Offering Up to $125,000",
-   "url": "https://opportunitiesforyouth.org/2026/11/09/google-mba-internship-program-2027-in-the-united-states-paid-summer-internship-offering-up-to-125000/",
-   "source": "opportunitiesforyouth",
-   "org": null,
-   "summary": "Google has opened applications for its MBA Intern, Summer 2027 programme, an exciting paid internship opportunity designed for first-year Master of Business Administration (MBA) students interested in gaining practical experience in the global technology…",
-   "type": "Internship",
-   "degrees": [
-    "masters"
-   ],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "computing",
-    "science"
-   ],
-   "funding": "paid",
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": null,
-   "eligibility_note": null,
-   "deadline": "2026-11-13",
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-summer"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": false,
-   "published": "2026-11-09",
-   "prestige": true,
-   "score": 73,
-   "tier": "high",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     30,
-     [
-      "ai_ml",
-      "data_science",
-      "computing"
-     ]
-    ],
-    [
-     "paid",
-     16,
-     null
-    ],
-    [
-     "prestige",
-     10,
-     "Google"
-    ],
-    [
-     "level",
-     8,
-     "masters"
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "google mba internship united states",
-   "also_on": [],
-   "last_seen": "2026-11-13T10:58:35+00:00",
-   "first_seen": "2026-11-09T11:31:34+00:00"
-  },
-  {
    "id": "eec2c1850b28",
    "title": "EPFL Summer Fellowship",
    "url": "https://summer.epfl.ch/",
@@ -5191,7 +5101,7 @@
      "url": "https://summer.epfl.ch/"
     }
    ],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -5284,7 +5194,7 @@
    ],
    "_key": "nus amgen scholars singapore japan",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-01T14:23:57+00:00"
   },
   {
@@ -5545,7 +5455,7 @@
    ],
    "_key": "utokyo amgen scholars japan",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-05T10:56:10+00:00"
   },
   {
@@ -5632,6 +5542,87 @@
    "also_on": [],
    "last_seen": "2026-11-13T10:58:35+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
+  },
+  {
+   "id": "01132394b31f",
+   "title": "Beijing Government Scholarship 2027, China (Fully Funded)",
+   "url": "https://www.scholarshipsads.com/beijing-government-scholarship-bgs",
+   "source": "scholarshipsads",
+   "org": null,
+   "summary": "Opens with admissions",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "computing",
+    "engineering",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "China",
+   "countries": [
+    "China"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International Students",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": null,
+   "prestige": false,
+   "score": 71,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     32,
+     [
+      "computing",
+      "engineering",
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "beijing government scholarship china",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-14T01:26:54+00:00"
   },
   {
    "id": "c14c5f5b1b98",
@@ -5808,7 +5799,7 @@
    ],
    "_key": "swedish institute pioneering women stem scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-01T14:23:57+00:00"
   },
   {
@@ -6028,7 +6019,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-12",
+   "published": "2026-11-13",
    "prestige": false,
    "score": 70,
    "tier": "high",
@@ -6055,7 +6046,7 @@
    ],
    "_key": "ai research intern time series foundation models bosch group",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T19:54:39+00:00"
   },
   {
@@ -6100,7 +6091,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-06",
+   "published": "2026-11-07",
    "prestige": false,
    "score": 70,
    "tier": "high",
@@ -6127,7 +6118,7 @@
    ],
    "_key": "dsp ml research engineer intern summer bose",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-05T01:27:58+00:00"
   },
   {
@@ -6172,7 +6163,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-06",
+   "published": "2026-11-07",
    "prestige": false,
    "score": 70,
    "tier": "high",
@@ -6199,8 +6190,81 @@
    ],
    "_key": "dsp ml research engineer co op spring bose",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-05T01:27:58+00:00"
+  },
+  {
+   "id": "ceeaa0d62316",
+   "title": "Research Intern, Continual Adaptation for Robotics at Toyota Research Institute",
+   "url": "https://zapply.jobs/l/d/lever-tri-6c9002a1-6ed1-42b7-829c-5ba6661446ac?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "Toyota Research Institute",
+   "summary": "Cambridge, MA",
+   "type": "Research",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-13",
+   "prestige": true,
+   "score": 70,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     40,
+     [
+      "ai_ml",
+      "science"
+     ]
+    ],
+    [
+     "prestige",
+     10,
+     "Cambridge"
+    ],
+    [
+     "type",
+     14,
+     "Research"
+    ]
+   ],
+   "_key": "research intern continual adaptation robotics toyota research institute",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-14T01:26:54+00:00"
   },
   {
    "id": "c0dc73148519",
@@ -6566,7 +6630,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-13",
+   "published": "2026-11-14",
    "prestige": true,
    "score": 69,
    "tier": "high",
@@ -6598,7 +6662,7 @@
    ],
    "_key": "cyber ai engineering intern carnegie mellon university",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -6937,7 +7001,7 @@
    ],
    "_key": "rockefeller university summer fellowship usa",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-11T17:08:07+00:00"
   },
   {
@@ -7024,7 +7088,7 @@
      "url": "https://phd.pages.ist.ac.at/isternship/"
     }
    ],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -7095,7 +7159,7 @@
    ],
    "_key": "allen institute ai research engineering internships",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -7424,7 +7488,7 @@
    ],
    "_key": "purdue university summer undergraduate research fellowship 10 week research fellowship undergraduate students worldwide",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T19:54:39+00:00"
   },
   {
@@ -7576,7 +7640,7 @@
    ],
    "_key": "erasmus mundus journalism master s degree scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-03T10:52:51+00:00"
   },
   {
@@ -7661,7 +7725,7 @@
    ],
    "_key": "tccm erasmus mundus scholarship europe",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-06T10:53:29+00:00"
   },
   {
@@ -7710,7 +7774,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-11",
+   "published": "2026-11-12",
    "prestige": false,
    "score": 67,
    "tier": "high",
@@ -7742,7 +7806,7 @@
    ],
    "_key": "machine learning engineering intern summer riot games",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T00:43:54+00:00"
   },
   {
@@ -7791,7 +7855,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-10",
+   "published": "2026-11-11",
    "prestige": false,
    "score": 67,
    "tier": "high",
@@ -7823,7 +7887,7 @@
    ],
    "_key": "summer data analyst engen undergraduate intern highmark health",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-10T23:22:30+00:00"
   },
   {
@@ -7909,83 +7973,6 @@
    "first_seen": "2026-11-12T11:09:19+00:00"
   },
   {
-   "id": "66855be3e5d0",
-   "title": "Master's Machine Learning Engineer, Intern at Stripe",
-   "url": "https://zapply.jobs/l/d/greenhouse-stripe-8333074?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Stripe",
-   "summary": "San Francisco, New York City,...",
-   "type": "Internship",
-   "degrees": [
-    "masters"
-   ],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-04",
-   "prestige": false,
-   "score": 67,
-   "tier": "high",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "level",
-     8,
-     "masters"
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "master s machine learning engineer intern stripe",
-   "also_on": [],
-   "last_seen": "2026-11-11T17:08:07+00:00",
-   "first_seen": "2026-10-30T22:10:51+00:00"
-  },
-  {
    "id": "dd252019127d",
    "title": "CALTECH Summer Research Fellowship 2027 in USA | Paid Fellowship",
    "url": "https://scholarshipscorner.website/caltech-summer-research-fellowship/",
@@ -8067,7 +8054,7 @@
    ],
    "_key": "caltech summer research fellowship usa",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-04T10:55:48+00:00"
   },
   {
@@ -8227,7 +8214,7 @@
    ],
    "_key": "summer undergraduate engineering research berkeley information technology students",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -8307,7 +8294,7 @@
    ],
    "_key": "max planck institute software systems",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -8387,7 +8374,7 @@
    ],
    "_key": "cern openlab computer science undergraduates",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -8722,7 +8709,7 @@
    ],
    "_key": "harbin institute technology chinese government scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-10T07:17:46+00:00"
   },
   {
@@ -9063,7 +9050,7 @@
    ],
    "_key": "riken cbs summer japan",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-10T23:22:30+00:00"
   },
   {
@@ -9139,7 +9126,7 @@
    ],
    "_key": "berkeley lab computing sciences summer",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -9184,7 +9171,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-12",
+   "published": "2026-11-13",
    "prestige": false,
    "score": 64,
    "tier": "high",
@@ -9216,7 +9203,7 @@
    ],
    "_key": "junior software engineer data scientist intern leidos",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T01:50:12+00:00"
   },
   {
@@ -9292,7 +9279,7 @@
    ],
    "_key": "mlh fellowship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -9630,7 +9617,7 @@
    ],
    "_key": "columbia university fellowships usa",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -9954,95 +9941,8 @@
    ],
    "_key": "vlir uos icp connect scholarship belgium",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-08T13:24:37+00:00"
-  },
-  {
-   "id": "5dad61792f33",
-   "title": "Morgan Stanley 2027 Sustainable Finance Fellowship Program: Apply for the 10-Week Summer Fellowship in New York, USA",
-   "url": "https://opportunitiesforyouth.org/2026/10/29/morgan-stanley-2027-sustainable-finance-fellowship-program-apply-for-the-10-week-summer-fellowship-in-new-york-usa/",
-   "source": "opportunitiesforyouth",
-   "org": null,
-   "summary": "The Morgan Stanley 2027 Sustainable Finance Fellowship Program is an opportunity for current graduate students interested in sustainable investing, financial markets, environmental and social impact, and responsible economic growth. Based in New York City…",
-   "type": "Fellowship",
-   "degrees": [
-    "masters"
-   ],
-   "fields": [
-    "data_science",
-    "computing"
-   ],
-   "funding": "paid",
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": null,
-   "eligibility_note": null,
-   "deadline": "2026-11-13",
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": true,
-   "phd_level": false,
-   "rolling": false,
-   "published": "2026-10-29",
-   "prestige": false,
-   "score": 62,
-   "tier": "high",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     21,
-     [
-      "data_science",
-      "computing"
-     ]
-    ],
-    [
-     "paid",
-     11,
-     null
-    ],
-    [
-     "level",
-     8,
-     "masters"
-    ],
-    [
-     "type",
-     8,
-     "Fellowship"
-    ],
-    [
-     "nationality",
-     8,
-     "Palestine"
-    ]
-   ],
-   "_key": "morgan stanley sustainable finance fellowship apply 10 week summer fellowship new york usa",
-   "also_on": [],
-   "last_seen": "2026-11-10T07:17:46+00:00",
-   "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
    "id": "e37bd4f7968d",
@@ -10370,7 +10270,7 @@
    ],
    "_key": "nanyang president s graduate scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -10449,7 +10349,7 @@
    ],
    "_key": "university debrecen stipendium hungaricum scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -10535,7 +10435,7 @@
    ],
    "_key": "hokkaido university mext japan government scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-02T06:02:26+00:00"
   },
   {
@@ -10622,7 +10522,7 @@
    ],
    "_key": "hennge s global internship japan",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -10793,7 +10693,7 @@
      "url": "https://opportunityportal.info/cambridge-university-gate-scholarship/"
     }
    ],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -11207,7 +11107,7 @@
    ],
    "_key": "yokohama national university mext scholarship japan",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -11612,7 +11512,7 @@
      "url": "https://scholarshipscorner.website/swedish-institute-scholarships/"
     }
    ],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -11772,7 +11672,7 @@
    ],
    "_key": "orange knowledge netherlands",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-10T07:17:46+00:00"
   },
   {
@@ -11858,7 +11758,7 @@
    ],
    "_key": "university padova international excellence scholarship italy",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -11926,7 +11826,7 @@
    ],
    "_key": "research intern rhoda ai",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T11:09:19+00:00"
   },
   {
@@ -11994,7 +11894,7 @@
    ],
    "_key": "intern ai system architecture research scientist samsung semiconductor",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T00:43:54+00:00"
   },
   {
@@ -12629,7 +12529,7 @@
    ],
    "_key": "santa fe institute summer research usa",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T10:58:35+00:00"
   },
   {
@@ -12711,7 +12611,7 @@
    ],
    "_key": "king abdulaziz university scholarship saudi arabia",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-31T08:35:02+00:00"
   },
   {
@@ -12795,7 +12695,7 @@
    ],
    "_key": "hohai university chinese government scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -12839,7 +12739,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-09",
+   "published": "2026-11-10",
    "prestige": false,
    "score": 59,
    "tier": "standard",
@@ -12866,8 +12766,218 @@
    ],
    "_key": "co op software applied ai platform engineer lila sciences",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-09T22:21:44+00:00"
+  },
+  {
+   "id": "96e73df2fb6f",
+   "title": "Internship - EUV Data Science and Analytics at ASML",
+   "url": "https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357717?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "ASML",
+   "summary": "Austin, TX, USA",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-14",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "internship euv data science analytics asml",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-13T19:41:51+00:00"
+  },
+  {
+   "id": "5ebf7b9d92c1",
+   "title": "AI Engineer, Intern at Postman",
+   "url": "https://zapply.jobs/l/d/workday-postman-careers-JR1000055?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "Postman",
+   "summary": "San Francisco, CA, US",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-14",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "ai engineer intern postman",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-14T01:26:54+00:00"
+  },
+  {
+   "id": "2319611eac6e",
+   "title": "Intern - AI Engineer Platform at Micron Technology",
+   "url": "https://zapply.jobs/l/d/workday-micron-external-JR115934?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "Micron Technology",
+   "summary": "Boise, ID - Main Site",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-14",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "intern ai engineer platform micron technology",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
    "id": "b6ffbf55434a",
@@ -12938,7 +13048,7 @@
    ],
    "_key": "data analyst intern summer rocket companies",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -13008,156 +13118,16 @@
    ],
    "_key": "graduate ai machine learning engineer intern cigna",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
-   "id": "96e73df2fb6f",
-   "title": "Internship - EUV Data Science and Analytics at ASML",
-   "url": "https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357717?s=gh-internships-2027",
+   "id": "5887729fa166",
+   "title": "Intern, Data Analyst & BI, Summer 2027 at Stanley Black & Decker",
+   "url": "https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052481?s=gh-internships-2027",
    "source": "zapply",
-   "org": "ASML",
-   "summary": "Austin, TX, USA",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-13",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "internship euv data science analytics asml",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-13T19:41:51+00:00"
-  },
-  {
-   "id": "2319611eac6e",
-   "title": "Intern - AI Engineer Platform at Micron Technology",
-   "url": "https://zapply.jobs/l/d/workday-micron-external-JR115934?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Micron Technology",
-   "summary": "Boise, ID - Main Site",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-13",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "intern ai engineer platform micron technology",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-13T19:41:51+00:00"
-  },
-  {
-   "id": "f4ab9d58e6a0",
-   "title": "Data Scientist Intern \\[Summer 2027\\] at Zoox",
-   "url": "https://zapply.jobs/l/d/lever-zoox-0f42ac76-3821-4805-8b59-446477d1e1db?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Zoox",
-   "summary": "Foster City, CA",
+   "org": "Stanley Black & Decker",
+   "summary": "Towson, MD, United States",
    "type": "Internship",
    "degrees": [],
    "fields": [
@@ -13193,7 +13163,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-12",
+   "published": "2026-11-13",
    "prestige": false,
    "score": 59,
    "tier": "standard",
@@ -13218,81 +13188,9 @@
      "Internship"
     ]
    ],
-   "_key": "data scientist intern zoox",
+   "_key": "intern data analyst bi summer stanley black decker",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-13T01:50:12+00:00"
-  },
-  {
-   "id": "dc447b2b448b",
-   "title": "Sales Analytics Intern 2027 (USA) at Pinterest",
-   "url": "https://zapply.jobs/l/d/greenhouse-pinterest-8214783?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Pinterest",
-   "summary": "San Francisco, CA, US",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-12",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "sales analytics intern pinterest",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T01:50:12+00:00"
   },
   {
@@ -13338,7 +13236,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-12",
+   "published": "2026-11-13",
    "prestige": false,
    "score": 59,
    "tier": "standard",
@@ -13365,149 +13263,7 @@
    ],
    "_key": "data engineering intern summer entegris",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-13T01:50:12+00:00"
-  },
-  {
-   "id": "5887729fa166",
-   "title": "Intern, Data Analyst & BI, Summer 2027 at Stanley Black & Decker",
-   "url": "https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052481?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Stanley Black & Decker",
-   "summary": "Towson, MD, United States",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-summer"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-12",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "intern data analyst bi summer stanley black decker",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-13T01:50:12+00:00"
-  },
-  {
-   "id": "9e28907e0e33",
-   "title": "Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis at NREL",
-   "url": "https://zapply.jobs/l/d/workday-nrel-nlr-R14510?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "NREL",
-   "summary": "Golden, CO",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-12",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "graduate intern geospatial data science modeling analysis nrel",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T01:50:12+00:00"
   },
   {
@@ -13550,7 +13306,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-12",
+   "published": "2026-11-13",
    "prestige": false,
    "score": 59,
    "tier": "standard",
@@ -13577,7 +13333,7 @@
    ],
    "_key": "internship data scientist asml",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T01:50:12+00:00"
   },
   {
@@ -13620,7 +13376,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-12",
+   "published": "2026-11-13",
    "prestige": false,
    "score": 59,
    "tier": "standard",
@@ -13647,8 +13403,222 @@
    ],
    "_key": "internship co op data engineer asml",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T19:54:39+00:00"
+  },
+  {
+   "id": "9e28907e0e33",
+   "title": "Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis at NREL",
+   "url": "https://zapply.jobs/l/d/workday-nrel-nlr-R14510?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "NREL",
+   "summary": "Golden, CO",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-13",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "graduate intern geospatial data science modeling analysis nrel",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-13T01:50:12+00:00"
+  },
+  {
+   "id": "f4ab9d58e6a0",
+   "title": "Data Scientist Intern \\[Summer 2027\\] at Zoox",
+   "url": "https://zapply.jobs/l/d/lever-zoox-0f42ac76-3821-4805-8b59-446477d1e1db?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "Zoox",
+   "summary": "Foster City, CA",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-13",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "data scientist intern zoox",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-13T01:50:12+00:00"
+  },
+  {
+   "id": "dc447b2b448b",
+   "title": "Sales Analytics Intern 2027 (USA) at Pinterest",
+   "url": "https://zapply.jobs/l/d/greenhouse-pinterest-8214783?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "Pinterest",
+   "summary": "San Francisco, CA, US",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-13",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "sales analytics intern pinterest",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-13T01:50:12+00:00"
   },
   {
    "id": "091285e309be",
@@ -13692,7 +13662,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-12",
+   "published": "2026-11-13",
    "prestige": false,
    "score": 59,
    "tier": "standard",
@@ -13719,7 +13689,7 @@
    ],
    "_key": "summer data science intern sharkninja",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T19:54:39+00:00"
   },
   {
@@ -13764,7 +13734,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-12",
+   "published": "2026-11-13",
    "prestige": false,
    "score": 59,
    "tier": "standard",
@@ -13791,7 +13761,7 @@
    ],
    "_key": "agentic ai analytics co op fresenius medical care",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T19:54:39+00:00"
   },
   {
@@ -13807,6 +13777,293 @@
     "ai_ml",
     "data_science",
     "engineering",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-13",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "engineering"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "assoc ai engineering intern servicenow",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-12T11:09:19+00:00"
+  },
+  {
+   "id": "a8f37daf3d71",
+   "title": "Agentic AI Engineering Co-op – Active Noise Cancellation Fall 2027 at Bose",
+   "url": "https://zapply.jobs/l/d/workday-boseallaboutme-bose-careers-R29391?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "Bose",
+   "summary": "US, MA - Framingham",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "engineering",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-fall"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-12",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "engineering"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "agentic ai engineering co op active noise cancellation fall bose",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-12T00:43:54+00:00"
+  },
+  {
+   "id": "b13e721d781b",
+   "title": "2027 Summer Intern - Product Development Data Sciences at Genentech",
+   "url": "https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-128802?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "Genentech",
+   "summary": "Boston",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-12",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "summer intern product development data sciences genentech",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-12T00:43:54+00:00"
+  },
+  {
+   "id": "994371a848ed",
+   "title": "2027 Summer Intern - Biostatistics and Analytical Data Sciences at Genentech",
+   "url": "https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-128787?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "Genentech",
+   "summary": "South San Francisco",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-12",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "summer intern biostatistics analytical data sciences genentech",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-12T00:43:54+00:00"
+  },
+  {
+   "id": "813a0733c89e",
+   "title": "RMCC Data Science Intern at Bloom Energy",
+   "url": "https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25362?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "Bloom Energy",
+   "summary": "San Jose, California",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
     "science"
    ],
    "funding": null,
@@ -13851,7 +14108,7 @@
      [
       "ai_ml",
       "data_science",
-      "engineering"
+      "science"
      ]
     ],
     [
@@ -13860,10 +14117,80 @@
      "Internship"
     ]
    ],
-   "_key": "assoc ai engineering intern servicenow",
+   "_key": "rmcc data science intern bloom energy",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-12T11:09:19+00:00"
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-12T00:43:54+00:00"
+  },
+  {
+   "id": "df5e7ce86fea",
+   "title": "Data Science Intern at Bloom Energy",
+   "url": "https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25360?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "Bloom Energy",
+   "summary": "San Jose, California",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-12",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "data science intern bloom energy",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-12T00:43:54+00:00"
   },
   {
    "id": "d32364bb04ff",
@@ -13932,364 +14259,7 @@
    ],
    "_key": "advanced analytics intern airbnb",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-12T00:43:54+00:00"
-  },
-  {
-   "id": "b13e721d781b",
-   "title": "2027 Summer Intern - Product Development Data Sciences at Genentech",
-   "url": "https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-128802?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Genentech",
-   "summary": "Boston",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-summer"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-11",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "summer intern product development data sciences genentech",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-12T00:43:54+00:00"
-  },
-  {
-   "id": "994371a848ed",
-   "title": "2027 Summer Intern - Biostatistics and Analytical Data Sciences at Genentech",
-   "url": "https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-128787?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Genentech",
-   "summary": "South San Francisco",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-summer"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-11",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "summer intern biostatistics analytical data sciences genentech",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-12T00:43:54+00:00"
-  },
-  {
-   "id": "a8f37daf3d71",
-   "title": "Agentic AI Engineering Co-op – Active Noise Cancellation Fall 2027 at Bose",
-   "url": "https://zapply.jobs/l/d/workday-boseallaboutme-bose-careers-R29391?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Bose",
-   "summary": "US, MA - Framingham",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "engineering",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-fall"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-11",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "engineering"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "agentic ai engineering co op active noise cancellation fall bose",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-12T00:43:54+00:00"
-  },
-  {
-   "id": "813a0733c89e",
-   "title": "RMCC Data Science Intern at Bloom Energy",
-   "url": "https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25362?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Bloom Energy",
-   "summary": "San Jose, California",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-11",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "rmcc data science intern bloom energy",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-12T00:43:54+00:00"
-  },
-  {
-   "id": "df5e7ce86fea",
-   "title": "Data Science Intern at Bloom Energy",
-   "url": "https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25360?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Bloom Energy",
-   "summary": "San Jose, California",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-11",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "data science intern bloom energy",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T00:43:54+00:00"
   },
   {
@@ -14335,7 +14305,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-11",
+   "published": "2026-11-12",
    "prestige": false,
    "score": 59,
    "tier": "standard",
@@ -14362,8 +14332,152 @@
    ],
    "_key": "data engineering intern summer riot games",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-11T06:19:20+00:00"
+  },
+  {
+   "id": "b1e4215a23cb",
+   "title": "Data Science Intern - Summer 2027 at The Hartford",
+   "url": "https://zapply.jobs/l/d/workday-thehartford-careers-external-R2627114?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "The Hartford",
+   "summary": "Hartford, CT",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-11",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "data science intern summer hartford",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-10T23:22:30+00:00"
+  },
+  {
+   "id": "79d6e56b0dea",
+   "title": "IT Digital/AI Intern (Summer 2027) at Clarios",
+   "url": "https://zapply.jobs/l/d/workday-clarios-clarioscareers-WD49910?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "Clarios",
+   "summary": "WI",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-11",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "it digital ai intern clarios",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-10T23:22:30+00:00"
   },
   {
    "id": "dfdde965b39e",
@@ -14434,151 +14548,7 @@
    ],
    "_key": "summer intern machine learning engineer embodied ai general motors",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-10T23:22:30+00:00"
-  },
-  {
-   "id": "b1e4215a23cb",
-   "title": "Data Science Intern - Summer 2027 at The Hartford",
-   "url": "https://zapply.jobs/l/d/workday-thehartford-careers-external-R2627114?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "The Hartford",
-   "summary": "Hartford, CT",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-summer"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-10",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "data science intern summer hartford",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-10T23:22:30+00:00"
-  },
-  {
-   "id": "79d6e56b0dea",
-   "title": "IT Digital/AI Intern (Summer 2027) at Clarios",
-   "url": "https://zapply.jobs/l/d/workday-clarios-clarioscareers-WD49910?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Clarios",
-   "summary": "WI",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-summer"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-10",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "it digital ai intern clarios",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-10T23:22:30+00:00"
   },
   {
@@ -14623,7 +14593,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-10",
+   "published": "2026-11-11",
    "prestige": false,
    "score": 59,
    "tier": "standard",
@@ -14650,8 +14620,78 @@
    ],
    "_key": "summer intern machine learning engineer av ai platform general motors",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-11T06:19:20+00:00"
+  },
+  {
+   "id": "d0395a554075",
+   "title": "Network Planning & Data Analytics Intern at AstraZeneca",
+   "url": "https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263845?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "AstraZeneca",
+   "summary": "– Tarzana – CA",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-10",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "network planning data analytics intern astrazeneca",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-09T22:21:44+00:00"
   },
   {
    "id": "9ae1f5e2b7aa",
@@ -14720,7 +14760,7 @@
    ],
    "_key": "data analyst intern new york times",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-10T07:17:46+00:00"
   },
   {
@@ -14763,7 +14803,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-09",
+   "published": "2026-11-10",
    "prestige": false,
    "score": 59,
    "tier": "standard",
@@ -14790,8 +14830,1160 @@
    ],
    "_key": "intern data analytics automation finance itron",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-04T10:55:48+00:00"
+  },
+  {
+   "id": "4cd64fe6a510",
+   "title": "Advertising & Partnerships: Data Science Internship – Summer 2027 at NBCUniversal",
+   "url": "https://zapply.jobs/l/d/sr-NBCUniversal3-744000160689930?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "NBCUniversal",
+   "summary": "New York, NY",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-10",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "advertising partnerships data science internship summer nbcuniversal",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-09T22:21:44+00:00"
+  },
+  {
+   "id": "54c1fcb1e0c0",
+   "title": "Media Tech: Data, AI & Machine Learning Internships – Summer 2027 at NBCUniversal",
+   "url": "https://zapply.jobs/l/d/sr-NBCUniversal3-744000160649935?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "NBCUniversal",
+   "summary": "Universal City, CA",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-10",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "media tech data ai machine learning internships summer nbcuniversal",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-09T22:21:44+00:00"
+  },
+  {
+   "id": "4870da104dd8",
+   "title": "Summer 2027 AI Engineering Internship at T-Mobile",
+   "url": "https://zapply.jobs/l/d/workday-tmobile-external-REQ381194?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "T-Mobile",
+   "summary": "Bellevue, Washington",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "engineering",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-08",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "engineering"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "summer ai engineering internship t mobile",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-06T19:24:20+00:00"
+  },
+  {
+   "id": "eeec73b7ef89",
+   "title": "Data Science Intern \\[Summer 2027\\] at Zoox",
+   "url": "https://zapply.jobs/l/d/lever-zoox-85c6aec7-8da2-445d-9c4d-812365dbce97?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "Zoox",
+   "summary": "Foster City, CA",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-07",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "data science intern zoox",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-07T00:56:46+00:00"
+  },
+  {
+   "id": "c3d445560203",
+   "title": "AI/ML Engineering Co-op - Spring 2027 at CACI",
+   "url": "https://zapply.jobs/l/d/workday-caci-external-334662?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "CACI",
+   "summary": "King of Prussia, PA, US",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "engineering",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-spring"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-07",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "engineering"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "ai ml engineering co op spring caci",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-06T19:24:20+00:00"
+  },
+  {
+   "id": "dfc166b5f630",
+   "title": "Spring 2027: AI/Sharks Applied AI & Analytics Co-op (January to June) at SharkNinja",
+   "url": "https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4725275006?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "SharkNinja",
+   "summary": "Needham, MA, United States",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-spring"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-07",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "spring ai sharks applied ai analytics co op sharkninja",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-07T00:56:46+00:00"
+  },
+  {
+   "id": "161af75d3886",
+   "title": "Motorsport Software and Data Analytics Graduate Intern at Bosch Group",
+   "url": "https://zapply.jobs/l/d/sr-BoschGroup-744000160208440?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "Bosch Group",
+   "summary": "Farmington Hills, MI",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "computing",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-07",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "computing"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "motorsport software data analytics graduate intern bosch group",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-06T19:24:20+00:00"
+  },
+  {
+   "id": "28ca2ca1a7d5",
+   "title": "Data Scientist Intern - Summer 2027 at PayPal",
+   "url": "https://zapply.jobs/l/d/workday-paypal-jobs-R0138582?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "PayPal",
+   "summary": "San Jose, California, United...",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-07",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "data scientist intern summer paypal",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-05T10:56:10+00:00"
+  },
+  {
+   "id": "37b87113bde7",
+   "title": "Machine Learning Engineer Intern - Summer 2027 at PayPal",
+   "url": "https://zapply.jobs/l/d/workday-paypal-jobs-R0138581?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "PayPal",
+   "summary": "San Jose, California, United...",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-07",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "machine learning engineer intern summer paypal",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-05T10:56:10+00:00"
+  },
+  {
+   "id": "0ad283dba54d",
+   "title": "Manufacturing Digital and AI Intern at AstraZeneca",
+   "url": "https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263647?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "AstraZeneca",
+   "summary": "Gaithersburg - MD",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-07",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "manufacturing digital ai intern astrazeneca",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-05T19:57:28+00:00"
+  },
+  {
+   "id": "80b8c0af6904",
+   "title": "AI Engineering, ERP Intern- Summer 2027 at ABB",
+   "url": "https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048711?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "ABB",
+   "summary": "USA, NC, Cary",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "engineering",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-07",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "engineering"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "ai engineering erp intern summer abb",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "2b7ec1e5648f",
+   "title": "AI Engineering, Business Systems Intern- Summer 2027 at ABB",
+   "url": "https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048714?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "ABB",
+   "summary": "USA, NC, Cary",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "engineering",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-07",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "engineering"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "ai engineering business systems intern summer abb",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "6c5efafa660f",
+   "title": "Grad Intern – R&D TSRS Data Sciences Operations & Analytic (Summer 2027) at Amgen",
+   "url": "https://zapply.jobs/l/d/workday-amgen-careers-R-260585?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "Amgen",
+   "summary": "United States - Remote",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-07",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "grad intern r d tsrs data sciences operations analytic amgen",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-05T01:27:58+00:00"
+  },
+  {
+   "id": "055f451977b7",
+   "title": "Machine Learning Engineer Intern at KLA",
+   "url": "https://zapply.jobs/l/d/workday-kla-search-2641562?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "KLA",
+   "summary": "Milpitas, CA",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-07",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "machine learning engineer intern kla",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-03T19:29:43+00:00"
+  },
+  {
+   "id": "9d0b1f15347d",
+   "title": "Advertising Business Data Analyst Intern at The New York Times",
+   "url": "https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4750496005?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "The New York Times",
+   "summary": "New York, NY",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-07",
+   "prestige": false,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "advertising business data analyst intern new york times",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-03T19:29:43+00:00"
+  },
+  {
+   "id": "6a57af0880f2",
+   "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027 at NVIDIA",
+   "url": "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027548?s=gh-internships-2027",
+   "source": "zapply",
+   "org": "NVIDIA",
+   "summary": "US, CA, Santa Clara",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "science"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International applicants",
+   "deadline": null,
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": true,
+   "published": "2026-11-07",
+   "prestige": true,
+   "score": 59,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     40,
+     [
+      "ai_ml",
+      "science"
+     ]
+    ],
+    [
+     "prestige",
+     10,
+     "NVIDIA"
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "deep learning scientist intern llm multimodal agentic ai summer nvidia",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-05T10:56:10+00:00"
   },
   {
    "id": "c88fd52498d0",
@@ -14865,795 +16057,6 @@
    "also_on": [],
    "last_seen": "2026-11-13T19:41:51+00:00",
    "first_seen": "2026-11-09T22:21:44+00:00"
-  },
-  {
-   "id": "d0395a554075",
-   "title": "Network Planning & Data Analytics Intern at AstraZeneca",
-   "url": "https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263845?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "AstraZeneca",
-   "summary": "– Tarzana – CA",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-09",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "network planning data analytics intern astrazeneca",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-09T22:21:44+00:00"
-  },
-  {
-   "id": "4cd64fe6a510",
-   "title": "Advertising & Partnerships: Data Science Internship – Summer 2027 at NBCUniversal",
-   "url": "https://zapply.jobs/l/d/sr-NBCUniversal3-744000160689930?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "NBCUniversal",
-   "summary": "New York, NY",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-summer"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-09",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "advertising partnerships data science internship summer nbcuniversal",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-09T22:21:44+00:00"
-  },
-  {
-   "id": "54c1fcb1e0c0",
-   "title": "Media Tech: Data, AI & Machine Learning Internships – Summer 2027 at NBCUniversal",
-   "url": "https://zapply.jobs/l/d/sr-NBCUniversal3-744000160649935?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "NBCUniversal",
-   "summary": "Universal City, CA",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-summer"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-09",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "media tech data ai machine learning internships summer nbcuniversal",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-09T22:21:44+00:00"
-  },
-  {
-   "id": "4870da104dd8",
-   "title": "Summer 2027 AI Engineering Internship at T-Mobile",
-   "url": "https://zapply.jobs/l/d/workday-tmobile-external-REQ381194?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "T-Mobile",
-   "summary": "Bellevue, Washington",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "engineering",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-summer"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-07",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "engineering"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "summer ai engineering internship t mobile",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-06T19:24:20+00:00"
-  },
-  {
-   "id": "eeec73b7ef89",
-   "title": "Data Science Intern \\[Summer 2027\\] at Zoox",
-   "url": "https://zapply.jobs/l/d/lever-zoox-85c6aec7-8da2-445d-9c4d-812365dbce97?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Zoox",
-   "summary": "Foster City, CA",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-summer"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-07",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "data science intern zoox",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-07T00:56:46+00:00"
-  },
-  {
-   "id": "dfc166b5f630",
-   "title": "Spring 2027: AI/Sharks Applied AI & Analytics Co-op (January to June) at SharkNinja",
-   "url": "https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4725275006?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "SharkNinja",
-   "summary": "Needham, MA, United States",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-spring"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-07",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "spring ai sharks applied ai analytics co op sharkninja",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-07T00:56:46+00:00"
-  },
-  {
-   "id": "c3d445560203",
-   "title": "AI/ML Engineering Co-op - Spring 2027 at CACI",
-   "url": "https://zapply.jobs/l/d/workday-caci-external-334662?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "CACI",
-   "summary": "King of Prussia, PA, US",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "engineering",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-spring"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-06",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "engineering"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "ai ml engineering co op spring caci",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-06T19:24:20+00:00"
-  },
-  {
-   "id": "161af75d3886",
-   "title": "Motorsport Software and Data Analytics Graduate Intern at Bosch Group",
-   "url": "https://zapply.jobs/l/d/sr-BoschGroup-744000160208440?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Bosch Group",
-   "summary": "Farmington Hills, MI",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "computing",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-06",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "computing"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "motorsport software data analytics graduate intern bosch group",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-06T19:24:20+00:00"
-  },
-  {
-   "id": "28ca2ca1a7d5",
-   "title": "Data Scientist Intern - Summer 2027 at PayPal",
-   "url": "https://zapply.jobs/l/d/workday-paypal-jobs-R0138582?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "PayPal",
-   "summary": "San Jose, California, United...",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-summer"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-06",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "data scientist intern summer paypal",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-05T10:56:10+00:00"
-  },
-  {
-   "id": "37b87113bde7",
-   "title": "Machine Learning Engineer Intern - Summer 2027 at PayPal",
-   "url": "https://zapply.jobs/l/d/workday-paypal-jobs-R0138581?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "PayPal",
-   "summary": "San Jose, California, United...",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-summer"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-06",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "machine learning engineer intern summer paypal",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-05T10:56:10+00:00"
-  },
-  {
-   "id": "0ad283dba54d",
-   "title": "Manufacturing Digital and AI Intern at AstraZeneca",
-   "url": "https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263647?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "AstraZeneca",
-   "summary": "Gaithersburg - MD",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-06",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "manufacturing digital ai intern astrazeneca",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-05T19:57:28+00:00"
   },
   {
    "id": "eb77a528c612",
@@ -15794,439 +16197,6 @@
    "also_on": [],
    "last_seen": "2026-11-13T19:41:51+00:00",
    "first_seen": "2026-11-04T19:45:13+00:00"
-  },
-  {
-   "id": "6c5efafa660f",
-   "title": "Grad Intern – R&D TSRS Data Sciences Operations & Analytic (Summer 2027) at Amgen",
-   "url": "https://zapply.jobs/l/d/workday-amgen-careers-R-260585?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Amgen",
-   "summary": "United States - Remote",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-summer"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-06",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "grad intern r d tsrs data sciences operations analytic amgen",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-05T01:27:58+00:00"
-  },
-  {
-   "id": "80b8c0af6904",
-   "title": "AI Engineering, ERP Intern- Summer 2027 at ABB",
-   "url": "https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048711?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "ABB",
-   "summary": "USA, NC, Cary",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "engineering",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-summer"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-06",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "engineering"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "ai engineering erp intern summer abb",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-04T19:45:13+00:00"
-  },
-  {
-   "id": "2b7ec1e5648f",
-   "title": "AI Engineering, Business Systems Intern- Summer 2027 at ABB",
-   "url": "https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048714?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "ABB",
-   "summary": "USA, NC, Cary",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "engineering",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-summer"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-06",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "engineering"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "ai engineering business systems intern summer abb",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-04T19:45:13+00:00"
-  },
-  {
-   "id": "055f451977b7",
-   "title": "Machine Learning Engineer Intern at KLA",
-   "url": "https://zapply.jobs/l/d/workday-kla-search-2641562?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "KLA",
-   "summary": "Milpitas, CA",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-06",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "machine learning engineer intern kla",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-03T19:29:43+00:00"
-  },
-  {
-   "id": "9d0b1f15347d",
-   "title": "Advertising Business Data Analyst Intern at The New York Times",
-   "url": "https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4750496005?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "The New York Times",
-   "summary": "New York, NY",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-06",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "advertising business data analyst intern new york times",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-03T19:29:43+00:00"
-  },
-  {
-   "id": "6a57af0880f2",
-   "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027 at NVIDIA",
-   "url": "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027548?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "NVIDIA",
-   "summary": "US, CA, Santa Clara",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027-summer"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-06",
-   "prestige": true,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     40,
-     [
-      "ai_ml",
-      "science"
-     ]
-    ],
-    [
-     "prestige",
-     10,
-     "NVIDIA"
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "deep learning scientist intern llm multimodal agentic ai summer nvidia",
-   "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
-   "first_seen": "2026-11-05T10:56:10+00:00"
   },
   {
    "id": "03b504294035",
@@ -17370,151 +17340,6 @@
    "first_seen": "2026-11-06T19:24:20+00:00"
   },
   {
-   "id": "1c5f60330548",
-   "title": "Robotics Intern, Mechanical Engineering at Toyota Research Institute",
-   "url": "https://zapply.jobs/l/d/lever-tri-8955d154-acfc-4e6b-a68c-14f1438034c9?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Toyota Research Institute",
-   "summary": "Cambridge, MA",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "engineering"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-06",
-   "prestige": true,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     40,
-     [
-      "ai_ml",
-      "engineering"
-     ]
-    ],
-    [
-     "prestige",
-     10,
-     "Cambridge"
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "robotics intern mechanical engineering toyota research institute",
-   "also_on": [],
-   "last_seen": "2026-11-11T17:08:07+00:00",
-   "first_seen": "2026-11-06T01:33:04+00:00"
-  },
-  {
-   "id": "ad96fff251c3",
-   "title": "Co-op – Data Engineer (Biocompatibility) – Murrysville, PA – January to June 2027 at Philips",
-   "url": "https://zapply.jobs/l/d/workday-philips-jobs-and-careers-591730?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Philips",
-   "summary": "Murrysville, Pennsylvania,...",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "data_science",
-    "science"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-04",
-   "prestige": false,
-   "score": 59,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     50,
-     [
-      "ai_ml",
-      "data_science",
-      "science"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "co op data engineer murrysville pa january to june philips",
-   "also_on": [],
-   "last_seen": "2026-11-11T06:19:20+00:00",
-   "first_seen": "2026-10-30T22:10:51+00:00"
-  },
-  {
    "id": "637a1fea27ce",
    "title": "WIPO IP and Women Fellowship 2027 in Switzerland: Earn CHF 6,000 Monthly and Gain International Intellectual Property Experience in Geneva",
    "url": "https://opportunitiesforyouth.org/2026/11/12/wipo-ip-and-women-fellowship-2027-in-switzerland-earn-chf-6000-monthly-and-gain-international-intellectual-property-experience-in-geneva/",
@@ -17601,7 +17426,7 @@
    ],
    "_key": "wipo ip women fellowship switzerland earn chf 6 000 monthly gain international intellectual property experience geneva",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T19:54:39+00:00"
   },
   {
@@ -17836,7 +17661,7 @@
    ],
    "_key": "eth student summer research fellowship computer science",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -17919,7 +17744,7 @@
      "url": "https://admissions.oist.jp/oist-research-internship-program-description"
     }
    ],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -17990,7 +17815,7 @@
    ],
    "_key": "uiuc siebel school summer research",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -18061,7 +17886,7 @@
    ],
    "_key": "yale cs research internship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -18277,218 +18102,6 @@
    "also_on": [],
    "last_seen": "2026-11-13T10:58:35+00:00",
    "first_seen": "2026-11-13T01:50:12+00:00"
-  },
-  {
-   "id": "e4acce544fec",
-   "title": "Software Engineer, Internship - Sovereign AI Systems at Palantir",
-   "url": "https://zapply.jobs/l/d/lever-palantir-cd64bcd4-50bb-4aeb-a135-4e0487ffd312?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Palantir",
-   "summary": "New York, NY",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "computing",
-    "engineering"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-06",
-   "prestige": false,
-   "score": 58,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     49,
-     [
-      "ai_ml",
-      "computing",
-      "engineering"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "software engineer internship sovereign ai systems palantir",
-   "also_on": [],
-   "last_seen": "2026-11-11T17:08:07+00:00",
-   "first_seen": "2026-11-05T19:57:28+00:00"
-  },
-  {
-   "id": "89b139bf4d36",
-   "title": "June 2027 Co-Op - Software Engineer Intern at Shield AI",
-   "url": "https://zapply.jobs/l/d/lever-shieldai-db8fc063-8856-4404-991c-f287712de949?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Shield AI",
-   "summary": "Dallas, Texas",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "computing",
-    "engineering"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-06",
-   "prestige": false,
-   "score": 58,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     49,
-     [
-      "ai_ml",
-      "computing",
-      "engineering"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "june co op software engineer intern shield ai",
-   "also_on": [],
-   "last_seen": "2026-11-11T06:19:20+00:00",
-   "first_seen": "2026-11-05T19:57:28+00:00"
-  },
-  {
-   "id": "12865272cf92",
-   "title": "Software Engineering & AI Intern at Leidos",
-   "url": "https://zapply.jobs/l/d/workday-leidos-external-R-00196220?s=gh-internships-2027",
-   "source": "zapply",
-   "org": "Leidos",
-   "summary": "6314 RemoteTeleworker US",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [
-    "ai_ml",
-    "computing",
-    "engineering"
-   ],
-   "funding": null,
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "open",
-   "eligibility_note": "International applicants",
-   "deadline": null,
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": true,
-   "published": "2026-11-05",
-   "prestige": false,
-   "score": 58,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     49,
-     [
-      "ai_ml",
-      "computing",
-      "engineering"
-     ]
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "software engineering ai intern leidos",
-   "also_on": [],
-   "last_seen": "2026-11-11T06:19:20+00:00",
-   "first_seen": "2026-11-04T19:45:13+00:00"
   },
   {
    "id": "41fccd062877",
@@ -18873,7 +18486,7 @@
    ],
    "_key": "geneva academy scholarships switzerland",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-10T07:17:46+00:00"
   },
   {
@@ -19254,7 +18867,7 @@
    ],
    "_key": "zhejiang university csc scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T11:09:19+00:00"
   },
   {
@@ -19421,7 +19034,7 @@
    ],
    "_key": "national grid early careers apprenticeships internships graduate development programmes uk usa",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-11T17:08:07+00:00"
   },
   {
@@ -19496,7 +19109,7 @@
    ],
    "_key": "luddy school informatics computing engineering global talent attraction",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -20308,7 +19921,7 @@
    ],
    "_key": "cdc steven m teutsch prevention effectiveness fellowship apply a fully two year postdoctoral fellowship public health health economics disease modelling",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-10T23:22:30+00:00"
   },
   {
@@ -20386,7 +19999,7 @@
    ],
    "_key": "noha erasmus mundus scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -20481,7 +20094,7 @@
    ],
    "_key": "mbzuai aspire ph d fellowship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -20974,7 +20587,7 @@
    ],
    "_key": "rockefeller university surf",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -21133,7 +20746,7 @@
    ],
    "_key": "radboud university scholarship netherlands",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -21210,7 +20823,7 @@
    ],
    "_key": "united nations volunteer",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -21277,7 +20890,7 @@
    ],
    "_key": "trail bits",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -21344,7 +20957,7 @@
    ],
    "_key": "coding it forward fellowship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -21831,7 +21444,7 @@
    ],
    "_key": "cmu lti language technology all summer internship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -21987,7 +21600,7 @@
    ],
    "_key": "leiden university excellence scholarship netherlands",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -22064,7 +21677,7 @@
    ],
    "_key": "netherlands government scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-09T11:31:34+00:00"
   },
   {
@@ -22111,7 +21724,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-13",
+   "published": "2026-11-14",
    "prestige": false,
    "score": 53,
    "tier": "standard",
@@ -22147,7 +21760,7 @@
    ],
    "_key": "summer software engineer intern bachelor s master s applied materials",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -22386,7 +21999,7 @@
    ],
    "_key": "john s knight journalism fellowships stanford university apply a 135 000 fellowship journalists",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-11T17:08:07+00:00"
   },
   {
@@ -22614,7 +22227,7 @@
    ],
    "_key": "nanjing university chinese government scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -22934,7 +22547,7 @@
    ],
    "_key": "ucd iseult honohan doctoral scholarship ireland phd opportunity with 25 000 annual stipend eu international students",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T10:58:35+00:00"
   },
   {
@@ -23005,7 +22618,7 @@
    ],
    "_key": "qatar government scholarships",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -23078,7 +22691,7 @@
    ],
    "_key": "spain government scholarships",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -23151,7 +22764,7 @@
    ],
    "_key": "saudi government scholarships",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -23194,7 +22807,7 @@
    "targets_me": false,
    "phd_level": false,
    "rolling": true,
-   "published": "2026-11-09",
+   "published": "2026-11-10",
    "prestige": true,
    "score": 51,
    "tier": "standard",
@@ -23226,7 +22839,7 @@
    ],
    "_key": "co op it ot security analyst lila sciences",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-09T22:21:44+00:00"
   },
   {
@@ -23299,7 +22912,7 @@
    ],
    "_key": "warwick statistics internship scheme university warwick",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -23797,7 +23410,7 @@
    ],
    "_key": "bridge proof concept funding apply up to chf 130 000 to turn research into innovative products services switzerland",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-11T06:19:20+00:00"
   },
   {
@@ -24134,7 +23747,7 @@
    ],
    "_key": "ume university scholarships sweden",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-01T06:28:37+00:00"
   },
   {
@@ -24207,7 +23820,7 @@
    ],
    "_key": "aapm global research mentorship fellowships",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -24269,7 +23882,7 @@
    ],
    "_key": "break through tech ai fellowship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -24347,7 +23960,7 @@
    ],
    "_key": "nasa caltech summer undergraduate research fellowship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -24425,7 +24038,7 @@
    ],
    "_key": "summer undergraduate research fellowship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -24503,7 +24116,7 @@
    ],
    "_key": "summer undergraduate research fellowship stanford university",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -24581,7 +24194,7 @@
    ],
    "_key": "max planck institute gravitational physics",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -24659,7 +24272,7 @@
    ],
    "_key": "research fellowship eth zurich",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -24737,7 +24350,7 @@
    ],
    "_key": "cern summer student",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -24814,7 +24427,7 @@
    ],
    "_key": "insa iasc nasi srfp",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -25339,7 +24952,7 @@
    ],
    "_key": "mastercard foundation scholarship sciences po",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-06T10:53:29+00:00"
   },
   {
@@ -25637,7 +25250,7 @@
      "url": "https://scholarshipscorner.website/commonwealth-shared-scholarships/"
     }
    ],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T19:54:39+00:00"
   },
   {
@@ -25711,7 +25324,7 @@
    ],
    "_key": "erasmus mundus planthealth scholarship europe",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -25932,7 +25545,7 @@
    ],
    "_key": "erasmus mundus glocal scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-01T06:28:37+00:00"
   },
   {
@@ -26151,7 +25764,7 @@
    ],
    "_key": "university twente scholarship netherlands",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-10T23:22:30+00:00"
   },
   {
@@ -26223,7 +25836,7 @@
    ],
    "_key": "university oxford ertegun scholarships uk",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-04T10:55:48+00:00"
   },
   {
@@ -26295,7 +25908,7 @@
    ],
    "_key": "weidenfeld hoffmann scholarships oxford university",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-11T17:08:07+00:00"
   },
   {
@@ -26874,7 +26487,7 @@
    ],
    "_key": "flatiron institute pre doctoral",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -27537,7 +27150,7 @@
    ],
    "_key": "kaist undergraduate scholarship bachelor s degree south korea",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-09T11:31:34+00:00"
   },
   {
@@ -27637,7 +27250,7 @@
    ],
    "_key": "mit summer research usa",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -27708,7 +27321,7 @@
    ],
    "_key": "kyoto university amgen scholars japan",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-06T19:24:20+00:00"
   },
   {
@@ -27794,7 +27407,7 @@
    ],
    "_key": "anh academy science policy fellowships 12 month fellowship offering 52 600 agriculture nutrition health researchers",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-10T23:22:30+00:00"
   },
   {
@@ -27938,7 +27551,7 @@
    ],
    "_key": "bi norwegian presidential scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -28223,7 +27836,7 @@
    ],
    "_key": "idac fellows summer placements investment training mentorship opportunities",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-10T23:22:30+00:00"
   },
   {
@@ -28292,7 +27905,7 @@
    ],
    "_key": "mit summer geometry initiative",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -28363,7 +27976,7 @@
    ],
    "_key": "washu international student research internship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -28437,7 +28050,7 @@
      "url": "https://vsrp.kaust.edu.sa/"
     }
    ],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -28587,7 +28200,7 @@
    ],
    "_key": "central european university hungary scholarships",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -28663,7 +28276,7 @@
    ],
    "_key": "hainan university csc scholarship study china",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-07T17:45:05+00:00"
   },
   {
@@ -28736,7 +28349,7 @@
    ],
    "_key": "mauritius government scholarships",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-03T10:52:51+00:00"
   },
   {
@@ -28811,7 +28424,7 @@
    ],
    "_key": "university saskatchewan graduate scholarships canada",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-09T11:31:34+00:00"
   },
   {
@@ -28886,7 +28499,7 @@
    ],
    "_key": "hse university moscow computer science internships",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -29406,7 +29019,7 @@
    ],
    "_key": "icmpd careers international job opportunities across europe middle east central asia africa",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T00:43:54+00:00"
   },
   {
@@ -29470,7 +29083,7 @@
    ],
    "_key": "jane street infocus",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -29534,7 +29147,7 @@
    ],
    "_key": "google lime",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -29598,7 +29211,7 @@
    ],
    "_key": "generation google scholars",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -29673,7 +29286,7 @@
    ],
    "_key": "international student research internship mckelvey school engineering",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -29748,7 +29361,7 @@
    ],
    "_key": "icts long term visiting students",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -29823,7 +29436,7 @@
    ],
    "_key": "unsw civil environmental engineering research internship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -30122,7 +29735,7 @@
    ],
    "_key": "university hamburg scholarships germany",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-31T08:35:02+00:00"
   },
   {
@@ -30330,7 +29943,7 @@
    ],
    "_key": "policy center new south mentorship morocco fully supported research mentorship master s students",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -30396,7 +30009,7 @@
    ],
    "_key": "fatima fellowship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -30473,7 +30086,7 @@
    ],
    "_key": "university gothenburg axel adler scholarship sweden",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-01T06:28:37+00:00"
   },
   {
@@ -30546,7 +30159,7 @@
    ],
    "_key": "emphnet scholarships 30 tuition fee scholarships two master s degrees public health epidemiology",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-10T23:22:30+00:00"
   },
   {
@@ -30622,7 +30235,7 @@
    ],
    "_key": "mile boutmy science po university scholarship france",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -30693,7 +30306,7 @@
    ],
    "_key": "nus soc summer research internship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -30757,7 +30370,7 @@
    ],
    "_key": "susa summer fellowship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -31057,7 +30670,7 @@
    ],
    "_key": "michigan justice fund manager job apply a justice reform economic mobility position michigan usa",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T01:50:12+00:00"
   },
   {
@@ -31140,7 +30753,7 @@
    ],
    "_key": "acls graduate internships on spiritual infrastructure future summer opportunities phd students studying religion society",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-10T23:22:30+00:00"
   },
   {
@@ -31637,7 +31250,7 @@
    ],
    "_key": "google summer code",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -31710,7 +31323,7 @@
    ],
    "_key": "faculty engineering kasetsart university internship training research programs",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -31783,7 +31396,7 @@
    ],
    "_key": "unsw research internship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -31852,7 +31465,7 @@
    ],
    "_key": "ux research internship red hat",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -32221,7 +31834,7 @@
    ],
    "_key": "ellison scholars oxford university",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -32567,7 +32180,7 @@
    ],
    "_key": "mcw young leaders fellowship usa",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-09T22:21:44+00:00"
   },
   {
@@ -32635,7 +32248,7 @@
    ],
    "_key": "anu vice chancellor scholarship australia",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-04T10:55:48+00:00"
   },
   {
@@ -32699,7 +32312,7 @@
    ],
    "_key": "humboldt residency germany",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-11T17:08:07+00:00"
   },
   {
@@ -32763,7 +32376,7 @@
    ],
    "_key": "reagan fascell democracy fellowship usa",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-04T19:45:13+00:00"
   },
   {
@@ -32907,7 +32520,7 @@
    ],
    "_key": "zhejiang normal university chinese government scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -32975,7 +32588,7 @@
    ],
    "_key": "wuhan university chinese government scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-06T10:53:29+00:00"
   },
   {
@@ -33129,7 +32742,7 @@
    ],
    "_key": "ucl global mental health msc one year master s degree london uk international students",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-11T17:08:07+00:00"
   },
   {
@@ -33191,7 +32804,7 @@
    ],
    "_key": "song master scholarships",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -33269,7 +32882,7 @@
    ],
    "_key": "brokerage next gen talent network uk career platform offering work experience internships apprenticeships early career opportunities young people aged 16 25",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T19:54:39+00:00"
   },
   {
@@ -33332,7 +32945,7 @@
    ],
    "_key": "temple university merit scholarships",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T11:09:19+00:00"
   },
   {
@@ -33400,7 +33013,7 @@
    ],
    "_key": "university st gallen scholarships switzerland",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-10T07:17:46+00:00"
   },
   {
@@ -33467,7 +33080,7 @@
    ],
    "_key": "tongji university chinese government scholarship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-06T10:53:29+00:00"
   },
   {
@@ -33545,7 +33158,7 @@
    ],
    "_key": "maxsip",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -33623,7 +33236,7 @@
    ],
    "_key": "summer intern kupcinet getz international summer science school weizmann institute science",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -34107,7 +33720,7 @@
    ],
    "_key": "unfpa eswatini online volunteer opportunity grant proposal development support",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-11T17:08:07+00:00"
   },
   {
@@ -34430,7 +34043,7 @@
    ],
    "_key": "uc berkeley mastercard foundation scholars",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -34499,7 +34112,7 @@
    ],
    "_key": "caltech surf",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -34568,7 +34181,7 @@
    ],
    "_key": "summer research princeton university",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -34637,7 +34250,7 @@
    ],
    "_key": "e3 epfl",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -34712,7 +34325,7 @@
    ],
    "_key": "icts sn bhatt memorial excellence fellowship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -35096,7 +34709,7 @@
    ],
    "_key": "qatar university scholarship ms doctoral",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-08T06:00:28+00:00"
   },
   {
@@ -35303,7 +34916,7 @@
    ],
    "_key": "asu summer research initiative",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -35527,7 +35140,7 @@
    ],
    "_key": "cleantech challenge apply 40 000 prize funding innovative climate environmental solutions",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-11T17:08:07+00:00"
   },
   {
@@ -35668,77 +35281,8 @@
    ],
    "_key": "dubai government ai course with certificate",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-08T13:24:37+00:00"
-  },
-  {
-   "id": "890f108b2f2e",
-   "title": "World Cancer Research Fund International Regular Grants 2026–2027: Apply for Cancer Research Funding of Up to £500,000",
-   "url": "https://opportunitiesforyouth.org/2026/11/07/world-cancer-research-fund-international-regular-grants-2026-2027-apply-for-cancer-research-funding-of-up-to-500000-2/",
-   "source": "opportunitiesforyouth",
-   "org": null,
-   "summary": "The World Cancer Research Fund (WCRF) International is inviting applications for its 2026–2027 Regular Grant Programme, an international research funding initiative supporting innovative and original scientific investigations into the relationship between…",
-   "type": "Grant",
-   "degrees": [],
-   "fields": [
-    "health"
-   ],
-   "funding": "paid",
-   "country": null,
-   "countries": [],
-   "regions": [],
-   "eligibility": null,
-   "eligibility_note": null,
-   "deadline": "2026-11-13",
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2026-ay"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": true,
-   "phd_level": false,
-   "rolling": false,
-   "published": "2026-11-07",
-   "prestige": false,
-   "score": 34,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "topic",
-     9,
-     [
-      "health"
-     ]
-    ],
-    [
-     "paid",
-     11,
-     null
-    ],
-    [
-     "nationality",
-     8,
-     "Palestine"
-    ]
-   ],
-   "_key": "world cancer research fund international regular grants apply cancer research funding up to 500 000",
-   "also_on": [],
-   "last_seen": "2026-11-13T10:58:35+00:00",
-   "first_seen": "2026-11-07T10:08:35+00:00"
   },
   {
    "id": "3bcbe900a7e5",
@@ -35869,7 +35413,7 @@
    ],
    "_key": "google hustle academy training apply short form content creation training malawi",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-11T17:08:07+00:00"
   },
   {
@@ -36103,7 +35647,7 @@
    ],
    "_key": "ivisp hkust",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -36314,7 +35858,7 @@
    ],
    "_key": "stanton nuclear security fellows",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -36554,7 +36098,7 @@
    ],
    "_key": "switzer fellowship 18 000 environmental leadership fellowship graduate students united states",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T10:58:35+00:00"
   },
   {
@@ -36758,7 +36302,7 @@
    ],
    "_key": "care nederland internship climate adaptation monthly 430 reimbursement master s students netherlands",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -37479,7 +37023,7 @@
    ],
    "_key": "uc berkeley amgen scholars",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -37955,7 +37499,7 @@
    ],
    "_key": "yseali professional exchange usa",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T19:54:39+00:00"
   },
   {
@@ -38209,7 +37753,7 @@
    ],
    "_key": "certificate young cooperative leaders four week virtual leadership training young people aged 18 35 asia pacific",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T00:43:54+00:00"
   },
   {
@@ -38268,7 +37812,7 @@
    ],
    "_key": "bristol university think big scholarships uk",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-03T10:52:51+00:00"
   },
   {
@@ -38675,7 +38219,7 @@
    ],
    "_key": "new york times fellowship usa",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -39006,7 +38550,7 @@
    ],
    "_key": "daad rise germany",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -39157,7 +38701,7 @@
    ],
    "_key": "daad rise worldwide",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -39215,7 +38759,7 @@
    ],
    "_key": "outreachy",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -39273,7 +38817,7 @@
    ],
    "_key": "bellingcat tech fellow",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -39346,7 +38890,7 @@
    ],
    "_key": "space astronomy summer space telescope science institute",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -39788,7 +39332,7 @@
    ],
    "_key": "dsti nrf policy fellowship 24 month policy placements",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -39857,7 +39401,7 @@
    ],
    "_key": "united nations journalism fellowship qatar",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-06T19:24:20+00:00"
   },
   {
@@ -40152,7 +39696,7 @@
    ],
    "_key": "doha institute graduate studies scholarship qatar",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -40373,7 +39917,7 @@
    ],
    "_key": "lpi summer intern planetary science",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -40446,7 +39990,7 @@
    ],
    "_key": "faculty engineering king mongkut university north bangkok exchange internship programs",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -40792,7 +40336,7 @@
    ],
    "_key": "home grown solutions agribusiness accelerator apply pan african agribusiness growth supporting african owned businesses",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-11T17:08:07+00:00"
   },
   {
@@ -40865,7 +40409,7 @@
    ],
    "_key": "university miami scholarship economics",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -41012,7 +40556,7 @@
    ],
    "_key": "predoc org research assistant opportunities",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -41076,7 +40620,7 @@
    ],
    "_key": "santa fe institute summer research experience",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -41140,7 +40684,7 @@
    ],
    "_key": "global research experience advanced technologies uc davis",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -41204,7 +40748,7 @@
    ],
    "_key": "ict summer research",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -41268,7 +40812,7 @@
    ],
    "_key": "summer research opportunities purdue university",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -41332,7 +40876,7 @@
    ],
    "_key": "ipam ucla",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -41396,7 +40940,7 @@
    ],
    "_key": "university alberta research experience",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -41460,7 +41004,7 @@
    ],
    "_key": "hzdr dresden summer student",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -41524,7 +41068,7 @@
    ],
    "_key": "urop international rwth aachen",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -41588,7 +41132,7 @@
    ],
    "_key": "visual geometry group",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -41652,7 +41196,7 @@
    ],
    "_key": "swissnex",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -41716,7 +41260,7 @@
    ],
    "_key": "sabanc niversitesi pure summer research",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -41780,7 +41324,7 @@
    ],
    "_key": "zye niversitesi undergraduate research summer internship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -41844,7 +41388,7 @@
    ],
    "_key": "nims",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -41908,7 +41452,7 @@
    ],
    "_key": "teep asia",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -41972,7 +41516,7 @@
    ],
    "_key": "surp cuhk",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -42036,72 +41580,8 @@
    ],
    "_key": "surp",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
-  },
-  {
-   "id": "d260bfbf848e",
-   "title": "USDA Internship Program 2027 in the USA | Volunteer Internship",
-   "url": "https://scholarshipscorner.website/usda-internship-program-usa/",
-   "source": "scholarshipscorner",
-   "org": null,
-   "summary": "Call for applications for the USDA Internship Program 2027. The duration of the internship is 14 weeks and it will take palce in Washington, D.C. The is a great opportunity to gain practical experience in public service. The program is offered by the U.S…",
-   "type": "Internship",
-   "degrees": [],
-   "fields": [],
-   "funding": "fully_funded",
-   "country": "United States",
-   "countries": [
-    "United States"
-   ],
-   "regions": [
-    "North America"
-   ],
-   "eligibility": "restricted",
-   "eligibility_note": "U.S. citizens",
-   "deadline": "2026-11-13",
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": false,
-   "phd_level": false,
-   "rolling": false,
-   "published": "2026-09-03",
-   "prestige": false,
-   "score": 27,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "fully_funded",
-     18,
-     null
-    ],
-    [
-     "type",
-     3,
-     "Internship"
-    ]
-   ],
-   "_key": "usda internship usa",
-   "also_on": [],
-   "last_seen": "2026-10-30T22:10:51+00:00",
-   "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
    "id": "077f8c184571",
@@ -42252,7 +41732,7 @@
    ],
    "_key": "global youth forum italy 600 scholarships available eligible applicants",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T10:58:35+00:00"
   },
   {
@@ -42644,7 +42124,7 @@
    ],
    "_key": "ready salone itc koica invite sierra leonean tech startups to join second cohort access business growth support",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T19:54:39+00:00"
   },
   {
@@ -42908,7 +42388,7 @@
    ],
    "_key": "pladis accelerator 12 week global food tech startup accelerator partnership with a leading snacking company",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-11T17:08:07+00:00"
   },
   {
@@ -42983,7 +42463,7 @@
    ],
    "_key": "singapore government scholarships",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -43467,7 +42947,7 @@
    ],
    "_key": "who summer school france",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-04T19:45:13+00:00"
   },
   {
@@ -43729,7 +43209,7 @@
    ],
    "_key": "eywep african union opportunities youth women entrepreneurship coywa scholarships fellowships career resources africa",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T19:54:39+00:00"
   },
   {
@@ -43910,7 +43390,7 @@
    ],
    "_key": "icann89 fellowship icann policy forum fellowship vancouver canada",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-12T00:43:54+00:00"
   },
   {
@@ -44157,7 +43637,7 @@
    ],
    "_key": "hackny fellowship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -44221,7 +43701,7 @@
    ],
    "_key": "dssgx uk summer fellowship university warwick",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -44281,7 +43761,7 @@
    ],
    "_key": "amgen scholars",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -44507,7 +43987,7 @@
    ],
    "_key": "smithsonian national air space museum school programs internship 8 000 opportunity undergraduate graduate doctoral students",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -44568,7 +44048,7 @@
    ],
    "_key": "snsf sor4d transformation accelerating grants apply research to impact funding under chf 1 65 million",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-10T23:22:30+00:00"
   },
   {
@@ -44626,7 +44106,7 @@
    ],
    "_key": "jane street insight",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -44894,7 +44374,7 @@
    ],
    "_key": "air writing mentorship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -45604,7 +45084,7 @@
    ],
    "_key": "mccall macbain international fellowships",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -45792,7 +45272,7 @@
    ],
    "_key": "young security leaders lab munich germany apply an exclusive leadership during munich security conference",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-11T17:08:07+00:00"
   },
   {
@@ -46196,7 +45676,7 @@
    ],
    "_key": "berlin school economics phd germany",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -46335,7 +45815,7 @@
    ],
    "_key": "hans de wit fellowship early career researchers",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -46399,7 +45879,7 @@
    ],
    "_key": "oecd internship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -46463,7 +45943,7 @@
    ],
    "_key": "hennge global internship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -46527,7 +46007,7 @@
    ],
    "_key": "internet initiative japan internship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -46591,7 +46071,7 @@
    ],
    "_key": "gist global internship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -46655,7 +46135,7 @@
    ],
    "_key": "itri global internship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -46719,7 +46199,7 @@
    ],
    "_key": "teep internship taiwan",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -46783,7 +46263,7 @@
    ],
    "_key": "institut teknologi sepuluh nopember lab based internship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -47146,7 +46626,7 @@
    ],
    "_key": "jane street focus",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -47290,63 +46770,6 @@
    "also_on": [],
    "last_seen": "2026-11-02T06:02:26+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
-  },
-  {
-   "id": "c1d0f1f0645d",
-   "title": "European Youth Event 2027 (EYE2027): European Parliament Opens Call for Youth Groups to Receive Financial Support to Participate in Strasbourg",
-   "url": "https://opportunitiesforyouth.org/2026/11/05/european-youth-event-2027-eye2027-european-parliament-opens-call-for-youth-groups-to-receive-financial-support-to-participate-in-strasbourg/",
-   "source": "opportunitiesforyouth",
-   "org": null,
-   "summary": "The European Parliament has opened a new call for youth groups to apply for a financial contribution to participate in the European Youth Event 2027 (EYE2027), an international gathering that brings together young people from across Europe and beyond to…",
-   "type": "Conference",
-   "degrees": [],
-   "fields": [],
-   "funding": null,
-   "country": null,
-   "countries": [],
-   "regions": [
-    "Europe"
-   ],
-   "eligibility": null,
-   "eligibility_note": null,
-   "deadline": "2026-11-13",
-   "deadline_estimated": false,
-   "deadline_note": null,
-   "year_limit": null,
-   "intakes": [
-    "2027"
-   ],
-   "intake_inferred": false,
-   "past_intake": false,
-   "diversity": false,
-   "english_test": null,
-   "english_min": null,
-   "gpa_level": null,
-   "gpa_note": null,
-   "for_women": false,
-   "targets_me": true,
-   "phd_level": false,
-   "rolling": false,
-   "published": "2026-11-05",
-   "prestige": false,
-   "score": 14,
-   "tier": "standard",
-   "why": [
-    [
-     "base",
-     6,
-     null
-    ],
-    [
-     "nationality",
-     8,
-     "Palestine"
-    ]
-   ],
-   "_key": "european youth event european parliament opens youth groups to receive financial support to participate strasbourg",
-   "also_on": [],
-   "last_seen": "2026-11-13T10:58:35+00:00",
-   "first_seen": "2026-11-05T10:56:10+00:00"
   },
   {
    "id": "276aba02776c",
@@ -47766,7 +47189,7 @@
    ],
    "_key": "ey foundation step into business business training six months coaching a 2 000 startup grant young entrepreneurs",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T10:58:35+00:00"
   },
   {
@@ -47819,7 +47242,7 @@
    ],
    "_key": "year up",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -47872,7 +47295,7 @@
    ],
    "_key": "impact labs fellowship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -47925,7 +47348,7 @@
    ],
    "_key": "neo scholar",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -47978,7 +47401,7 @@
    ],
    "_key": "emma bowen foundation fellowship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -48031,7 +47454,7 @@
    ],
    "_key": "inroads",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -48084,7 +47507,7 @@
    ],
    "_key": "8vc fellowship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -48137,7 +47560,7 @@
    ],
    "_key": "kleiner perkins fellows",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -48190,7 +47613,7 @@
    ],
    "_key": "ggv nextgen fellowship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -48243,7 +47666,7 @@
    ],
    "_key": "yes internships",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -48296,7 +47719,7 @@
    ],
    "_key": "code2040 fellows",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -48349,7 +47772,7 @@
    ],
    "_key": "hack diversity",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -49025,7 +48448,7 @@
    ],
    "_key": "unhcr internship",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-29T17:16:30+00:00"
   },
   {
@@ -49080,7 +48503,7 @@
    ],
    "_key": "iwmf kim wall memorial fund 5 000 reporting grants",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -49135,7 +48558,7 @@
    ],
    "_key": "codesria research grants on university ecosystems",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00"
   },
   {
@@ -49606,7 +49029,7 @@
    ],
    "_key": "university michigan seas phd environment sustainability",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-11-01T06:28:37+00:00"
   },
   {
@@ -49885,7 +49308,7 @@
    ],
    "_key": "chulalongkorn university c2f scholarship thailand",
    "also_on": [],
-   "last_seen": "2026-11-13T19:41:51+00:00",
+   "last_seen": "2026-11-14T01:26:54+00:00",
    "first_seen": "2026-10-30T22:10:51+00:00"
   },
   {
@@ -50315,5 +49738,5 @@
  ],
  "scan": "quick",
  "last_full_scan": "2026-11-13T10:58:35+00:00",
- "archive_count": 159
+ "archive_count": 164
 }
