@@ -1,7 +1,385 @@
 {
- "generated_at": "2026-11-17T15:59:43+00:00",
- "count": 186,
+ "generated_at": "2026-11-18T00:57:33+00:00",
+ "count": 191,
  "items": [
+  {
+   "id": "99a6370fa9f5",
+   "title": "Wellcome Trust Investments Graduate Programme 2027: Graduate Investment Job in the United Kingdom – Apply for the Two-Year Programme",
+   "url": "https://opportunitiesforyouth.org/2026/11/09/job-opening-investments-graduate-programme-2026-wellcome-trust/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Wellcome Trust Investments Graduate Programme 2027 is an opportunity for recent university graduates interested in investment management, financial markets, portfolio analysis, and long-term investment strategy to gain professional experience with one of…",
+   "type": "Job",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "health",
+    "science"
+   ],
+   "funding": "paid",
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "worldwide",
+   "deadline": "2026-11-17",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "moderate",
+   "gpa_note": "2:1",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-09",
+   "prestige": true,
+   "score": 50,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     23,
+     [
+      "ai_ml",
+      "health",
+      "science"
+     ]
+    ],
+    [
+     "paid",
+     11,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Wellcome"
+    ]
+   ],
+   "_key": "wellcome trust investments graduate graduate investment job united kingdom apply two year",
+   "also_on": [],
+   "last_seen": "2026-11-17T03:54:23+00:00",
+   "first_seen": "2026-11-09T22:21:44+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-18T00:57:33+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
+  {
+   "id": "68b3f230e286",
+   "title": "DSTI-NRF Policy Fellowship Programme 2027: 24-Month Policy Placements",
+   "url": "https://www.scholarshipsads.com/dsti-nrf-policy-fellowship",
+   "source": "scholarshipsads",
+   "org": null,
+   "summary": "DSTI-NRF Policy Fellowship Programme 2027: 24-Month Policy Placements Fully Funded South Africa Universities Fellowship, Post Doctorate Public Policy, Governance, Science and Technology Domestic Students South Africa Deadline: 17 Nov 2026",
+   "type": "Fellowship",
+   "degrees": [
+    "phd",
+    "postdoc"
+   ],
+   "fields": [
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "South Africa",
+   "countries": [
+    "South Africa"
+   ],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-17",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": true,
+   "rolling": false,
+   "published": null,
+   "prestige": false,
+   "score": 29,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "phd_only",
+     -22,
+     null
+    ]
+   ],
+   "_key": "dsti nrf policy fellowship 24 month policy placements",
+   "also_on": [],
+   "last_seen": "2026-11-14T01:26:54+00:00",
+   "first_seen": "2026-11-13T19:41:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-18T00:57:33+00:00",
+   "reopens": "2027-11-17",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "077f8c184571",
+   "title": "Stanford University Hoover Fellowships In USA (Fully Funded)",
+   "url": "https://opportunityportal.info/stanford-university-hoover-fellowships/",
+   "source": "opportunityportal",
+   "org": null,
+   "summary": "The Stanford University Hoover Fellowships 2027 represent one of the most lucrative and prestigious fully funded early-career academic opportunities available in the United States. Tailored specifically for recent PhD graduates, post-doctoral scholars, and…",
+   "type": "Fellowship",
+   "degrees": [
+    "phd",
+    "postdoc"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "all nationalities",
+   "deadline": "2026-11-17",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": true,
+   "rolling": false,
+   "published": "2026-08-25",
+   "prestige": true,
+   "score": 27,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Stanford"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "phd_only",
+     -22,
+     null
+    ]
+   ],
+   "_key": "stanford university hoover fellowships usa",
+   "also_on": [],
+   "last_seen": "2026-11-09T11:31:34+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-18T00:57:33+00:00",
+   "reopens": "2027-11-17",
+   "reopens_intake": null
+  },
+  {
+   "id": "bec45b0d5ec2",
+   "title": "DW Paid Traineeship 2028–29 in Germany | Up to €2,473/Month",
+   "url": "https://scholarshipscorner.website/dw-traineeship-germany/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Applications window for the DW traineeship in Germany, 2028–29 is now open. Funded by Deutsche Welle (DW), the paid journalism program will take place for 18-months, in Bonn and Berlin, Germany. Trainees will receive a monthly salary of 2196 to 2473 Euros for…",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [],
+   "funding": "paid",
+   "country": "Germany",
+   "countries": [
+    "Germany"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-17",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2028-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-18",
+   "prestige": false,
+   "score": 25,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "dw traineeship germany",
+   "also_on": [],
+   "last_seen": "2026-11-17T03:54:23+00:00",
+   "first_seen": "2026-10-29T17:16:30+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-18T00:57:33+00:00",
+   "reopens": "2027-11-17",
+   "reopens_intake": "2028-ay"
+  },
+  {
+   "id": "276aba02776c",
+   "title": "British Council Green and Digital Employability and Enterprise Programme 2026: £150,000 Grant for UK–South Africa Education and Industry Partnerships",
+   "url": "https://opportunitiesforyouth.org/2026/10/27/british-council-green-and-digital-employability-and-enterprise-programme-2026-150000-grant-for-uk-south-africa-education-and-industry-partnerships/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The British Council is inviting eligible United Kingdom and South African higher education and Technical and Vocational Education and Training (TVET) institutions to apply for £150,000 in funding to lead a UK–South Africa consortium under its new Green and…",
+   "type": "Grant",
+   "degrees": [],
+   "fields": [],
+   "funding": null,
+   "country": "United Kingdom",
+   "countries": [
+    "United Kingdom",
+    "South Africa"
+   ],
+   "regions": [
+    "Europe",
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-17",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-27",
+   "prestige": false,
+   "score": 14,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "british council green digital employability enterprise 150 000 grant uk south africa education industry partnerships",
+   "also_on": [],
+   "last_seen": "2026-11-08T06:00:28+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-18T00:57:33+00:00",
+   "reopens": "2027-11-17",
+   "reopens_intake": "2027"
+  },
   {
    "id": "0a2bef65c8bc",
    "title": "KU Leuven PhD Scholarship 2026 in Human Rights Law, Belgium: Fully Funded Doctoral Research Opportunity for Law Graduates",
@@ -389,7 +767,7 @@
    ],
    "_key": "unil summer research switzerland",
    "also_on": [],
-   "last_seen": "2026-11-17T15:59:43+00:00",
+   "last_seen": "2026-11-18T00:57:33+00:00",
    "first_seen": "2026-11-15T16:22:01+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-16T06:29:34+00:00",
@@ -3554,7 +3932,7 @@
    ],
    "_key": "cern summer student switzerland",
    "also_on": [],
-   "last_seen": "2026-11-17T15:59:43+00:00",
+   "last_seen": "2026-11-18T00:57:33+00:00",
    "first_seen": "2026-11-10T23:22:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-10T23:22:30+00:00",
@@ -4253,7 +4631,7 @@
    ],
    "_key": "kaist visual ai internship south korea",
    "also_on": [],
-   "last_seen": "2026-11-17T15:59:43+00:00",
+   "last_seen": "2026-11-18T00:57:33+00:00",
    "first_seen": "2026-11-06T19:24:20+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -4330,7 +4708,7 @@
    ],
    "_key": "national university taiwan scholarships",
    "also_on": [],
-   "last_seen": "2026-11-17T15:59:43+00:00",
+   "last_seen": "2026-11-18T00:57:33+00:00",
    "first_seen": "2026-11-08T06:00:28+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -4633,7 +5011,7 @@
    ],
    "_key": "hzdr summer student germany",
    "also_on": [],
-   "last_seen": "2026-11-17T15:59:43+00:00",
+   "last_seen": "2026-11-18T00:57:33+00:00",
    "first_seen": "2026-11-07T17:45:05+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-07T17:45:05+00:00",
