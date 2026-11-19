@@ -1,7 +1,89 @@
 {
- "generated_at": "2026-11-19T11:40:03+00:00",
- "count": 200,
+ "generated_at": "2026-11-19T20:37:48+00:00",
+ "count": 201,
  "items": [
+  {
+   "id": "d6ec3262663d",
+   "title": "RIPS Summer Internship 2027 in the United States | Fully Funded",
+   "url": "https://scholarshipscorner.website/rips-summer-internship-usa/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "RIPS Summer Internship Program 2027 in the United States is an excellent chance for talented students and recent graduates seeking to pursue their careers in mathematics, computer sciences, and relevant fields abroad. This international internship in the USA…",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-02-08",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-19",
+   "prestige": false,
+   "score": 52,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "science"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ]
+   ],
+   "_key": "rips summer internship united states",
+   "also_on": [],
+   "last_seen": "2026-11-19T20:37:48+00:00",
+   "first_seen": "2026-11-19T20:37:48+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-19T20:37:48+00:00",
+   "reopens": "2027-02-08",
+   "reopens_intake": "2027-summer"
+  },
   {
    "id": "e575fba5d745",
    "title": "Wings to Fly – Promotion of Young People Through TVET Scholarships Program 2026 in Kenya",
@@ -64,7 +146,7 @@
    ],
    "_key": "wings to fly promotion young people through tvet scholarships kenya",
    "also_on": [],
-   "last_seen": "2026-11-19T11:40:03+00:00",
+   "last_seen": "2026-11-19T20:37:48+00:00",
    "first_seen": "2026-11-18T00:57:33+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-19T02:34:33+00:00",
@@ -1395,7 +1477,7 @@
    ],
    "_key": "unil summer research switzerland",
    "also_on": [],
-   "last_seen": "2026-11-19T11:40:03+00:00",
+   "last_seen": "2026-11-19T20:37:48+00:00",
    "first_seen": "2026-11-15T16:22:01+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-16T06:29:34+00:00",
@@ -5259,7 +5341,7 @@
    ],
    "_key": "kaist visual ai internship south korea",
    "also_on": [],
-   "last_seen": "2026-11-19T11:40:03+00:00",
+   "last_seen": "2026-11-19T20:37:48+00:00",
    "first_seen": "2026-11-06T19:24:20+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -5336,7 +5418,7 @@
    ],
    "_key": "national university taiwan scholarships",
    "also_on": [],
-   "last_seen": "2026-11-19T11:40:03+00:00",
+   "last_seen": "2026-11-19T20:37:48+00:00",
    "first_seen": "2026-11-08T06:00:28+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -5639,7 +5721,7 @@
    ],
    "_key": "hzdr summer student germany",
    "also_on": [],
-   "last_seen": "2026-11-19T11:40:03+00:00",
+   "last_seen": "2026-11-19T20:37:48+00:00",
    "first_seen": "2026-11-07T17:45:05+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-07T17:45:05+00:00",
