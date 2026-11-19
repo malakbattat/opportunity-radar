@@ -1,7 +1,635 @@
 {
- "generated_at": "2026-11-18T20:31:25+00:00",
- "count": 191,
+ "generated_at": "2026-11-19T02:34:33+00:00",
+ "count": 200,
  "items": [
+  {
+   "id": "e575fba5d745",
+   "title": "Wings to Fly – Promotion of Young People Through TVET Scholarships Program 2026 in Kenya",
+   "url": "https://opportunitiesforyouth.org/2026/11/18/wings-to-fly-promotion-of-young-people-through-tvet-scholarships-program-2026-in-kenya/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Empowering Kenya’s Youth Through Technical and Vocational Education The Government of Kenya, through the Ministry of Education’s State Department for Technical, Vocational Education and Training (TVET), in partnership with Equity Group Foundation (EGF), has…",
+   "type": "Scholarship",
+   "degrees": [],
+   "fields": [
+    "engineering",
+    "science"
+   ],
+   "funding": null,
+   "country": "Kenya",
+   "countries": [
+    "Kenya"
+   ],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-18",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-18",
+   "prestige": false,
+   "score": 14,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     8,
+     [
+      "engineering",
+      "science"
+     ]
+    ]
+   ],
+   "_key": "wings to fly promotion young people through tvet scholarships kenya",
+   "also_on": [],
+   "last_seen": "2026-11-19T02:34:33+00:00",
+   "first_seen": "2026-11-18T00:57:33+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-19T02:34:33+00:00",
+   "reopens": "2027-11-18",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "856f8757517c",
+   "title": "MEPI Tomorrow’s Leaders Program 2027–28 | Fully Funded Undergraduate Scholarships",
+   "url": "https://scholarshipscorner.website/mepi-tomorrows-leaders-program/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Call for applications for the MEPI Tomorrow’s Leaders Program 2027–28. It is a fully funded undergraduate scholarship supported by the U.S. Department of State. It offers students from underserved communities in the Middle East and North Africa (MENA) the…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters"
+   ],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": "restricted",
+   "eligibility_note": "U.S. citizens",
+   "deadline": "2026-11-18",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": "required",
+   "english_min": 8.0,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-23",
+   "prestige": false,
+   "score": 47,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "mepi tomorrow s leaders",
+   "also_on": [],
+   "last_seen": "2026-10-30T22:10:51+00:00",
+   "first_seen": "2026-10-29T17:16:30+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-19T02:34:33+00:00",
+   "reopens": "2027-11-18",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "ed61dcf209a2",
+   "title": "UNFPA Eswatini Online Volunteer Opportunity 2026: Grant and Proposal Development Support",
+   "url": "https://opportunitiesforyouth.org/2026/11/11/unfpa-eswatini-online-volunteer-opportunity-2026-grant-and-proposal-development-support/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The United Nations Population Fund (UNFPA) is inviting qualified professionals to apply for an exciting Online Volunteer Opportunity in Grant and Proposal Development Support with its Eswatini Country Office. This 12-week virtual assignment offers an…",
+   "type": "Grant",
+   "degrees": [],
+   "fields": [
+    "data_science",
+    "computing",
+    "health"
+   ],
+   "funding": null,
+   "country": "Online",
+   "countries": [
+    "Online"
+   ],
+   "regions": [
+    "Online"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "worldwide",
+   "deadline": "2026-11-18",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-11",
+   "prestige": false,
+   "score": 38,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     24,
+     [
+      "data_science",
+      "computing",
+      "health"
+     ]
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "unfpa eswatini online volunteer opportunity grant proposal development support",
+   "also_on": [],
+   "last_seen": "2026-11-18T11:41:42+00:00",
+   "first_seen": "2026-11-11T17:08:07+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-19T02:34:33+00:00",
+   "reopens": "2027-11-18",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "25e2db0c37a3",
+   "title": "2027 Points of Light Conference Call for Workshop Proposals: Submit Your Ideas to Shape the Future of Volunteering and Social Impact",
+   "url": "https://opportunitiesforyouth.org/2026/11/08/2027-points-of-light-conference-call-for-workshop-proposals-submit-your-ideas-to-shape-the-future-of-volunteering-and-social-impact/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Points of Light Conference 2027 is inviting experienced professionals, community leaders, youth advocates, nonprofit practitioners, educators, corporate social responsibility professionals, and other social impact experts to submit workshop proposals for…",
+   "type": "Conference",
+   "degrees": [],
+   "fields": [
+    "ai_ml"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-18",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-08",
+   "prestige": false,
+   "score": 32,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     18,
+     [
+      "ai_ml"
+     ]
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "points light conference workshop proposals submit your ideas to shape future volunteering social impact",
+   "also_on": [],
+   "last_seen": "2026-11-18T11:41:42+00:00",
+   "first_seen": "2026-11-09T00:55:21+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-19T02:34:33+00:00",
+   "reopens": "2027-11-18",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "260d16c74ff1",
+   "title": "Community Engagement Exchange Program 2027 in the USA | Fully Funded",
+   "url": "https://scholarshipscorner.website/community-engagement-exchange-program/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Community Engagement Exchange Program 2027 is a program to enhance cooperation and promote peace among nations by supporting civil society leaders in building healthy and participatory communities in over 100 countries. The CEE program 2027 is designed to…",
+   "type": "Exchange",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "International Students",
+   "deadline": "2026-11-18",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-22",
+   "prestige": false,
+   "score": 31,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ]
+   ],
+   "_key": "community engagement exchange usa",
+   "also_on": [],
+   "last_seen": "2026-11-18T11:41:42+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-19T02:34:33+00:00",
+   "reopens": "2027-11-18",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "2a749b7ecc71",
+   "title": "British Academy Innovation Fellowships Scheme 2026 – Route B: Policy-Led (FCDO): Up to £120,000 in Funding for Researchers",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/apply-for-the-british-academy-innovation-fellowships-scheme-2024-25-humanities-and-social-sciences/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The British Academy Innovation Fellowships Scheme 2026 – Route B: Policy-Led (FCDO) offers an exciting opportunity for early-career and mid-career researchers in the humanities and social sciences to work closely with policymakers in the United Kingdom…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [
+    "science"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-18",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-21",
+   "prestige": true,
+   "score": 30,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     6,
+     [
+      "science"
+     ]
+    ],
+    [
+     "prestige",
+     10,
+     "Commonwealth"
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "british academy innovation fellowships scheme route b policy led up to 120 000 funding researchers",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-19T02:34:33+00:00",
+   "reopens": "2027-11-18",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "fe36b4e83456",
+   "title": "Administrative Assistant – Procurement and Infrastructure Support Job 2026: Earn from $95,000 in a U.S.-Based Opportunity",
+   "url": "https://opportunitiesforyouth.org/2026/11/09/administrative-assistant-procurement-and-infrastructure-support-job-2026-earn-from-95000-in-a-u-s-based-opportunity/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Are you an organised professional with experience in procurement, contract management, vendor coordination or project administration? An opportunity is available for a qualified and experienced Administrative Assistant to provide procurement and…",
+   "type": "Job",
+   "degrees": [],
+   "fields": [],
+   "funding": "paid",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-18",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-09",
+   "prestige": false,
+   "score": 25,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "paid",
+     11,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "administrative assistant procurement infrastructure support job earn from 95 000 a u s based opportunity",
+   "also_on": [],
+   "last_seen": "2026-11-18T11:41:42+00:00",
+   "first_seen": "2026-11-09T11:31:34+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-19T02:34:33+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
+  {
+   "id": "ab70d79874fc",
+   "title": "Oxford-Canada Scholarship 2026: How to Apply, Eligibility Requirements, Required Documents and November 18 Deadline",
+   "url": "https://opportunitiesforyouth.org/2026/11/03/oxford-canada-scholarship-2026-how-to-apply-eligibility-requirements-required-documents-and-november-18-deadline/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Oxford-Canada Scholarship 2026 is inviting eligible applicants to submit written applications for an opportunity to receive scholarship support for their academic studies. Administered through the Canadian Rhodes Scholars Foundation, the scholarship…",
+   "type": "Scholarship",
+   "degrees": [
+    "bachelor",
+    "masters",
+    "phd"
+   ],
+   "fields": [],
+   "funding": null,
+   "country": "Canada",
+   "countries": [
+    "Canada"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-18",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "high",
+   "gpa_note": "outstanding academic performance",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-03",
+   "prestige": true,
+   "score": 24,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Oxford"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ]
+   ],
+   "_key": "oxford canada scholarship how to apply eligibility requirements required documents november 18 deadline",
+   "also_on": [],
+   "last_seen": "2026-11-15T06:32:09+00:00",
+   "first_seen": "2026-11-05T19:57:28+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-19T02:34:33+00:00",
+   "reopens": "2027-11-18",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "0194be6cfcca",
+   "title": "Community Engagement Exchange Program 2027: U.S. Leadership and Professional Exchange for Emerging European Leaders",
+   "url": "https://opportunitiesforyouth.org/2026/10/24/community-engagement-exchange-cee-program-host-organization-opportunities/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Community Engagement Exchange (CEE) Program 2027 is an international leadership and professional exchange initiative sponsored by the U.S. Department of State, funded by the U.S. Government, and implemented by IREX. The programme is designed to equip…",
+   "type": "Exchange",
+   "degrees": [],
+   "fields": [],
+   "funding": "paid",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-18",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-24",
+   "prestige": false,
+   "score": 22,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "paid",
+     16,
+     null
+    ]
+   ],
+   "_key": "community engagement exchange u s leadership professional exchange emerging european leaders",
+   "also_on": [],
+   "last_seen": "2026-11-04T10:55:48+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-19T02:34:33+00:00",
+   "reopens": "2027-11-18",
+   "reopens_intake": "2027"
+  },
   {
    "id": "99a6370fa9f5",
    "title": "Wellcome Trust Investments Graduate Programme 2027: Graduate Investment Job in the United Kingdom – Apply for the Two-Year Programme",
@@ -767,7 +1395,7 @@
    ],
    "_key": "unil summer research switzerland",
    "also_on": [],
-   "last_seen": "2026-11-18T20:31:25+00:00",
+   "last_seen": "2026-11-19T02:34:33+00:00",
    "first_seen": "2026-11-15T16:22:01+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-16T06:29:34+00:00",
@@ -3932,7 +4560,7 @@
    ],
    "_key": "cern summer student switzerland",
    "also_on": [],
-   "last_seen": "2026-11-18T20:31:25+00:00",
+   "last_seen": "2026-11-19T02:34:33+00:00",
    "first_seen": "2026-11-10T23:22:30+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-10T23:22:30+00:00",
@@ -4631,7 +5259,7 @@
    ],
    "_key": "kaist visual ai internship south korea",
    "also_on": [],
-   "last_seen": "2026-11-18T20:31:25+00:00",
+   "last_seen": "2026-11-19T02:34:33+00:00",
    "first_seen": "2026-11-06T19:24:20+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -4708,7 +5336,7 @@
    ],
    "_key": "national university taiwan scholarships",
    "also_on": [],
-   "last_seen": "2026-11-18T20:31:25+00:00",
+   "last_seen": "2026-11-19T02:34:33+00:00",
    "first_seen": "2026-11-08T06:00:28+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -5011,7 +5639,7 @@
    ],
    "_key": "hzdr summer student germany",
    "also_on": [],
-   "last_seen": "2026-11-18T20:31:25+00:00",
+   "last_seen": "2026-11-19T02:34:33+00:00",
    "first_seen": "2026-11-07T17:45:05+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-07T17:45:05+00:00",
