@@ -1,7 +1,401 @@
 {
- "generated_at": "2026-11-19T20:37:48+00:00",
- "count": 201,
+ "generated_at": "2026-11-20T02:19:41+00:00",
+ "count": 206,
  "items": [
+  {
+   "id": "9a6d7a922f29",
+   "title": "Mastercard Foundation Scholarships 2026–2027: Fully Funded Opportunities at Top Universities in Africa, Europe, North America and Beyond",
+   "url": "https://opportunitiesforyouth.org/2026/10/28/mastercard-foundation-scholarships-2026-2027-fully-funded-opportunities-at-top-universities-in-africa-europe-north-america-and-beyond/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Mastercard Foundation Scholars Program offers educational and professional development opportunities to talented young people who face significant financial, social, or economic barriers to accessing higher education. Through partnerships with…",
+   "type": "Scholarship",
+   "degrees": [
+    "masters"
+   ],
+   "fields": [
+    "ai_ml",
+    "computing",
+    "health",
+    "engineering",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-19",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-28",
+   "prestige": true,
+   "score": 93,
+   "tier": "top",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     30,
+     [
+      "ai_ml",
+      "computing",
+      "health"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "Mastercard Foundation"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "mastercard foundation scholarships opportunities top universities africa europe north america beyond",
+   "also_on": [],
+   "last_seen": "2026-11-09T11:31:34+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-20T02:19:41+00:00",
+   "reopens": "2027-11-19",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "ac4cc4ff0956",
+   "title": "KNUST–GIZ AI for Professionals Programme 2026: Fully Funded Artificial Intelligence Training for 120 Young Ghanaian Graduates",
+   "url": "https://opportunitiesforyouth.org/2026/11/11/knust-giz-ai-for-professionals-programme-2026-fully-funded-artificial-intelligence-training-for-120-young-ghanaian-graduates/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Artificial intelligence (AI) is rapidly transforming the global workplace, changing how businesses operate, how professionals perform their duties, and how organisations make decisions. From content creation and software development to data analysis, digital…",
+   "type": "Course",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "computing",
+    "science"
+   ],
+   "funding": "fully_funded",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-19",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-11",
+   "prestige": false,
+   "score": 81,
+   "tier": "top",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     50,
+     [
+      "ai_ml",
+      "data_science",
+      "computing"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ]
+   ],
+   "_key": "knust giz ai professionals artificial intelligence training 120 young ghanaian graduates",
+   "also_on": [],
+   "last_seen": "2026-11-19T11:40:03+00:00",
+   "first_seen": "2026-11-12T00:43:54+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-20T02:19:41+00:00",
+   "reopens": "2027-11-19",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "5dbf194039e2",
+   "title": "UNODC Associate Data Scientist Job 2026 in Vienna, Austria: Apply for a P-2 United Nations Career Opportunity Before 19 November",
+   "url": "https://opportunitiesforyouth.org/2026/11/16/unodc-associate-data-scientist-job-2026-in-vienna-austria-apply-for-a-p-2-united-nations-career-opportunity-before-19-november/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Professionals with expertise in data science, statistical analysis, data management and analytical reporting have an opportunity to pursue an international career with the United Nations. The United Nations Office on Drugs and Crime (UNODC), through the…",
+   "type": "Job",
+   "degrees": [],
+   "fields": [
+    "data_science",
+    "ai_ml",
+    "computing",
+    "science"
+   ],
+   "funding": null,
+   "country": "Austria",
+   "countries": [
+    "Austria"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-19",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-16",
+   "prestige": false,
+   "score": 63,
+   "tier": "high",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     49,
+     [
+      "data_science",
+      "ai_ml",
+      "computing"
+     ]
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "unodc associate data scientist job vienna austria apply a p 2 united nations career opportunity before 19 november",
+   "also_on": [],
+   "last_seen": "2026-11-19T20:37:48+00:00",
+   "first_seen": "2026-11-16T19:36:54+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-20T02:19:41+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
+  {
+   "id": "c98c77dc4a28",
+   "title": "2027 Sir Cyril Taylor Young African Leaders Program: Fully Funded Fellowship for Young African Changemakers",
+   "url": "https://opportunitiesforyouth.org/2026/10/26/fully-funded-2026-sir-cyril-taylor-young-african-leaders-program-by-afs-youth-assembly/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Application Deadline: 19 November 2026 at 23:59 UTC Are you a young African leader working to solve community challenges, promote sustainable development, or create meaningful social change? Do you lead a community initiative that addresses issues such as…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "health"
+   ],
+   "funding": "fully_funded",
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-19",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-26",
+   "prestige": false,
+   "score": 60,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     21,
+     [
+      "ai_ml",
+      "health"
+     ]
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "sir cyril taylor young african leaders fellowship young african changemakers",
+   "also_on": [],
+   "last_seen": "2026-11-07T10:08:35+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-20T02:19:41+00:00",
+   "reopens": "2027-11-19",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "e2d191e29c10",
+   "title": "Asian Development Bank Junior Water Resources Specialist Position in Armenia 2027: YEP Water Young Expert Programme",
+   "url": "https://opportunitiesforyouth.org/2026/10/26/asian-development-bank-junior-water-resources-specialist-position-in-armenia-2027-yep-water-young-expert-programme/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Asian Development Bank (ADB) is offering an exciting international development opportunity for early-career professionals interested in water resources engineering, climate resilience, reservoir development, irrigation systems, dam safety, and sustainable…",
+   "type": "Job",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [
+    "engineering",
+    "science"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-19",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-26",
+   "prestige": false,
+   "score": 20,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     14,
+     [
+      "engineering",
+      "science"
+     ]
+    ]
+   ],
+   "_key": "asian development bank junior water resources specialist position armenia yep water young expert",
+   "also_on": [],
+   "last_seen": "2026-11-08T06:00:28+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-20T02:19:41+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
   {
    "id": "d6ec3262663d",
    "title": "RIPS Summer Internship 2027 in the United States | Fully Funded",
@@ -77,7 +471,7 @@
    ],
    "_key": "rips summer internship united states",
    "also_on": [],
-   "last_seen": "2026-11-19T20:37:48+00:00",
+   "last_seen": "2026-11-20T02:19:41+00:00",
    "first_seen": "2026-11-19T20:37:48+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-19T20:37:48+00:00",
@@ -146,7 +540,7 @@
    ],
    "_key": "wings to fly promotion young people through tvet scholarships kenya",
    "also_on": [],
-   "last_seen": "2026-11-19T20:37:48+00:00",
+   "last_seen": "2026-11-20T02:19:41+00:00",
    "first_seen": "2026-11-18T00:57:33+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-19T02:34:33+00:00",
@@ -1477,7 +1871,7 @@
    ],
    "_key": "unil summer research switzerland",
    "also_on": [],
-   "last_seen": "2026-11-19T20:37:48+00:00",
+   "last_seen": "2026-11-20T02:19:41+00:00",
    "first_seen": "2026-11-15T16:22:01+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-16T06:29:34+00:00",
@@ -5341,7 +5735,7 @@
    ],
    "_key": "kaist visual ai internship south korea",
    "also_on": [],
-   "last_seen": "2026-11-19T20:37:48+00:00",
+   "last_seen": "2026-11-20T02:19:41+00:00",
    "first_seen": "2026-11-06T19:24:20+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -5418,7 +5812,7 @@
    ],
    "_key": "national university taiwan scholarships",
    "also_on": [],
-   "last_seen": "2026-11-19T20:37:48+00:00",
+   "last_seen": "2026-11-20T02:19:41+00:00",
    "first_seen": "2026-11-08T06:00:28+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -5721,7 +6115,7 @@
    ],
    "_key": "hzdr summer student germany",
    "also_on": [],
-   "last_seen": "2026-11-19T20:37:48+00:00",
+   "last_seen": "2026-11-20T02:19:41+00:00",
    "first_seen": "2026-11-07T17:45:05+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-07T17:45:05+00:00",
