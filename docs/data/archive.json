@@ -1,7 +1,846 @@
 {
- "generated_at": "2026-11-20T20:19:28+00:00",
- "count": 206,
+ "generated_at": "2026-11-21T02:14:20+00:00",
+ "count": 217,
  "items": [
+  {
+   "id": "9a7e3a1e54d6",
+   "title": "LEGO Foundation Student Worker – Strategy 2026: International Student Job Opportunity in Denmark | Apply Before 20 November 2026",
+   "url": "https://opportunitiesforyouth.org/2026/11/16/lego-foundation-student-worker-strategy-2026-international-student-job-opportunity-in-denmark-apply-before-20-november-2026/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The LEGO Foundation is inviting applications for its Student Worker – Strategy position in Billund, Denmark, offering students an excellent opportunity to gain practical experience in strategic planning, research, data analysis, project management and…",
+   "type": "Job",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [
+    "data_science",
+    "ai_ml"
+   ],
+   "funding": null,
+   "country": "Denmark",
+   "countries": [
+    "Denmark"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "worldwide",
+   "deadline": "2026-11-20",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-16",
+   "prestige": false,
+   "score": 60,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     40,
+     [
+      "data_science",
+      "ai_ml"
+     ]
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "lego foundation student worker strategy international student job opportunity denmark",
+   "also_on": [],
+   "last_seen": "2026-11-21T02:14:20+00:00",
+   "first_seen": "2026-11-16T19:36:54+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-21T02:14:20+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
+  {
+   "id": "216ef8f66989",
+   "title": "New York Times Fellowship 2027-28 in the USA | Paid Fellowship",
+   "url": "https://scholarshipscorner.website/new-york-times-fellowship/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "New York Times Fellowship in the USA is a paid fellowship program which aims to develop the future generation of journalists for The Times and the overall news industry. The program will include visual journalists, editors, and reporters who can present…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [],
+   "funding": "paid",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "international students",
+   "deadline": "2026-11-20",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-29",
+   "prestige": false,
+   "score": 30,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "new york times fellowship usa",
+   "also_on": [],
+   "last_seen": "2026-11-21T02:14:20+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-21T02:14:20+00:00",
+   "reopens": "2027-11-20",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "47f98f735648",
+   "title": "UNDP Climate and Energy Internship 2026 in Italy or Home-Based: Six-Month Opportunity with Monthly Stipend",
+   "url": "https://opportunitiesforyouth.org/2026/11/06/undp-climate-and-energy-internship-2026-in-italy-or-home-based-six-month-opportunity-with-monthly-stipend/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The United Nations Development Programme (UNDP) Climate and Energy Internship 2026 is inviting applications from eligible undergraduate and postgraduate students and recent graduates interested in climate action, renewable energy, sustainable development…",
+   "type": "Internship",
+   "degrees": [
+    "bachelor",
+    "masters"
+   ],
+   "fields": [
+    "engineering",
+    "health",
+    "science"
+   ],
+   "funding": "paid",
+   "country": "Italy",
+   "countries": [
+    "Italy"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-20",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-06",
+   "prestige": true,
+   "score": 82,
+   "tier": "top",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     17,
+     [
+      "engineering",
+      "health",
+      "science"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "prestige",
+     10,
+     "UNDP"
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "undp climate energy internship italy or home based six month opportunity with monthly stipend",
+   "also_on": [],
+   "last_seen": "2026-11-17T03:54:23+00:00",
+   "first_seen": "2026-11-06T19:24:20+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-21T02:14:20+00:00",
+   "reopens": "2027-11-20",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "41fccd062877",
+   "title": "Women in Tech × UN Women Digital Skills and Mentorship Programme 2026: Digital Training, Career Mentorship and Online Safety Education for Women and Girls",
+   "url": "https://opportunitiesforyouth.org/2026/10/22/women-in-tech-x-un-women-digital-skills-and-mentorship-programme-2026/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Women in Tech × UN Women Digital Skills and Mentorship Programme 2026 is a collaborative initiative designed to empower women and girls through digital skills training, professional mentorship, and education on online safety. The programme aims to help…",
+   "type": "Research",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "data_science",
+    "computing",
+    "engineering",
+    "science"
+   ],
+   "funding": null,
+   "country": "Online",
+   "countries": [
+    "Online"
+   ],
+   "regions": [
+    "Online"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-20",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": true,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-22",
+   "prestige": false,
+   "score": 57,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     32,
+     [
+      "ai_ml",
+      "data_science",
+      "computing"
+     ]
+    ],
+    [
+     "type",
+     14,
+     "Research"
+    ],
+    [
+     "women",
+     5,
+     null
+    ]
+   ],
+   "_key": "women tech un women digital skills mentorship digital training career mentorship online safety education women girls",
+   "also_on": [],
+   "last_seen": "2026-11-03T10:52:51+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-21T02:14:20+00:00",
+   "reopens": "2027-11-20",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "df18dbefcbaf",
+   "title": "Women’s Economic Empowerment in Transport Research Grants 2026: Apply for £150,000–£200,000 in Funding",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/womens-economic-empowerment-in-transport-research-grants-2026-apply-for-150000-200000-in-funding/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Research Initiative for Data and Evidence (RIDE) has announced an open call for research proposals on Women’s Economic Empowerment (WEE) in Transport, offering substantial research funding to eligible universities, research institutes, and research…",
+   "type": "Grant",
+   "degrees": [],
+   "fields": [
+    "health"
+   ],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "worldwide",
+   "deadline": "2026-11-20",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": true,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-21",
+   "prestige": false,
+   "score": 39,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     9,
+     [
+      "health"
+     ]
+    ],
+    [
+     "paid",
+     11,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ],
+    [
+     "women",
+     5,
+     null
+    ]
+   ],
+   "_key": "women s economic empowerment transport research grants apply 150 000 200 000 funding",
+   "also_on": [],
+   "last_seen": "2026-10-30T23:12:38+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-21T02:14:20+00:00",
+   "reopens": "2027-11-20",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "7678a15a3731",
+   "title": "Google Hustle Academy Training 2026: Apply for Free Short-Form Content Creation Training in Malawi",
+   "url": "https://opportunitiesforyouth.org/2026/11/11/google-hustle-academy-training-2026-apply-for-free-short-form-content-creation-training-in-malawi/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The ability to create engaging digital content has become an increasingly valuable skill for entrepreneurs, students, freelancers, content creators and professionals seeking to build an online presence, promote their work and connect with wider audiences. As…",
+   "type": "Course",
+   "degrees": [],
+   "fields": [
+    "ai_ml"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-20",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-11",
+   "prestige": true,
+   "score": 34,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     18,
+     [
+      "ai_ml"
+     ]
+    ],
+    [
+     "prestige",
+     10,
+     "Google"
+    ]
+   ],
+   "_key": "google hustle academy training apply short form content creation training malawi",
+   "also_on": [],
+   "last_seen": "2026-11-20T11:39:32+00:00",
+   "first_seen": "2026-11-11T17:08:07+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-21T02:14:20+00:00",
+   "reopens": "2027-11-20",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "e0ec6f083d24",
+   "title": "Global Youth Forum 2027 in Italy: €600 Scholarships Available for Eligible Applicants",
+   "url": "https://opportunitiesforyouth.org/2026/11/13/global-youth-forum-2027-in-italy-e600-scholarships-available-for-eligible-applicants/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Location: Turin, Italy Dates: 18–29 January 2027 Format: In person Language: English Scholarship Application Deadline: 20 November 2026 Application Deadline: 3 December 2026 Organiser: International Training Centre of the International Labour Organization…",
+   "type": "Conference",
+   "degrees": [],
+   "fields": [
+    "ai_ml",
+    "computing",
+    "biomed"
+   ],
+   "funding": "fee_based",
+   "country": "Italy",
+   "countries": [
+    "Italy"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-20",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-13",
+   "prestige": false,
+   "score": 27,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     26,
+     [
+      "ai_ml",
+      "computing",
+      "biomed"
+     ]
+    ],
+    [
+     "fee_based",
+     -13,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "global youth forum italy 600 scholarships available eligible applicants",
+   "also_on": [],
+   "last_seen": "2026-11-20T11:39:32+00:00",
+   "first_seen": "2026-11-13T10:58:35+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-21T02:14:20+00:00",
+   "reopens": "2027-11-20",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "9b702aed2f9f",
+   "title": "READY Salone Call for Applications 2026: ITC and KOICA Invite Sierra Leonean Tech Startups to Join the Second Cohort and Access Business Growth Support",
+   "url": "https://opportunitiesforyouth.org/2026/11/11/empowering-sierra-leones-tech-startups/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Technology entrepreneurs in Sierra Leone have an opportunity to strengthen their businesses, improve their market readiness and access targeted support through the READY Salone Call for Applications for Tech Startups. The International Trade Centre (ITC), in…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-20",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-11",
+   "prestige": false,
+   "score": 25,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "paid",
+     11,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ]
+   ],
+   "_key": "ready salone itc koica invite sierra leonean tech startups to join second cohort access business growth support",
+   "also_on": [],
+   "last_seen": "2026-11-20T11:39:32+00:00",
+   "first_seen": "2026-11-12T19:54:39+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-21T02:14:20+00:00",
+   "reopens": "2027-11-20",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "651c3578aa3b",
+   "title": "Nigeria Sustainability Competition 2026: Apply for ₦1 Million Prize in National Student Essay Contest and Lagos Green Innovation Awards",
+   "url": "https://opportunitiesforyouth.org/2026/11/16/nigeria-sustainability-competition-2026-apply-for-%e2%82%a61-million-prize-in-national-student-essay-contest-and-lagos-green-innovation-awards/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Nigeria Sustainability Competition 2026 is inviting secondary school students and schools across Nigeria to develop innovative, practical and affordable solutions to environmental challenges affecting their communities. Organised by Sterling Bank, Alt…",
+   "type": "Competition",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [
+    "engineering"
+   ],
+   "funding": null,
+   "country": "Nigeria",
+   "countries": [
+    "Nigeria"
+   ],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-20",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-16",
+   "prestige": false,
+   "score": 18,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     6,
+     [
+      "engineering"
+     ]
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ]
+   ],
+   "_key": "nigeria sustainability competition apply 1 million prize national student essay contest lagos green innovation awards",
+   "also_on": [],
+   "last_seen": "2026-11-20T11:39:32+00:00",
+   "first_seen": "2026-11-16T06:29:34+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-21T02:14:20+00:00",
+   "reopens": "2027-11-20",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "030379568103",
+   "title": "Grief Reach Grant 2027: New York Life Foundation and NACG Funding for U.S. Nonprofits Expanding School-Based Bereavement Support",
+   "url": "https://opportunitiesforyouth.org/2026/10/22/grief-reach-grant-2027/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Grief Reach Grant 2027 is a competitive funding opportunity from the New York Life Foundation and the National Alliance for Children’s Grief (NACG) designed to help eligible U.S. nonprofit organizations expand school-based bereavement programmes and…",
+   "type": "Grant",
+   "degrees": [],
+   "fields": [
+    "computing"
+   ],
+   "funding": null,
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-20",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-22",
+   "prestige": false,
+   "score": 18,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "computing"
+     ]
+    ]
+   ],
+   "_key": "grief reach grant new york life foundation nacg funding u s nonprofits expanding school based bereavement support",
+   "also_on": [],
+   "last_seen": "2026-11-02T06:02:26+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-21T02:14:20+00:00",
+   "reopens": "2027-11-20",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "2c8c461f3366",
+   "title": "PICS Climate Internship Program 2026: Apply for Up to $15,000 in Funding to Hire a Climate Intern in British Columbia",
+   "url": "https://opportunitiesforyouth.org/2026/10/22/pics-climate-internship-program-2026-apply-for-up-to-15000-in-funding-to-hire-a-climate-intern-in-british-columbia/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Introduction Organizations working to address climate change often have important projects they want to implement but lack the time, staffing capacity, or resources needed to move their ideas forward. Whether the goal is to conduct climate research, collect…",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-20",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-22",
+   "prestige": false,
+   "score": 17,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "pics climate internship apply up to 15 000 funding to hire a climate intern british columbia",
+   "also_on": [],
+   "last_seen": "2026-11-02T06:02:26+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-21T02:14:20+00:00",
+   "reopens": "2027-11-20",
+   "reopens_intake": "2027"
+  },
   {
    "id": "9a6d7a922f29",
    "title": "Mastercard Foundation Scholarships 2026–2027: Fully Funded Opportunities at Top Universities in Africa, Europe, North America and Beyond",
@@ -471,7 +1310,7 @@
    ],
    "_key": "rips summer internship united states",
    "also_on": [],
-   "last_seen": "2026-11-20T20:19:28+00:00",
+   "last_seen": "2026-11-21T02:14:20+00:00",
    "first_seen": "2026-11-19T20:37:48+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-19T20:37:48+00:00",
@@ -540,7 +1379,7 @@
    ],
    "_key": "wings to fly promotion young people through tvet scholarships kenya",
    "also_on": [],
-   "last_seen": "2026-11-20T20:19:28+00:00",
+   "last_seen": "2026-11-21T02:14:20+00:00",
    "first_seen": "2026-11-18T00:57:33+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-19T02:34:33+00:00",
@@ -1871,7 +2710,7 @@
    ],
    "_key": "unil summer research switzerland",
    "also_on": [],
-   "last_seen": "2026-11-20T20:19:28+00:00",
+   "last_seen": "2026-11-21T02:14:20+00:00",
    "first_seen": "2026-11-15T16:22:01+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-16T06:29:34+00:00",
@@ -5735,7 +6574,7 @@
    ],
    "_key": "kaist visual ai internship south korea",
    "also_on": [],
-   "last_seen": "2026-11-20T20:19:28+00:00",
+   "last_seen": "2026-11-21T02:14:20+00:00",
    "first_seen": "2026-11-06T19:24:20+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -5812,7 +6651,7 @@
    ],
    "_key": "national university taiwan scholarships",
    "also_on": [],
-   "last_seen": "2026-11-20T20:19:28+00:00",
+   "last_seen": "2026-11-21T02:14:20+00:00",
    "first_seen": "2026-11-08T06:00:28+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -6115,7 +6954,7 @@
    ],
    "_key": "hzdr summer student germany",
    "also_on": [],
-   "last_seen": "2026-11-20T20:19:28+00:00",
+   "last_seen": "2026-11-21T02:14:20+00:00",
    "first_seen": "2026-11-07T17:45:05+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-07T17:45:05+00:00",
