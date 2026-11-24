@@ -1,7 +1,711 @@
 {
- "generated_at": "2026-11-23T12:39:57+00:00",
- "count": 228,
+ "generated_at": "2026-11-24T02:12:34+00:00",
+ "count": 237,
  "items": [
+  {
+   "id": "637a1fea27ce",
+   "title": "WIPO IP and Women Fellowship 2027 in Switzerland: Earn CHF 6,000 Monthly and Gain International Intellectual Property Experience in Geneva",
+   "url": "https://opportunitiesforyouth.org/2026/11/12/wipo-ip-and-women-fellowship-2027-in-switzerland-earn-chf-6000-monthly-and-gain-international-intellectual-property-experience-in-geneva/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The World Intellectual Property Organization (WIPO) IP and Women Fellowship 2027 is offering an exciting professional development opportunity for qualified candidates with a background in law and professional experience in intellectual property (IP). Based at…",
+   "type": "Fellowship",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [
+    "science"
+   ],
+   "funding": "paid",
+   "country": "Switzerland",
+   "countries": [
+    "Switzerland"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-23",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-12",
+   "prestige": false,
+   "score": 58,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     6,
+     [
+      "science"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "final_year",
+     6,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "wipo ip women fellowship switzerland earn chf 6 000 monthly gain international intellectual property experience geneva",
+   "also_on": [],
+   "last_seen": "2026-11-23T12:39:57+00:00",
+   "first_seen": "2026-11-15T16:22:01+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-24T02:12:34+00:00",
+   "reopens": "2027-11-23",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "a0917614efb4",
+   "title": "BRAC BRIDGE Internship Programme 2026: Apply for a Paid Six-Month Internship in Bangladesh with Mentorship, Practical Experience and Career Development Opportunities",
+   "url": "https://opportunitiesforyouth.org/2026/11/10/bridge-paid-internship-programme-your-pathway-into-the-worlds-leading-development-organisation/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Are you a recent university graduate or a final-semester undergraduate student looking to gain practical experience with one of the world’s leading development organisations? The BRAC BRIDGE Internship Programme offers an opportunity to gain hands-on…",
+   "type": "Internship",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [
+    "computing"
+   ],
+   "funding": "paid",
+   "country": "Bangladesh",
+   "countries": [
+    "Bangladesh"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-23",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-10",
+   "prestige": false,
+   "score": 53,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "computing"
+     ]
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "brac bridge internship apply a six month internship bangladesh with mentorship practical experience career development opportunities",
+   "also_on": [],
+   "last_seen": "2026-11-23T12:39:57+00:00",
+   "first_seen": "2026-11-10T23:22:30+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-24T02:12:34+00:00",
+   "reopens": "2027-11-23",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "9af488f6e170",
+   "title": "Obama Foundation Leaders Program 2027–2028: Fully Funded Opportunity for Changemakers in Africa, Asia-Pacific, Europe, and the United States",
+   "url": "https://opportunitiesforyouth.org/2026/11/09/obama-foundation-leaders-program-fully-funded-and-open-to-changemakers-in-africaasia-pacific-europe-and-united-states/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "Are you a changemaker passionate about leadership, community development and creating positive social change? The Obama Foundation Leaders Program 2027–2028 is now accepting applications from emerging leaders across Africa, Asia-Pacific, Europe and the United…",
+   "type": "Fellowship",
+   "degrees": [],
+   "fields": [],
+   "funding": "fully_funded",
+   "country": "United States",
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "North America"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-23",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-09",
+   "prestige": false,
+   "score": 47,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "fully_funded",
+     25,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "obama foundation leaders opportunity changemakers africa asia pacific europe united states",
+   "also_on": [],
+   "last_seen": "2026-11-19T11:40:03+00:00",
+   "first_seen": "2026-11-10T07:17:46+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-24T02:12:34+00:00",
+   "reopens": "2027-11-23",
+   "reopens_intake": "2027-ay"
+  },
+  {
+   "id": "20b69ed32869",
+   "title": "iDAC Fellows 2027 Programme: Applications Open for Paid Summer Placements, Investment Training and Mentorship Opportunities",
+   "url": "https://opportunitiesforyouth.org/2026/11/10/idac-fellows-2027-programme-applications-open-for-paid-summer-placements-investment-training-and-mentorship-opportunities/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The iDAC Foundation has opened applications for its iDAC Fellows 2027 cohort, offering university students an opportunity to explore careers in the investment management and institutional finance industries through paid summer placements, professional…",
+   "type": "Fellowship",
+   "degrees": [
+    "bachelor"
+   ],
+   "fields": [],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-23",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-10",
+   "prestige": false,
+   "score": 46,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "paid",
+     16,
+     null
+    ],
+    [
+     "type",
+     8,
+     "Fellowship"
+    ],
+    [
+     "current_undergrad",
+     8,
+     null
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "idac fellows summer placements investment training mentorship opportunities",
+   "also_on": [],
+   "last_seen": "2026-11-23T12:39:57+00:00",
+   "first_seen": "2026-11-10T23:22:30+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-24T02:12:34+00:00",
+   "reopens": "2027-11-23",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "b23a64e6208e",
+   "title": "AI & Economic Opportunity Fund 2026: Funding for Organisations Supporting Young Adults Into Tech Careers",
+   "url": "https://opportunitiesforyouth.org/2026/10/30/ai-economic-opportunity-fund-2026-funding-for-organisations-supporting-young-adults-into-tech-careers/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The AI & Economic Opportunity Fund 2026 is an initiative designed to help low-income young adults without university degrees access employment opportunities in the technology sector. Supported by The Hg Foundation and JPMorganChase, the fund aims to…",
+   "type": "Grant",
+   "degrees": [],
+   "fields": [
+    "ai_ml"
+   ],
+   "funding": null,
+   "country": null,
+   "countries": [],
+   "regions": [],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-23",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-30",
+   "prestige": false,
+   "score": 42,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     36,
+     [
+      "ai_ml"
+     ]
+    ]
+   ],
+   "_key": "ai economic opportunity fund funding organisations supporting young adults into tech careers",
+   "also_on": [],
+   "last_seen": "2026-11-11T06:19:20+00:00",
+   "first_seen": "2026-10-30T22:10:51+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-24T02:12:34+00:00",
+   "reopens": "2027-11-23",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "488266387070",
+   "title": "WPHF Global Steering Committee 2027–2029: Call for Interest for International and Regional Civil Society Organizations",
+   "url": "https://opportunitiesforyouth.org/2026/11/16/wphf-global-steering-committee-2027-2029-call-for-interest-for-international-and-regional-civil-society-organizations/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The Women’s Peace and Humanitarian Fund (WPHF), a United Nations and civil society partnership, is inviting international and regional civil society organizations to express their interest in joining its Global Steering Committee (GSC) for the 2027–2029 term…",
+   "type": "Volunteering",
+   "degrees": [],
+   "fields": [
+    "computing"
+   ],
+   "funding": "paid",
+   "country": null,
+   "countries": [],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-23",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-ay"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": true,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-16",
+   "prestige": false,
+   "score": 34,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     12,
+     [
+      "computing"
+     ]
+    ],
+    [
+     "paid",
+     11,
+     null
+    ],
+    [
+     "women",
+     5,
+     null
+    ]
+   ],
+   "_key": "wphf global steering committee interest international regional civil society organizations",
+   "also_on": [],
+   "last_seen": "2026-11-23T12:39:57+00:00",
+   "first_seen": "2026-11-16T06:29:34+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-24T02:12:34+00:00",
+   "reopens": null,
+   "reopens_intake": null
+  },
+  {
+   "id": "b83fce705dcb",
+   "title": "GCB Bank Eaglet Management Trainee Programme 2026: Apply for a 24-Month Graduate Development Opportunity in Ghana",
+   "url": "https://opportunitiesforyouth.org/2026/11/04/gcb-bank-eaglet-management-trainee-programme-2026-apply-for-a-24-month-graduate-development-opportunity-in-ghana/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "GCB Bank Plc is inviting qualified young graduates to apply for its 2026 Eaglet Management Trainee Programme, a structured 24-month development opportunity designed to identify, train and prepare talented graduates for future leadership and other critical…",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [
+    "data_science",
+    "computing",
+    "science"
+   ],
+   "funding": null,
+   "country": "Ghana",
+   "countries": [
+    "Ghana"
+   ],
+   "regions": [
+    "Sub-Saharan Africa"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-23",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2026"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": "moderate",
+   "gpa_note": "Second Class Upper",
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-04",
+   "prestige": false,
+   "score": 32,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     23,
+     [
+      "data_science",
+      "computing",
+      "science"
+     ]
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ]
+   ],
+   "_key": "gcb bank eaglet management trainee apply a 24 month graduate development opportunity ghana",
+   "also_on": [],
+   "last_seen": "2026-11-16T06:29:34+00:00",
+   "first_seen": "2026-11-04T19:45:13+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-24T02:12:34+00:00",
+   "reopens": "2027-11-23",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "13b16b87e8f9",
+   "title": "ICRC Trainee/Associate (EU Policy Associate) Internship 2027 in Brussels, Belgium – Earn Approximately €30,000 Annually",
+   "url": "https://opportunitiesforyouth.org/2026/11/14/icrc-humanitarian-affairs-adviser-job-2026-in-new-york-usa-earn-up-to-usd-140010-working-with-the-international-committee-of-the-red-cross/",
+   "source": "opportunitiesforyouth",
+   "org": null,
+   "summary": "The International Committee of the Red Cross (ICRC) is inviting applications for its Trainee/Associate (800789) position in Brussels, Belgium. This opportunity is designed for qualified candidates with academic backgrounds in International Relations…",
+   "type": "Internship",
+   "degrees": [],
+   "fields": [],
+   "funding": "paid",
+   "country": "Belgium",
+   "countries": [
+    "Belgium"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": null,
+   "eligibility_note": null,
+   "deadline": "2026-11-23",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": true,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-11-14",
+   "prestige": false,
+   "score": 28,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "paid",
+     11,
+     null
+    ],
+    [
+     "type",
+     3,
+     "Internship"
+    ],
+    [
+     "nationality",
+     8,
+     "Palestine"
+    ]
+   ],
+   "_key": "icrc trainee associate internship brussels belgium earn approximately 30 000 annually",
+   "also_on": [],
+   "last_seen": "2026-11-23T12:39:57+00:00",
+   "first_seen": "2026-11-15T22:49:00+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-24T02:12:34+00:00",
+   "reopens": "2027-11-23",
+   "reopens_intake": "2027"
+  },
+  {
+   "id": "77b4ce529e60",
+   "title": "WHO Summer School 2027 in France | Free Training Program",
+   "url": "https://scholarshipscorner.website/who-summer-school-france/",
+   "source": "scholarshipscorner",
+   "org": null,
+   "summary": "Call for application for the WHO Summer School 2027. It is a free four-day training program in Nice, France. The summer program in Europe will bring together 30 selected participants from the fields of public health, research, and policy-making. The program…",
+   "type": "Summer school",
+   "degrees": [
+    "masters",
+    "phd"
+   ],
+   "fields": [
+    "health"
+   ],
+   "funding": "fee_based",
+   "country": "France",
+   "countries": [
+    "France"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "eligibility": "open",
+   "eligibility_note": "worldwide",
+   "deadline": "2026-11-23",
+   "deadline_estimated": false,
+   "deadline_note": null,
+   "year_limit": null,
+   "intakes": [
+    "2027-summer"
+   ],
+   "intake_inferred": false,
+   "past_intake": false,
+   "diversity": false,
+   "english_test": null,
+   "english_min": null,
+   "gpa_level": null,
+   "gpa_note": null,
+   "for_women": false,
+   "targets_me": false,
+   "phd_level": false,
+   "rolling": false,
+   "published": "2026-10-24",
+   "prestige": false,
+   "score": 23,
+   "tier": "standard",
+   "why": [
+    [
+     "base",
+     6,
+     null
+    ],
+    [
+     "topic",
+     18,
+     [
+      "health"
+     ]
+    ],
+    [
+     "fee_based",
+     -13,
+     null
+    ],
+    [
+     "level",
+     8,
+     "masters"
+    ],
+    [
+     "type",
+     4,
+     "Summer school"
+    ]
+   ],
+   "_key": "who summer school france",
+   "also_on": [],
+   "last_seen": "2026-11-23T12:39:57+00:00",
+   "first_seen": "2026-11-04T19:45:13+00:00",
+   "archive_reason": "closed",
+   "archived_at": "2026-11-24T02:12:34+00:00",
+   "reopens": "2027-11-23",
+   "reopens_intake": "2027-summer"
+  },
   {
    "id": "025b885145dd",
    "title": "Chang Gung University Scholarship in Taiwan 2027 (Fully Funded)",
@@ -84,7 +788,7 @@
    ],
    "_key": "chang gung university scholarship taiwan",
    "also_on": [],
-   "last_seen": "2026-11-23T12:39:57+00:00",
+   "last_seen": "2026-11-24T02:12:34+00:00",
    "first_seen": "2026-11-23T12:39:57+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-23T12:39:57+00:00",
@@ -161,7 +865,7 @@
    ],
    "_key": "govai uk summer fellowship",
    "also_on": [],
-   "last_seen": "2026-11-23T12:39:57+00:00",
+   "last_seen": "2026-11-24T02:12:34+00:00",
    "first_seen": "2026-11-13T19:41:51+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-23T12:39:57+00:00",
@@ -408,7 +1112,7 @@
    ],
    "_key": "uk youth is hiring youth sector development partnership manager london 47 699 salary",
    "also_on": [],
-   "last_seen": "2026-11-23T12:39:57+00:00",
+   "last_seen": "2026-11-24T02:12:34+00:00",
    "first_seen": "2026-11-17T15:59:43+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-23T12:39:57+00:00",
@@ -1040,7 +1744,7 @@
    ],
    "_key": "jsps unu postdoctoral fellowship japan 24 month research opportunity international scholars",
    "also_on": [],
-   "last_seen": "2026-11-23T12:39:57+00:00",
+   "last_seen": "2026-11-24T02:12:34+00:00",
    "first_seen": "2026-11-21T11:01:11+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-21T11:01:11+00:00",
@@ -2274,7 +2978,7 @@
    ],
    "_key": "rips summer internship united states",
    "also_on": [],
-   "last_seen": "2026-11-23T12:39:57+00:00",
+   "last_seen": "2026-11-24T02:12:34+00:00",
    "first_seen": "2026-11-19T20:37:48+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-19T20:37:48+00:00",
@@ -2343,7 +3047,7 @@
    ],
    "_key": "wings to fly promotion young people through tvet scholarships kenya",
    "also_on": [],
-   "last_seen": "2026-11-23T12:39:57+00:00",
+   "last_seen": "2026-11-24T02:12:34+00:00",
    "first_seen": "2026-11-18T00:57:33+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-19T02:34:33+00:00",
@@ -3674,7 +4378,7 @@
    ],
    "_key": "unil summer research switzerland",
    "also_on": [],
-   "last_seen": "2026-11-23T12:39:57+00:00",
+   "last_seen": "2026-11-24T02:12:34+00:00",
    "first_seen": "2026-11-15T16:22:01+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-16T06:29:34+00:00",
@@ -7538,7 +8242,7 @@
    ],
    "_key": "kaist visual ai internship south korea",
    "also_on": [],
-   "last_seen": "2026-11-23T12:39:57+00:00",
+   "last_seen": "2026-11-24T02:12:34+00:00",
    "first_seen": "2026-11-06T19:24:20+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -7615,7 +8319,7 @@
    ],
    "_key": "national university taiwan scholarships",
    "also_on": [],
-   "last_seen": "2026-11-23T12:39:57+00:00",
+   "last_seen": "2026-11-24T02:12:34+00:00",
    "first_seen": "2026-11-08T06:00:28+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-08T06:00:28+00:00",
@@ -7918,7 +8622,7 @@
    ],
    "_key": "hzdr summer student germany",
    "also_on": [],
-   "last_seen": "2026-11-23T12:39:57+00:00",
+   "last_seen": "2026-11-24T02:12:34+00:00",
    "first_seen": "2026-11-07T17:45:05+00:00",
    "archive_reason": "closed",
    "archived_at": "2026-11-07T17:45:05+00:00",
